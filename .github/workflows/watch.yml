@@ -21,6 +21,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           DISCORD_WEBHOOK_APPLE: ${{ secrets.DISCORD_WEBHOOK_APPLE }}
+          DISCORD_WEBHOOK_GAMING: ${{ secrets.DISCORD_WEBHOOK_GAMING }}
       - name: Save seen items
         if: always()
         run: |
