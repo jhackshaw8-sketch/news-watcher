@@ -1,9 +1,12 @@
 """Watches RSS feeds for each topic in topics.json, has Gemini score new items,
-and posts the important ones to that topic's Discord channel."""
+posts the important ones to that topic's Discord channel, and keeps a diary
+of the day's stories for the daily digest."""
 import json
 import os
 import sys
 import time
+from datetime import datetime, timedelta, timezone
+from itertools import zip_longest
 from pathlib import Path
 
 import feedparser
@@ -12,10 +15,12 @@ import requests
 ROOT = Path(__file__).parent
 TOPICS = json.loads((ROOT / "topics.json").read_text())
 STATE_FILE = ROOT / "seen.json"
+DIARY_FILE = ROOT / "diary.json"
 
 GEMINI_KEY = os.environ["GEMINI_API_KEY"]
 MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")  # check AI Studio for current free models
-MIN_SCORE = int(os.getenv("MIN_SCORE", "7"))
+MIN_SCORE = int(os.getenv("MIN_SCORE", "7"))         # stories at or above this ping you
+DIARY_MIN_SCORE = int(os.getenv("DIARY_MIN_SCORE", "5"))  # stories at or above this go in the diary
 MAX_ITEMS = 25
 UA = "Mozilla/5.0 (compatible; news-watcher/1.0)"
 
@@ -33,30 +38,32 @@ Items:
 """
 
 
-def load_state():
-    if STATE_FILE.exists():
-        return json.loads(STATE_FILE.read_text())
-    return {"seeded": [], "ids": []}
+def load_json(path, default):
+    return json.loads(path.read_text()) if path.exists() else default
 
 
 def collect_new(topic, seen_ids):
-    items = []
+    """Returns new items, mixed fairly so no single site fills the whole batch."""
+    per_feed = []
     for feed in topic["feeds"]:
         parsed = feedparser.parse(feed["url"], agent=UA)
         if parsed.bozo and not parsed.entries:
             print(f"Could not read {feed['name']}", file=sys.stderr)
             continue
+        group = []
         for e in parsed.entries:
             uid = e.get("id") or e.get("link")
             if uid and uid not in seen_ids:
-                items.append({
+                group.append({
                     "uid": uid,
                     "source": feed["name"],
                     "title": e.get("title", ""),
                     "summary": (e.get("summary", "") or "")[:400],
                     "link": e.get("link", ""),
                 })
-    return items
+        per_feed.append(group)
+    # take one from each site in turn
+    return [it for row in zip_longest(*per_feed) for it in row if it]
 
 
 def ask_gemini(topic, items):
@@ -86,7 +93,9 @@ def post_discord(webhook, item, result):
 
 
 def main():
-    state = load_state()
+    state = load_json(STATE_FILE, {"seeded": [], "ids": []})
+    diary = load_json(DIARY_FILE, [])
+    now = datetime.now(timezone.utc)
     failed = False
 
     for topic in TOPICS:
@@ -105,19 +114,39 @@ def main():
                 continue
 
             batch = items[:MAX_ITEMS]
+            new_diary = []
             if batch:
                 for res in ask_gemini(topic, batch):
                     idx = res.get("id")
-                    if isinstance(idx, int) and 0 <= idx < len(batch) and res.get("score", 0) >= MIN_SCORE:
+                    if not (isinstance(idx, int) and 0 <= idx < len(batch)):
+                        continue
+                    score = res.get("score", 0)
+                    if score >= DIARY_MIN_SCORE:
+                        new_diary.append({
+                            "date": now.isoformat(),
+                            "topic": topic["name"],
+                            "score": score,
+                            "category": res.get("category", "other"),
+                            "headline": res.get("headline", batch[idx]["title"]),
+                            "summary": res.get("summary", ""),
+                            "verified": res.get("verified", "unconfirmed"),
+                            "source": batch[idx]["source"],
+                            "link": batch[idx]["link"],
+                        })
+                    if score >= MIN_SCORE:
                         post_discord(webhook, batch[idx], res)
                 state["ids"] += [i["uid"] for i in batch]
-            print(f"{topic['name']}: checked {len(batch)} new items.")
+                diary += new_diary
+            print(f"{topic['name']}: checked {len(batch)} new items, diary +{len(new_diary)}.")
         except Exception as exc:  # one broken topic shouldn't stop the others
             print(f"{topic['name']} failed: {exc}", file=sys.stderr)
             failed = True
 
+    cutoff = now - timedelta(days=3)
+    diary = [d for d in diary if datetime.fromisoformat(d["date"]) > cutoff]
     state["ids"] = state["ids"][-5000:]
     STATE_FILE.write_text(json.dumps(state))
+    DIARY_FILE.write_text(json.dumps(diary, indent=1))
     if failed:
         sys.exit(1)
 
