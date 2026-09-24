@@ -23,5 +23,17 @@
       {"name": "r/Games", "url": "https://www.reddit.com/r/Games/new/.rss"},
       {"name": "r/GTA6", "url": "https://www.reddit.com/r/GTA6/new/.rss"}
     ]
+  },
+  {
+    "name": "Tech News",
+    "webhook_env": "DISCORD_WEBHOOK_TECH",
+    "focus": "general tech: Meta, Google, Microsoft, Amazon, Nvidia, Samsung, AI, VR/AR and wearables (like Meta's new VR/smart glasses), chips, and big tech business or legal news. Not Apple or video games, those have their own pages.",
+    "feeds": [
+      {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
+      {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
+      {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"},
+      {"name": "Engadget", "url": "https://www.engadget.com/rss.xml"},
+      {"name": "r/technology", "url": "https://www.reddit.com/r/technology/new/.rss"}
+    ]
   }
 ]
