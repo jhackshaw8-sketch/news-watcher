@@ -10,5 +10,18 @@
       {"name": "Apple Newsroom", "url": "https://www.apple.com/newsroom/rss-feed.rss"},
       {"name": "r/apple", "url": "https://www.reddit.com/r/apple/new/.rss"}
     ]
+  },
+  {
+    "name": "Gaming News",
+    "webhook_env": "DISCORD_WEBHOOK_GAMING",
+    "focus": "video games: new game announcements, release dates, delays, trailers, big updates, and the hype around upcoming games like GTA 6 (leaks, rumors, community reaction)",
+    "feeds": [
+      {"name": "IGN", "url": "https://feeds.ign.com/ign/games-all"},
+      {"name": "Polygon", "url": "https://www.polygon.com/rss/index.xml"},
+      {"name": "Eurogamer", "url": "https://www.eurogamer.net/feed"},
+      {"name": "GamesRadar", "url": "https://www.gamesradar.com/rss/"},
+      {"name": "r/Games", "url": "https://www.reddit.com/r/Games/new/.rss"},
+      {"name": "r/GTA6", "url": "https://www.reddit.com/r/GTA6/new/.rss"}
+    ]
   }
 ]
