@@ -14,7 +14,7 @@ TOPICS = json.loads((ROOT / "topics.json").read_text())
 STATE_FILE = ROOT / "seen.json"
 
 GEMINI_KEY = os.environ["GEMINI_API_KEY"]
-MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")  # check AI Studio for current free models
+MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")  # check AI Studio for current free models
 MIN_SCORE = int(os.getenv("MIN_SCORE", "7"))
 MAX_ITEMS = 25
 UA = "Mozilla/5.0 (compatible; news-watcher/1.0)"
