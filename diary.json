@@ -7676,5 +7676,38 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2269422/new-mexico-jury-rules-meta-misled-state-residents-about-data-privacy/"
+ },
+ {
+  "date": "2026-09-25T21:03:08.559765+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Apple Pay Class-Action Lawsuit Certified Over Fees",
+  "summary": "A U.S. district judge has certified a class-action lawsuit accusing Apple of charging payment card issuers inflated fees for Apple Pay transactions.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/25/apple-faces-class-action-over-apple-pay-fees-charged-to-card-issuers/"
+ },
+ {
+  "date": "2026-09-25T21:03:08.559765+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Microsoft CEO Calls Xbox Layoffs 'Great to See'",
+  "summary": "Microsoft CEO Satya Nadella defends ongoing Xbox layoffs and corporate streamlining.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/amid-mass-xbox-layoffs-microsoft-ceo-satya-nadella-says-the-streamlining-is-great-to-see/"
+ },
+ {
+  "date": "2026-09-25T21:03:08.559765+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "How to Opt Out of Meta AI Training on Smart Glasses Data",
+  "summary": "Meta provides a setting allowing users to prevent the company from training its AI models on visual data captured by smart glasses.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/"
  }
 ]
