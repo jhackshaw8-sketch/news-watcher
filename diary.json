@@ -6334,5 +6334,82 @@
   "verified": "official",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1wpiqs1/fdroid_gets_its_biggest_update_in_a_decade_with/"
+ },
+ {
+  "date": "2026-09-25T12:41:18.611410+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "New AirPods Software Update Brings Requested Feature",
+  "summary": "Apple has released a new software update for AirPods introducing a long-requested feature alongside the rollout of iOS 27.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/25/airpods-just-got-a-long-requested-feature-in-new-update/"
+ },
+ {
+  "date": "2026-09-25T12:41:18.611410+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "other",
+  "headline": "Patches Enable NVMe on Apple M3 Chips for Linux",
+  "summary": "Linux patches have been published to enable native NVMe support across all Apple M3-based systems on a chip.",
+  "verified": "reliable_reporter",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wpv65o/patches_posted_for_enabling_nvme_on_all_apple_m3/"
+ },
+ {
+  "date": "2026-09-25T12:41:18.611410+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "business",
+  "headline": "Halo Franchise Reportedly Handed to Activision",
+  "summary": "Microsoft reportedly handed the Halo franchise to Activision after the next game was still years away.",
+  "verified": "unconfirmed",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/the-next-halo-game-from-halo-studios-was-reportedly-still-years-away-before-microsoft-handed-the-franchise-to-activision"
+ },
+ {
+  "date": "2026-09-25T12:41:18.611410+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "MindsEye Developer Enters Administration",
+  "summary": "MindsEye developer Build a Rocket Boy has entered administration following recent layoffs.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-administration-insolvency"
+ },
+ {
+  "date": "2026-09-25T12:41:18.611410+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Beyond Good and Evil 2 Still in Development",
+  "summary": "Beyond Good and Evil 2 remains in development with new staff contributions, despite a lengthy and troubled production cycle.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/open-world/despite-everything-beyond-good-and-evil-2-still-exists-assassins-creed-shadows-dlc-writer-has-been-working-on-it-for-the-past-few-months/"
+ },
+ {
+  "date": "2026-09-25T12:41:18.611410+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Insta360 Reportedly Eyeing Smart Glasses Entry",
+  "summary": "Market leader Insta360 is reportedly preparing to enter the smart glasses and wearable market.",
+  "verified": "unconfirmed",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview"
+ },
+ {
+  "date": "2026-09-25T12:41:18.611410+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Microsoft Launches New AI Copilot 'Super App'",
+  "summary": "Microsoft is officially unveiling its new Copilot super app, which bundles chat, coding, and agents into a single interface.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"
  }
 ]
