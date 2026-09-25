@@ -7313,5 +7313,38 @@
   "verified": "official",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1wpw3gc/microsoft_recent_windows_updates_cause_desktop/"
+ },
+ {
+  "date": "2026-09-25T17:36:06.730716+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Apple Code Leak Reveals iPad 12 Specs",
+  "summary": "Apple code discovered by contributors reveals the upcoming iPad 12 will feature an A19 chip, 8GB of RAM, and custom networking and modem chips.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/25/ipad-12-feature-leak/"
+ },
+ {
+  "date": "2026-09-25T17:36:06.730716+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Discussion on iPad 12 Code Leak Specifications",
+  "summary": "Reddit discussion highlights code findings pointing to the hardware specifications of the upcoming iPad 12.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wq264f/apple_code_confirms_ipad_12_specs_a19_8gb_ram_n1/"
+ },
+ {
+  "date": "2026-09-25T17:36:06.730716+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "watchOS 27 Brings New Options to Modular Watch Face",
+  "summary": "The popular Modular watch face receives new customization options and versatility enhancements in watchOS 27.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/25/watchos-27-upgrades-popular-apple-watch-face-with-new-options/"
  }
 ]
