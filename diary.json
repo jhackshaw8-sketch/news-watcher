@@ -7643,5 +7643,38 @@
   "verified": "reliable_reporter",
   "source": "Ars Technica",
   "link": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/"
+ },
+ {
+  "date": "2026-09-25T20:36:25.461183+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "Apple Music Hall Reveals Opening Lineup",
+  "summary": "Apple has announced the initial lineup of eight shows for its new Apple Music Hall in London, kicking off with Elton John next week.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/25/apple-music-hall-confirms-first-eight-shows-starting-with-elton-john/"
+ },
+ {
+  "date": "2026-09-25T20:36:25.461183+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Meta Launches Early Access Program for Muse Features",
+  "summary": "Meta has opened an early access program allowing users to request participation in testing new Muse features.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/"
+ },
+ {
+  "date": "2026-09-25T20:36:25.461183+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "New Mexico Jury Rules Against Meta in Data Privacy Trial",
+  "summary": "A New Mexico jury found that Meta misled state residents regarding data privacy, continuing fallout from past scandals.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2269422/new-mexico-jury-rules-meta-misled-state-residents-about-data-privacy/"
  }
 ]
