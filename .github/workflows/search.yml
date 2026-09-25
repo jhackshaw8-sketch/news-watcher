@@ -1,0 +1,35 @@
+name: Keyword search
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: search
+  cancel-in-progress: false
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python search.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          SEARCH_CHANNEL_ID: ${{ secrets.SEARCH_CHANNEL_ID }}
+      - name: Save search state
+        if: always()
+        run: |
+          git config user.name "watcher-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add search_state.json
+          git diff --cached --quiet || (git commit -m "update search state" && git pull --rebase && git push)
