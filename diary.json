@@ -7775,5 +7775,49 @@
   "verified": "official",
   "source": "r/apple",
   "link": "https://www.reddit.com/r/apple/comments/1wqab1c/thousands_of_banks_can_now_sue_over_apple_pay/"
+ },
+ {
+  "date": "2026-09-25T23:33:34.212442+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "macOS 27 Expands Apple Intelligence",
+  "summary": "macOS 27 introduces new Apple Intelligence features to enhance user apps.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/25/macos-27-adds-new-apple-intelligence-features-to-your-favorite-apps/"
+ },
+ {
+  "date": "2026-09-25T23:33:34.212442+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "other",
+  "headline": "A Look at Apple's Official Dimensional Drawings",
+  "summary": "Apple publishes detailed dimensional drawings of its devices to assist accessory makers.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/25/apples-dimensional-drawings-offer-a-fascinating-look-at-its-product-designs/"
+ },
+ {
+  "date": "2026-09-25T23:33:34.212442+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Crusoe Drops $1.25B Boom Turbine Plan for AI Data Centers",
+  "summary": "Crusoe has scrapped its $1.25 billion plan to utilize Boom Supersonic's stationary turbines for AI data center power in the near term.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+ },
+ {
+  "date": "2026-09-25T23:33:34.212442+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Automattic Restructures Board Following CEO Leadership Drama",
+  "summary": "Automattic has restructured its board following a turbulent period that included an unsuccessful attempt to place CEO Matt Mullenweg on leave.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/"
  }
 ]
