@@ -7522,5 +7522,60 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2269263/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike/"
+ },
+ {
+  "date": "2026-09-25T19:34:07.905102+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Card Gains New iOS 27 Feature",
+  "summary": "iOS 27 introduces a new exclusive feature for Apple Card within the Apple Wallet app.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/25/apple-card-adds-new-feature-in-ios-27-that-every-card-should-have/"
+ },
+ {
+  "date": "2026-09-25T19:34:07.905102+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Banks Unite for Antitrust Lawsuit Over Apple Pay Fees",
+  "summary": "Banks and credit unions are teaming up to advance an antitrust lawsuit against Apple over Apple Pay fees and tap-to-pay restrictions.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/"
+ },
+ {
+  "date": "2026-09-25T19:34:07.905102+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Indie RPG Gets New Release Date",
+  "summary": "An indie RPG inspired by Fire Emblem and Hades has announced a new release date to avoid clashing with a potential Ocarina of Time remake.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/rpg/fire-emblem-and-hades-inspired-rpg-flees-from-ocarina-of-time-remake-definitely-not-because-zelda-shadowdropped-its-release-date-right-after-we-announced-ours/"
+ },
+ {
+  "date": "2026-09-25T19:34:07.905102+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Final Fantasy 7 Revelation Platinum Trophy Will Be Easier",
+  "summary": "Final Fantasy 7 Revelation will reportedly be easier to achieve a Platinum trophy for compared to its predecessor, Rebirth.",
+  "verified": "reliable_reporter",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/final-fantasy-7-revelation-will-be-easier-to-platinum-than-rebirth"
+ },
+ {
+  "date": "2026-09-25T19:34:07.905102+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Anthropic Signs Massive $11.6B Cloud Deal with Akamai",
+  "summary": "Anthropic has committed to an $11.6 billion cloud infrastructure deal with Akamai over seven years, which includes a potential equity stake of up to 5%.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
  }
 ]
