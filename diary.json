@@ -7489,5 +7489,38 @@
   "verified": "reliable_reporter",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/"
+ },
+ {
+  "date": "2026-09-25T19:02:59.782011+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "update",
+  "headline": "Apple Publishes Delayed tvOS 17 Release Notes",
+  "summary": "Apple has officially published the release notes for tvOS 27 nearly two weeks after the software update was originally released.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/25/tvos-27-release-notes/"
+ },
+ {
+  "date": "2026-09-25T19:02:59.782011+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Xbox Addresses Heavy PS5 Pre-Order Lead for GTA 6",
+  "summary": "Xbox executives have responded to reports concerning the significant gap in GTA 6 pre-order numbers between PS5 and Microsoft platforms.",
+  "verified": "reliable_reporter",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/gta-6-preorders-xbox-ps5-sales-matthew-ball-response/"
+ },
+ {
+  "date": "2026-09-25T19:02:59.782011+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Candy Crush Developer Avoids Strike With Collective Bargaining Agreement",
+  "summary": "King, the developer behind Candy Crush, has successfully averted a strike by signing a new collective bargaining agreement.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2269263/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike/"
  }
 ]
