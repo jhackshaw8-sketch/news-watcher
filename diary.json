@@ -7764,5 +7764,16 @@
   "verified": "reliable_reporter",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
+ },
+ {
+  "date": "2026-09-25T23:02:46.488421+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Banks Cleared for Joint Antitrust Lawsuit Over Apple Pay Fees",
+  "summary": "Thousands of banks are now permitted to proceed together in a single antitrust lawsuit regarding Apple Pay fees.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wqab1c/thousands_of_banks_can_now_sue_over_apple_pay/"
  }
 ]
