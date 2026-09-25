@@ -6004,5 +6004,16 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
+ },
+ {
+  "date": "2026-09-25T08:38:03.819539+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "PlayStation Patent Explores NFC Payments via DualSense Controller",
+  "summary": "Sony has filed a patent detailing a new method for users to make digital purchases by tapping payment cards via NFC directly on their PlayStation DualSense controller.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/playstation-dualsense-nfc-payments/"
  }
 ]
