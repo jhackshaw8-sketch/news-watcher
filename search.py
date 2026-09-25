@@ -117,10 +117,27 @@ def handle(msg):
         reply(f"No results for **{keyword}**. Try different words.", mid)
         return
     reply(f"**Search: {keyword}**{note}\n{parts[0]}", mid)
+
+    used_links = set()
     for p in parts[1:]:
-        reply(re.sub(r"^POST (\d):", r"**Post \1:**", p), mid)
-    if sources:
-        reply("**Sources:**\n" + "\n".join(f"- {t}: <{u}>" for t, u in sources), mid)
+        p = re.sub(r"^POST (\d):", r"**Post \1:**", p)
+        # try to match this post's "Source: X" line to one of the real links we found
+        m = re.search(r"Source:\s*(.+)", p)
+        link = ""
+        if m and sources:
+            wanted = m.group(1).strip().lower()
+            for title, url in sources:
+                if wanted in title.lower() or title.lower() in wanted:
+                    link = url
+                    used_links.add(url)
+                    break
+        if link:
+            p = f"{p}\n{link}"
+        reply(p, mid)
+
+    leftover = [(t, u) for t, u in sources if u not in used_links]
+    if leftover:
+        reply("**More sources:**\n" + "\n".join(f"- {t}: <{u}>" for t, u in leftover), mid)
 
 
 def main():
