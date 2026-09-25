@@ -6543,5 +6543,38 @@
   "verified": "reliable_reporter",
   "source": "Eurogamer",
   "link": "https://www.eurogamer.net/beyond-good-and-evil-2-signs-of-life-writer"
+ },
+ {
+  "date": "2026-09-25T14:03:41.220343+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "iPhone Duo Video Highlights Left-Handed Use",
+  "summary": "A new video demonstrates left-handed usability for the upcoming iPhone Duo ahead of its expected October release.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/25/iphone-duo-video-shows-left-handed-use-for-new-model/"
+ },
+ {
+  "date": "2026-09-25T14:03:41.220343+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Ace Combat 8 Announced With Political Intrigue",
+  "summary": "Ace Combat 8: Wings of Theve has been announced, promising a supersized aerial combat game with political intrigue.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/ace-combat-8-wings-of-theve-review/"
+ },
+ {
+  "date": "2026-09-25T14:03:41.220343+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Ace Combat 8 Reviews Praise Thrilling Dogfights",
+  "summary": "Reviews for Ace Combat 8 Wings of Theve praise its thrilling dogfights and gripping story.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/action/ace-combat-8-wings-of-theve-review/"
  }
 ]
