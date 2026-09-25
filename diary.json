@@ -5982,5 +5982,16 @@
   "verified": "official",
   "source": "Polygon",
   "link": "https://www.polygon.com/backrooms-hbo-max-streaming-september-2026/"
+ },
+ {
+  "date": "2026-09-25T04:38:03.782558+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Privacy Questions Raised Over Local Siri Conversation Storage",
+  "summary": "A Reddit user highlights a potential privacy concern where on-device Siri conversation history might be accessible to law enforcement.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wpmz93/ios_27_saves_your_full_siri_conversations_and/"
  }
 ]
