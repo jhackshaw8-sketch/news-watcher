@@ -6653,5 +6653,71 @@
   "verified": "official",
   "source": "The Verge",
   "link": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers"
+ },
+ {
+  "date": "2026-09-25T15:03:33.420335+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "launch",
+  "headline": "ULTRALOQ Launches First UWB Smart Lock with Apple Home Support",
+  "summary": "ULTRALOQ has released its first Ultra Wideband smart lock that integrates directly with Apple Home.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/25/ultraloq-bolt-mission/"
+ },
+ {
+  "date": "2026-09-25T15:03:33.420335+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "Apple Announces First Apple Music Hall Concert Series",
+  "summary": "Apple has announced its first lineup for the Apple Music Hall Concerts featuring major artists like Elton John and Charli XCX.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wpy4kl/first_apple_music_hall_concerts_announced_elton/"
+ },
+ {
+  "date": "2026-09-25T15:03:33.420335+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Previewing Apple's Expected Major October Hardware and Software Lineup",
+  "summary": "Reports outline an anticipated lineup of major hardware and software products expected to launch from Apple in October.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/25/apple-has-big-october-coming-for-new-hardware-and-software-heres-the-lineup/"
+ },
+ {
+  "date": "2026-09-25T15:03:33.420335+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "Control Resonant Post-Launch Update to Add Fan-Requested Feature",
+  "summary": "Remedy officially confirms that fans' most-requested feature is coming to Control Resonant in a post-launch update.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/control-resonant-post-launch-plans-new-game-plus-photo-mode/"
+ },
+ {
+  "date": "2026-09-25T15:03:33.420335+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Microsoft Lays Off World's Edge Developers Following Xbox Leadership Criticism",
+  "summary": "Microsoft laid off several World's Edge developers shortly after Xbox CEO Asha Sharma faced criticism online.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/xbox-ceo-asha-sharma-called-out-for-kojima-maxxing-just-before-latest-layoffs-former-age-of-empires-studio-boss-says-shes-crushed/"
+ },
+ {
+  "date": "2026-09-25T15:03:33.420335+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Ricursive Intelligence Founders to Discuss AI Chip Design at TechCrunch Disrupt 2026",
+  "summary": "Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini are scheduled to speak at TechCrunch Disrupt 2026 about AI-driven chip development.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/"
  }
 ]
