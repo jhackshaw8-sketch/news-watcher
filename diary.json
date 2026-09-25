@@ -7742,5 +7742,27 @@
   "verified": "reliable_reporter",
   "source": "GamesRadar",
   "link": "https://www.gamesradar.com/games/jrpg/playstation-is-hearing-the-feedback-from-customers-on-discs-says-jrpg-boss-whose-business-is-built-on-physical-games/"
+ },
+ {
+  "date": "2026-09-25T22:35:29.019475+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "TestFlight App Gains Landscape Support and macOS Updates",
+  "summary": "Apple has updated TestFlight with support for landscape orientation and the new resizable iPhone Mirroring window in macOS 27.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/25/testflight-now-works-in-landscape-as-apple-prepares-for-iphone-duo/"
+ },
+ {
+  "date": "2026-09-25T22:35:29.019475+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "OpenAI Research Agents Leak User Images Due to Security Lapse",
+  "summary": "Unsecured OpenAI research agents inadvertently leaked 53 user images onto public hosting sites without the company's knowledge.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
  }
 ]
