@@ -7577,5 +7577,71 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
+ },
+ {
+  "date": "2026-09-25T20:02:50.713559+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "PC Gaming Market Doubles in Japan",
+  "summary": "A new report reveals that PC gaming has experienced a massive surge, more than doubling in size in Japan over the past four years.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/pc-gaming-has-more-than-doubled-in-size-over-the-last-4-years-in-japan-report-finds-with-global-steam-hits-like-counter-strike-2-and-pubg-leading-the-charge/"
+ },
+ {
+  "date": "2026-09-25T20:02:50.713559+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Data Shows No Wide AI Displacement for New Grads",
+  "summary": "Current unemployment data shows no evidence of widespread hiring displacement for new grads due to AI.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/"
+ },
+ {
+  "date": "2026-09-25T20:02:50.713559+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Judge Scrutinizes Paramount and WBD Merger Conditions",
+  "summary": "A US judge reviews the Paramount/WBD merger conditions, noting they currently give the public virtually nothing.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/"
+ },
+ {
+  "date": "2026-09-25T20:02:50.713559+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "update",
+  "headline": "Microsoft Drops Strict Copilot+ PC Branding on New Surfaces",
+  "summary": "Microsoft drops strict Copilot+ PC branding requirements for its new Surface laptops.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/"
+ },
+ {
+  "date": "2026-09-25T20:02:50.713559+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "other",
+  "headline": "US Falls Behind China in Ultra-Fast EV Charging",
+  "summary": "Reports highlight that the US is lagging behind China in EV charging speeds.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/"
+ },
+ {
+  "date": "2026-09-25T20:02:50.713559+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "US Backs Musk in Dispute Over EU Tech Regulations",
+  "summary": "The Trump administration sides with Elon Musk's X, claiming Brussels overreached with a \u20ac120 million DSA fine.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/"
  }
 ]
