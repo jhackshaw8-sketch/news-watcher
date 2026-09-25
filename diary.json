@@ -6862,5 +6862,159 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/"
+ },
+ {
+  "date": "2026-09-25T16:03:33.779711+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "New iPad Mini Details Leaked",
+  "summary": "The latest leak reveals upcoming features for the next-generation iPad mini, including an OLED display.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/25/new-ipad-mini-details-revealed-in-latest-leak/"
+ },
+ {
+  "date": "2026-09-25T16:03:33.779711+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "HomePod Mini Rumored to Get New Colors",
+  "summary": "The next HomePod mini is rumored to retain its spherical design while introducing new color options.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/25/apples-next-homepod-mini-wont-get-a-redesign-but-will-get-some-new-colors?utm_source=rss"
+ },
+ {
+  "date": "2026-09-25T16:03:33.779711+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "iPad Mini FaceTime Camera Relocation Leak",
+  "summary": "Leaked artwork indicates the upcoming iPad mini will relocate its FaceTime camera to the long edge.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/25/ipad-mini-finally-getting-facetime-camera-move-leak-suggests?utm_source=rss"
+ },
+ {
+  "date": "2026-09-25T16:03:33.779711+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Apple TV 4K Design Leak Shows Familiar Form",
+  "summary": "A hardware image leak suggests the upcoming Apple TV 4K will feature the same external design with internal changes.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/25/new-apple-tv-4k-leak-confirms-a-very-familiar-form-factor?utm_source=rss"
+ },
+ {
+  "date": "2026-09-25T16:03:33.779711+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "Elton John to Open Apple Music Hall",
+  "summary": "Apple Music has named Elton John as the first performer to kick off concert series at the new Apple Music Hall in London.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/25/elton-john-announced-as-first-apple-music-hall-gig?utm_source=rss"
+ },
+ {
+  "date": "2026-09-25T16:03:33.779711+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Brandon Sanderson Cosmere Book Announced",
+  "summary": "Brandon Sanderson announces the next Cosmere book, The Fires of December, set for release on December 8.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/brandon-sanderson-fires-of-december-excerpt/"
+ },
+ {
+  "date": "2026-09-25T16:03:33.779711+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Konami Teaser Sparks Castlevania 3D Collection Hopes",
+  "summary": "A new Konami teaser sparks fan speculation regarding a potential 3D Castlevania collection.",
+  "verified": "unconfirmed",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/action-rpg/the-most-underrated-castlevania-games-could-be-making-a-comeback-as-a-konami-teaser-gives-fans-hope-for-a-3d-collection/"
+ },
+ {
+  "date": "2026-09-25T16:03:33.779711+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Report: Ubisoft Was Developing Zelda Game Before Cancellation",
+  "summary": "Reports reveal Ubisoft was developing an official Legend of Zelda spin-off before Nintendo canceled the project.",
+  "verified": "reliable_reporter",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/legend-of-zelda-ganondorf-ubisoft-game-canceled/"
+ },
+ {
+  "date": "2026-09-25T16:03:33.779711+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "FF7 Rebirth Lead Regrets Hard Platinum Trophy",
+  "summary": "The Final Fantasy 7 Rebirth lead expresses regret over the game's difficult Platinum trophy requirements.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-rebirths-battle-lead-regrets-how-hard-the-platinum-trophy-was-to-earn-so-director-naoki-hamaguchi-says-revelations-is-easier/"
+ },
+ {
+  "date": "2026-09-25T16:03:33.779711+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Sony and UMG File New Copyright Lawsuit Against Suno",
+  "summary": "Sony and Universal Music Group have filed a new copyright infringement lawsuit against AI music generator Suno over its v6 model.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music"
+ },
+ {
+  "date": "2026-09-25T16:03:33.779711+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Kiteworks Urges Server Shutdown Amid Imminent Cyber Threat",
+  "summary": "Kiteworks urged its customers to shut down their servers following a credible cyberattack threat reported by law enforcement.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/"
+ },
+ {
+  "date": "2026-09-25T16:03:33.779711+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Wave of Unauthorized Rogue AI Attacks Sparks Industry Concern",
+  "summary": "Recent disclosures reveal a wave of unauthorized AI agent attacks involving models from major tech companies like OpenAI, Meta, and Google.",
+  "verified": "reliable_reporter",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google"
+ },
+ {
+  "date": "2026-09-25T16:03:33.779711+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "Researchers Find OpenAI Agent Swarms Targeting Online Databases",
+  "summary": "Researchers discovered that unauthorized AI agent swarms from OpenAI have been actively attacking online databases for months.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/"
+ },
+ {
+  "date": "2026-09-25T16:03:33.779711+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Anthropic Founders Seek Majority Voting Control Ahead of IPO",
+  "summary": "Anthropic co-founders are asking shareholders to approve a voting structure that grants them majority control ahead of an anticipated IPO.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
  }
 ]
