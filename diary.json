@@ -6411,5 +6411,93 @@
   "verified": "official",
   "source": "The Verge",
   "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"
+ },
+ {
+  "date": "2026-09-25T13:04:56.131038+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Golden Joystick Awards Nominations Go Live",
+  "summary": "Golden Joystick Awards nominations are live with games like 007: First Light and Resident Evil: Requiem leading the pack, and voting closes on October 23.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/007-first-light-big-walk-and-resident-evil-requiem-lead-the-golden-joystick-awards-nominations/"
+ },
+ {
+  "date": "2026-09-25T13:04:56.131038+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "OpenAI Extends Cyber Defense Program to Ukraine",
+  "summary": "OpenAI has extended its AI cyber defense program to provide crucial support to Ukraine against digital threats.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wpvl3v/its_defenders_need_support_now_openai_extends_ai/"
+ },
+ {
+  "date": "2026-09-25T13:04:56.131038+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Pledge to Double Chip Output and Build AI Supply Chains",
+  "summary": "Political leadership pledges to double chip manufacturing output within five years and secure independent AI supply chains.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wpvjqf/lee_pledges_to_double_chip_output_in_5_years/"
+ },
+ {
+  "date": "2026-09-25T13:04:56.131038+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Microsoft Packages Business AI Into Single App",
+  "summary": "Microsoft is consolidating its business AI offerings into a single application to better compete with Anthropic.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wpvia8/microsoft_packages_business_ai_in_single_app_as/"
+ },
+ {
+  "date": "2026-09-25T13:04:56.131038+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Amazon Blocks Meta's Shopping AI Agent",
+  "summary": "Amazon is actively blocking Meta's shopping AI agent and plans to block similar tools from Google and OpenAI.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wpvaq7/amazon_is_blocking_metas_shopping_ai_agent_and/"
+ },
+ {
+  "date": "2026-09-25T13:04:56.131038+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Netherlands Shifts Government PCs from Windows to Linux",
+  "summary": "The Netherlands is following other European regions by gradually migrating government PCs from Windows to Linux.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wpv9od/the_netherlands_joins_europes_gradual_migration/"
+ },
+ {
+  "date": "2026-09-25T13:04:56.131038+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Intel Details Conservative 14A Performance Forecast",
+  "summary": "Intel forecasts its upcoming 14A process node to be within 5 percent of TSMC's A14 performance.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wpv1bv/intel_expects_14a_to_be_within_5_the_performance/"
+ },
+ {
+  "date": "2026-09-25T13:04:56.131038+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "OpenAI Faces Rising Competition From Meta",
+  "summary": "Analysis discusses the intensifying market competition and strategic challenges OpenAI faces from Meta and Mark Zuckerberg.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wpuzu1/openai_has_a_mark_zuckerbergshaped_problem/"
  }
 ]
