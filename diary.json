@@ -7016,5 +7016,71 @@
   "verified": "reliable_reporter",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
+ },
+ {
+  "date": "2026-09-25T16:38:25.453948+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Blizzard Addresses WoW Retail vs. Classic Divide",
+  "summary": "Blizzard developers discuss the ongoing design philosophy separating World of Warcraft Retail and Classic players.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/blizzard-dev-doubles-down-on-world-of-warcraft-forever-being-for-classic-players"
+ },
+ {
+  "date": "2026-09-25T16:38:25.453948+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "The Rogue Prince of Persia Development Ends",
+  "summary": "Evil Empire has officially concluded development on The Rogue Prince of Persia to shift focus to their next Castlevania project.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/castlevania-belmonts-curse-developer-announces-rogue-prince-of-persia-final-update/"
+ },
+ {
+  "date": "2026-09-25T16:38:25.453948+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Blood of Dawnwalker Rebalanced Time Mechanic",
+  "summary": "The developers of The Blood of Dawnwalker rebalanced their time mechanic to avoid player complaints about difficulty.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/rpg/the-blood-of-dawnwalker-devs-rebalanced-the-rpgs-controversial-time-mechanic-out-of-fear-that-people-will-complain-too-much-and-then-people-complained-too-much/"
+ },
+ {
+  "date": "2026-09-25T16:38:25.453948+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Castlevania Trailer Hints at 3D Collection",
+  "summary": "Konami's recent 40th anniversary trailer for Castlevania appears to tease an upcoming 3D collection.",
+  "verified": "unconfirmed",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/castlevania-new-collection-40th-anniversary/"
+ },
+ {
+  "date": "2026-09-25T16:38:25.453948+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Valve Introduces Major Historic Changes to Steam",
+  "summary": "Valve has implemented major backend changes to Steam that are receiving high praise from game developers.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/steam-is-on-an-absolute-historic-run-valve-quietly-made-a-huge-change-thats-helping-game-devs-says-hooded-horse-ceo/"
+ },
+ {
+  "date": "2026-09-25T16:38:25.453948+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Meta Backs Rapidly Growing AI App Muse",
+  "summary": "Meta is heavily promoting and backing the viral AI app Muse as it climbs app store charts and rapidly gains users.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
  }
 ]
