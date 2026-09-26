@@ -8842,5 +8842,16 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+ },
+ {
+  "date": "2026-09-26T22:02:58.144316+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "legal",
+  "headline": "Apple Faces $5.7 Billion Patent Infringement Verdict",
+  "summary": "Apple has been hit with a massive $5.7 billion verdict in a patent infringement lawsuit.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wr2m1y/apple_hit_with_a_57_billion_verdict_for_alleged/"
  }
 ]
