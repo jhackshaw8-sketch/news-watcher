@@ -8270,5 +8270,60 @@
   "verified": "reliable_reporter",
   "source": "GamesRadar",
   "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-reportedly-reminded-gta-6s-voice-cast-theyre-still-under-nda-after-actor-stephen-root-let-slip-hes-in-the-game/"
+ },
+ {
+  "date": "2026-09-26T15:36:22.959752+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "legal",
+  "headline": "Apple Hit With Massive $5.7B Patent Loss Over Taptic Engine",
+  "summary": "A jury has ordered Apple to pay Taction over $5.7 billion for patent infringement related to the Taptic Engine used in the Apple Watch.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/26/apple-owes-taction-57b-after-losing-haptic-feedback-ip-trial?utm_source=rss"
+ },
+ {
+  "date": "2026-09-26T15:36:22.959752+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Minecraft LIVE 2026 Major Announcements and Updates",
+  "summary": "Minecraft LIVE 2026 brings major reveals and updates for the sandbox game.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/minecraft-live-september-2026-everything-announced"
+ },
+ {
+  "date": "2026-09-26T15:36:22.959752+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "The Last of Us Season 3 Casts Original Game Actors",
+  "summary": "The Last of Us Season 3 casts original game actors Laura Bailey and Ian Alexander in different roles alongside John Goodman.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/the-last-of-us-season-3-casting/"
+ },
+ {
+  "date": "2026-09-26T15:36:22.959752+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Castlevania Celebrates 40th Anniversary With Free Original Game",
+  "summary": "Konami is giving away the original 1986 Castlevania game for free on mobile to celebrate the franchise's 40th anniversary.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/castlevania-40th-anniversary-free-original-game-belmonts-curse"
+ },
+ {
+  "date": "2026-09-26T15:36:22.959752+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Why NVIDIA's Most Powerful GPU Skips Consumers",
+  "summary": "NVIDIA's high-end $16,000 RTX PRO 6000 GPU outperforms consumer cards like the RTX 5090, but is primarily designed for enterprise rather than gaming markets.",
+  "verified": "reliable_reporter",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2265946/why-most-powerful-nvidia-gpu-rarely-sold-to-consumers/"
  }
 ]
