@@ -7841,5 +7841,27 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
+ },
+ {
+  "date": "2026-09-26T02:35:20.275453+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "legal",
+  "headline": "Court Rules Trump Can Blacklist Anthropic Over Refused AI Features",
+  "summary": "A court has ruled that Trump can blacklist Anthropic for refusing to enable specific Claude AI features for military use.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
+ },
+ {
+  "date": "2026-09-26T02:35:20.275453+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Tesla Workers Push Back Against Training Optimus Humanoid Robots",
+  "summary": "Tesla workers are pushing back against training Optimus humanoid robots as job replacements while the company aims for high production by late 2026.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/"
  }
 ]
