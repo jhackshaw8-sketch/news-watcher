@@ -7929,5 +7929,27 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2269776/openai-agents-targeted-us-government-websites/"
+ },
+ {
+  "date": "2026-09-26T12:39:09.721764+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "World of Warcraft Forever Details Classic Plus Plans",
+  "summary": "Blizzard has revealed details on how World of Warcraft Forever will cater to both Classic Plus fans and newcomers 22 years after launch.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/world-of-warcraft-forever-interview-blizzcon-2026-blizzard/"
+ },
+ {
+  "date": "2026-09-26T12:39:09.721764+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "Marvel's Wolverine Adds Option to Disable Scent Trails",
+  "summary": "Marvel's Wolverine will reportedly allow players to disable overbearing scent trails for side content.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/action/marvels-wolverine-finally-lets-you-turn-off-overbearing-scent-trails-for-side-content-but-story-critical-senses-will-still-appear-in-the-world/"
  }
 ]
