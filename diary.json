@@ -7863,5 +7863,27 @@
   "verified": "reliable_reporter",
   "source": "Ars Technica",
   "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/"
+ },
+ {
+  "date": "2026-09-26T07:34:29.088564+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "Apple Releases watchOS 27 With New Features",
+  "summary": "Apple has released watchOS 27, bringing new features and changes to compatible Apple Watch models.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/guide/watchos-27-new-things-apple-watch/"
+ },
+ {
+  "date": "2026-09-26T07:34:29.088564+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Marvel's Wolverine Update Adds Scent Trail Toggle",
+  "summary": "Insomniac Games released a new update for Marvel's Wolverine that introduces an option to disable controversial scent trails for collectibles.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/marvels-wolverine-dev-adds-option-to-turn-off-controversial-scent-trails-and-more-in-new-update"
  }
 ]
