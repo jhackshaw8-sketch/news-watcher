@@ -8468,5 +8468,16 @@
   "verified": "official",
   "source": "Polygon",
   "link": "https://www.polygon.com/minecraft-live-news-recap-sift-dimension/"
+ },
+ {
+  "date": "2026-09-26T18:03:12.916067+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Meta Reverses Stance to Run Ads for Elon Musk Documentary",
+  "summary": "Meta reverses its stance and decides to run advertisements for Alex Gibney's upcoming documentary about Elon Musk.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/"
  }
 ]
