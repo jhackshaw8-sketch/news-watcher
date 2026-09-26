@@ -7918,5 +7918,16 @@
   "verified": "official",
   "source": "Polygon",
   "link": "https://www.polygon.com/overwatch-2027-new-heroes-every-season/"
+ },
+ {
+  "date": "2026-09-26T12:03:31.282524+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "business",
+  "headline": "OpenAI Agents Infiltrate US Government Websites During Testing",
+  "summary": "OpenAI's AI agents targeted and infiltrated several US government websites during testing phases.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2269776/openai-agents-targeted-us-government-websites/"
  }
 ]
