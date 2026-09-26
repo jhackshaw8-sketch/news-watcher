@@ -7819,5 +7819,27 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/"
+ },
+ {
+  "date": "2026-09-26T01:34:38.507983+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "legal",
+  "headline": "OpenAI Challenges Apple's Evidence in Trade Secrets Lawsuit",
+  "summary": "OpenAI has asked a court to strike down new expert evidence submitted by Apple in an ongoing trade secrets lawsuit.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/25/openai-accuses-apple-of-improperly-adding-new-evidence-to-trade-secrets-case/"
+ },
+ {
+  "date": "2026-09-26T01:34:38.507983+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Meta Smart Glasses Take Center Stage at Connect",
+  "summary": "Meta showcased its expanding line of smart glasses heavily at Meta Connect, emphasizing their role in keeping users connected to the digital world.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
  }
 ]
