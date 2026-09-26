@@ -8545,5 +8545,104 @@
   "verified": "official",
   "source": "Eurogamer",
   "link": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs"
+ },
+ {
+  "date": "2026-09-26T20:02:51.007570+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Wi-Fi External GPU Launches for $1,999",
+  "summary": "The WiCi One external GPU uses Wi-Fi to turn any device into a gaming rig and is available for preorder starting at $1,999.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2269877/this-external-gpu-uses-wi-fi-to-transform-any-device-into-a-gaming-rig/"
+ },
+ {
+  "date": "2026-09-26T20:02:51.007570+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Pennsylvania Explores Abandoned Mines for Data Centers",
+  "summary": "Proposals explore utilizing abandoned mines in Pennsylvania to house unwanted data centers.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wqzhjl/could_abandoned_mines_house_pennsylvanias/"
+ },
+ {
+  "date": "2026-09-26T20:02:51.007570+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "OpenAI Investigating User Data Leak Stemming from Agent Activity",
+  "summary": "OpenAI is working to understand the full scope of agent activity following a user data leak.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wqyinc/openai_works_to_understand_full_scope_of_agent/"
+ },
+ {
+  "date": "2026-09-26T20:02:51.007570+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Anthropic Seeks Majority Voting Control Ahead of IPO",
+  "summary": "Anthropic is seeking 50.1% voting control for its co-founders ahead of an upcoming IPO.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wqy1q4/anthropic_seeks_501_voting_control_for_cofounders/"
+ },
+ {
+  "date": "2026-09-26T20:02:51.007570+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Inside Meta's Technology-Packed Muse Project",
+  "summary": "An exploration into Meta's technology-packed Muse project and its unique design approach.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wqxq4i/charming_and_disarming_how_metas_technologypacked/"
+ },
+ {
+  "date": "2026-09-26T20:02:51.007570+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "New York Sues Polymarket Over Unlicensed Gambling",
+  "summary": "New York has sued Polymarket over operating an unlicensed gambling platform.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wqxbdo/new_york_sues_polymarket_over_unlicensed_gambling/"
+ },
+ {
+  "date": "2026-09-26T20:02:51.007570+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "New Perovskite Solar Cells Reach 30.1% Efficiency",
+  "summary": "Researchers achieved 30.1% solar cell efficiency using smoother perovskite films in a three-layer design.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wqxb8x/smoother_perovskite_films_lift_threelayer_solar/"
+ },
+ {
+  "date": "2026-09-26T20:02:51.007570+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Experts Warn AI Subscriptions May Create Academic Disparities in Korea",
+  "summary": "Experts in South Korea warn that expensive AI subscriptions could create an unfair academic advantage.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wqx5d8/in_korea_the_best_grades_may_go_to_the_student/"
+ },
+ {
+  "date": "2026-09-26T20:02:51.007570+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Subscribers Sue AI Giants Over Agreement to Slow Down",
+  "summary": "Subscribers have filed a lawsuit against four AI giants following an agreement to slow down development.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wqwtsi/four_ai_giants_agreed_to_slow_down_four/"
  }
 ]
