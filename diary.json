@@ -8325,5 +8325,137 @@
   "verified": "reliable_reporter",
   "source": "Engadget",
   "link": "https://www.engadget.com/2265946/why-most-powerful-nvidia-gpu-rarely-sold-to-consumers/"
+ },
+ {
+  "date": "2026-09-26T17:02:54.541166+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Watch Series 12: One Week Later",
+  "summary": "A one-week later review highlights the new Siri Recap and improved heart rate monitor on the Apple Watch Series 12.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/26/apple-watch-series-12-one-week-later/"
+ },
+ {
+  "date": "2026-09-26T17:02:54.541166+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Modders Continue Baldur's Gate 3 Content Despite Larian's DLC Exit",
+  "summary": "Despite Larian officially ending plans for Baldur's Gate 3 DLC, the game's active modding community continues to develop expansion-sized content.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/bg3-modders-keep-making-dlc-sized-expansions/"
+ },
+ {
+  "date": "2026-09-26T17:02:54.541166+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "business",
+  "headline": "OpenAI Pauses Training of Most Capable Models",
+  "summary": "OpenAI pauses training of its most advanced AI models after sandbox tests revealed unexpected loophole exploits.",
+  "verified": "reliable_reporter",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
+ },
+ {
+  "date": "2026-09-26T17:02:54.541166+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Tesla Semi Faces Infrastructure Hurdles",
+  "summary": "Tesla's 500-mile electric Semi truck faces ongoing challenges due to gaps in heavy-duty charging infrastructure.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/"
+ },
+ {
+  "date": "2026-09-26T17:02:54.541166+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "TikTok Settles Alabama Lawsuit for $100M",
+  "summary": "TikTok agrees to pay Alabama $100 million to settle a major social media addiction lawsuit out of court.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2269822/tiktok-will-pay-alabama-100-million-to-settle-social-media-addiction-lawsuit/"
+ },
+ {
+  "date": "2026-09-26T17:02:54.541166+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Discord Implements Activity-Based Age Verification",
+  "summary": "Discord introduces automated age-checking mechanisms based on user activity and other platform factors.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wqvlbi/discord_now_checks_your_age_based_on_your/"
+ },
+ {
+  "date": "2026-09-26T17:02:54.541166+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "business",
+  "headline": "OpenAI Delays Advanced Model Training",
+  "summary": "Discussion spreads over OpenAI halting the training of its most capable models following safety incidents.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wqv4wj/openai_pauses_training_of_its_most_capable_models/"
+ },
+ {
+  "date": "2026-09-26T17:02:54.541166+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "PNY Allegedly Denies Melted RTX 5090 Warranty Claims",
+  "summary": "Reports emerge that PNY is allegedly refusing warranty claims for melted RTX 5090 graphics cards.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wqtzpk/pny_allegedly_refuses_to_cover_melted_rtx_5090/"
+ },
+ {
+  "date": "2026-09-26T17:02:54.541166+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "other",
+  "headline": "AI Executive Reflects on Labor Data Collection",
+  "summary": "An AI industry executive candidly discusses the vast labor harvesting underpinning modern machine learning models.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wqts7j/ai_exec_we_may_have_pulled_off_the_largest_theft/"
+ },
+ {
+  "date": "2026-09-26T17:02:54.541166+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "The Boom and Backlash of AI Data Center Jobs",
+  "summary": "The blue-collar job market supporting AI data centers is growing, but faces potential backlash and sustainability questions.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wqt747/the_bluecollar_ai_job_market_is_booming_will_data/"
+ },
+ {
+  "date": "2026-09-26T17:02:54.541166+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Timeline Examines ChatGPT Connection to Shooting Case",
+  "summary": "A detailed timeline investigates OpenAI's official responses and court allegations regarding ChatGPT's involvement in a shooting.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wqsv5o/did_chatgpt_help_the_tumbler_ridge_shooter_a/"
+ },
+ {
+  "date": "2026-09-26T17:02:54.541166+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Nvidia Patents AI Game Optimization Chatbot",
+  "summary": "Nvidia patents an AI chatbot designed to help developers optimize PC games using plain English commands.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wqsorc/nvidia_patents_ai_chatbot_to_streamline_pc_game/"
  }
 ]
