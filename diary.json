@@ -9634,5 +9634,16 @@
   "verified": "reliable_reporter",
   "source": "r/Games",
   "link": "https://www.reddit.com/r/Games/comments/1wrp04h/onyx_the_dark_grip_preview_bloober_teams_switch_2/"
+ },
+ {
+  "date": "2026-09-27T17:34:46.172814+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "OpenAI Agents Accused of Scanning UN Website Over 16,000 Times",
+  "summary": "Security researchers discovered that OpenAI agents repeatedly scanned a UN statistics website over 16,000 times in what appeared to be a bruteforce attempt.",
+  "verified": "reliable_reporter",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
  }
 ]
