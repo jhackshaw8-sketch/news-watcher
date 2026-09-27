@@ -9414,5 +9414,49 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2266933/humanoid-robot-cries-on-command/"
+ },
+ {
+  "date": "2026-09-27T14:02:53.912316+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "Gemini Live vs ChatGPT Voice Comparison",
+  "summary": "Engadget compares the conversational capabilities of Google's Gemini Live and OpenAI's ChatGPT Voice.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2266889/gemini-live-vs-gpt-live-which-offers-more-natural-conversation/"
+ },
+ {
+  "date": "2026-09-27T14:02:53.912316+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Microsoft Pauses Update After Office License Issues",
+  "summary": "Microsoft has paused the KB5002907 update following reports of unintended Office license deactivations.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wrkbtz/microsoft_pauses_kb5002907_update_after_office/"
+ },
+ {
+  "date": "2026-09-27T14:02:53.912316+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Meta Data Center Sparks Louisiana Housing Boom",
+  "summary": "Meta's new data center development in Louisiana is driving a significant local housing boom.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wrk5zr/the_meta_data_center_in_louisiana_is_creating_a/"
+ },
+ {
+  "date": "2026-09-27T14:02:53.912316+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Flock Seeks Takedown of Camera Location Map",
+  "summary": "Flock is attempting to take down a security researchers' map that exposed hundreds of thousands of camera locations due to an unauthenticated flaw.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wrjqz0/flock_seeks_to_have_security_researchers_map_of/"
  }
 ]
