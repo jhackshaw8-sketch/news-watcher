@@ -9370,5 +9370,49 @@
   "verified": "reliable_reporter",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1wr9y30/how_africas_ai_boom_is_leaving_100_million/"
+ },
+ {
+  "date": "2026-09-27T13:34:58.006108+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Double Fine's 'Thank You Bus Driver' Gets Release Date",
+  "summary": "Double Fine has announced that Thank You Bus Driver will be released on October 14th.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wrkf12/double_fines_thank_you_bus_driver_releases_oct/"
+ },
+ {
+  "date": "2026-09-27T13:34:58.006108+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Factory Roguelite 'Bottlecappers' Shares New Trailer",
+  "summary": "Solo developer ShardanaForge has released a trailer for the factory management roguelite Bottlecappers.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wrkd7c/bottlecappers_shardanaforge_factorymanagement/"
+ },
+ {
+  "date": "2026-09-27T13:34:58.006108+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Action RPG 'Core Of Havoc' Shows Off DOOM-Inspired Gameplay",
+  "summary": "Developer Parandroid Games has shared a gameplay trailer for the 2D space-themed Action RPG Core Of Havoc.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wrk5p6/core_of_havoc_parandroid_games_2d_spacethemed/"
+ },
+ {
+  "date": "2026-09-27T13:34:58.006108+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "New Humanoid Robots Gain the Ability to Cry",
+  "summary": "Advances in robotics enable humanoid machines to mimic human emotions more realistically, including crying on command.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2266933/humanoid-robot-cries-on-command/"
  }
 ]
