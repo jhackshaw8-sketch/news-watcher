@@ -9645,5 +9645,27 @@
   "verified": "reliable_reporter",
   "source": "The Verge",
   "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
+ },
+ {
+  "date": "2026-09-27T18:38:37.161144+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "business",
+  "headline": "App Store Criticized for Allowing Meta Muse Copycat App",
+  "summary": "Critics point out that the App Store review process mistakenly allowed a clone of Meta Muse.",
+  "verified": "reliable_reporter",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wrr7ww/app_store_review_allowed_a_meta_muse_copycat/"
+ },
+ {
+  "date": "2026-09-27T18:38:37.161144+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "BYD Nears Production for New Solid-State EV Battery Tech",
+  "summary": "Chinese automaker BYD announced that its new solid-state EV battery technology is nearing production readiness.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2265495/byd-new-solid-state-battery-ev-almost-ready-2027/"
  }
 ]
