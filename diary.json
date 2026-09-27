@@ -9491,5 +9491,38 @@
   "verified": "official",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1wrl70x/esos_rings_ceo_michelle_bisnoff_convicted_of/"
+ },
+ {
+  "date": "2026-09-27T15:03:01.347607+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "New Apple Vision Pro Form Factors in Development",
+  "summary": "Apple is reportedly developing a new Vision Pro model with different form factors to address weight and bulk concerns.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/27/apple-working-on-new-lighter-vision-pro-version/"
+ },
+ {
+  "date": "2026-09-27T15:03:01.347607+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Apple Smart Glasses Projected for 2027 Release",
+  "summary": "Industry forecasts predict Apple will release smart glasses by the end of 2027 and an upgraded Vision Pro in 2028.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/27/apples-smart-glasses-predicted-for-2027-upgraded-apple-vision-pro-2028?utm_source=rss"
+ },
+ {
+  "date": "2026-09-27T15:03:01.347607+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "business",
+  "headline": "Apple Grants US Staff Extended Thanksgiving Break",
+  "summary": "Apple CEO John Ternus has granted US staff the entire Thanksgiving week off to recognize their hard work.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/27/apples-us-staff-will-get-extended-thanksgiving-break-under-ternus-too?utm_source=rss"
  }
 ]
