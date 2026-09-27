@@ -9678,5 +9678,16 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/"
+ },
+ {
+  "date": "2026-09-27T20:03:18.544655+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Can Muse overcome Meta's trust issues?",
+  "summary": "TechCrunch discusses how Meta's recent AI announcements managed to overshadow competitors like OpenAI and Anthropic despite ongoing trust challenges.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
  }
 ]
