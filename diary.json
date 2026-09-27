@@ -8886,5 +8886,16 @@
   "verified": "official",
   "source": "Polygon",
   "link": "https://www.polygon.com/star-wars-upcoming-movies-tv-shows-release-dates-2027/"
+ },
+ {
+  "date": "2026-09-27T01:35:49.057198+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Google Tests Flipkart Shopping Integration for Gemini in India",
+  "summary": "Google is conducting a limited test allowing users in India to buy products from Walmart-owned Flipkart directly through Gemini and AI Mode.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
  }
 ]
