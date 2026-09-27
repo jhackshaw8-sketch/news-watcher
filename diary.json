@@ -9062,5 +9062,93 @@
   "verified": "reliable_reporter",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
+ },
+ {
+  "date": "2026-09-27T22:02:58.707011+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Apple Reportedly Working on New Vision Pro Form Factors",
+  "summary": "A report indicates that Apple is currently developing new Vision Pro models exploring various form factors.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wrwn2s/report_apple_working_on_new_vision_pro_with/"
+ },
+ {
+  "date": "2026-09-27T22:02:58.707011+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "The Majestic Announced as Solo-Dev Open-World Adventure",
+  "summary": "Solo developer announces The Majestic, a cinematic open-world narrative adventure where players soar as a spirit eagle.",
+  "verified": "unconfirmed",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wrw982/the_majestic_studio_46_a_cinematic_openworld/"
+ },
+ {
+  "date": "2026-09-27T22:02:58.707011+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Super Mario Galaxy PC Port Project AstroCore Gets Trailer",
+  "summary": "An announcement trailer has been released for AstroCore, a Super Mario Galaxy decompilation and PC port project.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wrta6e/astrocore_super_mario_galaxy_decomppc_port/"
+ },
+ {
+  "date": "2026-09-27T22:02:58.707011+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "As We Descend Gets 12th Major Update and Controller Support",
+  "summary": "Box Dragon pushes the 12th major update to Early Access roguelike strategy game As We Descend, featuring full controller support.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wrso97/as_we_descend_box_dragon_apocalyptic_roguelike/"
+ },
+ {
+  "date": "2026-09-27T22:02:58.707011+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Sandcastle Kingdom Announced as Cozy Sandcastle Sandbox",
+  "summary": "Developers announce Sandcastle Kingdom, a new cozy sandbox game focused on building sandcastles.",
+  "verified": "unconfirmed",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wrsbu3/sandcastle_kingdom_pocketsofenergy_cozy/"
+ },
+ {
+  "date": "2026-09-27T22:02:58.707011+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Cold War Espionage Game Coldline: Disconnect Announced",
+  "summary": "Coldline: Disconnect is announced as a Cold War espionage game where players repair electronics and secretly bug them.",
+  "verified": "unconfirmed",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wrr6u9/coldline_disconnect_grawire_studio_a_cold_war/"
+ },
+ {
+  "date": "2026-09-27T22:02:58.707011+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "PS5 Emulator Successfully Runs Six Games at 60 FPS",
+  "summary": "A developing PS5 emulator successfully runs six titles at a playable 60 FPS, marking a milestone in emulation progress.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wrq0nx/ps5_emulator_successfully_runs_six_titles_at_a/"
+ },
+ {
+  "date": "2026-09-27T22:02:58.707011+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Card Creation CCG Ariokan Announced for Steam",
+  "summary": "Fatum Games announces Ariokan, an online collectible card game featuring player-created cards and an offline roguelite mode.",
+  "verified": "unconfirmed",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wrpr1x/ariokan_fatum_games_online_collectible_card_game/"
  }
 ]
