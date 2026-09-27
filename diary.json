@@ -9458,5 +9458,38 @@
   "verified": "reliable_reporter",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1wrjqz0/flock_seeks_to_have_security_researchers_map_of/"
+ },
+ {
+  "date": "2026-09-27T14:35:43.302129+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Xbox Reportedly Paying Much Less Than $400M for Kojima's Physint",
+  "summary": "Reports suggest Xbox is funding Hideo Kojima's upcoming game Physint for a fraction of the previously rumored $400 million budget.",
+  "verified": "unconfirmed",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million"
+ },
+ {
+  "date": "2026-09-27T14:35:43.302129+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Jensen Huang: Uncontrolled AI Labs Should Shut Down",
+  "summary": "Nvidia CEO Jensen Huang stated that AI labs incapable of controlling their systems should shut down.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wrlg7c/jensen_huang_says_ai_labs_that_cant_control_their/"
+ },
+ {
+  "date": "2026-09-27T14:35:43.302129+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "legal",
+  "headline": "Esos Rings CEO Convicted in $2M Ponzi Scheme",
+  "summary": "The CEO of Esos Rings, Michelle Bisnoff, has been convicted of operating a nearly $2 million Ponzi scheme.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wrl70x/esos_rings_ceo_michelle_bisnoff_convicted_of/"
  }
 ]
