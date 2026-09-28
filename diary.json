@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-25T04:38:03.782558+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Privacy Questions Raised Over Local Siri Conversation Storage",
-  "summary": "A Reddit user highlights a potential privacy concern where on-device Siri conversation history might be accessible to law enforcement.",
-  "verified": "unconfirmed",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wpmz93/ios_27_saves_your_full_siri_conversations_and/"
- },
- {
   "date": "2026-09-25T05:02:48.587251+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -3870,5 +3859,16 @@
   "verified": "official",
   "source": "r/Games",
   "link": "https://www.reddit.com/r/Games/comments/1wrxi73/contested_space_null_void_games_a_14_player/"
+ },
+ {
+  "date": "2026-09-28T04:39:54.915380+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Truecaller Expands Scam Intelligence Beyond Caller ID",
+  "summary": "Truecaller is expanding its scam intelligence services to the open web to diversify beyond its traditional caller ID business in India.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/"
  }
 ]
