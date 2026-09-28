@@ -1,148 +1,5 @@
 [
  {
-  "date": "2026-09-25T18:38:08.667434+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Banks Cleared to Sue Apple in Class Action Over Apple Pay Fees",
-  "summary": "A federal judge has certified an antitrust lawsuit allowing thousands of U.S. banks and credit unions to jointly sue Apple over Apple Pay fees.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/09/25/thousands-of-banks-can-now-sue-over-apple-pay-fees-in-one-antitrust-case?utm_source=rss"
- },
- {
-  "date": "2026-09-25T18:38:08.667434+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Next Entry-Level iPad Rumored to Support Apple Intelligence",
-  "summary": "Reports indicate that Apple's upcoming entry-level iPad will feature a faster processor and the necessary hardware to support Apple Intelligence.",
-  "verified": "unconfirmed",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/09/25/apple-intelligence-is-coming-to-the-the-next-entry-level-ipad?utm_source=rss"
- },
- {
-  "date": "2026-09-25T18:38:08.667434+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Resident Evil Requiem Crosses $500 Million in Revenue",
-  "summary": "Resident Evil Requiem crosses $500 million in revenue following its successful launch.",
-  "verified": "reliable_reporter",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/resident-evil-requiem-500-film-capcom-price"
- },
- {
-  "date": "2026-09-25T18:38:08.667434+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Resident Evil 2 Remake Sales Surge on PS5",
-  "summary": "Analyst reports that Resident Evil 2 remake sales doubled on PS5 following discounts and media exposure.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/resident-evil/resident-evil-2-remake-sales-nearly-double-on-ps5-after-capcom-discount-coincides-with-zach-creggers-biggest-opening-in-the-24-year-history-of-resident-evil-movies-says-analyst/"
- },
- {
-  "date": "2026-09-25T18:38:08.667434+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Resident Evil Requiem Xbox Sales Figures Revealed",
-  "summary": "Sales analysis reveals that Resident Evil Requiem sold 8.6% of its copies on Xbox, with the rest split between PS5 and Steam.",
-  "verified": "reliable_reporter",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/as-resident-evil-requiem-passes-500m-revenue-analysis-shows-86-sales-were-on-xbox-with-remaining-91-shared-between-ps5-and-steam"
- },
- {
-  "date": "2026-09-25T18:38:08.667434+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Microsoft Vet Discusses Future Xbox Strategy",
-  "summary": "A Microsoft veteran shares insights regarding future Xbox hardware strategy and ecosystem positioning.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/an-xbox-thats-only-good-for-launching-steam-is-like-subsidizing-valves-cash-register-ground-zero-xbox-veteran-says-microsoft-needs-to-pick-a-lane-before-project-helix-hits-a-wall/"
- },
- {
-  "date": "2026-09-25T18:38:08.667434+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Steam Cozy Sim Dressmaker Outselling Major Releases",
-  "summary": "Cozy simulation game Dressmaker achieves massive success on Steam, outselling several major recent releases.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/steam-top-sellers-dressmaker-new-releases-cozy-sim-what-is/"
- },
- {
-  "date": "2026-09-25T18:38:08.667434+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Lego Astro Bot Officially Announced",
-  "summary": "Lego Astro Bot has been officially revealed alongside its $150 price tag.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/toys-collectibles/lego-astro-bot-officially-revealed-and-it-looks-incredible-but-im-not-sure-its-usd150-worth-of-incredible/"
- },
- {
-  "date": "2026-09-25T18:38:08.667434+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "business",
-  "headline": "Nvidia-Backed Nscale Secures $3.36B for AI Data Centers",
-  "summary": "British AI neocloud Nscale has secured $3.36 billion in convertible financing from backers including Nvidia to fund its data center expansion.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
- },
- {
-  "date": "2026-09-25T18:38:08.667434+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Zuckerberg Defends Ray-Ban Meta Glasses Privacy Light",
-  "summary": "Meta CEO Mark Zuckerberg defended the privacy features of Ray-Ban Meta smart glasses by comparing their indicator lights to smartphones.",
-  "verified": "reliable_reporter",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks"
- },
- {
-  "date": "2026-09-25T18:38:08.667434+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Supabase App Misconfigurations Expose User Data",
-  "summary": "Configuration errors in AI-generated Supabase apps have led to public data exposure risks.",
-  "verified": "reliable_reporter",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
- },
- {
-  "date": "2026-09-25T18:38:08.667434+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Frontier AI Models Complete Turing Codebreaking Work",
-  "summary": "Frontier AI models Astra and Opus have successfully completed complex codebreaking tasks originally tackled by Alan Turing.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/"
- },
- {
-  "date": "2026-09-25T18:38:08.667434+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Meta's AI Consumer Bets Gain Traction",
-  "summary": "Meta's latest consumer AI experiments and social features are showing unexpected success amid industry-wide model releases.",
-  "verified": "reliable_reporter",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/"
- },
- {
   "date": "2026-09-25T19:02:59.782011+00:00",
   "topic": "Apple News",
   "score": 5,
@@ -3584,5 +3441,104 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/"
+ },
+ {
+  "date": "2026-09-28T18:41:10.404508+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "The Last of Us Day Celebrated With Ghost of Yotei Crossover",
+  "summary": "Naughty Dog celebrated The Last of Us Day with crossover content and ambience videos while fans await news on part 3.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/the-last-of-us-day-reveals-ghost-of-yotei-collab-content-and-ambiance-video-as-fans-beg-naughty-dog-for-tlou-3"
+ },
+ {
+  "date": "2026-09-28T18:41:10.404508+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Saw 11 Finds a New Director for Upcoming Sequel",
+  "summary": "Saw 11 has officially found its director, moving the horror franchise forward with potential changes.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/horror-movies/billy-the-puppet-rises-from-the-dead-as-saw-11-finds-its-director-but-fans-think-the-horror-franchise-is-getting-an-overhaul/"
+ },
+ {
+  "date": "2026-09-28T18:41:10.404508+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Todd Howard Blocked Elder Scrolls Spin-offs, Says Ex-Lead",
+  "summary": "Former Skyrim lead reveals Todd Howard prevented external studio spin-offs like Fallout: New Vegas.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/the-elder-scrolls/the-elder-scrolls-hasnt-had-a-fallout-new-vegas-style-spin-off-because-of-a-very-protective-todd-howard-skyrim-lead-suggests/"
+ },
+ {
+  "date": "2026-09-28T18:41:10.404508+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "The Witcher 3 Remaster Pushes RTX 5080 Hardware Limits",
+  "summary": "The Witcher 3 remaster requires heavy hardware specs to handle path tracing at high performance.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/the-witcher-3-gets-30-fps-on-an-rtx-5080-with-frame-gen-disabled"
+ },
+ {
+  "date": "2026-09-28T18:41:10.404508+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Heroes of the Storm Gets New Character Update",
+  "summary": "Blizzard is bringing Xal\u2019atath from World of Warcraft to Heroes of the Storm in an unexpected update.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/heroes-of-the-storm-update-blizzcon-2026/"
+ },
+ {
+  "date": "2026-09-28T18:41:10.404508+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Kingdom Come: Deliverance 2 Mod Adds Multiplayer RP",
+  "summary": "A new multiplayer mod for Kingdom Come: Deliverance 2 introduces roleplay servers to the open-world RPG.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/rpg/kingdom-come-deliverance-2-now-has-a-multiplayer-mod-that-brings-rp-servers-to-the-acclaimed-rpgs-open-world/"
+ },
+ {
+  "date": "2026-09-28T18:41:10.404508+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Control Resonant Day One Update Overhauls Combat",
+  "summary": "Control Resonant's day one update drastically changes combat, highlighting modern gaming trends.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/control-resonant-updates-analysis/"
+ },
+ {
+  "date": "2026-09-28T18:41:10.404508+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Nvidia launches security platform to rein in rogue AI agents",
+  "summary": "Nvidia introduced a new hardware and software toolkit designed to add security layers and monitor rogue AI agents.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
+ },
+ {
+  "date": "2026-09-28T18:41:10.404508+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Meta launches enterprise business division to monetize massive AI investments",
+  "summary": "Meta is launching a new enterprise business division to sell its AI products and services to corporate clients.",
+  "verified": "reliable_reporter",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2271136/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending/"
  }
 ]
