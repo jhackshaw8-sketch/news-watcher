@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-09-25T21:03:08.559765+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Apple Pay Class-Action Lawsuit Certified Over Fees",
-  "summary": "A U.S. district judge has certified a class-action lawsuit accusing Apple of charging payment card issuers inflated fees for Apple Pay transactions.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/25/apple-faces-class-action-over-apple-pay-fees-charged-to-card-issuers/"
- },
- {
-  "date": "2026-09-25T21:03:08.559765+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Microsoft CEO Calls Xbox Layoffs 'Great to See'",
-  "summary": "Microsoft CEO Satya Nadella defends ongoing Xbox layoffs and corporate streamlining.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/amid-mass-xbox-layoffs-microsoft-ceo-satya-nadella-says-the-streamlining-is-great-to-see/"
- },
- {
-  "date": "2026-09-25T21:03:08.559765+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "How to Opt Out of Meta AI Training on Smart Glasses Data",
-  "summary": "Meta provides a setting allowing users to prevent the company from training its AI models on visual data captured by smart glasses.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/"
- },
- {
   "date": "2026-09-25T22:03:45.916103+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -3969,5 +3936,27 @@
   "verified": "reliable_reporter",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1wsh7h0/discords_second_attempt_to_roll_out_age/"
+ },
+ {
+  "date": "2026-09-28T21:03:44.955504+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "PS5 Emulation Progresses With First Fully Playable Games",
+  "summary": "Recent PS5 emulator updates have achieved full playability for six games at 60 FPS, marking a notable milestone in modern console emulation.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/ps5-emulator-updates-have-6-games-fully-playable-at-60-fps-and-demons-souls-isnt-far-behind/"
+ },
+ {
+  "date": "2026-09-28T21:03:44.955504+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "business",
+  "headline": "AMD Acquires World Labs for $8.2 Billion",
+  "summary": "AMD is acquiring Fei-Fei Li's World Labs for $8.2 billion, with Li joining AMD as executive vice president and chief scientist.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
  }
 ]
