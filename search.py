@@ -52,9 +52,9 @@ the first line. ALWAYS end the tweet (or the last tweet of a thread) with 1 to 2
 hashtags that would help people discover the post.
 
 For "longform_post", write ONE extra post, a different style: a short punchy hook sentence on
-its own line, then a blank line, then 1 to 2 short paragraphs (1 to 3 sentences each) of actual
-detail in plain conversational language, each separated by a blank line, then a blank line and
-1 to 2 relevant hashtags. Keep it under 600 characters total.
+its own line, then a blank line, then exactly ONE short paragraph (1 to 2 sentences, the single
+most important detail only) in plain conversational language, then a blank line and 1 to 2
+relevant hashtags. Keep it under 350 characters total, tight and scannable, not a full recap.
 
 If the article says something is unconfirmed or a rumor, say so ("Rumor:", "Reportedly"). Use
 only what the article actually says, never invent details.
@@ -78,9 +78,9 @@ tweet text, plain engaging language. ALWAYS end each tweet (or the last tweet of
 1 to 2 relevant hashtags that would help people discover the post.
 
 For "longform_post", pick the single best story from the list and write ONE extra post in a
-different style: a short punchy hook sentence on its own line, then a blank line, then 1 to 2
-short paragraphs (1 to 3 sentences each) of actual detail, each separated by a blank line, then
-a blank line and 1 to 2 relevant hashtags. Keep it under 600 characters total.
+different style: a short punchy hook sentence on its own line, then a blank line, then exactly
+ONE short paragraph (1 to 2 sentences, the single most important detail only), then a blank
+line and 1 to 2 relevant hashtags. Keep it under 350 characters total, tight and scannable.
 
 If a story is marked unconfirmed, say so ("Rumor:", "Reportedly"). Use only the stories given,
 never invent facts.
@@ -113,9 +113,9 @@ Link: (the full, real, working article URL for this different story)
 
 LONGFORM:
 (ONE extra post, a different style, about your favorite story above: a short punchy hook
-sentence on its own line, then a blank line, then 1 to 2 short paragraphs of actual detail
-[1 to 3 sentences each] with a blank line between paragraphs, then a blank line and 1 to 2
-relevant hashtags. Keep the whole post under 600 characters.)
+sentence on its own line, then a blank line, then exactly ONE short paragraph (1 to 2
+sentences, the single most important detail only), then a blank line and 1 to 2 relevant
+hashtags. Keep the whole post under 350 characters, tight and scannable, not a full recap.)
 Link: (the same article URL used above for this story)
 
 Rules: each short tweet under 250 characters, no links inside any post text itself (only after
