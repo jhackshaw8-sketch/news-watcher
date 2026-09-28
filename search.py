@@ -37,7 +37,8 @@ HEADERS = {
 URL_RE = re.compile(r"https?://\S+")
 
 ARTICLE_PROMPT = """Below is the full text of a news article. Read it carefully, then return ONLY JSON:
-{{"recap": "3 to 5 short bullet lines covering the actual details in the article (names, numbers,
+{{"headline": "a short, catchy, engaging headline for this story (not the original title, your own hook, under 12 words)",
+ "recap": "3 to 5 short bullet lines covering the actual details in the article (names, numbers,
  dates, quotes if notable), most important first",
  "posts": [{{"type": "single" or "thread", "tweets": ["..."]}}]}}
 
@@ -56,7 +57,8 @@ Article:
 
 DIARY_PROMPT = """A user searched for: "{keyword}". Below are numbered stories already
 gathered from tracked news sources that match. Return ONLY JSON:
-{{"recap": "2 to 4 short bullet lines summarizing what these stories say, most important first",
+{{"headline": "a short, catchy, engaging headline covering these stories (under 12 words)",
+ "recap": "2 to 4 short bullet lines summarizing what these stories say, most important first",
  "posts": [{{"story_id": <number>, "type": "single" or "thread", "tweets": ["..."]}}]}}
 
 Write up to {n} posts, each about a DIFFERENT story from the list (do not repeat the same
@@ -72,6 +74,9 @@ Stories:
 
 WEB_PROMPT = """Search the web for the latest news (from the last few days) about: "{keyword}".
 Then reply in EXACTLY this plain-text format (no JSON, no extra commentary):
+
+TITLE:
+(a short, catchy, engaging headline for this news, under 12 words)
 
 RECAP:
 - 3 to 5 short bullet lines on what is happening, most important first
@@ -163,7 +168,8 @@ def handle_article(url, mid):
     out = call_gemini_json(ARTICLE_PROMPT.format(n=3, article=article))
     for item in out.get("posts", []):
         item["link"] = url
-    post_drafts(out.get("posts", []), mid, f"**From article:** {url}\n{out.get('recap', '')}")
+    headline = out.get("headline", "Story breakdown")
+    post_drafts(out.get("posts", []), mid, f"**{headline}**\n{out.get('recap', '')}\n{url}")
 
 
 # ---------- Mode B: plain keyword ----------
@@ -192,12 +198,16 @@ def handle_web_fallback(keyword, mid):
         text = call_gemini_json(WEB_PROMPT.format(keyword=keyword), use_search=False)
         note = "\n_(Live web search was unavailable, so this may be out of date and have no link.)_"
 
+    title_match = re.search(r"TITLE:\s*\n?(.+)", text)
+    headline = title_match.group(1).strip() if title_match else f"Search: {keyword}"
+    text = re.sub(r"TITLE:\s*\n?.+\n+", "", text, count=1)
+
     parts = [p.strip() for p in re.split(r"\n(?=POST \d)", text) if p.strip()]
     if not parts:
         reply(f"Nothing found for **{keyword}**, in your tracked news or the open web. Try different words.", mid)
         return
     intro = (
-        f"**Search: {keyword}**\n_(Nothing in your tracked Apple/Gaming/Tech stories matched, "
+        f"**{headline}**\n_(Nothing in your tracked Apple/Gaming/Tech stories matched, "
         f"so this is from an open web search instead.)_{note}\n{parts[0]}"
     )
     reply(intro, mid)
@@ -226,7 +236,8 @@ def handle_keyword(keyword, mid):
         if isinstance(idx, int) and 0 <= idx < len(matches):
             post["link"] = matches[idx]["link"]
             posts.append(post)
-    post_drafts(posts, mid, f"**Search: {keyword}** ({len(matches)} tracked stories found)\n{out.get('recap', '')}")
+    headline = out.get("headline", f"Search: {keyword}")
+    post_drafts(posts, mid, f"**{headline}** ({len(matches)} tracked stories found)\n{out.get('recap', '')}")
 
 
 # ---------- Dispatch ----------
