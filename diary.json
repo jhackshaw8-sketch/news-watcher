@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-09-25T11:03:05.069776+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Sony Surveys Developers on Future of PlayStation Discs",
-  "summary": "Sony is reportedly surveying developers to gather feedback on its decision to phase out physical disc-based PlayStation games.",
-  "verified": "unconfirmed",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report"
- },
- {
-  "date": "2026-09-25T11:03:05.069776+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Google Introduces Gemini 3.8 Live Avatars for Agents",
-  "summary": "Google has introduced new Gemini 3.8 live avatars aimed at customer service and other interactive tasks.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2268587/google-video-avatars-gemini-3-8-live-agent/"
- },
- {
   "date": "2026-09-25T11:36:52.231574+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -3892,5 +3870,27 @@
   "verified": "reliable_reporter",
   "source": "GamesRadar",
   "link": "https://www.gamesradar.com/entertainment/star-wars-movies/spider-man-filmmaker-will-direct-first-movie-of-new-star-wars-trilogy-in-the-skywalker-saga-and-it-might-be-replacing-the-rey-film/"
+ },
+ {
+  "date": "2026-09-28T11:03:57.430503+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Apple Explores Four Concepts for Revamped Vision Pro",
+  "summary": "Apple is reportedly exploring four different concepts for a revamped Vision Pro headset that may not launch until late 2028 or early 2029.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/28/apple-working-on-four-new-vision-pro-concepts/"
+ },
+ {
+  "date": "2026-09-28T11:03:57.430503+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Analyst Claims Xbox is Experiencing a 'Reverse Acquisition'",
+  "summary": "An analyst claims Xbox is undergoing a reverse acquisition focused on managerial talent rather than intellectual property.",
+  "verified": "unconfirmed",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/xbox-is-in-the-midst-of-a-reverse-acquisition-analyst-says-with-activision-best-equipped-to-run-the-studios-microsoft-built-itself/"
  }
 ]
