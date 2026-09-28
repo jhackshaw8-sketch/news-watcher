@@ -47,7 +47,7 @@ fact, a surprising detail, the reaction or what's next). For a simple angle writ
 tweet ("single"). For an angle with several things worth covering, write a thread of 2 to 4
 tweets ("thread"), each starting with its number like "1/3".
 Rules: each tweet under 250 characters, no links in the tweet text, plain engaging language,
-hook the reader in the first line, at most one hashtag per post. If the article says something
+hook the reader in the first line. ALWAYS end the tweet (or the last tweet of a thread) with 1 to 2 relevant hashtags that would help people discover the post (e.g. the game/company/product name, or a trending term tied to the story). If the article says something
 is unconfirmed or a rumor, say so ("Rumor:", "Reportedly"). Use only what the article actually
 says, never invent details.
 
@@ -65,7 +65,7 @@ Write up to {n} posts, each about a DIFFERENT story from the list (do not repeat
 story). For a simple story write ONE punchy tweet ("single"). If a story has several things
 worth covering, write a thread of 2 to 4 tweets ("thread"), each starting with its number
 like "1/3". Rules: each tweet under 250 characters, no links in the tweet text, plain
-engaging language, at most one hashtag per post. If a story is marked unconfirmed, say so
+engaging language. ALWAYS end each tweet (or the last tweet of a thread) with 1 to 2 relevant hashtags that would help people discover the post (e.g. the topic/company/game name, or a trending term). If a story is marked unconfirmed, say so
 ("Rumor:", "Reportedly"). Use only the stories given, never invent facts.
 
 Stories:
@@ -95,7 +95,7 @@ POST 3:
 Link: (the full, real, working article URL for this different story)
 
 Rules: each tweet under 250 characters, no links inside the tweet text itself (only after
-"Link:"), plain engaging language, at most one hashtag per post. Say clearly when something
+"Link:"), plain engaging language. ALWAYS end each tweet (or the last tweet of a thread) with 1 to 2 relevant hashtags that would help people discover the post. Say clearly when something
 is a rumor or unconfirmed ("Rumor:", "Reportedly"). Use only what you actually found and
 never invent details or URLs; if you cannot find a real link for a post, write "Link: none"."""
 
