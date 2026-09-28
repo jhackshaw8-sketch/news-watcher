@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-09-25T19:02:59.782011+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "update",
-  "headline": "Apple Publishes Delayed tvOS 17 Release Notes",
-  "summary": "Apple has officially published the release notes for tvOS 27 nearly two weeks after the software update was originally released.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/09/25/tvos-27-release-notes/"
- },
- {
-  "date": "2026-09-25T19:02:59.782011+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Xbox Addresses Heavy PS5 Pre-Order Lead for GTA 6",
-  "summary": "Xbox executives have responded to reports concerning the significant gap in GTA 6 pre-order numbers between PS5 and Microsoft platforms.",
-  "verified": "reliable_reporter",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/gta-6-preorders-xbox-ps5-sales-matthew-ball-response/"
- },
- {
-  "date": "2026-09-25T19:02:59.782011+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "Candy Crush Developer Avoids Strike With Collective Bargaining Agreement",
-  "summary": "King, the developer behind Candy Crush, has successfully averted a strike by signing a new collective bargaining agreement.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2269263/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike/"
- },
- {
   "date": "2026-09-25T19:34:07.905102+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -3540,5 +3507,27 @@
   "verified": "reliable_reporter",
   "source": "Engadget",
   "link": "https://www.engadget.com/2271136/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending/"
+ },
+ {
+  "date": "2026-09-28T19:04:49.119052+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "update",
+  "headline": "Apple Releases Emergency Security Updates for iOS and macOS",
+  "summary": "Apple has released emergency software updates including iOS 26.7.1 and macOS patches to fix a major vulnerability actively exploited in targeted attacks.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/28/ios-26-7-1-active-exploit-fixed/"
+ },
+ {
+  "date": "2026-09-28T19:04:49.119052+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "OpenAI Rumored to Unveil 'Aeon' AI Agent at DevDay",
+  "summary": "OpenAI is expected to announce its new consumer-facing AI agent, codenamed Aeon, at its upcoming DevDay event to catch up in the autonomous agent market.",
+  "verified": "unconfirmed",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent"
  }
 ]
