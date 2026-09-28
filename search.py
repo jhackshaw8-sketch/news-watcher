@@ -40,16 +40,24 @@ ARTICLE_PROMPT = """Below is the full text of a news article. Read it carefully,
 {{"headline": "a short, catchy, engaging headline for this story (not the original title, your own hook, under 12 words)",
  "recap": "3 to 5 short bullet lines covering the actual details in the article (names, numbers,
  dates, quotes if notable), most important first",
- "posts": [{{"type": "single" or "thread", "tweets": ["..."]}}]}}
+ "posts": [{{"type": "single" or "thread", "tweets": ["..."]}}],
+ "longform_post": "ONE alternative post in a longer style, described below"}}
 
-Write {n} different posts/threads, each a different angle on THIS article (e.g. the headline
-fact, a surprising detail, the reaction or what's next). For a simple angle write ONE punchy
-tweet ("single"). For an angle with several things worth covering, write a thread of 2 to 4
-tweets ("thread"), each starting with its number like "1/3".
-Rules: each tweet under 250 characters, no links in the tweet text, plain engaging language,
-hook the reader in the first line. ALWAYS end the tweet (or the last tweet of a thread) with 1 to 2 relevant hashtags that would help people discover the post (e.g. the game/company/product name, or a trending term tied to the story). If the article says something
-is unconfirmed or a rumor, say so ("Rumor:", "Reportedly"). Use only what the article actually
-says, never invent details.
+For "posts", write {n} different short posts/threads, each a different angle on THIS article
+(e.g. the headline fact, a surprising detail, the reaction or what's next). For a simple angle
+write ONE punchy tweet ("single"). For an angle with several things worth covering, write a
+thread of 2 to 4 tweets ("thread"), each starting with its number like "1/3". Rules: each tweet
+under 250 characters, no links in the tweet text, plain engaging language, hook the reader in
+the first line. ALWAYS end the tweet (or the last tweet of a thread) with 1 to 2 relevant
+hashtags that would help people discover the post.
+
+For "longform_post", write ONE extra post, a different style: a short punchy hook sentence on
+its own line, then a blank line, then 1 to 2 short paragraphs (1 to 3 sentences each) of actual
+detail in plain conversational language, each separated by a blank line, then a blank line and
+1 to 2 relevant hashtags. Keep it under 600 characters total.
+
+If the article says something is unconfirmed or a rumor, say so ("Rumor:", "Reportedly"). Use
+only what the article actually says, never invent details.
 
 Article:
 {article}
@@ -59,14 +67,23 @@ DIARY_PROMPT = """A user searched for: "{keyword}". Below are numbered stories a
 gathered from tracked news sources that match. Return ONLY JSON:
 {{"headline": "a short, catchy, engaging headline covering these stories (under 12 words)",
  "recap": "2 to 4 short bullet lines summarizing what these stories say, most important first",
- "posts": [{{"story_id": <number>, "type": "single" or "thread", "tweets": ["..."]}}]}}
+ "posts": [{{"story_id": <number>, "type": "single" or "thread", "tweets": ["..."]}}],
+ "longform_post": {{"story_id": <number>, "text": "ONE alternative post in a longer style, described below"}}}}
 
-Write up to {n} posts, each about a DIFFERENT story from the list (do not repeat the same
-story). For a simple story write ONE punchy tweet ("single"). If a story has several things
-worth covering, write a thread of 2 to 4 tweets ("thread"), each starting with its number
-like "1/3". Rules: each tweet under 250 characters, no links in the tweet text, plain
-engaging language. ALWAYS end each tweet (or the last tweet of a thread) with 1 to 2 relevant hashtags that would help people discover the post (e.g. the topic/company/game name, or a trending term). If a story is marked unconfirmed, say so
-("Rumor:", "Reportedly"). Use only the stories given, never invent facts.
+For "posts", write up to {n} short posts/threads, each about a DIFFERENT story from the list
+(do not repeat the same story). For a simple story write ONE punchy tweet ("single"). If a
+story has several things worth covering, write a thread of 2 to 4 tweets ("thread"), each
+starting with its number like "1/3". Rules: each tweet under 250 characters, no links in the
+tweet text, plain engaging language. ALWAYS end each tweet (or the last tweet of a thread) with
+1 to 2 relevant hashtags that would help people discover the post.
+
+For "longform_post", pick the single best story from the list and write ONE extra post in a
+different style: a short punchy hook sentence on its own line, then a blank line, then 1 to 2
+short paragraphs (1 to 3 sentences each) of actual detail, each separated by a blank line, then
+a blank line and 1 to 2 relevant hashtags. Keep it under 600 characters total.
+
+If a story is marked unconfirmed, say so ("Rumor:", "Reportedly"). Use only the stories given,
+never invent facts.
 
 Stories:
 {listing}
@@ -83,7 +100,7 @@ RECAP:
 
 POST 1:
 (one punchy tweet, OR a thread of 2 to 4 tweets, each starting with its number like 1/3,
-if the story has several things worth covering)
+if the story has several things worth covering. End with 1 to 2 relevant hashtags.)
 Link: (the full, real, working article URL you found for this story, starting with https://)
 
 POST 2:
@@ -94,10 +111,17 @@ POST 3:
 (same idea, a different story or angle)
 Link: (the full, real, working article URL for this different story)
 
-Rules: each tweet under 250 characters, no links inside the tweet text itself (only after
-"Link:"), plain engaging language. ALWAYS end each tweet (or the last tweet of a thread) with 1 to 2 relevant hashtags that would help people discover the post. Say clearly when something
-is a rumor or unconfirmed ("Rumor:", "Reportedly"). Use only what you actually found and
-never invent details or URLs; if you cannot find a real link for a post, write "Link: none"."""
+LONGFORM:
+(ONE extra post, a different style, about your favorite story above: a short punchy hook
+sentence on its own line, then a blank line, then 1 to 2 short paragraphs of actual detail
+[1 to 3 sentences each] with a blank line between paragraphs, then a blank line and 1 to 2
+relevant hashtags. Keep the whole post under 600 characters.)
+Link: (the same article URL used above for this story)
+
+Rules: each short tweet under 250 characters, no links inside any post text itself (only after
+"Link:"). Say clearly when something is a rumor or unconfirmed ("Rumor:", "Reportedly"). Use
+only what you actually found and never invent details or URLs; if you cannot find a real link
+for a post, write "Link: none"."""
 
 
 # ---------- Discord ----------
@@ -171,6 +195,10 @@ def handle_article(url, mid):
     headline = out.get("headline", "Story breakdown")
     post_drafts(out.get("posts", []), mid, f"**{headline}**\n{out.get('recap', '')}\n{url}")
 
+    longform = out.get("longform_post", "")
+    if longform:
+        reply(f"**Alt style (long-form):**\n{longform}\n{url}", mid)
+
 
 # ---------- Mode B: plain keyword ----------
 def find_in_diary(keyword):
@@ -202,6 +230,14 @@ def handle_web_fallback(keyword, mid):
     headline = title_match.group(1).strip() if title_match else f"Search: {keyword}"
     text = re.sub(r"TITLE:\s*\n?.+\n+", "", text, count=1)
 
+    # split off the LONGFORM section (comes after the numbered POSTs) so it doesn't get
+    # treated as just another POST block
+    longform_block = ""
+    lf_split = re.split(r"\n(?=LONGFORM:)", text)
+    text = lf_split[0]
+    if len(lf_split) > 1:
+        longform_block = lf_split[1]
+
     parts = [p.strip() for p in re.split(r"\n(?=POST \d)", text) if p.strip()]
     if not parts:
         reply(f"Nothing found for **{keyword}**, in your tracked news or the open web. Try different words.", mid)
@@ -216,6 +252,12 @@ def handle_web_fallback(keyword, mid):
         p = re.sub(r"^Link:\s*none\s*$", "_(no link found for this one)_", p, flags=re.MULTILINE | re.IGNORECASE)
         p = re.sub(r"^Link:\s*", "", p, flags=re.MULTILINE)
         reply(p, mid)
+
+    if longform_block.strip():
+        lf = re.sub(r"^LONGFORM:\s*\n?", "", longform_block.strip())
+        lf = re.sub(r"^Link:\s*none\s*$", "_(no link found for this one)_", lf, flags=re.MULTILINE | re.IGNORECASE)
+        lf = re.sub(r"^Link:\s*", "", lf, flags=re.MULTILINE)
+        reply(f"**Alt style (long-form):**\n{lf}", mid)
 
 
 def handle_keyword(keyword, mid):
@@ -238,6 +280,11 @@ def handle_keyword(keyword, mid):
             posts.append(post)
     headline = out.get("headline", f"Search: {keyword}")
     post_drafts(posts, mid, f"**{headline}** ({len(matches)} tracked stories found)\n{out.get('recap', '')}")
+
+    lf = out.get("longform_post") or {}
+    lf_idx, lf_text = lf.get("story_id"), lf.get("text")
+    if lf_text and isinstance(lf_idx, int) and 0 <= lf_idx < len(matches):
+        reply(f"**Alt style (long-form):**\n{lf_text}\n{matches[lf_idx]['link']}", mid)
 
 
 # ---------- Dispatch ----------
