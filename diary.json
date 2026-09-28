@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-09-25T10:36:48.568697+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "update",
-  "headline": "Bungie Announces Major Direction Shift for Marathon",
-  "summary": "Bungie is shifting Marathon away from pure extraction shooter mechanics to create a more approachable experience.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/marathon-bungie-future-roadmap-beyond-extraction"
- },
- {
-  "date": "2026-09-25T10:36:48.568697+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Report: Nintendo Shot Down Ubisoft's Ganondorf Zelda Game",
-  "summary": "Reports indicate Ubisoft previously pitched a Zelda spin-off starring Ganondorf before Nintendo rejected the project.",
-  "verified": "unconfirmed",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/the-legend-of-zelda/ubisoft-was-reportedly-working-on-a-new-legend-of-zelda-game-starring-ganondorf-only-for-nintendo-to-shoot-it-down/"
- },
- {
-  "date": "2026-09-25T10:36:48.568697+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "update",
-  "headline": "Blizzard Cracks Down on Inappropriate World of Warcraft Names",
-  "summary": "World of Warcraft developers show no sympathy while cracking down on inappropriate character names.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/world-of-warcraft/no-sympathy-as-world-of-warcraft-forever-players-face-bans-for-inappropriate-names-senior-dev-suggests-anyone-affected-be-a-better-human-next-time/"
- },
- {
   "date": "2026-09-25T11:03:05.069776+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -3881,5 +3848,49 @@
   "verified": "official",
   "source": "Eurogamer",
   "link": "https://www.eurogamer.net/world-of-warcraft-forever-beta-server-cap-increase"
+ },
+ {
+  "date": "2026-09-28T10:37:59.833307+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Magic: The Gathering Reality Fracture Launches This Week",
+  "summary": "Magic: The Gathering\u2019s Reality Fracture expansion officially releases this week with multiple product types available.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/magic-the-gathering-reality-fracture-where-to-buy"
+ },
+ {
+  "date": "2026-09-28T10:37:59.833307+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "WoW: Forever Beta Expands Population Caps",
+  "summary": "Blizzard has increased population caps for the WoW: Forever beta due to high player demand.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/world-of-warcraft/suffering-from-success-wow-forever-beta-gets-yet-another-population-cap-increase-as-blizzard-struggles-to-fit-everyone-into-its-new-mmo/"
+ },
+ {
+  "date": "2026-09-28T10:37:59.833307+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Unofficial Super Mario Galaxy PC Port Announced",
+  "summary": "An unofficial human-coded PC port of Super Mario Galaxy is currently in development with a planned release soon.",
+  "verified": "unconfirmed",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/"
+ },
+ {
+  "date": "2026-09-28T10:37:59.833307+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Jon Watts to Direct New Star Wars Trilogy Opener",
+  "summary": "Spider-Man director Jon Watts is set to helm the first film in the new Star Wars Skywalker Saga trilogy.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/star-wars-movies/spider-man-filmmaker-will-direct-first-movie-of-new-star-wars-trilogy-in-the-skywalker-saga-and-it-might-be-replacing-the-rey-film/"
  }
 ]
