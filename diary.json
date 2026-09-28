@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-25T08:38:03.819539+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "PlayStation Patent Explores NFC Payments via DualSense Controller",
-  "summary": "Sony has filed a patent detailing a new method for users to make digital purchases by tapping payment cards via NFC directly on their PlayStation DualSense controller.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/playstation-dualsense-nfc-payments/"
- },
- {
   "date": "2026-09-25T09:37:24.337989+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -3881,5 +3870,16 @@
   "verified": "official",
   "source": "The Verge",
   "link": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china"
+ },
+ {
+  "date": "2026-09-28T08:39:07.499343+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Marvel's Wolverine Update Lets Players Disable Scent Trails",
+  "summary": "Marvel's Wolverine receives patch 1.001.006, adding an option to disable scent trails for collectibles.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/marvels-wolverine-patch-turn-off-scent-trails"
  }
 ]
