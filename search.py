@@ -117,7 +117,7 @@ def call_gemini_json(prompt, use_search=False):
     if use_search:
         body["tools"] = [{"google_search": {}}]
     else:
-        body["generationConfig"] = {"responseMimeType": "application/json"}
+        body["generationConfig"] = {"responseMimeType": "application/json", "maxOutputTokens": 4096}
     r = requests.post(GEMINI_URL, params={"key": GEMINI_KEY}, json=body, timeout=120)
     r.raise_for_status()
     cand = r.json()["candidates"][0]
