@@ -3958,5 +3958,27 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
+ },
+ {
+  "date": "2026-09-28T21:35:59.368658+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "watchOS 27.0.1 Released for More Apple Watch Models",
+  "summary": "Apple has expanded the availability of watchOS 27.0.1 to all compatible Apple Watch models.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/28/watchos-27-0-1-is-now-available-for-all-compatible-apple-watch-models/"
+ },
+ {
+  "date": "2026-09-28T21:35:59.368658+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Releases watchOS 27.0.1 for Additional Models",
+  "summary": "Apple has rolled out the watchOS 27.0.1 update to additional Apple Watch models following its initial release.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/28/watchos-27-0-1-additional-models/"
  }
 ]
