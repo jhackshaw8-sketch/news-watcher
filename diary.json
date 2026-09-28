@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-09-25T19:34:07.905102+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Card Gains New iOS 27 Feature",
-  "summary": "iOS 27 introduces a new exclusive feature for Apple Card within the Apple Wallet app.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/25/apple-card-adds-new-feature-in-ios-27-that-every-card-should-have/"
- },
- {
-  "date": "2026-09-25T19:34:07.905102+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Banks Unite for Antitrust Lawsuit Over Apple Pay Fees",
-  "summary": "Banks and credit unions are teaming up to advance an antitrust lawsuit against Apple over Apple Pay fees and tap-to-pay restrictions.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/"
- },
- {
-  "date": "2026-09-25T19:34:07.905102+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Indie RPG Gets New Release Date",
-  "summary": "An indie RPG inspired by Fire Emblem and Hades has announced a new release date to avoid clashing with a potential Ocarina of Time remake.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/rpg/fire-emblem-and-hades-inspired-rpg-flees-from-ocarina-of-time-remake-definitely-not-because-zelda-shadowdropped-its-release-date-right-after-we-announced-ours/"
- },
- {
-  "date": "2026-09-25T19:34:07.905102+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Final Fantasy 7 Revelation Platinum Trophy Will Be Easier",
-  "summary": "Final Fantasy 7 Revelation will reportedly be easier to achieve a Platinum trophy for compared to its predecessor, Rebirth.",
-  "verified": "reliable_reporter",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/final-fantasy-7-revelation-will-be-easier-to-platinum-than-rebirth"
- },
- {
-  "date": "2026-09-25T19:34:07.905102+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Anthropic Signs Massive $11.6B Cloud Deal with Akamai",
-  "summary": "Anthropic has committed to an $11.6 billion cloud infrastructure deal with Akamai over seven years, which includes a potential equity stake of up to 5%.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
- },
- {
   "date": "2026-09-25T20:02:50.713559+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -3529,5 +3474,192 @@
   "verified": "unconfirmed",
   "source": "The Verge",
   "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Double Fine Announces Release Date for Thank You Bus Driver",
+  "summary": "Recently independent developer Double Fine is releasing its quirky driving simulator Thank You Bus Driver in just two weeks.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Alaturka Gets New Trailer Highlighting 1970s Istanbul",
+  "summary": "An official trailer has been released for Alaturka, an upcoming open-world game set in 1970s Istanbul.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wsnozb/alaturka_official_trailer_1970s_open_world/"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Persona 3 and Persona 4 Series Reach Major Sales Milestones",
+  "summary": "Latest sales figures reveal that both the Persona 3 and Persona 4 series have crossed major milestone thresholds.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wsn6wx/persona_3_series_surpasses_5_million_sales/"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Sony Implements Strict Lottery System for PS5 Pro in Japan",
+  "summary": "Sony is implementing a strict lottery and playtime requirement system in Japan to combat PS5 Pro stock shortages.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wsmf3i/ps5_pro_is_facing_stock_shortages_in_japan_sony/"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Heroes of the Storm Gets First New Hero in Six Years",
+  "summary": "Heroes of the Storm has received its first new hero in six years alongside significant gameplay updates and patches.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wsmavz/heroes_of_the_storm_the_first_new_hero_in_6_years/"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Devil May Cry HD Collection Update Cuts Steam Install Size",
+  "summary": "A surprise update for the Devil May Cry HD Collection on Steam has successfully cut its installation size in half.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wsj1zi/devil_may_cry_hd_collection_gets_surprise_steam/"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Denuvo Cracking Group Reportedly Disbands After Lawsuit",
+  "summary": "Prominent Denuvo cracking group DenuvOwO has reportedly disbanded following legal pressure from Irdeto.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wshfdu/denuvo_cracking_group_denuvowo_reportedly/"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Aliens: Fireteam Elite 2 Developer Facing Layoffs",
+  "summary": "Enad Global 7 has announced staff reductions at Cold Iron Studios, the developers behind Aliens: Fireteam Elite 2.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wsgo3h/enad_global_7_announces_staff_reduction_at_cold/"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Marvel's Wolverine Port Reportedly Boots on PC",
+  "summary": "Unreleased PlayStation 5 exclusive Marvel's Wolverine has reportedly achieved a boot state on PC, alongside performance progress for Demon's Souls.",
+  "verified": "unconfirmed",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wsg72t/ps5exclusive_marvels_wolverine_now_boots_on_pc/"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "CD Projekt Red Details The Witcher 3 Remastered",
+  "summary": "CD Projekt Red has detailed the various new additions and improvements coming in The Witcher 3: Wild Hunt Remastered.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wsflka/see_whats_new_in_the_witcher_3_wild_hunt/"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Fire Emblem: Fortune's Weave Japan Retail Sales Detailed",
+  "summary": "Famitsu retail data reveals the opening sales numbers for Fire Emblem: Fortune's Weave in Japan.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wsf429/famitsu_fire_emblem_fortunes_weave_has_sold/"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Mercenaries Recompiled Shows Off First Feature Showcase",
+  "summary": "The community project Mercenaries Recompiled has shared its first major feature showcase highlighting ongoing progress.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wsf3nn/mercenaries_recompiled_first_feature_showcase/"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Suri: The Seventh Note Gets Release Date Trailer",
+  "summary": "A new release date trailer has been dropped for the upcoming PS5 title Suri: The Seventh Note.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wse138/suri_the_seventh_note_release_date_trailer_ps5/"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Minecraft Dungeons II Review Round-Up Goes Live",
+  "summary": "Review threads have gone live for Minecraft Dungeons II ahead of its multi-platform release on September 29, 2026.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wse10h/minecraft_dungeons_ii_review_thread/"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Screen Stocks Receives Official Release Date Trailer",
+  "summary": "An official release date trailer has been published for Screen Stocks.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wsdzjr/screen_stocks_official_release_date_trailer/"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Ace Combat 8: Wings of Theve Launches With New Trailer",
+  "summary": "Ace Combat 8: Wings of Theve has officially released its high-octane launch trailer.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wsczee/ace_combat_8_wings_of_theve_launch_trailer/"
+ },
+ {
+  "date": "2026-09-28T19:37:36.661257+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "God of War Laufey Pre-Orders and Editions Detailed by Sony",
+  "summary": "PlayStation has announced that pre-orders for God of War Laufey editions will officially begin on September 29.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wscp74/god_of_war_laufey_preorders_available_starting/"
  }
 ]
