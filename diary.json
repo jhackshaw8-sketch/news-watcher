@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-25T04:03:06.156542+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Inventive Sci-Fi Thriller Heads to HBO Max in 2026",
-  "summary": "An acclaimed sci-fi liminal horror thriller is officially making its streaming debut on HBO Max in 2026.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/backrooms-hbo-max-streaming-september-2026/"
- },
- {
   "date": "2026-09-25T04:38:03.782558+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -3848,5 +3837,38 @@
   "verified": "official",
   "source": "9to5Mac",
   "link": "https://9to5mac.com/2026/09/27/anker-magsafe-travel-sized-3-in-1-charger-qi2/"
+ },
+ {
+  "date": "2026-09-28T04:03:58.358525+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Brew Magic Beer in New Trailer for Colony Sim Brewhaven",
+  "summary": "Wellfall Studios has shared a new trailer for Brewhaven, an upcoming colony and tavern management sim featuring magic-infused brewing.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1ws3oz1/brewhaven_wellfall_studios_colonybrewingtavern/"
+ },
+ {
+  "date": "2026-09-28T04:03:58.358525+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Turn-Based RPG Roguelike Carta Bellum Announced With Reveal Trailer",
+  "summary": "Azul Panther has revealed a reveal trailer and Steam page for Carta Bellum, a turn-based RPG roguelike set in a post-apocalyptic creature-battler world.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1ws27ey/carta_bellum_azul_panther_classic_turn_based_rpg/"
+ },
+ {
+  "date": "2026-09-28T04:03:58.358525+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "New Roguelike Deckbuilder Contested Space Announced",
+  "summary": "Null & Void Games has introduced Contested Space, a new 1-4 player mid-combat drafting roguelike deckbuilder inspired by Star Realms.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wrxi73/contested_space_null_void_games_a_14_player/"
  }
 ]
