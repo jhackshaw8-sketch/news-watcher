@@ -4409,5 +4409,27 @@
   "verified": "official",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1wst1du/noctua_partners_with_forced_physics_to_bring/"
+ },
+ {
+  "date": "2026-09-29T10:04:25.368837+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Protego Closes $125M Defense Tech Fund",
+  "summary": "Protego Ventures has closed its debut $125 million fund focused on Israeli defense technology.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/"
+ },
+ {
+  "date": "2026-09-29T10:04:25.368837+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Reports Detail Anthropic Finances and AI Risks",
+  "summary": "Reports indicate Anthropic faced heavy financial losses while discussing AI existential risks ahead of a potential IPO.",
+  "verified": "reliable_reporter",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2271659/anthropic-lost-8-billion-says-it-could-destroy-humanity/"
  }
 ]
