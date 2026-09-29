@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-26T18:03:12.916067+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Meta Reverses Stance to Run Ads for Elon Musk Documentary",
-  "summary": "Meta reverses its stance and decides to run advertisements for Alex Gibney's upcoming documentary about Elon Musk.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/"
- },
- {
   "date": "2026-09-26T18:38:36.136005+00:00",
   "topic": "Gaming News",
   "score": 8,
@@ -5476,5 +5465,60 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
+ },
+ {
+  "date": "2026-09-29T18:05:26.074177+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Creator Studio Adds iPhone 18 Pro Video Features",
+  "summary": "Apple Creator Studio updates bring new editing features for iPhone 18 Pro video and tools to Pixelmator Pro for iPad.",
+  "verified": "reliable_reporter",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/29/apple-creator-studio-lets-you-change-iphone-18-pro-video-focus-after-filming?utm_source=rss"
+ },
+ {
+  "date": "2026-09-29T18:05:26.074177+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Final Cut Camera Gains iPhone 18 Pro Aperture Support",
+  "summary": "Final Cut Camera for iOS has been updated to support the variable aperture system on the iPhone 18 Pro.",
+  "verified": "reliable_reporter",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/29/variable-aperture-iphone-18-pro-now-supported-by-final-cut-camera?utm_source=rss"
+ },
+ {
+  "date": "2026-09-29T18:05:26.074177+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "AI Researchers Warn Superintelligence Poses Extinction Risk",
+  "summary": "AI researchers from top labs warn in new interviews that artificial superintelligence poses an existential threat.",
+  "verified": "reliable_reporter",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews"
+ },
+ {
+  "date": "2026-09-29T18:05:26.074177+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "launch",
+  "headline": "OpenAI Launches ChatGPT Office Suite to Rival Microsoft",
+  "summary": "OpenAI has launched a new suite of office features for ChatGPT, directly challenging Microsoft and traditional software suites.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/"
+ },
+ {
+  "date": "2026-09-29T18:05:26.074177+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Study Highlights Extensive Data Sharing in Connected Cars",
+  "summary": "A new study highlights the extensive data sharing and tracking practices of connected cars and their companion apps.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/"
  }
 ]
