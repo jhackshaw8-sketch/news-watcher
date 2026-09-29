@@ -4134,5 +4134,16 @@
   "verified": "reliable_reporter",
   "source": "Engadget",
   "link": "https://www.engadget.com/2271626/openai-cancels-gpt-6-1-astra-release-deceptive-behavior/"
+ },
+ {
+  "date": "2026-09-29T09:05:04.920105+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Ex-Tesla Team Raises $12.5M for AI Supply Chain Startup Atomic",
+  "summary": "Former Tesla employees have raised $12.5 million for Atomic, an agentic supply chain software company already used by major firms like DoorDash and HelloFresh.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/"
  }
 ]
