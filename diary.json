@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-26T11:34:38.624515+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "Blizzard Defends Overwatch Seasonal Hero Releases",
-  "summary": "Blizzard defends its decision to implement seasonal hero releases in Overwatch as the studio prepares for upcoming content and new heroes.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/overwatch-2027-new-heroes-every-season/"
- },
- {
   "date": "2026-09-26T12:03:31.282524+00:00",
   "topic": "Tech News",
   "score": 9,
@@ -4519,5 +4508,27 @@
   "verified": "reliable_reporter",
   "source": "GamesRadar",
   "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-modder-behind-switch-1-port-using-rockstars-leaked-code-says-its-shutting-down-following-action-from-the-devs-i-am-thankful-for-take-twos-mercy/"
+ },
+ {
+  "date": "2026-09-29T11:37:05.807539+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Craig Federighi Talks iPhone Duo Development",
+  "summary": "Apple software chief Craig Federighi discussed how Apple assists developers in utilizing the features of the new iPhone Duo.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/craig-federighi-on-how-apple-helps-developers-make-the-most-of-the-iphone-duo-video/"
+ },
+ {
+  "date": "2026-09-29T11:37:05.807539+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Apple's $5.7B Haptic Verdict Likely to Shrink",
+  "summary": "Legal experts expect Apple's massive $5.7 billion haptic feedback trial loss to be significantly reduced upon negotiation.",
+  "verified": "reliable_reporter",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/29/apples-haptic-feedback-57b-trial-loss-likely-to-get-pared-way-back?utm_source=rss"
  }
 ]
