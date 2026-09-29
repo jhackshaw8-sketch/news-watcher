@@ -4090,5 +4090,16 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
+ },
+ {
+  "date": "2026-09-29T08:05:38.867384+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "Opera for Android Adds Free eSIM and Data",
+  "summary": "Opera for Android has integrated a free eSIM and 3GB of data for users in select countries.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2271064/opera-for-android-now-comes-with-a-free-esim-and-3gb-of-data/"
  }
 ]
