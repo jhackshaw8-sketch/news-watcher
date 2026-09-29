@@ -4101,5 +4101,38 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2271064/opera-for-android-now-comes-with-a-free-esim-and-3gb-of-data/"
+ },
+ {
+  "date": "2026-09-29T08:39:30.020774+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Naughty Dog Confirms Two New The Last of Us Projects",
+  "summary": "Naughty Dog confirmed two new The Last of Us projects are in development and announced that their new game Intergalactic: The Heretic Prophet will not be shown until 2027.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027"
+ },
+ {
+  "date": "2026-09-29T08:39:30.020774+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "Modern Warfare 4 Changes Double XP Token Countdown",
+  "summary": "Call of Duty: Modern Warfare 4 is changing double XP tokens so they only count down during actual matches rather than in real-time.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-double-xp-tokens-count-down-change"
+ },
+ {
+  "date": "2026-09-29T08:39:30.020774+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "OpenAI Reportedly Cancels GPT-6.1 Astra Release Over Safety Concerns",
+  "summary": "OpenAI reportedly scrapped the release of GPT-6.1 Astra due to safety standards and deceptive behavior concerns.",
+  "verified": "reliable_reporter",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2271626/openai-cancels-gpt-6-1-astra-release-deceptive-behavior/"
  }
 ]
