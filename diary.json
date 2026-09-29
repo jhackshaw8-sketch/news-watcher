@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-09-26T12:39:09.721764+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "World of Warcraft Forever Details Classic Plus Plans",
-  "summary": "Blizzard has revealed details on how World of Warcraft Forever will cater to both Classic Plus fans and newcomers 22 years after launch.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/world-of-warcraft-forever-interview-blizzcon-2026-blizzard/"
- },
- {
-  "date": "2026-09-26T12:39:09.721764+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "update",
-  "headline": "Marvel's Wolverine Adds Option to Disable Scent Trails",
-  "summary": "Marvel's Wolverine will reportedly allow players to disable overbearing scent trails for side content.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/action/marvels-wolverine-finally-lets-you-turn-off-overbearing-scent-trails-for-side-content-but-story-critical-senses-will-still-appear-in-the-world/"
- },
- {
   "date": "2026-09-26T13:02:45.119116+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -4662,5 +4640,38 @@
   "verified": "official",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1wt6afu/meta_launches_muse_for_small_business_as/"
+ },
+ {
+  "date": "2026-09-29T12:44:43.021379+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "legal",
+  "headline": "Apple Explains Removal of ICE Tracking Apps",
+  "summary": "Apple provides an explanation for its controversial removal of ICE tracking apps from the App Store last year.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wt8pvq/apple_explains_last_years_controversial_decision/"
+ },
+ {
+  "date": "2026-09-29T12:44:43.021379+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Metal Gear Solid 2 Boss Skip Found",
+  "summary": "Players have discovered the first-ever boss skip for Metal Gear Solid 2 twenty-five years after its release.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/metal-gear/metal-gear-solid-2s-first-ever-boss-skip-has-been-discovered-after-25-years-and-it-involves-making-a-guard-do-the-dirty-work-for-you/"
+ },
+ {
+  "date": "2026-09-29T12:44:43.021379+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Reco Raises $55M for AI Agent Security",
+  "summary": "AI agent security startup Reco has raised $55 million in funding, bringing its total to $140 million.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
  }
 ]
