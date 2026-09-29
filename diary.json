@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-26T14:35:29.748416+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "New D&D-Inspired TCG Debuts at PAX West 2026",
-  "summary": "A new tabletop-inspired trading card game showcased at PAX West 2026 blends Magic: The Gathering mechanics with D&D-style dice battles.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/world-of-kylia-ascendant-tcg-pax-west-2026-impressions-review/"
- },
- {
   "date": "2026-09-26T15:02:58.689325+00:00",
   "topic": "Gaming News",
   "score": 8,
@@ -4739,5 +4728,115 @@
   "verified": "reliable_reporter",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1wt8gca/anthropic_warns_of_existential_ai_risks_to/"
+ },
+ {
+  "date": "2026-09-29T14:39:35.550238+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "iOS 27 Shortcuts App Gains 35+ New Actions",
+  "summary": "Apple's Shortcuts app in iOS 27 introduces over 35 new and improved actions for users.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/ios-27s-shortcuts-app-adds-35-new-improved-actions-heres-whats-new/"
+ },
+ {
+  "date": "2026-09-29T14:39:35.550238+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Report Claims iPhone Duo Production Facing Yield Challenges",
+  "summary": "Manufacturers report that producing the folding iPhone Duo is proving difficult due to complex screen and hinge requirements.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/29/making-millions-of-iphone-duos-is-proving-harder-than-apple-hoped?utm_source=rss"
+ },
+ {
+  "date": "2026-09-29T14:39:35.550238+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Reminders App Gets Major Upgrades in iOS 27",
+  "summary": "iOS 27 brings powerful new features and upgrades to Apple's Reminders app.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/heres-everything-new-for-reminders-in-ios-27/"
+ },
+ {
+  "date": "2026-09-29T14:39:35.550238+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Space Marine 2 Dev Reveals Most-Played Class",
+  "summary": "Focus Entertainment has revealed the most and least popular player classes in Warhammer 40,000: Space Marine 2 to celebrate its anniversary.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/warhammer-40000-space-marine-2-dev-reveals-the-most-played-class-and-whos-bringing-up-the-rear"
+ },
+ {
+  "date": "2026-09-29T14:39:35.550238+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "The Witcher 3 Expansion Teased for 2027",
+  "summary": "A glimpse of The Witcher 3's upcoming expansion, Songs of the Past, has been released ahead of its planned 2027 launch.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/witcher-3-songs-of-the-past-expansion-soundtrack/"
+ },
+ {
+  "date": "2026-09-29T14:39:35.550238+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Guillermo del Toro Reveals Cancelled BioShock Movie",
+  "summary": "Guillermo del Toro shared that his planned BioShock movie adaptation was canceled following a disastrous phone call.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/guillermo-del-toro-reveals-he-tried-to-adapt-bioshock-into-a-movie-but-disastrous-phone-call-ended-the-project-before-it-began"
+ },
+ {
+  "date": "2026-09-29T14:39:35.550238+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Ex-PlayStation Lead on Console Generations",
+  "summary": "Former PlayStation lead Shuhei Yoshida suggests Sony and Nintendo should extend the current console generation as long as possible.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/hardware/ex-playstation-lead-thinks-sony-and-nintendo-should-try-to-keep-the-current-generation-as-long-as-possible-amid-hardware-price-hikes-people-are-very-happy-using-ps5-and-switch-2/"
+ },
+ {
+  "date": "2026-09-29T14:39:35.550238+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Hades 2 Devs Discuss Sequel Development",
+  "summary": "Supergiant Games developers discuss how they approached the development of Hades 2 with skepticism rather than just smart business choices.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/hades/hades-2-devs-say-the-sequel-wasnt-about-the-smart-business-choice-we-have-made-the-dumb-decision-many-times-in-a-row/"
+ },
+ {
+  "date": "2026-09-29T14:39:35.550238+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Leaked Images Reveal New Colors for Upcoming Amazon Kindle",
+  "summary": "Leaked images suggest Amazon is preparing new color options for its upcoming entry-level Kindle ahead of the holiday season.",
+  "verified": "unconfirmed",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1001905/amazon-leak-basic-entry-level-kindle-colors-design-power-button"
+ },
+ {
+  "date": "2026-09-29T14:39:35.550238+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Meta's Muse AI Leaks User's Home Address to Stranger",
+  "summary": "Meta's Muse AI assistant reportedly leaked a tech YouTuber's home address to a stranger during a Facebook Marketplace interaction.",
+  "verified": "reliable_reporter",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns"
  }
 ]
