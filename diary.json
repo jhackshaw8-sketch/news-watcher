@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-09-26T14:02:58.556021+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "Traditional Industries See Limited AI Gains",
-  "summary": "Experts note that traditional industries are experiencing limited productivity gains from AI as the broader economic divide widens.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wqquaf/traditional_industries_see_limited_ai_gains_as/"
- },
- {
-  "date": "2026-09-26T14:02:58.556021+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "update",
-  "headline": "How to Use Samsung's Built-In Galaxy Hardware Diagnostic Tool",
-  "summary": "Samsung includes a comprehensive built-in hardware diagnostic tool that allows users to test various components of their Galaxy phones.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2265327/how-to-check-samsung-galaxy-phone-health-diagnostics-test/"
- },
- {
-  "date": "2026-09-26T14:02:58.556021+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "other",
-  "headline": "CERN Begins Disconnecting the Large Hadron Collider",
-  "summary": "CERN has reportedly begun the process of disconnecting the Large Hadron Collider for upgrades or maintenance work.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wqqj9o/cern_has_begun_disconnecting_the_large_hadron/"
- },
- {
   "date": "2026-09-26T14:35:29.748416+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -4596,5 +4563,181 @@
   "verified": "official",
   "source": "The Verge",
   "link": "https://www.theverge.com/tech/1001859/fairphone-fairbuds-2-wireless-earbuds-repairable-modular-price-release"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Apple TV reveals trailer for new thriller series",
+  "summary": "Apple TV has unveiled a trailer for its new gripping serial killer thriller starring Liev Schreiber and Zazie Beetz.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/apple-tv-unveils-chilling-serial-killer-thriller-based-on-bestselling-novel/"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "New Apple TV 4K hinted at in Apple support document",
+  "summary": "An official Apple support document has further hinted at the upcoming release of a new Apple TV 4K model.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/29/new-apple-tv-4k-hinted-at-in-support-document/"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Apple defends ICEblock App Store removal to lawmaker citing safety",
+  "summary": "Apple informed a lawmaker that safety concerns were the primary reason for removing the ICEblock app from the App Store.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/29/safety-concerns-forced-iceblock-removal-apple-tells-lawmaker?utm_source=rss"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Monster Hunter Outlanders Sets 2026 Mobile Release Date",
+  "summary": "Monster Hunter Outlanders has officially received a release date of October 29, 2026, for iOS and Android platforms.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/monster-hunter-outlanders-release-date/"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "The Blood of Dawnwalker Intentional Hard Difficulty Explained",
+  "summary": "Developers of The Blood of Dawnwalker confirm that playing in human form during the day is intentionally more difficult than playing as a vampire.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/blood-of-dawnwalker-harder-as-human-easier-as-vampire"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Marissa Mayer Unveils Dazzle AI Assistant",
+  "summary": "Former Yahoo CEO Marissa Mayer is introducing Dazzle, an AI personal assistant built around user camera rolls.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Surveillance Firm Pushes Facial Recognition for Flock Cameras",
+  "summary": "A surveillance company is pitching police departments on adding facial recognition technology to Flock cameras.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtaruf/surveillance_company_tells_cops_it_wants_to_add/"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "launch",
+  "headline": "SteelSeries Releases Lightweight UWB Gaming Mice",
+  "summary": "SteelSeries has launched ultra-lightweight Rival Pro and Sensei Pro wireless mice featuring UWB connectivity.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/games/1000245/steelseries-rival-sensei-pro-uwb-swappable-batteries-specs-price"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "Meta Expands Muse AI Agent to Small Businesses",
+  "summary": "Meta is expanding the availability of its Muse AI agent to help small businesses manage operations and find customers.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Chip-Cooling Startup Founder Becomes Billionaire After Debut",
+  "summary": "A former plastics salesman became a billionaire after shares of a chip-cooling materials maker surged following its debut.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtakpf/former_plastics_salesman_becomes_billionaire_as/"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "How AI is Revolutionizing Silicon Chip Design",
+  "summary": "The chipmaking industry is increasingly leveraging AI tools, from EDA software to specialized models, to design new silicon.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wt9tap/silicon_is_starting_to_design_silicon_how_ai_is/"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "EVgo Upgrades Network With 750 kW Chargers",
+  "summary": "EVgo is upgrading its charging infrastructure with new 750 kW EV chargers.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wt9sgl/evgo_is_supercharging_its_network_with_750_kw_ev/"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Prime Video Executive Details AI Strategy for Creatives",
+  "summary": "A Prime Video executive outlined the company's strategic vision for integrating AI into creative industries.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wt91xo/prime_video_exec_sets_out_vision_for_ai_in_the/"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Disclosures Reveal US Political Spending on AI Tools",
+  "summary": "New campaign disclosures reveal financial details regarding how much US political campaigns spend on AI tools.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wt8tow/new_campaign_disclosures_reveal_how_much_american/"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Report: Microsoft Copilot Human Reviewers Can View User Photos",
+  "summary": "A report reveals that human reviewers for Microsoft Copilot can access users' uploaded photos and edited content.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wt8m68/report_finds_that_microsoft_copilots_human/"
+ },
+ {
+  "date": "2026-09-29T14:05:51.847153+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Anthropic Warns of Existential AI Risks in IPO Filing",
+  "summary": "Anthropic has included warnings regarding existential AI risks to humanity in its IPO documentation.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wt8gca/anthropic_warns_of_existential_ai_risks_to/"
  }
 ]
