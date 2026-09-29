@@ -1,7 +1,8 @@
-"""Reads the diary, asks Gemini to pick 3 stand-out stories per topic and write
-either a single tweet or a short thread for each (its choice, based on how
-much there is to say), then posts them to the digest Discord channel, each
-ending with that story's own link so Discord shows its image."""
+"""Reads the diary, asks Gemini to pick 3 stand-out stories per topic, write a
+catchy headline for each, and write either a single tweet or a short thread
+(its choice, based on how much there is to say), then posts them to the
+digest Discord channel, each ending with that story's own link so Discord
+shows its image."""
 import json
 import os
 import time
@@ -25,19 +26,22 @@ PROMPT = """You write daily X (Twitter) posts for a page about: {topic}.
 Below is a numbered list of today's stories (score = importance 1-10, verified = how solid the sourcing is).
 
 Pick the {n} stand-out stories (favor a mix of different stories, not near-duplicates).
-For EACH story, decide:
-- If it's a simple, single-fact update -> write ONE punchy tweet.
-- If it has multiple things worth covering (what happened, why it matters, reactions,
-  what's next, background) -> write a THREAD of 2 to {max_thread} short tweets that build
-  on each other, most important fact first. Start each thread tweet with its number,
-  like "1/3", "2/3".
+For EACH story:
+1. Write a short, catchy, engaging headline (your own hook, not the original title, under 12 words).
+2. Decide:
+   - If it's a simple, single-fact update -> write ONE punchy tweet.
+   - If it has multiple things worth covering (what happened, why it matters, reactions,
+     what's next, background) -> write a THREAD of 2 to {max_thread} short tweets that build
+     on each other, most important fact first. Start each thread tweet with its number,
+     like "1/3", "2/3".
 
 Return ONLY JSON:
-{{"posts": [{{"story_id": <number>, "type": "single" or "thread", "tweets": ["...", "..."]}}]}}
+{{"posts": [{{"story_id": <number>, "headline": "...", "type": "single" or "thread", "tweets": ["...", "..."]}}]}}
 ("tweets" has exactly 1 item for "single", 2 to {max_thread} items for "thread")
 
 Tweet rules: each tweet under 250 characters (a link is added after the last one, leave room),
-no links inside the tweet text itself, plain engaging language, at most one hashtag total per post.
+no links inside the tweet text itself, plain engaging language. ALWAYS end the tweet (or the
+last tweet of a thread) with 1 to 2 relevant hashtags that would help people discover the post.
 If a story is unconfirmed or a rumor, say so clearly (e.g. "Rumor:" or "Reportedly") instead of
 stating it as fact. Never invent facts beyond the story given.
 
@@ -56,7 +60,7 @@ def ask_gemini(topic, stories):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
     body = {
         "contents": [{"parts": [{"text": text}]}],
-        "generationConfig": {"responseMimeType": "application/json"},
+        "generationConfig": {"responseMimeType": "application/json", "maxOutputTokens": 4096},
     }
     r = requests.post(url, params={"key": GEMINI_KEY}, json=body, timeout=90)
     r.raise_for_status()
@@ -95,10 +99,13 @@ def main():
             tweets = post.get("tweets") or []
             if not tweets:
                 continue
+            # this real article link is what makes Discord show a picture for the post
             link = stories[idx]["link"]
             label = "Thread" if post.get("type") == "thread" and len(tweets) > 1 else "Post"
+            headline = post.get("headline", "").strip()
+            title_line = f"**{label} {i}: {headline}**" if headline else f"**{label} {i}:**"
             body_text = "\n\n".join(tweets)
-            msg = f"**{label} {i}:**\n{body_text}\n{link}"
+            msg = f"{title_line}\n{body_text}\n{link}"
             requests.post(WEBHOOK, json={"content": msg[:1990]}, timeout=30).raise_for_status()
             posted += 1
             time.sleep(1)
