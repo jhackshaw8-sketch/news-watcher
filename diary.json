@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-26T13:34:08.197620+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Marvel's Wolverine Update Adds Option to Disable Scent Trails",
-  "summary": "A new update for the PS5 exclusive Marvel's Wolverine introduces an option to disable the game's controversial scent trails.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/wolverine-turn-off-scent-trails/"
- },
- {
   "date": "2026-09-26T14:02:58.556021+00:00",
   "topic": "Tech News",
   "score": 5,
@@ -4519,5 +4508,93 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2255920/qalo-launches-a-smart-band-to-wear-alongside-its-smart-ring/"
+ },
+ {
+  "date": "2026-09-29T13:40:41.372830+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Google Fixes Firebase Bug Causing iPhone App Crashes",
+  "summary": "Google has resolved a Firebase issue that caused widespread iPhone app crashes.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5google.com/2026/09/29/google-firebase-iphone-app-crash-fixed/"
+ },
+ {
+  "date": "2026-09-29T13:40:41.372830+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "iPhone Duo Reportedly Faces Production Hurdles",
+  "summary": "The upcoming iPhone Duo is experiencing production hurdles ahead of its October release.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/29/iphone-duo-reportedly-facing-production-problems/"
+ },
+ {
+  "date": "2026-09-29T13:40:41.372830+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Discussion: iPhone Duo Facing Production Issues",
+  "summary": "Reddit discussion highlights reports of production difficulties facing the upcoming iPhone Duo.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wta35h/iphone_duo_reportedly_facing_production_problems/"
+ },
+ {
+  "date": "2026-09-29T13:40:41.372830+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Explanation Provided for Recent iPhone App Crashes",
+  "summary": "An issue with Google Analytics for Firebase integration caused temporary iPhone app crashes.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/29/heres-why-iphone-apps-were-crashing/"
+ },
+ {
+  "date": "2026-09-29T13:40:41.372830+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Naughty Dog Confirms Two New Last of Us Projects in Development",
+  "summary": "Naughty Dog announced they have two projects in development within The Last of Us universe.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/naughty-dog-the-last-of-us-two-new-projects-intergalactic-update-2027/"
+ },
+ {
+  "date": "2026-09-29T13:40:41.372830+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Ace Combat 8 PC Launch Soured by Pre-Order Bonus Bundling Controversy",
+  "summary": "Ace Combat 8's early access launch faces backlash on PC due to how the bundled Belkan War re-release is tied to the main game compared to consoles.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-steam-community-reaction"
+ },
+ {
+  "date": "2026-09-29T13:40:41.372830+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Lego Announces First Ever Dragon Ball Set Featuring Shenron and Kid Goku",
+  "summary": "Lego has officially revealed its first Dragon Ball set featuring Shenron and Kid Goku, releasing in November 2026.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/lego-dragon-ball-shenron-set-release-date-price-first-photos/"
+ },
+ {
+  "date": "2026-09-29T13:40:41.372830+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Fairphone Schedules Fairbuds 2 Launch for October 14",
+  "summary": "Fairphone has announced that its next-generation repairable wireless earbuds, the Fairbuds 2, will be fully revealed on October 14th.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1001859/fairphone-fairbuds-2-wireless-earbuds-repairable-modular-price-release"
  }
 ]
