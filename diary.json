@@ -5773,5 +5773,71 @@
   "verified": "reliable_reporter",
   "source": "The Verge",
   "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
+ },
+ {
+  "date": "2026-09-29T22:37:02.228270+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "Deadlock Hits Steam Peak Following Major City Never Sleeps Update",
+  "summary": "Valve has released a massive update for Deadlock, driving the hero shooter to a new all-time peak concurrent player count on Steam.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/valve-deadlock-update-september-2026-development/"
+ },
+ {
+  "date": "2026-09-29T22:37:02.228270+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "American Truck Simulator Sets Steam Record With New DLC",
+  "summary": "American Truck Simulator launched a new DLC that breaks away from traditional truck driving, setting a fresh Steam record for the game.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/simulation/american-truck-simulator-adds-dlc-where-you-dont-have-to-drive-a-truck-suddenly-sets-a-new-all-time-steam-player-record/"
+ },
+ {
+  "date": "2026-09-29T22:37:02.228270+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Guillermo del Toro Confirms Decades-Old BioShock Movie Rumors",
+  "summary": "Guillermo del Toro has officially confirmed long-standing industry rumors from 2008 regarding his involvement with a cancelled BioShock movie adaptation.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/action-movies/nearly-20-years-later-guillermo-del-toro-finally-confirms-old-bioshock-movie-rumors-probably-one-of-the-most-disastrous-calls-ive-ever-had/"
+ },
+ {
+  "date": "2026-09-29T22:37:02.228270+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "US Government Officially Adopts 'Super Intelligence' Term",
+  "summary": "President Trump signed an executive order requiring US government documents and websites to use the term 'Super Intelligence' instead of 'artificial intelligence.'",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
+ },
+ {
+  "date": "2026-09-29T22:37:02.228270+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "xAI Redirects dot.com Domain to Grok Ahead of OpenAI Launch",
+  "summary": "Elon Musk's xAI acquired the 'dot.com' domain, redirecting users to the Grok chatbot download page just before OpenAI's 'Dots' launch.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
+ },
+ {
+  "date": "2026-09-29T22:37:02.228270+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Study Reveals Connected Cars Sharing Extensive Data with Big Tech",
+  "summary": "Northeastern University researchers discovered that connected vehicles and companion apps frequently share detailed user data with major tech companies.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/"
  }
 ]
