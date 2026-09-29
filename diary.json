@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-09-26T18:38:36.136005+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "update",
-  "headline": "Minecraft Announces Ice Caves Game Drop",
-  "summary": "Mojang teased Minecraft's next game drop, featuring Ice Caves, frozen zombies, and ice balls.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/minecraft-confirms-ice-caves-as-next-game-drop-adds-frozen-zombies-ice-balls-and-more"
- },
- {
-  "date": "2026-09-26T18:38:36.136005+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "First Official Minecraft Hotel Coming in 2027",
-  "summary": "Minecraft LIVE revealed plans for the world's first official Minecraft hotel in 2027 alongside a new rollercoaster.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/worlds-first-official-minecraft-hotel-revealed-for-2027-first-ever-minecraft-rollercoaster-named"
- },
- {
-  "date": "2026-09-26T18:38:36.136005+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Minecraft Getting First New Dimension in 14 Years",
-  "summary": "Mojang announced The Sift for Java and Bedrock Edition arriving in 2027, marking the game's first new dimension in over 14 years.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-14-years"
- },
- {
-  "date": "2026-09-26T18:38:36.136005+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Zelda: Ocarina of Time Remake Trailer Shows Ganondorf",
-  "summary": "Nintendo released an extended clip showcasing a closer look at Ganondorf in the upcoming The Legend of Zelda: Ocarina of Time remake.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-extended-clip-reveals-closer-look-at-ganondorf"
- },
- {
   "date": "2026-09-26T19:33:24.022968+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -5520,5 +5476,104 @@
   "verified": "reliable_reporter",
   "source": "Ars Technica",
   "link": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/"
+ },
+ {
+  "date": "2026-09-29T18:41:30.705348+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Releases New AirPods Beta Firmware",
+  "summary": "Apple has rolled out a new beta firmware update for AirPods Pro and select other models.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/airpods-pro-3-and-more-just-got-new-firmware-update-in-beta/"
+ },
+ {
+  "date": "2026-09-29T18:41:30.705348+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "New AirPods Beta Firmware Released",
+  "summary": "Apple released new beta firmware build 9B5042a for various AirPods models to developers and public beta testers.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/29/apple-releases-new-airpods-beta-firmware-september/"
+ },
+ {
+  "date": "2026-09-29T18:41:30.705348+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "Apple Partners with AAP for Screen Time Guide",
+  "summary": "Apple has partnered with the American Academy of Pediatrics to provide parents with new Screen Time guides for children's devices.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/29/apple-american-academy-of-pediatrics-team-up-for-new-screen-time-guide?utm_source=rss"
+ },
+ {
+  "date": "2026-09-29T18:41:30.705348+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Final Cut Camera Gains Variable Aperture Support",
+  "summary": "Final Cut Camera app has added support for variable aperture on the iPhone 18 Pro.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wthnzt/final_cut_camera_now_supports_variable_aperture/"
+ },
+ {
+  "date": "2026-09-29T18:41:30.705348+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "Apple Shares New iOS 27 Parental Controls Guide",
+  "summary": "Apple published a new guide to help families utilize parental controls and child safety tools in iOS 27, iPadOS 27, and macOS 27.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/29/apple-ios-27-parental-control-guide/"
+ },
+ {
+  "date": "2026-09-29T18:41:30.705348+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Game of Thrones Movie Announced for 2029 Release",
+  "summary": "Warner Bros and HBO have announced Game of Thrones: Aegon's Conquest, the first feature film in the fantasy epic, scheduled for a June 2029 release.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/game-of-thrones-movie-2029-release-date-aegons-conquest/"
+ },
+ {
+  "date": "2026-09-29T18:41:30.705348+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "GTA 6 Developers Researched Real-Life Florida Culture",
+  "summary": "Rockstar developers reportedly conducted extensive real-world research by visiting strip clubs and beaches to capture authentic Florida life for GTA 6.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-devs-spent-years-going-to-strip-clubs-spending-time-on-the-beach-and-riding-with-ex-cops-to-research-florida-life/"
+ },
+ {
+  "date": "2026-09-29T18:41:30.705348+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "OpenAI Collaborates Privately on Nvidia's AI Safety Effort",
+  "summary": "OpenAI is privately collaborating with Nvidia despite being absent from its public Open Agent Safety Platform initiative.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/"
+ },
+ {
+  "date": "2026-09-29T18:41:30.705348+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "Google Combines Gemini and Find Hub for Document Tracking",
+  "summary": "Google is integrating Gemini with Find Hub to help users easily locate important digital documents.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents/"
  }
 ]
