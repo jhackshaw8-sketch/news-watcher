@@ -5575,5 +5575,38 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents/"
+ },
+ {
+  "date": "2026-09-29T19:04:38.221268+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Prepares iOS 27.2 with New Features",
+  "summary": "Apple is already working on iOS 27.2, bringing three new features to iPhones following the release of iOS 27.0.1.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/ios-27-2-three-new-features-coming-soon-to-your-iphone/"
+ },
+ {
+  "date": "2026-09-29T19:04:38.221268+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "business",
+  "headline": "Apple Releases Family Digital Habits Guide",
+  "summary": "Apple has launched a new guide designed to help families establish healthy digital habits with their devices.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wtikz3/apple_releases_new_guide_to_help_families_build/"
+ },
+ {
+  "date": "2026-09-29T19:04:38.221268+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "US Government Launches Official AI Chatbot Portal",
+  "summary": "The US government has launched America.gov, an official AI chatbot designed to serve as the main portal for federal services.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2272424/america-gov-is-us-government-ai-chatbot/"
  }
 ]
