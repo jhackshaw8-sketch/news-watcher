@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-26T20:35:15.029307+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "legal",
-  "headline": "TikTok Settles Alabama Lawsuit for $100M Over Child Safety Allegations",
-  "summary": "TikTok has agreed to pay at least $100 million to settle Alabama allegations that it misled users regarding safety and designed features to addict children.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
- },
- {
   "date": "2026-09-26T21:02:57.505665+00:00",
   "topic": "Gaming News",
   "score": 7,
@@ -5784,5 +5773,60 @@
   "verified": "unconfirmed",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
+ },
+ {
+  "date": "2026-09-29T20:38:46.326900+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Apple Faces Congressional Scrutiny Over ICEBlock App Removal",
+  "summary": "Rep. Jamie Raskin sent a letter to Apple regarding renewed scrutiny over the removal of the ICEBlock app from the App Store.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/apple-faces-renewed-scrutiny-over-removal-of-iceblock-from-the-app-store/"
+ },
+ {
+  "date": "2026-09-29T20:38:46.326900+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Apple Opens 'Get Ready' Pre-Order Phase for iPhone Duo",
+  "summary": "Apple has added a 'Get Ready' pre-order preparation option on its product page for the upcoming iPhone Duo.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/29/iphone-duo-get-ready-oct-12/"
+ },
+ {
+  "date": "2026-09-29T20:38:46.326900+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Ex-Halo Director Discusses Franchise Future",
+  "summary": "Former Halo creative director Frank O'Connor discusses potential future paths for the franchise.",
+  "verified": "reliable_reporter",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/halos-former-franchise-creative-director-sees-3-possible-paths-for-activisions-halo"
+ },
+ {
+  "date": "2026-09-29T20:38:46.326900+00:00",
+  "topic": "Gaming News",
+  "score": 10,
+  "category": "launch",
+  "headline": "Rockstar Details GTA 6 Gameplay Features",
+  "summary": "Rockstar reveals major new GTA 6 gameplay features, including dynamic weather and advanced NPC generation.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/gta-6-game-informer-weather-animals-npc-variety-gameplay-news/"
+ },
+ {
+  "date": "2026-09-29T20:38:46.326900+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "OpenAI builds toward an app store alternative within ChatGPT",
+  "summary": "OpenAI is developing features within ChatGPT that serve as an alternative to the traditional app store model for software discovery.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
  }
 ]
