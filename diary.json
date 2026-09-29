@@ -5663,5 +5663,27 @@
   "verified": "reliable_reporter",
   "source": "9to5Mac",
   "link": "https://9to5mac.com/2026/09/29/ifixit-teardown-of-the-new-airpods-5-reveals-first-real-repairability-improvement/"
+ },
+ {
+  "date": "2026-09-29T21:37:10.996774+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Rumored iPhone Duo Pre-Order Setup Dates Leak",
+  "summary": "Reports indicate Apple may allow pre-order setups for a rumored iPhone Duo starting October 12 ahead of an October 16 order date.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/29/get-ready-to-pre-order-the-iphone-duo-starting-october-12?utm_source=rss"
+ },
+ {
+  "date": "2026-09-29T21:37:10.996774+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Tesla Secures $30B in Credit Lines for Cybercab and Optimus Expansion",
+  "summary": "Tesla has secured $30 billion in new credit lines to help fund the scaling of its Cybercab and Optimus projects, though it does not plan to draw on the debt this year.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/"
  }
 ]
