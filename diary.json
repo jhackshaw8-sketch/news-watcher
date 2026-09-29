@@ -4013,5 +4013,38 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2271475/california-is-banning-public-officials-from-making-memecoins/"
+ },
+ {
+  "date": "2026-09-29T00:04:37.226080+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Critically Acclaimed RPG Keep Driving Lands on Switch",
+  "summary": "The highly-rated RPG Keep Driving has officially been released for consoles, including a well-suited port for the Nintendo Switch.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/keep-driving-switch-recommendation/"
+ },
+ {
+  "date": "2026-09-29T00:04:37.226080+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Blizzard Confirms Diablo 4 Seasons Will Outlive Diablo 5 Release",
+  "summary": "Blizzard has confirmed that Diablo 4 seasons will continue to receive support even after the eventual launch of Diablo 5.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/diablo/diablo-4-seasons-will-continue-after-diablo-5-launches-similar-to-diablo-2-and-3-blizzard-confirms/"
+ },
+ {
+  "date": "2026-09-29T00:04:37.226080+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "OpenAI Reportedly Ditches Model Over Safety and Performance Issues",
+  "summary": "OpenAI reportedly scrapped a model due to poor performance and safety concerns regarding its inability to follow instructions.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
  }
 ]
