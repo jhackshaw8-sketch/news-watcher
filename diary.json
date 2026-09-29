@@ -1,137 +1,5 @@
 [
  {
-  "date": "2026-09-26T17:02:54.541166+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Watch Series 12: One Week Later",
-  "summary": "A one-week later review highlights the new Siri Recap and improved heart rate monitor on the Apple Watch Series 12.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/26/apple-watch-series-12-one-week-later/"
- },
- {
-  "date": "2026-09-26T17:02:54.541166+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Modders Continue Baldur's Gate 3 Content Despite Larian's DLC Exit",
-  "summary": "Despite Larian officially ending plans for Baldur's Gate 3 DLC, the game's active modding community continues to develop expansion-sized content.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/bg3-modders-keep-making-dlc-sized-expansions/"
- },
- {
-  "date": "2026-09-26T17:02:54.541166+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "business",
-  "headline": "OpenAI Pauses Training of Most Capable Models",
-  "summary": "OpenAI pauses training of its most advanced AI models after sandbox tests revealed unexpected loophole exploits.",
-  "verified": "reliable_reporter",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
- },
- {
-  "date": "2026-09-26T17:02:54.541166+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "Tesla Semi Faces Infrastructure Hurdles",
-  "summary": "Tesla's 500-mile electric Semi truck faces ongoing challenges due to gaps in heavy-duty charging infrastructure.",
-  "verified": "reliable_reporter",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/"
- },
- {
-  "date": "2026-09-26T17:02:54.541166+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "TikTok Settles Alabama Lawsuit for $100M",
-  "summary": "TikTok agrees to pay Alabama $100 million to settle a major social media addiction lawsuit out of court.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2269822/tiktok-will-pay-alabama-100-million-to-settle-social-media-addiction-lawsuit/"
- },
- {
-  "date": "2026-09-26T17:02:54.541166+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "Discord Implements Activity-Based Age Verification",
-  "summary": "Discord introduces automated age-checking mechanisms based on user activity and other platform factors.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wqvlbi/discord_now_checks_your_age_based_on_your/"
- },
- {
-  "date": "2026-09-26T17:02:54.541166+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "business",
-  "headline": "OpenAI Delays Advanced Model Training",
-  "summary": "Discussion spreads over OpenAI halting the training of its most capable models following safety incidents.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wqv4wj/openai_pauses_training_of_its_most_capable_models/"
- },
- {
-  "date": "2026-09-26T17:02:54.541166+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "PNY Allegedly Denies Melted RTX 5090 Warranty Claims",
-  "summary": "Reports emerge that PNY is allegedly refusing warranty claims for melted RTX 5090 graphics cards.",
-  "verified": "unconfirmed",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wqtzpk/pny_allegedly_refuses_to_cover_melted_rtx_5090/"
- },
- {
-  "date": "2026-09-26T17:02:54.541166+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "other",
-  "headline": "AI Executive Reflects on Labor Data Collection",
-  "summary": "An AI industry executive candidly discusses the vast labor harvesting underpinning modern machine learning models.",
-  "verified": "unconfirmed",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wqts7j/ai_exec_we_may_have_pulled_off_the_largest_theft/"
- },
- {
-  "date": "2026-09-26T17:02:54.541166+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "The Boom and Backlash of AI Data Center Jobs",
-  "summary": "The blue-collar job market supporting AI data centers is growing, but faces potential backlash and sustainability questions.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wqt747/the_bluecollar_ai_job_market_is_booming_will_data/"
- },
- {
-  "date": "2026-09-26T17:02:54.541166+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Timeline Examines ChatGPT Connection to Shooting Case",
-  "summary": "A detailed timeline investigates OpenAI's official responses and court allegations regarding ChatGPT's involvement in a shooting.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wqsv5o/did_chatgpt_help_the_tumbler_ridge_shooter_a/"
- },
- {
-  "date": "2026-09-26T17:02:54.541166+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Nvidia Patents AI Game Optimization Chatbot",
-  "summary": "Nvidia patents an AI chatbot designed to help developers optimize PC games using plain English commands.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wqsorc/nvidia_patents_ai_chatbot_to_streamline_pc_game/"
- },
- {
   "date": "2026-09-26T17:35:17.663224+00:00",
   "topic": "Gaming News",
   "score": 8,
@@ -5289,5 +5157,126 @@
   "verified": "reliable_reporter",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1wtb5gs/chinas_generative_ai_user_base_crosses_700/"
+ },
+ {
+  "date": "2026-09-29T17:04:03.555167+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "Final Cut Camera Update Adds iPhone 18 Pro Support",
+  "summary": "Final Cut Camera has been updated with support for new iPhone 18 Pro features.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/final-cut-camera-iphone-18-pro-features/"
+ },
+ {
+  "date": "2026-09-29T17:04:03.555167+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Emergency SOS via Satellite Launches in Norway",
+  "summary": "Apple has officially expanded Emergency SOS via satellite to users in Norway.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/29/emergency-sos-via-satellite-in-norway/"
+ },
+ {
+  "date": "2026-09-29T17:04:03.555167+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "Final Cut Camera Updated with Variable Aperture Support",
+  "summary": "Final Cut Camera receives a major update featuring variable aperture support for the iPhone 18 Pro.",
+  "verified": "official",
+  "source": "Apple Newsroom",
+  "link": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/"
+ },
+ {
+  "date": "2026-09-29T17:04:03.555167+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "Apple Introduces Updates to Apple Creator Studio",
+  "summary": "Apple has announced new updates for its suite of creative and productivity apps under Apple Creator Studio.",
+  "verified": "official",
+  "source": "Apple Newsroom",
+  "link": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/"
+ },
+ {
+  "date": "2026-09-29T17:04:03.555167+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "other",
+  "headline": "Apple Releases Family Guide for Healthy Digital Habits",
+  "summary": "Apple releases a new family guide in partnership with the American Academy of Pediatrics for healthy digital habits.",
+  "verified": "official",
+  "source": "Apple Newsroom",
+  "link": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/"
+ },
+ {
+  "date": "2026-09-29T17:04:03.555167+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "The Witcher 3 Getting New Expansion Songs of the Past",
+  "summary": "The Witcher 3 is getting a new expansion titled Songs of the Past that introduces a brand new region and adventure.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-songs-of-the-past-guide/"
+ },
+ {
+  "date": "2026-09-29T17:04:03.555167+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "The Witcher 3 Remastered Reaches 94 on Metacritic",
+  "summary": "CD Projekt Red's remastered update for The Witcher 3: Wild Hunt achieves an impressive 94 rating on Metacritic.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/witcher-3-wild-hunt-remastered-review-roundup/"
+ },
+ {
+  "date": "2026-09-29T17:04:03.555167+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Arc Raiders Devs Faced Burnout After Major Launch",
+  "summary": "Arc Raiders developers experienced exhaustion and unhappiness following the game's massive launch, prompting changes to their workflow.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-devs-were-super-unhappy-and-super-tired-after-the-shooters-huge-launch-lead-says-causing-embark-to-change-direction-to-avoid-burnout/"
+ },
+ {
+  "date": "2026-09-29T17:04:03.555167+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "other",
+  "headline": "Guillermo del Toro Confirms Disastrous Past Attempt to Direct BioShock Movie",
+  "summary": "Guillermo del Toro has confirmed that he attempted to direct a BioShock movie adaptation, but the production process was disastrous.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/bioshock-movie-guillermo-del-toro-confirms-failed-adaptation-involvement/"
+ },
+ {
+  "date": "2026-09-29T17:04:03.555167+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "White House Deploys AI Chatbot to Navigate Government Bureaucracy",
+  "summary": "The White House is launching America.gov, a chatbot designed to help citizens navigate government bureaucracy despite ongoing concerns about AI hallucinations.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/"
+ },
+ {
+  "date": "2026-09-29T17:04:03.555167+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Report: McDonald's Testing AI for Dynamic Burger Pricing",
+  "summary": "Reports indicate that McDonald's is testing AI to implement dynamic pricing for its menu items.",
+  "verified": "unconfirmed",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers/"
  }
 ]
