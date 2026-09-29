@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-26T17:35:17.663224+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "update",
-  "headline": "Minecraft Getting First New Dimension in 2027",
-  "summary": "Minecraft is receiving its first new dimension since 2011, slated for release in 2027.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/minecraft-live-news-recap-sift-dimension/"
- },
- {
   "date": "2026-09-26T18:03:12.916067+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -5278,5 +5267,214 @@
   "verified": "unconfirmed",
   "source": "Engadget",
   "link": "https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Apple Releases Family Digital Habits Guide",
+  "summary": "Apple has released a new guide in partnership with the American Academy of Pediatrics to help families build healthy digital habits.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/apple-releases-guide-to-help-families-build-healthy-digital-habits/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Apple Explains Removal of ICE Tracking Apps",
+  "summary": "Apple explained to U.S. Representative Jamie Raskin that it removed ICE tracking apps from the App Store due to agent safety concerns.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/29/apple-explains-why-it-removed-ice-tracking-apps/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Apple Reportedly Scrapped Plan to Replace Support Staff with AI",
+  "summary": "Reports indicate Apple previously drew up plans to replace 5,000 support staff with AI before ultimately getting cold feet.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wtfu4j/apple_drew_up_plans_to_swap_5000_support_staff/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Updates iWork Apps and Pixelmator Pro",
+  "summary": "Apple has rolled out new feature updates for Pages, Keynote, Numbers, and Pixelmator Pro alongside updates to Final Cut Camera.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/pages-keynote-numbers-and-pixelmator-pro-just-got-new-features/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Updates Creator Studio and Final Cut Camera",
+  "summary": "Apple has officially updated Apple Creator Studio and Final Cut Camera for iOS with new features, including variable aperture support.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/29/apple-creator-studio-new-features/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Xbox Officially Launches Platinum Trophy Equivalent",
+  "summary": "Xbox has officially launched Mythic Achievements, its long-awaited equivalent to PlayStation's Platinum Trophies.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/xbox-mythic-achievement-announced-release-date/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "GTA 6 Preview Traffic Crashes Game Informer App",
+  "summary": "The Game Informer app and website crashed due to massive traffic from fans seeking exclusive GTA 6 coverage and screenshots.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/gta-6-game-informer-app-article-something-went-wrong-screenshots/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Game Informer Site Crashes Under GTA 6 Traffic",
+  "summary": "Game Informer's digital platforms crashed during the rollout of exclusive GTA 6 preview content amidst fan confusion.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/gta-6-reveal-crashes-game-informer-app-amid-confusion-over-free-coverage"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Lego Retiring Star Wars and X-Men Sets in 2026",
+  "summary": "Lego has announced plans to officially retire popular Star Wars and X-Men sets in 2026.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/best-lego-sets-retired-december-2026/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "launch",
+  "headline": "OpenAI Launches Dots AI Assistants",
+  "summary": "OpenAI announced Dots, an always-on AI assistant powered by GPT-6 Astra designed to perform background tasks across connected apps.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "OpenAI Introduces ChatGPT Space for Teams",
+  "summary": "OpenAI introduced ChatGPT Space, a shared hub for work projects and AI agents that integrates with Slack and Microsoft Teams.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2272248/chatgpt-space-for-work/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Protesters Rally Outside OpenAI DevDay",
+  "summary": "Protesters gathered outside OpenAI's DevDay keynote chanting slogans against Sam Altman and prioritizing people over profit.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Wabi Pivots to Personal AI Messaging Agent",
+  "summary": "AI app maker Wabi has pivoted its prompt-based app builder into a personal AI agent that creates interfaces on demand.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "OpenAI Launches $500 Pro Subscription Tier",
+  "summary": "OpenAI has introduced a new $500 Pro subscription tier while adjusting features on its existing $200 tier.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "OpenAI Unveils Dots Agentic Avatars",
+  "summary": "OpenAI debuted Dots, independent agentic avatars designed to pursue user-defined goals in the background.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "OpenAI to Support Multiple Dots Agents",
+  "summary": "Users will soon be able to control multiple OpenAI Dots personal agents simultaneously.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2272230/dots-are-openais-new-personal-agents-and-soon-youll-be-able-to-control-several-of-them/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "OpenAI Expands Codex with Cloud Environments",
+  "summary": "OpenAI updated Codex with reusable cloud development environments, voice-controlled CLI, and code review tools.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "OpenAI Launches Cost-Effective GPT-6.1 Sol",
+  "summary": "OpenAI launched GPT-6.1 Sol, a more cost-effective model that nearly matches GPT-6 Astra across complex professional workflows.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
+ },
+ {
+  "date": "2026-09-29T17:38:06.758756+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "OpenAI Expands ChatGPT Plugins and Automations",
+  "summary": "OpenAI is expanding ChatGPT plugins with sidebar homes, interactive panels, file viewers, and automation support.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
  }
 ]
