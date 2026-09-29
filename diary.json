@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-26T15:02:58.689325+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "rumor",
-  "headline": "GTA 6 Voice Cast Reminded of Strict NDAs",
-  "summary": "Rockstar Games has reportedly reminded the voice cast of the highly anticipated GTA 6 that they remain strictly bound by their nondisclosure agreements.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-reportedly-reminded-gta-6s-voice-cast-theyre-still-under-nda-after-actor-stephen-root-let-slip-hes-in-the-game/"
- },
- {
   "date": "2026-09-26T15:36:22.959752+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -4838,5 +4827,93 @@
   "verified": "reliable_reporter",
   "source": "The Verge",
   "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns"
+ },
+ {
+  "date": "2026-09-29T15:06:44.980616+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "First Look at Brendan Fraser in The Mummy 4",
+  "summary": "New set photos reveal Brendan Fraser's official look as Rick O'Connell in the currently filming Mummy 4.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/mummy-4-set-photos-rick-oconnell-brendan-fraser/"
+ },
+ {
+  "date": "2026-09-29T15:06:44.980616+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Lego Announces Massive Dragon Ball Shenron & Goku Set",
+  "summary": "A massive Lego Dragon Ball Shenron and Goku set has been revealed for a November release, kicking off a new partnership.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/toys-collectibles/massive-lego-dragon-ball-shenron-and-goku-set-revealed-and-its-just-the-beginning/"
+ },
+ {
+  "date": "2026-09-29T15:06:44.980616+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Fortnite Details Jam-Packed Halloween Horror Event",
+  "summary": "Epic Games has officially detailed the Fortnitemares Halloween event, featuring numerous iconic horror franchise characters.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/fortnite-october-halloween-fortnimares-2026-lineup/"
+ },
+ {
+  "date": "2026-09-29T15:06:44.980616+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Uhura Bionics Develops Emotional Voice Glasses",
+  "summary": "Uhura Bionics is developing emotion-carrying smart glasses to replace robotic voice devices for throat cancer survivors.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/"
+ },
+ {
+  "date": "2026-09-29T15:06:44.980616+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "launch",
+  "headline": "OpenAI DevDay 2026 Kicks Off With Major AI Announcements",
+  "summary": "OpenAI hosts its DevDay 2026 event featuring major announcements regarding ChatGPT and Codex.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2271985/openai-dev-day-live-blog-chatgpt-news/"
+ },
+ {
+  "date": "2026-09-29T15:06:44.980616+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Oura Postpones $2.2 Billion IPO Citing Market Uncertainty",
+  "summary": "Oura has postponed its planned $2.2 billion IPO due to market uncertainty.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/"
+ },
+ {
+  "date": "2026-09-29T15:06:44.980616+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Report: OpenAI Deems Planned GPT-6.1 Too Insecure for Release",
+  "summary": "OpenAI reportedly finds its planned GPT-6.1 model too insecure to release publicly due to safety and performance tradeoffs.",
+  "verified": "unconfirmed",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
+ },
+ {
+  "date": "2026-09-29T15:06:44.980616+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Anthropic IPO Pitch Includes Warning on AI Catastrophe Risks",
+  "summary": "Anthropic's IPO pitch includes stark warnings that future AI models could resist shutdowns and cause catastrophic harm.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
  }
 ]
