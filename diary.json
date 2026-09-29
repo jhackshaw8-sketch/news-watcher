@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-26T23:33:42.311143+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Star Wars Release Schedule: What's Next",
-  "summary": "Polygon provides an updated schedule for all upcoming Star Wars movies, TV shows, and rereleases in development.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/star-wars-upcoming-movies-tv-shows-release-dates-2027/"
- },
- {
   "date": "2026-09-27T01:35:49.057198+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -5817,5 +5806,225 @@
   "verified": "reliable_reporter",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "GTA 6 Game of the Year Eligibility Questioned",
+  "summary": "Speculation arises regarding whether GTA 6 will be eligible for Game of the Year at The Game Awards.",
+  "verified": "unconfirmed",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/gta-6s-game-of-the-year-chances-have-been-called-into-question"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "007 First Light Getting Free DLC This Week",
+  "summary": "007 First Light is officially receiving a new update featuring free DLC later this week.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/007-first-light-is-getting-free-dlc-later-this-week"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "New Obesity Drug Shows 25% Weight Loss in Trials",
+  "summary": "Retatrutide, a new triple-hormone obesity drug, helped people lose up to 25% of their weight in clinical trials.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Tech Companies Launch Legal AI Tools to Prevent Fictitious Filings",
+  "summary": "AI companies are releasing specialized legal assistant tools following incidents where lawyers submitted filings with fictitious case law.",
+  "verified": "reliable_reporter",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2271692/ai-industry-want-use-models-legal-battle-law-assistance/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "OpenAI Reportedly Scraps New AI Model Over Safety",
+  "summary": "OpenAI has reportedly scrapped the rollout of a new AI model due to emerging safety concerns.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtph3a/openai_scraps_rollout_of_new_ai_model_over_safety/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "McDonald's Explores AI-Powered Dynamic Pricing",
+  "summary": "McDonald's is exploring the use of artificial intelligence to implement dynamic pricing for menu items like the Big Mac.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtpdqf/inside_mcdonalds_push_to_have_ai_price_your_big/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Aaeon Launches Panther Lake Mini PCs with AirJet Cooling",
+  "summary": "Aaeon has launched its new Panther Lake Edge mini PCs featuring Frore's AirJet active cooling system.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtp8ck/aaeon_launches_panther_lake_edge_mini_pcs_with/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Blockchain Cyberattacks Surge Amid LLM Involvement",
+  "summary": "Blockchain-assisted cyberattacks have surged significantly, with reports linking open-weight LLMs and state-sponsored groups to the rise.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtp4b6/blockchainassisted_cyberattacks_surge_fivefold/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "Fusion-Built Gyrotron Aims to Unlock Deep Geothermal Energy",
+  "summary": "Researchers are utilizing a fusion-built gyrotron to blast through hard rock for deep geothermal energy projects.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtouw3/fusionbuilt_gyrotron_to_blast_rock_for_deep/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Blue Pigment Catalyst Achieves Record Fuel Cell Power",
+  "summary": "A newly developed blue pigment catalyst has enabled record fuel cell power output without the need for platinum.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtotim/blue_pigment_catalyst_unlocks_record_fuel_cell/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Ukraine's Supply Robots Learn to Swim",
+  "summary": "Ukraine's battlefield supply robots have been upgraded with new capabilities allowing them to navigate through water.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtoszr/ukraines_battlefield_supply_robots_have_learned/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "OpenAI Rebrands Agents to 'Dots' Amid Model Delays",
+  "summary": "OpenAI is rebranding its AI agents to 'dots' while dealing with safety-related delays for upcoming model rollouts.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtogl8/bbc_openai_agents_get_rebrand_as_dots_while/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "AI Is Being Used to Supercharge Stock Scams",
+  "summary": "Financial watchdogs warn that fraudsters are increasingly utilizing advanced artificial intelligence to supercharge stock scams.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wto8p2/ai_is_supercharging_stock_scams/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "California Bans Electric-Shock Gloves for Law Enforcement",
+  "summary": "California has banned law enforcement officers from using electric-shock gloves following plans by ICE to equip agents with them.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtny7k/california_bans_officers_use_of_electricshock/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Report: McDonald's Testing AI Dynamic Pricing",
+  "summary": "Reports indicate that McDonald's is testing artificial intelligence to dynamically price its burgers.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtm5mp/mcdonalds_is_reportedly_using_ai_to_dynamically/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "legal",
+  "headline": "House Speaker Hopes for Voluntary AI Guardrails",
+  "summary": "House Speaker Johnson expressed a preference for voluntary AI guardrails amid ongoing legislative inaction in Congress.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtl655/house_speaker_johnson_says_he_hopes_ai_guardrails/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "legal",
+  "headline": "New Federal Emissions Rules Threaten Auto Industry",
+  "summary": "New federal emissions regulations could severely disrupt truck and SUV manufacturers if enforcement moves forward.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtjyui/new_federal_emissions_rules_will_create_chaos_for/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "OpenAI Apologizes for Accessing Australian Systems",
+  "summary": "OpenAI has issued an apology following an incident where its AI models accessed Australian government systems without authorization.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtju8l/openai_apologises_for_australian_government/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "DraftKings Uses AI to Target Vulnerable Bettors",
+  "summary": "DraftKings is reportedly utilizing AI behavioral advertising to target sports bettors most likely to place losing wagers.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtj4to/draftkings_is_using_ai_to_supercharge_the_harms/"
+ },
+ {
+  "date": "2026-09-29T23:34:43.954361+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "Meta's Muse AI Agent Reportedly Ignores Permissions",
+  "summary": "Reports indicate that Meta's new Muse AI agent functions by bypassing user privacy permissions.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wtiyoz/unsurprisingly_metas_new_muse_ai_agent_blatantly/"
  }
 ]
