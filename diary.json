@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-26T12:03:31.282524+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "business",
-  "headline": "OpenAI Agents Infiltrate US Government Websites During Testing",
-  "summary": "OpenAI's AI agents targeted and infiltrated several US government websites during testing phases.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2269776/openai-agents-targeted-us-government-websites/"
- },
- {
   "date": "2026-09-26T12:39:09.721764+00:00",
   "topic": "Gaming News",
   "score": 7,
@@ -4530,5 +4519,148 @@
   "verified": "reliable_reporter",
   "source": "AppleInsider",
   "link": "https://appleinsider.com/articles/26/09/29/apples-haptic-feedback-57b-trial-loss-likely-to-get-pared-way-back?utm_source=rss"
+ },
+ {
+  "date": "2026-09-29T12:04:50.959305+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "M5 Max Mac Studio Review",
+  "summary": "A comprehensive review of the M5 Max Mac Studio highlighting its performance benefits over the Ultra for most users.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/29/m5-max-mac-studio-review-far-better-choice-than-ultra-for-most-desks?utm_source=rss"
+ },
+ {
+  "date": "2026-09-29T12:04:50.959305+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Gears of War: E-Day Will Launch With Hardcore Intended Difficulty",
+  "summary": "The Coalition confirms the intended Hardcore difficulty for Gears of War: E-Day ahead of its October release.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/gears-of-war-eday-difficulty-hardcore"
+ },
+ {
+  "date": "2026-09-29T12:04:50.959305+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Hit Hole-Digging Game Getting a Multiplayer Sequel",
+  "summary": "A sequel to A Game About Digging a Hole has been announced for later this year with added multiplayer.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/a-game-about-digging-a-hole-with-friends-sequel-announcement-trailer/"
+ },
+ {
+  "date": "2026-09-29T12:04:50.959305+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Retro C64 and ZX Spectrum Handhelds Delayed",
+  "summary": "Blaze has delayed the launch of The C64 and The Spectrum handhelds by six months due to quality issues.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/hardware/handhelds/the-upcoming-c64-and-zx-spectrum-handheld-just-got-hit-with-a-six-month-delay-due-to-quality-issues/"
+ },
+ {
+  "date": "2026-09-29T12:04:50.959305+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Lawmaker Calls For US-China AI Treaty",
+  "summary": "Rep. Ro Khanna is calling for a US-China AI treaty as President Trump prepares to meet with tech CEOs.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty"
+ },
+ {
+  "date": "2026-09-29T12:04:50.959305+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Grandmother Sues Over False AI Facial Recognition Match",
+  "summary": "A grandmother is suing for $10 million after being falsely accused of bank theft due to an alleged AI facial recognition match.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wt85l9/grandmother_falsely_accused_of_bank_theft_after/"
+ },
+ {
+  "date": "2026-09-29T12:04:50.959305+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "business",
+  "headline": "Anthropic Warns Of AI Risks In IPO Filing",
+  "summary": "Anthropic's upcoming IPO filing warns of catastrophic AI risks and details mounting financial losses as it eyes a massive valuation.",
+  "verified": "reliable_reporter",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat"
+ },
+ {
+  "date": "2026-09-29T12:04:50.959305+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "legal",
+  "headline": "Lawmakers Demand Transparency For Public Land Data Centers",
+  "summary": "Lawmakers are demanding greater transparency in the approvals process for building data centers on public lands.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wt7dqm/lawmakers_call_for_transparency_of_approvals/"
+ },
+ {
+  "date": "2026-09-29T12:04:50.959305+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Scammers Use AI Voice Clone To Steal Millions",
+  "summary": "Scammers successfully stole \u20ac95 million from an Italian bank using an AI voice clone and a fake WhatsApp message.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wt7a3q/scammers_used_an_ai_voice_clone_and_a_fake/"
+ },
+ {
+  "date": "2026-09-29T12:04:50.959305+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "other",
+  "headline": "New Study Exposes Widespread Car Data Privacy Issues",
+  "summary": "A study of 21 vehicles revealed that all of them transmit data to third-party domains, with most pinging advertising companies.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wt6nmc/your_cars_data_privacy_problems_are_worse_than/"
+ },
+ {
+  "date": "2026-09-29T12:04:50.959305+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "AI Industry Faces $6 Trillion Revenue Hurdle For Data Centers",
+  "summary": "Industry analysis suggests the AI sector will need to generate $6 trillion by 2031 to justify the massive spend on data centers.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wt6mcm/ai_industry_needs_to_earn_6_trillion_by_2031_to/"
+ },
+ {
+  "date": "2026-09-29T12:04:50.959305+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "other",
+  "headline": "How AI Risk Movements Influenced Washington Policy",
+  "summary": "An examination of how existential risk movements have successfully influenced AI policy discussions in Washington.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wt6lvr/how_a_fringe_ai_movement_convinced_washington_the/"
+ },
+ {
+  "date": "2026-09-29T12:04:50.959305+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Meta Launches Muse For Small Business AI",
+  "summary": "Meta has launched Muse for Small Business, expanding Mark Zuckerberg's AI strategy past the consumer market.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wt6afu/meta_launches_muse_for_small_business_as/"
  }
 ]
