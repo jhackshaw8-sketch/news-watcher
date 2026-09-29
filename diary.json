@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-26T22:02:58.144316+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "legal",
-  "headline": "Apple Faces $5.7 Billion Patent Infringement Verdict",
-  "summary": "Apple has been hit with a massive $5.7 billion verdict in a patent infringement lawsuit.",
-  "verified": "unconfirmed",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wr2m1y/apple_hit_with_a_57_billion_verdict_for_alleged/"
- },
- {
   "date": "2026-09-26T23:03:02.656118+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -5685,5 +5674,104 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/"
+ },
+ {
+  "date": "2026-09-29T22:03:22.080110+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple TV Renews 'Car\u00eame' for Season 2",
+  "summary": "Apple TV has officially renewed the French-language drama series 'Car\u00eame' for a second season.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/apple-tv-renews-french-drama-careme-for-season-two/"
+ },
+ {
+  "date": "2026-09-29T22:03:22.080110+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "AirPods 5 Teardown Shows Removable Batteries",
+  "summary": "iFixit's teardown of the AirPods 5 reveals slightly improved repairability with removable batteries, though the case remains difficult to open.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/29/ifixit-airpods-5-teardown/"
+ },
+ {
+  "date": "2026-09-29T22:03:22.080110+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "iFixit AirPods 5 Teardown Highlights Repair Challenges",
+  "summary": "Recent iFixit teardown details show that while AirPods 5 feature replaceable earbud batteries, the charging case remains extremely difficult to repair.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/29/the-most-repairable-airpods-ever-are-still-a-frustrating-mess-to-get-into?utm_source=rss"
+ },
+ {
+  "date": "2026-09-29T22:03:22.080110+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Ace Combat 8: Wings of Theve Release Times and Pre-order Bonuses",
+  "summary": "Polygon details the release times and pre-order bonuses for Ace Combat 8: Wings of Theve across various time zones.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/ace-combat-8-wings-of-theve-release-time-edt-pdt/"
+ },
+ {
+  "date": "2026-09-29T22:03:22.080110+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "BMW Details Revamped Electric i3 Sedan",
+  "summary": "BMW revealed the range, pricing, and details for its revamped all-electric i3 sedan built on the Neue Klasse platform.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range"
+ },
+ {
+  "date": "2026-09-29T22:03:22.080110+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "EliseAI Raises $350M, Reaches $4B Valuation",
+  "summary": "AI startup EliseAI secured $350 million in funding, doubling its valuation to $4 billion in a single year.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/"
+ },
+ {
+  "date": "2026-09-29T22:03:22.080110+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "business",
+  "headline": "AMD Acquires World Labs AI Startup for $8.2B",
+  "summary": "AMD is acquiring AI startup World Labs in an $8.2 billion deal to strengthen its competitive position against Nvidia.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/"
+ },
+ {
+  "date": "2026-09-29T22:03:22.080110+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Suspected ShinyHunters Leader Arrested in Netherlands",
+  "summary": "Dutch police arrested a 24-year-old Amsterdam man suspected of leading the ShinyHunters hacking group.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested"
+ },
+ {
+  "date": "2026-09-29T22:03:22.080110+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "AI-Powered Grokipedia Resumes Article Updates",
+  "summary": "Grokipedia, the AI-driven online encyclopedia, has resumed updating articles following a months-long pause.",
+  "verified": "reliable_reporter",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
  }
 ]
