@@ -4090,5 +4090,27 @@
   "verified": "official",
   "source": "9to5Mac",
   "link": "https://9to5mac.com/2026/09/28/emmy-wins-and-recent-premieres-help-apple-tv-reach-highest-weekly-viewership-ever/"
+ },
+ {
+  "date": "2026-09-29T05:37:44.778658+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Nothing Launches $399 Headphone 1 Pro Flagship Over-Ears",
+  "summary": "Nothing has launched its new flagship $399 over-ear headphones, the Headphone 1 Pro.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review"
+ },
+ {
+  "date": "2026-09-29T05:37:44.778658+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Anthropic Prospectus Details Massive Growth, Billion-Dollar Losses, and AI Risk Warnings",
+  "summary": "Anthropic's prospectus reveals massive revenue growth alongside multi-billion dollar losses and existential AI risk warnings.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
  }
 ]
