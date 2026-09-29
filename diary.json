@@ -4046,5 +4046,16 @@
   "verified": "reliable_reporter",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
+ },
+ {
+  "date": "2026-09-29T00:43:25.315834+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Leak Reveals New iPhone Duo StandBy Faces in iOS 27",
+  "summary": "A recent leak reveals unannounced StandBy faces for the rumored iPhone Duo running iOS 27.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/28/iphone-duo-standby-leak/"
  }
 ]
