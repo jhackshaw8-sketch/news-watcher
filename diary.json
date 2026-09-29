@@ -4475,5 +4475,49 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2271675/nothing-headphone-1-pro/"
+ },
+ {
+  "date": "2026-09-29T11:03:33.815271+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Why Skyrim Never Got a Spin-Off",
+  "summary": "A Bethesda veteran explains that The Elder Scrolls Online is a key reason why Skyrim never received a New Vegas-style spin-off.",
+  "verified": "reliable_reporter",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/the-elder-scrolls-online-skyrim-spin-off-fallout-new-vegas-bethesda"
+ },
+ {
+  "date": "2026-09-29T11:03:33.815271+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "How to Fish Receives First Major Update",
+  "summary": "The hit fish-shooting game How to Fish has received its first major content update.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/how-to-fish-content-update-manta-boss-bow/"
+ },
+ {
+  "date": "2026-09-29T11:03:33.815271+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "The Witcher 3 Remastered Dominates Metacritic",
+  "summary": "The Witcher 3 Remastered achieves the highest Metacritic score for 2026, marking a massive win for CD Projekt Red.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-remastered-metacritic-score-places-it-as-the-best-version-of-the-rpg-yet-and-the-top-scoring-game-of-2026/"
+ },
+ {
+  "date": "2026-09-29T11:03:33.815271+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "legal",
+  "headline": "GTA 5 Switch Port Modder Shuts Down After Dev Action",
+  "summary": "The GTA 5 modder behind a Switch port project is shutting down operations following legal action from developers.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-modder-behind-switch-1-port-using-rockstars-leaked-code-says-its-shutting-down-following-action-from-the-devs-i-am-thankful-for-take-twos-mercy/"
  }
 ]
