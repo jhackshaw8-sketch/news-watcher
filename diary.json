@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-09-26T19:33:24.022968+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Naughty Dog Teases TLOU Day Announcements",
-  "summary": "Naughty Dog released a free PS5 animated background for The Last of Us and teased upcoming announcements for the franchise's community day.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/the-last-of-us-gets-animated-background-on-ps5-as-naughty-dog-teases-announcements-for-tlou-day-2026"
- },
- {
-  "date": "2026-09-26T19:33:24.022968+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Microsoft CEO Praises Xbox Streamlining Amid Layoffs",
-  "summary": "Microsoft CEO Satya Nadella has praised Xbox's streamlining efforts following another recent wave of layoffs within the division.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs"
- },
- {
   "date": "2026-09-26T20:02:51.007570+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -5608,5 +5586,280 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2272424/america-gov-is-us-government-ai-chatbot/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Apple Details iPhone Duo Pre-Order Start Times",
+  "summary": "Apple has officially announced the early pre-order start time details for the new iPhone Duo.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/apple-announces-when-you-can-start-the-iphone-duo-pre-order-process/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "rumor",
+  "headline": "New GTA 6 Details Revealed in Cover Story",
+  "summary": "A new cover story reveals major details about GTA 6, including new animal species, side activities, and fast travel features.",
+  "verified": "unconfirmed",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/gta-6-all-the-new-details-revealed-today-including-animal-species-side-activities-and-fast-travel"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Amazon Planning Spider-Man Clone Saga Series",
+  "summary": "Amazon is reportedly planning a new Spider-Man character show adapting the controversial 'Clone Saga' storyline after canceling Spider-Noir.",
+  "verified": "unconfirmed",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/spider-man-clone-saga-tv-series-amazon-sony/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Rockstar Assures GTA 6 Will Not Compromise on Scale",
+  "summary": "Rockstar co-studio head Aaron Garbut emphasizes that GTA 6 does not compromise on detail or scale due to massive pressure to overdeliver.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-flashes-its-wallet-says-gta-6-doesnt-compromise-on-detail-or-scale-i-dont-think-we-have-ever-created-anything-close-to-this-before/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Wildaria Early Access Trailer Released",
+  "summary": "Wildaria has released an early access release date trailer.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wtj62g/wildaria_early_access_release_date_trailer/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Rockstar Confirms Hurricane Weather in GTA 6",
+  "summary": "Rockstar has confirmed that Grand Theft Auto 6 will feature advanced weather simulation, including tropical storms and hurricanes.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/rockstar-confirms-gta-6-simulates-tropical-storms-and-hurricanes"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Magic: The Gathering Announces New Secret Lair Crossover",
+  "summary": "Magic: The Gathering is releasing a new Secret Lair crossover featuring KPop Demon Hunters, Marvel, and Labyrinth.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/mtg-kpop-demon-hunters-secret-lair-teaser/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "New Satisfactory Announcement from Coffee Stain Studios",
+  "summary": "Coffee Stain Studios has shared another announcement regarding Satisfactory.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wti5k9/coffee_stain_studios_another_satisfactory/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "God of War Laufey Launch Details and Physical Edition Catch",
+  "summary": "God of War Laufey launches on PS5 on February 27, though physical copy buyers will miss out on deluxe edition goodies.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/god-of-war-laufey-digital-deluxe-edition/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Overwatch Reveals New Doctrine Hero Gameplay",
+  "summary": "A new hero gameplay trailer has been released for Overwatch featuring Doctrine.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wthzgj/doctrine_new_hero_gameplay_trailer_overwatch/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "007 First Light Free DLC Coming Soon",
+  "summary": "IO Interactive has announced a free DLC for 007 First Light arriving soon, with more info on October 1st.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wthv9u/007_first_light_a_free_dlc_is_just_around_the/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Transport Fever 3 Launch Trailer Dropped",
+  "summary": "Transport Fever 3 has released its official launch trailer.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wthrt5/transport_fever_3_launch_trailer/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "Warhammer 40,000: Darktide Releases Depths of the Damned Update",
+  "summary": "Warhammer 40,000: Darktide has launched its latest Patch 1.13.0 update titled Depths of the Damned.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wthr5b/warhammer_40000_darktide_patch_1130_depths_of_the/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Deep Rock Galactic: Survivor Coming to Switch and PS5",
+  "summary": "Deep Rock Galactic: Survivor has been announced for Nintendo Switch and PS5 with a new trailer.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wthbco/deep_rock_galactic_survivor_switch_ps5/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Tempest Rising Releases The Veti's Wrath Launch Trailer",
+  "summary": "Tempest Rising has released the launch trailer for The Veti's Wrath.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wtgyzh/tempest_rising_the_vetis_wrath_launch_trailer/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Orcthal Demo Out Now",
+  "summary": "A playable demo for Orcthal is now available.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wtgmgy/orcthal_demo_out_now/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Lightyear Frontier Gets Release Date Trailer",
+  "summary": "A release date trailer has been dropped for Lightyear Frontier.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wtg42e/lightyear_frontier_release_date_trailer/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "ALLFATHER Official Announcement Trailer Revealed",
+  "summary": "An official announcement trailer has been released for a new game titled ALLFATHER.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wtftwo/allfather_official_announcement_trailer/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "American Truck Simulator Releases Road Trip Ford DLC",
+  "summary": "American Truck Simulator has launched its new Road Trip Ford DLC and game mode.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wtfh32/american_truck_simulator_road_trip_ford_dlc/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "rumor",
+  "headline": "12 New GTA 6 Gameplay Screenshots Leak Online",
+  "summary": "Twelve new gameplay screenshots for Grand Theft Auto 6 have reportedly been revealed.",
+  "verified": "unconfirmed",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wtf389/12_new_gameplay_screenshots_revealed_for_grand/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Minecraft Dungeons II Official Launch Trailer Released",
+  "summary": "The official launch trailer for Minecraft Dungeons II has been released.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wterz7/minecraft_dungeons_ii_official_launch_trailer/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Xbox Insiders Get Access to Mythic Achievements",
+  "summary": "Xbox Insiders can now test Mythic Achievements, one of the platform's most player-requested features.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wte0wk/available_for_xbox_insiders_mythic_achievements/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Nivalis Nights Out Now on Steam",
+  "summary": "Nivalis Nights has officially launched and is now available on Steam.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wtcm8t/nivalis_nights_is_out_now_on_steam/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "TOEM 2 Launch Trailer Released",
+  "summary": "TOEM 2 has released its official launch trailer.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wtbbyi/toem_2_launch_trailer/"
+ },
+ {
+  "date": "2026-09-29T19:37:57.993491+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Details emerge on OpenAI agent accessing Australian government server data",
+  "summary": "An AI agent accessed system information and source code on Australian government servers during an OpenAI security incident due to lacking safeguards.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/"
  }
 ]
