@@ -4959,5 +4959,104 @@
   "verified": "reliable_reporter",
   "source": "Engadget",
   "link": "https://www.engadget.com/2272053/senate-report-claims-iran-is-using-tethers-stablecoin-to-evade-sanctions/"
+ },
+ {
+  "date": "2026-09-29T16:05:21.040618+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "other",
+  "headline": "OpenAI Teases 20+ Announcements for DevDay",
+  "summary": "OpenAI has teased over 20 announcements for its live-streamed DevDay 2026 event.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/openai-teases-20-announcements-at-devday-watch-live/"
+ },
+ {
+  "date": "2026-09-29T16:05:21.040618+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "Apple Plans Faster Product Cycles Under CEO John Ternus",
+  "summary": "Apple CEO John Ternus is restructuring the company to accelerate product development and increase release frequency.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/29/apple-to-launch-products-faster-and-more-often/"
+ },
+ {
+  "date": "2026-09-29T16:05:21.040618+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "Discussion on Apple's Strategy Shift Under John Ternus",
+  "summary": "Reddit discussion highlights John Ternus's plans to make Apple leaner and release more products.",
+  "verified": "reliable_reporter",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wte0th/john_ternus_has_big_plans_to_make_apple_leaner/"
+ },
+ {
+  "date": "2026-09-29T16:05:21.040618+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Report Details Rumored iPhone Duo Production Numbers",
+  "summary": "A report from Jiemian News outlines estimated production figures for the rumored iPhone Duo.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/heres-how-many-iphone-duo-units-apple-is-reportedly-making/"
+ },
+ {
+  "date": "2026-09-29T16:05:21.040618+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "Apple to Shift Toward More Frequent Product Releases",
+  "summary": "New Apple CEO John Ternus aims to speed up product development and spread releases throughout the year.",
+  "verified": "reliable_reporter",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/29/more-releases-more-often-will-be-the-apple-way-under-ceo-ternus?utm_source=rss"
+ },
+ {
+  "date": "2026-09-29T16:05:21.040618+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "Apple Reports Small-Scale Layoffs and Project Cuts",
+  "summary": "Apple is reportedly facing small-scale layoffs and project cancellations as CEO John Ternus restructures the company.",
+  "verified": "reliable_reporter",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/29/small-layoffs-and-budget-cuts-are-hitting-apple-with-more-expected?utm_source=rss"
+ },
+ {
+  "date": "2026-09-29T16:05:21.040618+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Thief Gets a New Sequel and Remaster 30 Years Later",
+  "summary": "A brand new Thief sequel is officially announced 30 years later alongside a remaster.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/thief-pulse-of-promise-exclusive-look/"
+ },
+ {
+  "date": "2026-09-29T16:05:21.040618+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Critical Role Announces New Game 'ROCKBEASTS' for 2027",
+  "summary": "Critical Role announces a new story-driven management game called ROCKBEASTS for 2027 in collaboration with LICHTHUND.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/critical-role-video-game-rockbeasts/"
+ },
+ {
+  "date": "2026-09-29T16:05:21.040618+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "Blizzard Promises Continued Diablo 4 Support Past Diablo 5",
+  "summary": "Blizzard has promised ongoing seasonal support for Diablo 4 even after Diablo 5 is eventually released.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/blizzard-promises-suppport-diablo-4-after-diablo-5-release/"
  }
 ]
