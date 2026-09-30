@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-09-27T14:35:43.302129+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Xbox Reportedly Paying Much Less Than $400M for Kojima's Physint",
-  "summary": "Reports suggest Xbox is funding Hideo Kojima's upcoming game Physint for a fraction of the previously rumored $400 million budget.",
-  "verified": "unconfirmed",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million"
- },
- {
-  "date": "2026-09-27T14:35:43.302129+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Jensen Huang: Uncontrolled AI Labs Should Shut Down",
-  "summary": "Nvidia CEO Jensen Huang stated that AI labs incapable of controlling their systems should shut down.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wrlg7c/jensen_huang_says_ai_labs_that_cant_control_their/"
- },
- {
-  "date": "2026-09-27T14:35:43.302129+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "legal",
-  "headline": "Esos Rings CEO Convicted in $2M Ponzi Scheme",
-  "summary": "The CEO of Esos Rings, Michelle Bisnoff, has been convicted of operating a nearly $2 million Ponzi scheme.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wrl70x/esos_rings_ceo_michelle_bisnoff_convicted_of/"
- },
- {
   "date": "2026-09-27T15:03:01.347607+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -6554,5 +6521,181 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "October Apple Event to Skip One Rumored Product",
+  "summary": "Reports indicate that Apple's upcoming October 13 hardware event will omit one previously rumored product.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/30/apples-new-hardware-october-13-wont-include-one-rumored-product-report/"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "DoorDash Introduces AI Food Ordering via iMessage",
+  "summary": "DoorDash is launching a waitlist for a new AI assistant that allows users to place food orders directly through Apple's Messages app.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/30/doordash-order-through-messages-app/"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Analysts Forecast 6 Million iPhone Duo Sales by End of 2026",
+  "summary": "Analyst forecasts predict that Apple will sell roughly six million units of the iPhone Duo by the end of 2026.",
+  "verified": "reliable_reporter",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/30/iphone-duo-expected-to-sell-six-million-units-by-end-of-2026?utm_source=rss"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "legal",
+  "headline": "Warning Issued Over Fake iPhone Duo Pre-Order Malware Scam",
+  "summary": "Security warnings have been issued regarding a fake iPhone Duo pre-order scam site that installs malware on older iOS devices.",
+  "verified": "reliable_reporter",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/30/psa-do-not-open-links-to-an-early-iphone-duo-pre-order-page?utm_source=rss"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Gravhounds Early Access Preview",
+  "summary": "IGN shares its first hands-on preview of the extraction shooter Gravhounds ahead of its early access release.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/gravhounds-the-first-hands-on-preview-of-an-intriguing-deep-rock-galactic-like-extraction-shooter"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Blizzard Surveys WoW Players on New Classes",
+  "summary": "Blizzard is reportedly surveying World of Warcraft: Forever players about potential never-before-seen classes.",
+  "verified": "unconfirmed",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "End of Abyss Reviewed",
+  "summary": "IGN reviews End of Abyss, concluding that its strong atmosphere cannot save the metroidvania from being underwhelming.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/end-of-abyss-review"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Sony Requires Lottery for PS5 Pro in Japan",
+  "summary": "Sony introduces a lottery system requiring gamers in Japan to win a chance to purchase a PS5 Pro.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/sony-ps5-pro-requirement/"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "Witcher 3 Remastered Lighting Divides Fans",
+  "summary": "The free Witcher 3: Wild Hunt Remastered Edition update divides the community due to changes like new lighting.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "New Witcher 3 Content Reacts to DLC History",
+  "summary": "CD Projekt Red's new Witcher 3 content adapts dynamically based on whether players have finished the second expansion.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-songs-of-the-past-plays-out-differently-if-youve-finished-the-rpgs-second-expansion-but-devs-say-that-doesnt-mean-you-have-to/"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Meta Adds AI Creative Assistant to Instagram Edits App",
+  "summary": "Meta has announced an AI creative assistant for Instagram's Edits app that provides personalized feedback and suggestions for user posts.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Google Launches Fitbit Air in India at Premium Price",
+  "summary": "Google has launched the Fitbit Air in India at a significantly higher price point compared to the US market.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Meta Introduces AI Assistant for Instagram Creators",
+  "summary": "Meta introduced a new AI assistant for Instagram creators within the Edits app offering personalized guidance based on audience performance.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2273111/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Instagram Rolls Out Conversational AI Video Editor for Creators",
+  "summary": "Instagram is rolling out a conversational AI video editor and assistant to provide creators with personalized feedback.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Cerebras CEO to Discuss AI Hardware Scaling at Disrupt 2026",
+  "summary": "Cerebras Systems CEO Andrew Feldman is scheduled to discuss AI scaling limits and hardware constraints at TechCrunch Disrupt 2026.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/"
+ },
+ {
+  "date": "2026-09-30T14:41:16.820020+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Restate Secures $20M to Build Infrastructure for AI Agents",
+  "summary": "Infrastructure startup Restate has secured $20 million in funding to support durable infrastructure needs for AI agents.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
  }
 ]
