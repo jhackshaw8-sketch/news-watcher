@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-27T11:35:23.379666+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Minecraft Getting First New Dimension in 14 Years",
-  "summary": "Mojang has announced The Sift, the first new dimension coming to Minecraft since 2011, scheduled for release in 2027.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027"
- },
- {
   "date": "2026-09-27T12:39:50.765370+00:00",
   "topic": "Gaming News",
   "score": 5,
@@ -6400,5 +6389,71 @@
   "verified": "reliable_reporter",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1wtqusb/glm53_and_the_spread_of_advanced_cyber/"
+ },
+ {
+  "date": "2026-09-30T11:37:11.871825+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Apple Smart Home Hub Rumored to Feature iMac G4 Design",
+  "summary": "Apple's upcoming smart home hub is rumored to feature an iMac G4-style design, according to Mark Gurman.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/30/apple-home-hub-imac-g4-style-design/"
+ },
+ {
+  "date": "2026-09-30T11:37:11.871825+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Three New Apple Smart Home Products Rumored for October 13",
+  "summary": "Rumors suggest Apple may release three new smart home products, including a home hub, HomePod mini, and Apple TV.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wu2h22/three_new_apple_smart_home_products_coming_on/"
+ },
+ {
+  "date": "2026-09-30T11:37:11.871825+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "iFixit Changes AirPods Repairability Score After 10 Years",
+  "summary": "iFixit has broken its 10-year streak of giving AirPods a 0/10 repairability score, awarding a new rating.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wu25z0/weve_given_airpods_010_for_10_years_until_now/"
+ },
+ {
+  "date": "2026-09-30T11:37:11.871825+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Witcher 3 Remastered Switch 2 Upgrade Free with Any Physical Copy",
+  "summary": "Players can unlock the Witcher 3 Remastered on Nintendo Switch 2 for free using any physical copy of the original Switch game.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/the-witcher-3-remastered-nintendo-switch-2-can-be-unlocked-for-free-even-if-you-borrow-a-switch-physical-copy-from-a-friend"
+ },
+ {
+  "date": "2026-09-30T11:37:11.871825+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Rockstar Details Extensive Florida Field Research for GTA 6",
+  "summary": "Rockstar Games shared details about their extensive real-life Florida research for GTA 6, including visiting strip clubs and riding with ex-cops.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/gta-6-rockstar-developers-visited-strip-clubs-and-rode-around-at-night-with-ex-cops-to-get-first-hand-florida-experience"
+ },
+ {
+  "date": "2026-09-30T11:37:11.871825+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Crimson Desert DLC Delayed by Two Weeks",
+  "summary": "The Crimson Desert DLC 'Charting the Unknown' has been delayed by two weeks to ensure a more polished experience.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/open-world/crimson-desert-dlc-charting-the-unknown-delayed-2-weeks-as-pearl-abyss-seeks-a-more-polished-and-stable-gameplay-experience/"
  }
 ]
