@@ -7698,5 +7698,49 @@
   "verified": "reliable_reporter",
   "source": "Ars Technica",
   "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/"
+ },
+ {
+  "date": "2026-09-30T23:02:39.683550+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Apple TV and Services Face Outages",
+  "summary": "Apple TV and other Apple services are currently experiencing outages and issues for some users.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/30/apple-tv-is-currently-down-for-some-users-as-other-apple-services-also-face-issues/"
+ },
+ {
+  "date": "2026-09-30T23:02:39.683550+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Rumored Apple Smart Home Hub to Feature StandBy-Like Faces",
+  "summary": "Leaked setup screens suggest Apple's rumored smart home hub will feature customizable faces similar to iPhone StandBy mode.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/30/home-hub-photo-face/"
+ },
+ {
+  "date": "2026-09-30T23:02:39.683550+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Discussion on Xbox Restructuring and Halo's Future",
+  "summary": "Polygon's Point It Out! crew discusses Xbox leadership restructuring the Halo team and moving the franchise to Activision.",
+  "verified": "unconfirmed",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/video/can-xbox-save-halo-point-it-out/"
+ },
+ {
+  "date": "2026-09-30T23:02:39.683550+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Ace Combat 8 Multiplayer Highlights Live-Service Frustrations",
+  "summary": "Ace Combat 8: Wings of Theve features stellar multiplayer gameplay that is unfortunately bogged down by a frustrating live-service model.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/ace-combat-8-online-impressions/"
  }
 ]
