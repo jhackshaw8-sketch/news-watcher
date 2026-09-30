@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-09-27T16:36:33.600715+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "legal",
-  "headline": "Apple Hit with Record $5.7 Billion Penalty in Haptics Patent Lawsuit",
-  "summary": "A US jury has ruled that Apple owes a record-breaking $5.7 billion in a major haptic technology patent infringement case.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wrnzx1/us_jury_says_apple_owes_record_57_billion_in/"
- },
- {
-  "date": "2026-09-27T16:36:33.600715+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Why CDPR Avoids Crossovers in Its Games",
-  "summary": "CD Projekt Red developers explained why the studio avoids crossovers within its own games despite external appearances.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/the-witcher-cyberpunk-no-crossover-content/"
- },
- {
   "date": "2026-09-27T17:02:56.064279+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -6840,5 +6818,71 @@
   "verified": "reliable_reporter",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"
+ },
+ {
+  "date": "2026-09-30T16:39:19.629713+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "Apple Watch Series 12 and Ultra 4 to Gain Siri Recap and Live Rewind",
+  "summary": "Apple announced that the newly released Apple Watch Series 12 and Apple Watch Ultra 4 will receive Siri Recap and Live Rewind features later this year.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/30/apple-watch-series-12-ultra-4-adding-two-new-features-soon/"
+ },
+ {
+  "date": "2026-09-30T16:39:19.629713+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Pok\u00e9mon Pokopia Reveals Halloween Event Details",
+  "summary": "Pok\u00e9mon Pokopia has announced its first Halloween-themed event, featuring spooky new items and habitats.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/pokemon-pokopia-pumpkaboos-sweet-surprises-halloween-event-date-how-it-works"
+ },
+ {
+  "date": "2026-09-30T16:39:19.629713+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Diablo 5 Director Promises Methodical Builds Despite Skepticism",
+  "summary": "The Diablo 5 game director has promised a return to methodical character builds, though players remain skeptical.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/diablo-5-game-director-promises-a-return-to-methodical-character-builds-but-players-dont-believe-him"
+ },
+ {
+  "date": "2026-09-30T16:39:19.629713+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "World of Warcraft Forever Enforces Strict RMT Ban",
+  "summary": "Blizzard cracked down on real-money trading in World of Warcraft Forever, confiscating gold from a prominent streamer.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-is-already-cracking-down-on-real-money-trading-in-world-of-warcraft-forever-as-devs-take-usd200-worth-of-gold-from-alleged-rule-breaker-they-left-me-with-9-silver/"
+ },
+ {
+  "date": "2026-09-30T16:39:19.629713+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Troy Baker Teases Naughty Dog's Next Game",
+  "summary": "Actor Troy Baker has teased that Naughty Dog's upcoming game, Intergalactic The Heretic Prophet, is testing the studio's boundaries.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/adventure/intergalactic-the-heretic-prophet-is-testing-the-bounds-of-what-naughty-dog-is-capable-of-teases-the-last-of-us-star-you-are-not-ready/"
+ },
+ {
+  "date": "2026-09-30T16:39:19.629713+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Meta Denies Muse AI Accessed Private Messages Without Permission",
+  "summary": "Meta has disputed claims that its Muse AI agent accessed private user messages without explicit permission.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
  }
 ]
