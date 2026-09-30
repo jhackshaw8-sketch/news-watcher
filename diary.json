@@ -6752,5 +6752,93 @@
   "verified": "official",
   "source": "The Verge",
   "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai"
+ },
+ {
+  "date": "2026-09-30T16:06:13.520262+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Halide 3.2 Released with iPhone 18 Pro Support",
+  "summary": "Halide 3.2 pro camera app launches with support for iPhone 18 Pro features and new photographic styles.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/30/halide-3-2-pro-camera-arrives-with-iphone-18-pro-aperture-feature-and-two-new-looks/"
+ },
+ {
+  "date": "2026-09-30T16:06:13.520262+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "other",
+  "headline": "Apple Watch SE 3 vs. Series 12 Buyer's Guide",
+  "summary": "A buyer's guide comparing the Apple Watch SE 3 and Apple Watch Series 12 to help consumers choose between models.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/guide/apple-watch-se-3-vs-series-12/"
+ },
+ {
+  "date": "2026-09-30T16:06:13.520262+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "PlayStation Plus October 2026 Free Games Revealed",
+  "summary": "Sony has officially revealed the free PlayStation Plus Essential games lineup for October 2026.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/playstation-plus-october-2026-games-announced-ps4-ps5-free-essential/"
+ },
+ {
+  "date": "2026-09-30T16:06:13.520262+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Ex-PlayStation Boss Discusses Sony's PC Strategy",
+  "summary": "Former PlayStation boss Shuhei Yoshida discusses Sony's strategy as the company seemingly pulls back from PC releases.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/as-sony-reportedly-pulls-back-from-pc-ports-former-playstation-boss-suggests-platform-business-is-winning-the-argument-right-now-and-that-always-wants-something-exclusive/"
+ },
+ {
+  "date": "2026-09-30T16:06:13.520262+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Pok\u00e9mon Center Opens Pre-Orders for Delta Reign TCG Set",
+  "summary": "The Pok\u00e9mon Center has opened pre-orders for Delta Reign, the upcoming Pok\u00e9mon TCG set following the 30th-anniversary collection.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/pokemon-center-delta-reign-preorder-tcg-error-15-17-drawing/"
+ },
+ {
+  "date": "2026-09-30T16:06:13.520262+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "legal",
+  "headline": "GTA 5 Switch Port Mod Canceled After Rockstar Pushback",
+  "summary": "A modder cancels their unofficial GTA 5 Nintendo Switch port after facing backlash and legal pressure from Rockstar.",
+  "verified": "reliable_reporter",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/gta-5-nintendo-switch-mod-m0jso-project-canceled-taunt-rockstar/"
+ },
+ {
+  "date": "2026-09-30T16:06:13.520262+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "DoorDash Launches AI Food Ordering Agent",
+  "summary": "DoorDash has launched a new text-based AI agent for food ordering to compete with rivals.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
+ },
+ {
+  "date": "2026-09-30T16:06:13.520262+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Destro AI Bridges Gap Between Humans and Robots",
+  "summary": "Destro AI is focusing on improving collaboration between humans and robots.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"
  }
 ]
