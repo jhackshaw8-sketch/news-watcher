@@ -7445,5 +7445,60 @@
   "verified": "official",
   "source": "The Verge",
   "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+ },
+ {
+  "date": "2026-09-30T21:39:12.304738+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Crimson Desert Expansion Delayed",
+  "summary": "Crimson Desert's first expansion has been delayed by two weeks from its initial October 15 release date.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/crimson-desert-charting-the-unknown-expansion-delayed-two-weeks"
+ },
+ {
+  "date": "2026-09-30T21:39:12.304738+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Final Fantasy 11 Removes Trial Time Limit",
+  "summary": "Square Enix is removing the two-week time limit on Final Fantasy 11's free trial.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/mmo/final-fantasy-11-finally-follows-in-final-fantasy-14s-free-trial-footsteps-offering-new-players-a-chance-to-try-the-critically-acclaimed-mmorpg-with-no-restrictions-on-playtime/"
+ },
+ {
+  "date": "2026-09-30T21:39:12.304738+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Take-Two Hits Switch GTA 5 Port With C&D",
+  "summary": "A modder attempting to port GTA 5 to the Nintendo Switch received a cease and desist from Take-Two.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/gta-5-modder-taunts-rockstar-with-unofficial-nintendo-switch-port-gets-cease-and-desist-from-take-two"
+ },
+ {
+  "date": "2026-09-30T21:39:12.304738+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "New Uncharted Game Reportedly in Development",
+  "summary": "A new report suggests that a brand new Uncharted game starring Nathan Drake is currently in development at Naughty Dog.",
+  "verified": "unconfirmed",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/new-uncharted-game-featuring-nathan-drake-reportedly-in-the-works-at-naughty-dog"
+ },
+ {
+  "date": "2026-09-30T21:39:12.304738+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Flow Engineering Raises Big Funding at $750M Valuation",
+  "summary": "AI hardware design startup Flow Engineering secured major backing from Sequoia and others at a $750 million valuation.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
  }
 ]
