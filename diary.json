@@ -6026,5 +6026,27 @@
   "verified": "reliable_reporter",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1wtiyoz/unsurprisingly_metas_new_muse_ai_agent_blatantly/"
+ },
+ {
+  "date": "2026-09-30T00:04:23.191164+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Apple Pay Launches in India with Axis Bank Support",
+  "summary": "Apple Pay has officially launched in India, allowing customers with Axis Bank cards to add them to the Wallet app for contactless and online payments.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/29/apple-pay-india/"
+ },
+ {
+  "date": "2026-09-30T00:04:23.191164+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Steam Updates Algorithm to Feature More Games on Homepage",
+  "summary": "Valve is updating Steam's homepage algorithm to showcase up to 10 times more games, including discounted titles and events.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/platforms/pc-gaming/another-steam-page-is-being-turned-into-an-algorithm-as-valve-aims-to-show-10x-more-games-to-customers/"
  }
 ]
