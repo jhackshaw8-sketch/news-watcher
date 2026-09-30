@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-09-27T10:03:04.064195+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "The Witcher 3 Remastered Release Times Detailed",
-  "summary": "A guide detailing the release times and expected enhancements for The Witcher 3 Remastered.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/the-witcher-3-remastered-release-time-when-edt-pdt/"
- },
- {
-  "date": "2026-09-27T10:03:04.064195+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Minecraft Hits 425 Million Sales and Announces New Dimension",
-  "summary": "Minecraft surpasses 425 million copies sold while announcing its first new dimension in 14 years alongside a Switch 2 port.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/minecraft/as-minecraft-sells-over-425-million-copies-and-attracts-300-000-new-players-a-day-the-evergreen-sandbox-game-is-getting-its-first-dimension-in-14-years/"
- },
- {
   "date": "2026-09-27T11:03:05.265435+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -6081,5 +6059,38 @@
   "verified": "official",
   "source": "Polygon",
   "link": "https://www.polygon.com/pokemon-pokopia-halloween-event-announced/"
+ },
+ {
+  "date": "2026-09-30T10:05:10.200566+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Report: Apple Planned AI Support Replacement",
+  "summary": "Reports indicate Apple allegedly planned to replace thousands of support employees with AI tools.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wu0mnu/apple_reportedly_planned_to_replace_5000_support/"
+ },
+ {
+  "date": "2026-09-30T10:05:10.200566+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Top PS5 Games Releasing in October",
+  "summary": "Polygon highlights six upcoming PS5 games releasing in October, including new Ghost of Yotei DLC and Phantom Blade Zero.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/new-ps5-games-october-2026/"
+ },
+ {
+  "date": "2026-09-30T10:05:10.200566+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "The Witcher 3 Remastered Free for Switch 2 Owners",
+  "summary": "The Witcher 3 Remastered will be a free upgrade for Switch 2 players who own the original Switch cartridge.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-remastered-is-free-for-switch-2-players-with-access-to-a-switch-cartridge-marking-another-cd-projekt-red-win-for-fans-this-should-be-a-common-thing/"
  }
 ]
