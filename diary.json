@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-09-27T15:35:45.973381+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Five Nights at Freddy's Confirmed for Fortnite Fortnitemares",
-  "summary": "Epic Games has officially confirmed that Five Nights at Freddy's will cross over into Fortnite for the upcoming Fortnitemares event.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab"
- },
- {
-  "date": "2026-09-27T15:35:45.973381+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Town of Tinysville Combines Roguelike and City Building in New Demo",
-  "summary": "The developers of Town of Tinysville announced a Steam demo for their roguelike city-builder and deckbuilder ahead of October Next Fest.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wrmgg5/town_of_tinysville_7seven_studios_roguelike_city/"
- },
- {
-  "date": "2026-09-27T15:35:45.973381+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Solo Developer Reveals Tactical Card Game Sugarstar Academy",
-  "summary": "A solo developer has introduced Sugarstar Academy, a tactical deckbuilder where played cards transform into units on a 5x5 board.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wrm6lp/sugarstar_academy_titan_a_tactical_deckbuilder/"
- },
- {
-  "date": "2026-09-27T15:35:45.973381+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Digital Foundry Analyzes Control Resonant PC Performance",
-  "summary": "Digital Foundry has published a technical performance review for Control Resonant on PC, detailing its visuals and optimized settings.",
-  "verified": "reliable_reporter",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wrlxt8/digital_foundry_control_resonant_pc_performance/"
- },
- {
-  "date": "2026-09-27T15:35:45.973381+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Dark Fantasy Action Game GRIMSAW Announced",
-  "summary": "A solo developer has released an announcement trailer for GRIMSAW, a dark fantasy pixel-art action game inspired by body horror.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wrkt03/grimsaw_dark_fantasy_pixelart_action_game/"
- },
- {
-  "date": "2026-09-27T15:35:45.973381+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Five Nights at Freddy's Crossover Set for Fortnitemares",
-  "summary": "Community discussions highlight the official crossover of Five Nights at Freddy's into the Fortnite Fortnitemares 2026 event.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wrkhys/five_nighs_at_freddys_joins_fortnitemares_2026/"
- },
- {
   "date": "2026-09-27T16:36:33.600715+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -6741,5 +6675,82 @@
   "verified": "reliable_reporter",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1wu4lnz/palantir_ceo_alex_karp_quietly_purchased_37000/"
+ },
+ {
+  "date": "2026-09-30T15:41:02.371961+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Pok\u00e9mon Legends: Z-A Switch 2 Physical Bundle Announced",
+  "summary": "Nintendo announces a physical Nintendo Switch 2 edition of Pok\u00e9mon Legends: Z-A bundled with the Mega Dimension DLC.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/pokemon-legends-z-a-nintendo-switch-2-edition-mega-dimension-physical-bundle-announced"
+ },
+ {
+  "date": "2026-09-30T15:41:02.371961+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Valve's Deadlock Becomes One of Steam's Most Played Games",
+  "summary": "Valve's unreleased MOBA Deadlock surges in player count on Steam following a major update.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/deadlock-update-steam-most-played-games"
+ },
+ {
+  "date": "2026-09-30T15:41:02.371961+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Marvel's Wolverine Ending and Sequel Setup Explained",
+  "summary": "An in-depth look at Marvel's Wolverine ending, detailing how Insomniac changes Logan's origin story and sets up a sequel.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/marvels-wolverine-ending-explained-insomniac-origin-story-apocalypse-phoenix"
+ },
+ {
+  "date": "2026-09-30T15:41:02.371961+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Nintendo Officially Reveals Pok\u00e9mon Legends: Z-A Physical Switch 2 Release",
+  "summary": "Nintendo confirms a new physical release of Pok\u00e9mon Legends: Z-A tailored for the Nintendo Switch 2.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/pokemon-legends-z-a-new-switch-2-physical-edition-mega-dimension-dlc/"
+ },
+ {
+  "date": "2026-09-30T15:41:02.371961+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "BG3 Star Jennifer English Joins Cast of New Soulslike Valor Mortis",
+  "summary": "Baldur's Gate 3 voice actress Jennifer English joins the cast of the upcoming first-person Soulslike game Valor Mortis.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/action/baldurs-gate-3-star-and-game-of-the-year-magnet-jennifer-english-joins-ghostrunner-devs-new-first-person-soulslike-cast/"
+ },
+ {
+  "date": "2026-09-30T15:41:02.371961+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Xbox Rolls Out Disc-to-Digital Program Worldwide",
+  "summary": "Microsoft launches its disc-to-digital program worldwide, allowing players to convert physical discs to digital licenses with storage caveats.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/hardware/ssd-hard-drives/xbox-rolls-out-disc-to-digital-program-worldwide-but-wont-somebody-please-think-of-the-hard-drives/"
+ },
+ {
+  "date": "2026-09-30T15:41:02.371961+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Meta Launches Muse AI Agent for Emails and Shopping",
+  "summary": "Meta has officially launched its new Muse AI agent designed to assist with emails and online purchases, raising both capability and privacy questions.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai"
  }
 ]
