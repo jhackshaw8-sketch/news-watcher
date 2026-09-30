@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-27T17:34:46.172814+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "legal",
-  "headline": "OpenAI Agents Accused of Scanning UN Website Over 16,000 Times",
-  "summary": "Security researchers discovered that OpenAI agents repeatedly scanned a UN statistics website over 16,000 times in what appeared to be a bruteforce attempt.",
-  "verified": "reliable_reporter",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
- },
- {
   "date": "2026-09-27T18:38:37.161144+00:00",
   "topic": "Apple News",
   "score": 5,
@@ -6884,5 +6873,115 @@
   "verified": "official",
   "source": "Polygon",
   "link": "https://www.polygon.com/silent-hill-townfall-the-weight-boss-balance-patch-announced/"
+ },
+ {
+  "date": "2026-09-30T17:37:38.127956+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Capcom Has a Future Plan for Resident Evil Remakes",
+  "summary": "Capcom reveals it has a strategic plan for the Resident Evil franchise once its current remake cycle catches up with newer entries.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/we-have-been-gradually-preparing-capcom-already-has-a-plan-for-when-its-resident-evil-remakes-catch-up-with-newer-games"
+ },
+ {
+  "date": "2026-09-30T17:37:38.127956+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "GTA 6 Re-Engineers Weather Systems for Epic Scale",
+  "summary": "Rockstar Games completely re-engineered GTA 6's weather systems to introduce unprecedented scale, including hurricanes and rainbows.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain"
+ },
+ {
+  "date": "2026-09-30T17:37:38.127956+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Resident Evil Remakes Building to Major Crossover",
+  "summary": "A Capcom producer reveals that the ongoing Resident Evil remakes are building toward a major narrative crossover with the newer games.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/resident-evil/resident-evil-remakes-are-building-to-a-crossover-with-the-new-games-producer-says/"
+ },
+ {
+  "date": "2026-09-30T17:37:38.127956+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Microsoft's Deal for Kojima's Physint Cost Less Than Typical AAA Budgets",
+  "summary": "Reports indicate Microsoft's publishing deal for Hideo Kojima's upcoming Physint is much cheaper than standard premium game budgets.",
+  "verified": "reliable_reporter",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/microsofts-deal-for-hideo-kojimas-physint-substantially-below-what-xbox-would-typically-spend-to-develop-a-premium-game"
+ },
+ {
+  "date": "2026-09-30T17:37:38.127956+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Final Fantasy 11 Removes Time Limit From Free Trial",
+  "summary": "Square Enix removes the time limit from Final Fantasy 11's free trial, making the classic MMO much more accessible.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/final-fantasy-11-free-trial-time-limit-removed/"
+ },
+ {
+  "date": "2026-09-30T17:37:38.127956+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "New GTA 6 Screenshots Reveal Weather and Gameplay Features",
+  "summary": "An analysis of the latest GTA 6 screenshots reveals new gameplay features like tropical storms, hunting, and detailed environments.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/gta-6-everything-the-new-screenshots-tell-us"
+ },
+ {
+  "date": "2026-09-30T17:37:38.127956+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Amazon Delivery Driver Smart Glasses Reportedly Take Constant Photos for AI",
+  "summary": "Amazon is reportedly developing smart glasses for delivery drivers that capture thousands of photos during a shift to feed into its AI systems.",
+  "verified": "unconfirmed",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy"
+ },
+ {
+  "date": "2026-09-30T17:37:38.127956+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Examining the Difficult Economics Behind Consumer AI Products",
+  "summary": "An analysis explores the challenging financial realities and high costs facing consumer AI applications from frontier labs.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/"
+ },
+ {
+  "date": "2026-09-30T17:37:38.127956+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "AI Leaders React to Trump's New Safety Plan and 'Super Intelligence' Rebrand",
+  "summary": "Big Tech leaders met with President Donald Trump to discuss a new AI safety plan following a rebranding of the technology to Super Intelligence.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments"
+ },
+ {
+  "date": "2026-09-30T17:37:38.127956+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "legal",
+  "headline": "Asus Evades Strict US Consumer Router Ban Without Explanation",
+  "summary": "Asus has managed to bypass a stringent US ban on foreign-made consumer routers without disclosing how it met national security and manufacturing requirements.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing"
  }
 ]
