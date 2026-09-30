@@ -6048,5 +6048,38 @@
   "verified": "official",
   "source": "GamesRadar",
   "link": "https://www.gamesradar.com/platforms/pc-gaming/another-steam-page-is-being-turned-into-an-algorithm-as-valve-aims-to-show-10x-more-games-to-customers/"
+ },
+ {
+  "date": "2026-09-30T00:45:22.371359+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "BofA Warns Meta's AI Agent Poses Risk to Apple Services Revenue",
+  "summary": "Bank of America warns that Meta's new Muse AI agent could threaten Apple's services revenue by bypassing its ecosystem.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/bank-of-america-says-metas-muse-highlights-a-new-risk-for-apples-services-revenue/"
+ },
+ {
+  "date": "2026-09-30T00:45:22.371359+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Diablo 4 Will Remain Supported Past Diablo 5",
+  "summary": "Diablo 4's director has assured fans that the game will continue to receive support even after the eventual launch of Diablo 5.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/the-train-isnt-stopping-diablo-4-director-promises-the-game-will-still-receive-support-well-after-diablo-5-launches"
+ },
+ {
+  "date": "2026-09-30T00:45:22.371359+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "OpenAI Delays IPO Until AI Models Are Deemed Safe",
+  "summary": "OpenAI CEO Sam Altman stated that the company will not go public until its AI models reach a sufficient level of safety, leaving the timeline uncertain.",
+  "verified": "reliable_reporter",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
  }
 ]
