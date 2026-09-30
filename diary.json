@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-09-27T17:02:56.064279+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Control Resonant Leaves Behind Its Scary Aura",
-  "summary": "Polygon discusses how Control Resonant moves away from the Oldest House and leaves behind the first game's scary atmosphere.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/control-resonant-biggest-issue-oldest-house/"
- },
- {
-  "date": "2026-09-27T17:02:56.064279+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Bloober Team's Switch 2 Exclusive Previewed",
-  "summary": "A preview highlights Bloober Team's Switch 2 exclusive Onyx: The Dark Grip as a uniquely Nintendo-sounding experience.",
-  "verified": "reliable_reporter",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wrp04h/onyx_the_dark_grip_preview_bloober_teams_switch_2/"
- },
- {
   "date": "2026-09-27T17:34:46.172814+00:00",
   "topic": "Tech News",
   "score": 7,
@@ -6884,5 +6862,27 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
+ },
+ {
+  "date": "2026-09-30T17:04:39.974259+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Baldur's Gate 3 Prequel Novel Released",
+  "summary": "A new Baldur's Gate 3 tie-in novel offers a horrifying and delightful prequel story despite publisher interference.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/astarion-novel-t-kingfisher-review/"
+ },
+ {
+  "date": "2026-09-30T17:04:39.974259+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "Silent Hill: Townfall Hardest Boss Getting Nerfed",
+  "summary": "The notoriously difficult The Weight boss encounter in Silent Hill: Townfall is set to be balanced in an upcoming patch.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/silent-hill-townfall-the-weight-boss-balance-patch-announced/"
  }
 ]
