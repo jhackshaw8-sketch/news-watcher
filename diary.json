@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-27T20:03:18.544655+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Can Muse overcome Meta's trust issues?",
-  "summary": "TechCrunch discusses how Meta's recent AI announcements managed to overshadow competitors like OpenAI and Anthropic despite ongoing trust challenges.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
- },
- {
   "date": "2026-09-27T20:35:28.151235+00:00",
   "topic": "Tech News",
   "score": 8,
@@ -7346,5 +7335,16 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/"
+ },
+ {
+  "date": "2026-09-30T20:04:12.392040+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Meta's Muse AI crosses 5 million App Store downloads",
+  "summary": "Meta's AI assistant Muse surpasses 5 million downloads on the App Store in the US and Canada following a major advertising push.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/30/report-metas-muse-crosses-5-million-downloads-amid-massive-advertising-push/"
  }
 ]
