@@ -7247,5 +7247,60 @@
   "verified": "unconfirmed",
   "source": "Ars Technica",
   "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/"
+ },
+ {
+  "date": "2026-09-30T19:06:06.599031+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Invites App Receives New Update",
+  "summary": "Apple has updated the Apple Invites app for iPhone with new iOS integration features including improved photo sharing and Image Playground capabilities.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/30/apple-invites-for-iphone-updated-with-three-new-features/"
+ },
+ {
+  "date": "2026-09-30T19:06:06.599031+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Invites App Updated With Three New Features",
+  "summary": "The Apple Invites app update brings full-resolution shared albums, photorealistic Image Playground backgrounds, and simplified email verification.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/30/apple-invites-app-three-new-features/"
+ },
+ {
+  "date": "2026-09-30T19:06:06.599031+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Xbox CEO Denies Sale Rumors Amid Company Layoffs",
+  "summary": "The Xbox CEO denied rumors that the brand is for sale, affirming commitment despite recent layoffs.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/xbox-is-not-for-sale-says-ceo-despite-rumors-we-will-do-whatever-it-takes-to-set-the-company-up-for-success/"
+ },
+ {
+  "date": "2026-09-30T19:06:06.599031+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Modern Warfare 4 Announces Counter-Strike-Style Game Mode",
+  "summary": "Modern Warfare 4 has officially announced a new 'Collateral' mode featuring a Counter-Strike-style cash economy.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/modern-warfare-4-collateral-mode-counter-strike/"
+ },
+ {
+  "date": "2026-09-30T19:06:06.599031+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "OpenAI Launches Decisions API for Swarming Agents",
+  "summary": "OpenAI introduced a new Decisions API that mimics a Jevons paradox clone, highlighting the growing significance of fast and cheap artificial intelligence.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
  }
 ]
