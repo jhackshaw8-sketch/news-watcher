@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-27T01:35:49.057198+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "Google Tests Flipkart Shopping Integration for Gemini in India",
-  "summary": "Google is conducting a limited test allowing users in India to buy products from Walmart-owned Flipkart directly through Gemini and AI Mode.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
- },
- {
   "date": "2026-09-27T02:03:09.129401+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -6081,5 +6070,16 @@
   "verified": "reliable_reporter",
   "source": "The Verge",
   "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+ },
+ {
+  "date": "2026-09-30T01:37:33.725997+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "Apple Pay Launches for Axis Bank Customers in India",
+  "summary": "Apple Pay is officially expanding its service to Axis Bank customers in India, marking a major market rollout after a long wait.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/29/apple-pay-now-rolling-out-to-axis-bank-customers-in-india/"
  }
 ]
