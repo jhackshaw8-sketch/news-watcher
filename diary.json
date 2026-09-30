@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-27T19:33:47.292488+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Bill Gates Warns Against Lack of AI Safeguards",
-  "summary": "Microsoft co-founder Bill Gates stated that failing to implement AI safeguards is completely irresponsible, warning of threats from bad actors.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/"
- },
- {
   "date": "2026-09-27T20:03:18.544655+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -7302,5 +7291,60 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
+ },
+ {
+  "date": "2026-09-30T19:36:32.343868+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Invites Update Leverages New iOS Features",
+  "summary": "An update to Apple Invites integrates new iOS features to improve event creation and high-resolution photo sharing.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/30/apple-invites-update-leans-on-ios-27s-new-features?utm_source=rss"
+ },
+ {
+  "date": "2026-09-30T19:36:32.343868+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "iOS 27.2 Brings New Messages Features and More to iPhone",
+  "summary": "Apple is preparing iOS 27.2, which introduces several new features for the iPhone, including a popular addition to the Messages app.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/30/ios-27-2-adds-new-messages-feature-thats-already-a-favorite/"
+ },
+ {
+  "date": "2026-09-30T19:36:32.343868+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Ex-Halo Director Advises Activision on Reviving the Franchise",
+  "summary": "Former Halo lead Frank O'Connor has suggested ways for Activision to revive the Halo franchise and urged them to hire laid-off Bungie staff.",
+  "verified": "reliable_reporter",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/halo-lead-activision-revive-hire-bungie-developers"
+ },
+ {
+  "date": "2026-09-30T19:36:32.343868+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Massive DoD Data Breach Exposes Millions of Military Records",
+  "summary": "The Department of Defense confirmed a major data breach that compromised the personal records of millions of current and former U.S. military personnel.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/"
+ },
+ {
+  "date": "2026-09-30T19:36:32.343868+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "DoorDash Unveils New Custom Delivery Drone",
+  "summary": "DoorDash unveiled its new six-propeller delivery drone at the Dash Forward 2026 event.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/"
  }
 ]
