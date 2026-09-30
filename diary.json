@@ -6983,5 +6983,181 @@
   "verified": "official",
   "source": "The Verge",
   "link": "https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Leak Details Upcoming Apple Smart Display",
+  "summary": "A new leak reveals design details about Apple's upcoming smart display ahead of its rumored launch.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/30/leak-reveals-new-design-details-about-apples-upcoming-smart-display/"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Is an Apple Event Happening on October 13?",
+  "summary": "Speculation points to an October 13 date for Apple event announcements and review device handovers.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/30/apple-event-on-october-13/"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "business",
+  "headline": "Apple Music Launches in Four New Countries",
+  "summary": "Apple Music expands its availability by launching in Albania and three other countries.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/30/apple-music-finally-lands-in-four-countries-11-years-after-launch?utm_source=rss"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Music 7.0 Beta Brings Redesign to Android",
+  "summary": "The Apple Music 7.0 beta for Android introduces a major new design inspired by Liquid Glass.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5google.com/2026/09/30/apple-music-7-0-redesign-liquid-glass/"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "GTA 6 Rumored to Feature Over 170 Unique Animals",
+  "summary": "Grand Theft Auto 6 is rumored to feature over 170 unique animals, potentially expanding significantly on Red Dead Redemption 2's wildlife system.",
+  "verified": "unconfirmed",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/gta-6-wildlife-hunting-animals/"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Reddit Tightens Restrictions on Old Reddit to Block AI Bots",
+  "summary": "Reddit is further restricting access to 'Old Reddit' by requiring logins to combat AI bot scraping.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Reddit Ends RSS Feeds and Public API Access to Stop AI Scraping",
+  "summary": "Reddit is ending support for RSS feeds and public API access as part of ongoing anti-scraping measures against AI bots.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Reddit Imposes Additional Restrictions on Old Reddit Interface",
+  "summary": "New restrictions are being implemented on Old Reddit as the platform struggles with web scraping.",
+  "verified": "reliable_reporter",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2273661/reddit-imposes-new-restrictions-on-old-reddit/"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Reddit Cuts Off RSS and Public APIs Over AI Scraping",
+  "summary": "Discussion on Reddit ending RSS feeds and public API access due to AI bot concerns.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wubsf7/reddit_is_killing_rss_feeds_and_ending_public_api/"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Hyundai Announces Massive $26 Billion US Investment",
+  "summary": "Hyundai is investing $26 billion in the US, significantly expanding its American manufacturing footprint.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wuaix6/hyundais_massive_26_billion_us_investment_will/"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Asus Silent on How It Evaded US Router Ban",
+  "summary": "Asus has declined to publicly clarify how it managed to avoid the recent US router ban.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wu9zbb/asus_wont_say_how_it_escaped_the_us_router_ban/"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "launch",
+  "headline": "DoorDash Launches AI Food Ordering via Apple Messages",
+  "summary": "DoorDash has introduced AI-powered food ordering integrated through Apple's Messages app.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wu8hnf/doordash_unveils_ai_food_ordering_through_apples/"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Cloudflare Unveils Plans for Quantum-Safe TLS Certificates",
+  "summary": "Cloudflare plans to introduce quantum-safe TLS certificates as part of a website authentication overhaul.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wu89lc/cloudflare_plans_to_issue_quantumsafe_tls/"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "AI Achieves Major Breakthrough in Probability Theory Math",
+  "summary": "An AI system has achieved a major math breakthrough by solving a complex probability theory problem.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wu7jqt/ai_has_racked_up_a_new_math_breakthrough_solving/"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Workday Initiates Second Round of Layoffs for the Year",
+  "summary": "Workday is conducting its second round of layoffs this year amid broader tech sector adjustments.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wu7fj7/workday_is_doing_its_second_round_of_layoffs_this/"
+ },
+ {
+  "date": "2026-09-30T18:04:42.910242+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Trump Announces 'Morally Binding' AI Self-Policing Deal With Tech CEOs",
+  "summary": "Donald Trump announced a vague, morally binding AI agreement among tech CEOs focused on self-policing.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wu7fe4/trump_announces_vague_morally_binding_ai_deal/"
  }
 ]
