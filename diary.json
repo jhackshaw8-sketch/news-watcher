@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-27T23:02:48.667980+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "What to expect from Apple's rumored screenless fitness tracker",
-  "summary": "Following reports that Apple is developing a screenless fitness tracker, an editorial explores potential features for the rumored device.",
-  "verified": "unconfirmed",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/27/apple-rumored-screenless-fitness-tracker-whoop-competitor/"
- },
- {
   "date": "2026-09-28T00:04:28.979476+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -7742,5 +7731,16 @@
   "verified": "official",
   "source": "Polygon",
   "link": "https://www.polygon.com/ace-combat-8-online-impressions/"
+ },
+ {
+  "date": "2026-09-30T23:36:03.382029+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Pentagon Taps Elon Musk and Palmer Luckey to Lead Future of Warfare Study",
+  "summary": "The Pentagon has appointed tech figures Elon Musk and Palmer Luckey to lead a 120-day study on the future of warfare.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
  }
 ]
