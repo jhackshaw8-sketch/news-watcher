@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-09-27T15:03:01.347607+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "New Apple Vision Pro Form Factors in Development",
-  "summary": "Apple is reportedly developing a new Vision Pro model with different form factors to address weight and bulk concerns.",
-  "verified": "unconfirmed",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/27/apple-working-on-new-lighter-vision-pro-version/"
- },
- {
-  "date": "2026-09-27T15:03:01.347607+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Apple Smart Glasses Projected for 2027 Release",
-  "summary": "Industry forecasts predict Apple will release smart glasses by the end of 2027 and an upgraded Vision Pro in 2028.",
-  "verified": "unconfirmed",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/09/27/apples-smart-glasses-predicted-for-2027-upgraded-apple-vision-pro-2028?utm_source=rss"
- },
- {
-  "date": "2026-09-27T15:03:01.347607+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "business",
-  "headline": "Apple Grants US Staff Extended Thanksgiving Break",
-  "summary": "Apple CEO John Ternus has granted US staff the entire Thanksgiving week off to recognize their hard work.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/09/27/apples-us-staff-will-get-extended-thanksgiving-break-under-ternus-too?utm_source=rss"
- },
- {
   "date": "2026-09-27T15:35:45.973381+00:00",
   "topic": "Gaming News",
   "score": 8,
@@ -6697,5 +6664,82 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
+ },
+ {
+  "date": "2026-09-30T15:07:54.504286+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "business",
+  "headline": "New Apple TV comedy debuts with 100% Rotten Tomatoes score",
+  "summary": "A new Apple TV comedy series achieves a 100% Rotten Tomatoes rating, and its trailer has been released.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/30/new-apple-tv-comedy-has-100-rotten-tomatoes-heres-the-trailer/"
+ },
+ {
+  "date": "2026-09-30T15:07:54.504286+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Jennifer Lawrence to Star in Resident Evil Director's Sci-Fi Thriller The Flood",
+  "summary": "Director Zach Cregger's new sci-fi thriller movie The Flood has cast Jennifer Lawrence as its lead.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/the-flood-zach-cregger-sci-fi-casting-jennifer-lawrence/"
+ },
+ {
+  "date": "2026-09-30T15:07:54.504286+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Google Tests Paying Publishers for AI Search",
+  "summary": "Google has reportedly launched a pilot program to pay around 100 publishers for their content used in AI-powered search features.",
+  "verified": "reliable_reporter",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
+ },
+ {
+  "date": "2026-09-30T15:07:54.504286+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "other",
+  "headline": "AI Pledge Signed by Trump and Tech Leaders Misspells US",
+  "summary": "An AI pledge signed by President Trump and top AI industry leaders notably misspelled the United States.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/"
+ },
+ {
+  "date": "2026-09-30T15:07:54.504286+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Meta Responds After AI Leak Exposes Address",
+  "summary": "Meta responded after its Muse AI tool mistakenly revealed a YouTuber's home address on Facebook Marketplace.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wu5uru/meta_responds_after_muse_ai_gave_stranger/"
+ },
+ {
+  "date": "2026-09-30T15:07:54.504286+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "other",
+  "headline": "Report Explores AI's Impact on Mass Shootings",
+  "summary": "A report discusses the concerning ways artificial intelligence is impacting US mass shootings.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wu57t6/will_ai_make_us_mass_shootings_worse_it_already/"
+ },
+ {
+  "date": "2026-09-30T15:07:54.504286+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Palantir CEO Buys Vast Swedish Forestland",
+  "summary": "Palantir CEO Alex Karp quietly purchased 37,000 acres of Swedish forests, impacting local hunters.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wu4lnz/palantir_ceo_alex_karp_quietly_purchased_37000/"
  }
 ]
