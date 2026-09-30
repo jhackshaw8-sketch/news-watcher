@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-27T20:35:28.151235+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Anthropic CEO Dario Amodei to Meet President Trump for Dinner",
-  "summary": "Anthropic CEO Dario Amodei is scheduled to have his first one-on-one dinner meeting with President Donald Trump.",
-  "verified": "reliable_reporter",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
- },
- {
   "date": "2026-09-27T22:02:58.707011+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -7346,5 +7335,71 @@
   "verified": "reliable_reporter",
   "source": "9to5Mac",
   "link": "https://9to5mac.com/2026/09/30/report-metas-muse-crosses-5-million-downloads-amid-massive-advertising-push/"
+ },
+ {
+  "date": "2026-09-30T20:37:36.711529+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Biggest GTA 6 Questions Unanswered by Previews",
+  "summary": "Polygon explores lingering questions and community speculation regarding the cast and online features following extended looks at GTA 6.",
+  "verified": "unconfirmed",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/gta-6-major-questions/"
+ },
+ {
+  "date": "2026-09-30T20:37:36.711529+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "business",
+  "headline": "Xbox CEO Responds to Division Spin-Off Rumors",
+  "summary": "The Xbox CEO officially addresses reports and rumors about Microsoft potentially spinning off its gaming division amidst ongoing industry changes.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/xbox-not-for-sale-ceo-official-response-asha-sharma/"
+ },
+ {
+  "date": "2026-09-30T20:37:36.711529+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Spotify Founder's Neko Health Expands to US",
+  "summary": "Spotify founder Daniel Ek\u2019s preventative health startup Neko Health has expanded to America after raising significant funding.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/"
+ },
+ {
+  "date": "2026-09-30T20:37:36.711529+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Google Announces Gemini 4 Argon AI Model",
+  "summary": "Google has announced its new Gemini 4 Argon AI model, though it is not yet available for public use.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
+ },
+ {
+  "date": "2026-09-30T20:37:36.711529+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "Reddit Implements New Limits on Old.Reddit.com",
+  "summary": "Reddit is implementing additional restrictions on Old.Reddit.com to combat what it describes as automated abuse.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/"
+ },
+ {
+  "date": "2026-09-30T20:37:36.711529+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Trump AI Safety Plan Relies on Big Tech Self-Policing",
+  "summary": "A proposed strategy by Donald Trump relies heavily on voluntary AI safety commitments from major technology companies.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
  }
 ]
