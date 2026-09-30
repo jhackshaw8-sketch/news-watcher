@@ -6455,5 +6455,126 @@
   "verified": "official",
   "source": "GamesRadar",
   "link": "https://www.gamesradar.com/games/open-world/crimson-desert-dlc-charting-the-unknown-delayed-2-weeks-as-pearl-abyss-seeks-a-more-polished-and-stable-gameplay-experience/"
+ },
+ {
+  "date": "2026-09-30T12:05:18.895584+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Apple Working to Expand HomeKit and Smart Home Presence",
+  "summary": "Apple is reportedly working on a major revamp of HomeKit as part of an expanded push into the smart home market.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/09/30/apple-working-to-expand-homekit/"
+ },
+ {
+  "date": "2026-09-30T12:05:18.895584+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "New Smart Home Hub and HomePod Rumored for October 13",
+  "summary": "A new report claims Apple will unveil a refreshed HomePod mini, a new Apple TV, and a dedicated smart home hub on October 13.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/30/refreshed-homepod-mini-apple-tv-and-new-homehub-coming-on-october-13?utm_source=rss"
+ },
+ {
+  "date": "2026-09-30T12:05:18.895584+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Apple's Smart Home Hub Rumored for October 13 Launch",
+  "summary": "Reports indicate that Apple's new smart home hub, sometimes called the HomePad, is scheduled for an October 13 launch.",
+  "verified": "reliable_reporter",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wu3193/apples_homepad_smart_home_hub_launching_on_oct_13/"
+ },
+ {
+  "date": "2026-09-30T12:05:18.895584+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Apple Smart Home Hub Rumored to Feature iMac G4-Style Design",
+  "summary": "Upcoming details suggest Apple's upcoming smart home hub will feature an iMac G4-inspired design language.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wu2o63/apple_smart_home_hub_to_feature_imac_g4style/"
+ },
+ {
+  "date": "2026-09-30T12:05:18.895584+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Crimson Desert DLC Delayed",
+  "summary": "Pearl Abyss has delayed the first DLC for Crimson Desert, Charting the Unknown, by two weeks to October 29 for polish.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/crimson-desert-charting-the-unknown-dlc-delayed"
+ },
+ {
+  "date": "2026-09-30T12:05:18.895584+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Samsung Overhauls Galaxy Tab S Plus in New S12 Lineup",
+  "summary": "Samsung has released the Galaxy Tab S12 series, bringing a significant overhaul to the Plus model while keeping the Ultra variant largely similar to its predecessor.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price"
+ },
+ {
+  "date": "2026-09-30T12:05:18.895584+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Google Alumni Raise $11.3M for Enterprise AI Fund",
+  "summary": "Former Google employees have raised an $11.3 million fund named BAG Ventures to invest in enterprise-focused AI startups.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/"
+ },
+ {
+  "date": "2026-09-30T12:05:18.895584+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "Cloudflare Announces Plans for Quantum-Safe TLS Certificates",
+  "summary": "Cloudflare is planning to issue quantum-safe TLS certificates as part of a major overhaul to website authentication security.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/"
+ },
+ {
+  "date": "2026-09-30T12:05:18.895584+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Samsung Galaxy SmartTag 3 Adds Pet Activity and Sleep Monitoring",
+  "summary": "Samsung's Galaxy SmartTag 3 introduces pet activity monitoring alongside location tracking to keep tabs on motion and sleep.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2272675/the-samsung-galaxy-smarttag-3-special-feature-is-being-a-pet-activity-monitor/"
+ },
+ {
+  "date": "2026-09-30T12:05:18.895584+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Samsung Announces Galaxy SmartTag 3 With iPhone Support",
+  "summary": "Samsung has officially announced the Galaxy SmartTag 3, featuring a smaller design, longer battery life, cross-OS support for iPhones, and new tracking features.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features"
+ },
+ {
+  "date": "2026-09-30T12:05:18.895584+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Samsung Galaxy Tab S12 Ultra Reviewed as Top Android Tablet",
+  "summary": "The Samsung Galaxy Tab S12 Ultra has launched starting at $1,400, positioning itself as a top-tier Android tablet.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2272526/samsung-galaxy-tab-s12-ultra-review/"
  }
 ]
