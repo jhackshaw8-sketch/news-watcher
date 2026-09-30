@@ -7401,5 +7401,49 @@
   "verified": "reliable_reporter",
   "source": "Ars Technica",
   "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
+ },
+ {
+  "date": "2026-09-30T21:03:40.034739+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Music Expands to Four New Countries",
+  "summary": "Apple Music has expanded its availability to four new countries, bringing its total reach to 172 countries and regions.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/30/apple-music-expands-to-four-new-countries/"
+ },
+ {
+  "date": "2026-09-30T21:03:40.034739+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Warlock Boss Confirms Scripted Story Rather Than Baldur's Gate 3-Style Narrative",
+  "summary": "The Warlock boss clarifies that the game will feature a traditional scripted main story rather than a fluid, highly reactive narrative like Baldur's Gate 3.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/open-world/warlock-boss-says-dont-expect-a-baldurs-gate-3-style-fluid-story-the-main-narrative-moments-youre-going-to-go-through-are-written-down/"
+ },
+ {
+  "date": "2026-09-30T21:03:40.034739+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Factory CEO Accuses Board Advisor of Spying for Competitor Cognition",
+  "summary": "The CEO of Factory AI has accused his former VC board advisor of spying after taking a high-level role at rival company Cognition.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/"
+ },
+ {
+  "date": "2026-09-30T21:03:40.034739+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Google Unveils Gemini 4 Argon AI Model, Restricts Access to Cyber Defenders",
+  "summary": "Google has announced Gemini 4 Argon, a powerful new AI model restricted exclusively to trusted cyber defenders due to its advanced capabilities.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
  }
 ]
