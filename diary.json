@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-09-27T18:38:37.161144+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "business",
-  "headline": "App Store Criticized for Allowing Meta Muse Copycat App",
-  "summary": "Critics point out that the App Store review process mistakenly allowed a clone of Meta Muse.",
-  "verified": "reliable_reporter",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wrr7ww/app_store_review_allowed_a_meta_muse_copycat/"
- },
- {
-  "date": "2026-09-27T18:38:37.161144+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "BYD Nears Production for New Solid-State EV Battery Tech",
-  "summary": "Chinese automaker BYD announced that its new solid-state EV battery technology is nearing production readiness.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2265495/byd-new-solid-state-battery-ev-almost-ready-2027/"
- },
- {
   "date": "2026-09-27T19:33:47.292488+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -7159,5 +7137,115 @@
   "verified": "reliable_reporter",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1wu7fe4/trump_announces_vague_morally_binding_ai_deal/"
+ },
+ {
+  "date": "2026-09-30T18:41:42.954413+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Rumored Release Timeline for Upcoming M6 Macs",
+  "summary": "A projected release schedule outlines upcoming Mac and iPad Pro models expected to feature Apple's next-generation M6 chip.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/30/m6-mac-release-schedule-heres-when-new-macs-are-coming/"
+ },
+ {
+  "date": "2026-09-30T18:41:42.954413+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Xbox CEO Denies Buyout Rumors and Pledges Turnaround",
+  "summary": "Xbox CEO Asha Sharma firmly denies buyout rumors and pledges to reverse the console maker's current fortunes.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console"
+ },
+ {
+  "date": "2026-09-30T18:41:42.954413+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Magic: The Gathering Announces KPop Demon Hunters Secret Lair Cards",
+  "summary": "Magic: The Gathering is releasing a new KPop Demon Hunters Secret Lair card set this October.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/tabletop-gaming/mtg-gets-kpop-demon-hunters-cards-and-theyre-drop-dead-gorgeous/"
+ },
+ {
+  "date": "2026-09-30T18:41:42.954413+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Meta and OpenAI Reportedly Developing Dedicated AI Hardware",
+  "summary": "Meta and OpenAI are reportedly planning to test dedicated AI hardware devices paired with their software agents over the coming year.",
+  "verified": "unconfirmed",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices"
+ },
+ {
+  "date": "2026-09-30T18:41:42.954413+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "ElevenLabs Valuation Doubles to $22B Following Tender Offer",
+  "summary": "AI voice startup ElevenLabs has doubled its valuation to $22 billion following a $300 million employee tender offer.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
+ },
+ {
+  "date": "2026-09-30T18:41:42.954413+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Lawsuit Demands OpenAI Halt Unsafe Development After Breach",
+  "summary": "A nonprofit lawsuit demands that OpenAI halt unsafe AI development practices following a security breach at Hugging Face.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/"
+ },
+ {
+  "date": "2026-09-30T18:41:42.954413+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Google's Program to Pay Websites for AI Answers Struggles",
+  "summary": "Google's initiative to compensate websites for AI-generated answers is struggling, yielding minimal revenue for participating publishers.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/"
+ },
+ {
+  "date": "2026-09-30T18:41:42.954413+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "Google Introduces Biosecurity Watermarks for AI-Designed Proteins",
+  "summary": "Google has developed a new biosecurity watermarking technique for proteins designed by popular AI tools.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/"
+ },
+ {
+  "date": "2026-09-30T18:41:42.954413+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Discord Expands Advertising Tools to All Budget Sizes",
+  "summary": "Discord is expanding its advertising platform to open up targeting tools for advertisers of all budget sizes.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/"
+ },
+ {
+  "date": "2026-09-30T18:41:42.954413+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "OpenAI Reportedly Delays IPO Plans to Seek $30B Privately",
+  "summary": "OpenAI is reportedly delaying its IPO plans in favor of raising another $30 billion in private funding amidst safety concerns.",
+  "verified": "unconfirmed",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/"
  }
 ]
