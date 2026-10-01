@@ -1,192 +1,5 @@
 [
  {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "Space Marine 2 Devs Confirm Plans to Buff Chaos Difficulty",
-  "summary": "The game director of Warhammer 40,000: Space Marine 2 acknowledged that Chaos enemies are tougher than Tyranids and confirmed plans for balance adjustments.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/warhammer-40000-space-marine-2-dev-acknowledges-that-chaos-is-harder-to-fight-than-tyranids-confirms-plan-to-do-something-about-it"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Ubisoft's Gen-AI Initiative Trademarked as 'Motherbrain'",
-  "summary": "Trademarks reveal that Ubisoft's internal generative-AI game development initiative is named 'Motherbrain'.",
-  "verified": "reliable_reporter",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "New God of War Art Sparks Ancient Greek Setting Speculation",
-  "summary": "God of War Laufey artwork depicts Kratos in an Ancient Greek setting, sparking fresh story speculation.",
-  "verified": "unconfirmed",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/god-of-war-laufey-features-kratos-in-an-ancient-greek-setting-sparking-speculation-over-the-games-story-and-praise-for-his-big-bushy-beard"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Viral PS2-Era GTA Clone Captivates Fans on Social Media",
-  "summary": "A solo developer's PS2-era inspired GTA clone has gone viral on social media following a new trailer release.",
-  "verified": "reliable_reporter",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/ps2-gta-inspired-game-alaturka/"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "The Witcher 3 Remastered Delivers a Stunning Free Upgrade",
-  "summary": "The Witcher 3 Remastered is a generous free upgrade that modernizes the classic RPG without altering its core experience.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/witcher-3-wild-hunt-remastered-generous-upgrade-makes-it-new-again"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "GTA 6 Fans 3D Print Their Own Collector's Edition Statues",
-  "summary": "GTA 6 fans have 3D printed their own replicas of the sold-out $400 collector's edition gator statue.",
-  "verified": "unconfirmed",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fans-replicate-the-usd400-collectors-box-statue-and-you-can-now-3d-print-your-own-ugly-gator-at-home/"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "The Witcher 3 Remastered Patch Notes Detail Platform Upgrades",
-  "summary": "CD Projekt has published the official patch notes detailing console and PC-specific improvements for The Witcher 3 Remastered.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/the-witcher-3-wild-hunt-remastered-update-patch-notes-include-pc-specific-and-console-specific-changes"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "Dark Souls 2 Gets Seamless Co-op Via Fan Mod",
-  "summary": "Dark Souls 2: Scholar of the First Sin now supports full drop-in, drop-out co-op thanks to a new seamless multiplayer mod.",
-  "verified": "reliable_reporter",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/dark-souls-2-seamless-co-op-mod"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Minecraft Dungeons 2 Review: A Shallow Sequel",
-  "summary": "Minecraft Dungeons 2 has been released, offering a shallow yet peaceful button-mashing sequel experience.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/minecraft-dungeons-2-review"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Super Mario Galaxy Decompiled by Community for PC Port",
-  "summary": "Super Mario Galaxy has been officially decompiled by the community, moving a PC port one step closer to reality.",
-  "verified": "reliable_reporter",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/super-mario-galaxy-nintendo-fan-port-pc/"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "The Witcher 3 Songs of the Past Expansion OST Tracks Released",
-  "summary": "CD Projekt Red has released five preview tracks from the official soundtrack of The Witcher 3 expansion Songs of the Past.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/the-witcher-3-songs-of-the-past-expansion-five-tracks-ost"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "CD Projekt Details All Improvements in The Witcher 3 Remastered",
-  "summary": "CD Projekt has detailed the full suite of technical improvements included in The Witcher 3: Wild Hunt Remastered.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/cd-projekt-releases-official-list-of-all-the-improvements-in-the-witcher-3-wild-hunt-remastered"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "Blizzard Compensates Diablo 4 Players for Season 15 Issues",
-  "summary": "Blizzard is compensating Diablo 4 players with rare crafting materials following technical issues during Season 15.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/diablo-4-free-gift-season-of-hells-legacy-server-issues"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Turtle Beach Reveals Animal Crossing Switch 2 Accessories",
-  "summary": "Turtle Beach has introduced new officially licensed Animal Crossing Switch 2 accessories, featuring light-up cases and controllers.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/hardware/accessories/turtle-beachs-new-switch-2-animal-crossing-accessories-are-so-stellar-that-they-literally-light-up-case-included/"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "update",
-  "headline": "WoW Forever Beta Players Fall Victim to Major Griefing Tactic",
-  "summary": "World of Warcraft Forever beta players have uncovered a devastating griefing tactic that is expected to be patched.",
-  "verified": "reliable_reporter",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/wow-forever-beta-player-dies-to-a-near-perfect-griefing-tactic-that-im-sure-blizzard-will-patch-out"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "update",
-  "headline": "Call of Duty: Warzone Adding Toggle to Turn Off Crossover Skins",
-  "summary": "Call of Duty: Modern Warfare 4 will introduce a highly requested feature allowing players to disable cross-over character skins in Warzone.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/call-of-duty-warzone-skin-toggle-modern-warfare-4"
- },
- {
-  "date": "2026-09-28T17:04:29.354272+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Marvel Fans React to Early Avengers: Doomsday Release Leaks",
-  "summary": "Marvel fans are expressing concern over potential spoilers and leaks surrounding early release plans for Avengers: Doomsday.",
-  "verified": "unconfirmed",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/marvel-movies/marvel-fans-are-crashing-out-over-avengers-doomsdays-early-release-plans-were-going-to-have-the-entire-film-online/"
- },
- {
   "date": "2026-09-28T17:37:03.499985+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -15321,5 +15134,71 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2274668/audible-thinks-you-want-to-have-an-ai-generated-conversation-with-draculas-beleaguered-servant/"
+ },
+ {
+  "date": "2026-10-01T17:06:12.018402+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Amazon Releases Strands Decider 2B Decision Model",
+  "summary": "Amazon Web Services has released its own decision model, Strands Decider 2B.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/"
+ },
+ {
+  "date": "2026-10-01T17:06:12.018402+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Shopify Debuts Canvas AI Store Builder",
+  "summary": "Shopify has introduced Canvas, an AI-powered conversational site builder utilizing its Sidekick agent.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/"
+ },
+ {
+  "date": "2026-10-01T17:06:12.018402+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Canada Advances Its Domestic Launch Industry",
+  "summary": "The Canada Rocket Company is advancing its efforts in the medium-lift launch industry amidst shifting US relations.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/"
+ },
+ {
+  "date": "2026-10-01T17:06:12.018402+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "Samsung Galaxy Tab S12 Ultra Detailed",
+  "summary": "Samsung's Galaxy Tab S12 Ultra offers an iterative hardware upgrade compared to the previous generation.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2274708/samsung-galaxy-tablet-s12-ultra-vs-tab-s11-ultra-differences/"
+ },
+ {
+  "date": "2026-10-01T17:06:12.018402+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Saleen Teases Wild New Mustang Build Project \ud83d\udc0e\ud83d\udca8",
+  "summary": "Saleen is developing a wild new S650 Mustang widebody project but is still seeking additional funding.",
+  "verified": "reliable_reporter",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/saleen-readying-new-widebody-mustang-but-needs-more-funding/"
+ },
+ {
+  "date": "2026-10-01T17:06:12.018402+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Alfa Romeo Names Its Mysterious New V6 Concept Car \ud83c\udfce\ufe0f\ud83d\udd25",
+  "summary": "Alfa Romeo has revealed the name of its upcoming mysterious concept car featuring a sporty V6 exhaust note.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810473/alfa-romeo-new-concept-car-named/"
  }
 ]
