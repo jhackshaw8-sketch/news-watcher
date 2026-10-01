@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-09-28T10:37:59.833307+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Magic: The Gathering Reality Fracture Launches This Week",
-  "summary": "Magic: The Gathering\u2019s Reality Fracture expansion officially releases this week with multiple product types available.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/magic-the-gathering-reality-fracture-where-to-buy"
- },
- {
-  "date": "2026-09-28T10:37:59.833307+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "WoW: Forever Beta Expands Population Caps",
-  "summary": "Blizzard has increased population caps for the WoW: Forever beta due to high player demand.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/world-of-warcraft/suffering-from-success-wow-forever-beta-gets-yet-another-population-cap-increase-as-blizzard-struggles-to-fit-everyone-into-its-new-mmo/"
- },
- {
-  "date": "2026-09-28T10:37:59.833307+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Unofficial Super Mario Galaxy PC Port Announced",
-  "summary": "An unofficial human-coded PC port of Super Mario Galaxy is currently in development with a planned release soon.",
-  "verified": "unconfirmed",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/"
- },
- {
-  "date": "2026-09-28T10:37:59.833307+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Jon Watts to Direct New Star Wars Trilogy Opener",
-  "summary": "Spider-Man director Jon Watts is set to helm the first film in the new Star Wars Skywalker Saga trilogy.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/star-wars-movies/spider-man-filmmaker-will-direct-first-movie-of-new-star-wars-trilogy-in-the-skywalker-saga-and-it-might-be-replacing-the-rey-film/"
- },
- {
   "date": "2026-09-28T11:03:57.430503+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -14045,5 +14001,115 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/reviews/810357/ford-mustang-rtr-review/"
+ },
+ {
+  "date": "2026-10-01T10:38:54.230751+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "Apple Mail May Stop Syncing Microsoft 365 Accounts",
+  "summary": "Microsoft's disabling of Exchange Web Services in Exchange Online may cause Apple Mail and Calendar on Mac to stop syncing Microsoft 365 accounts.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/01/apple-mail-mac-stop-sync-microsoft-365/"
+ },
+ {
+  "date": "2026-10-01T10:38:54.230751+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Huawei Launches Massive Add-On Teleconverter Camera for Mate 90",
+  "summary": "Huawei has released a massive add-on teleconverter camera lens attachment for its latest Mate 90 Pro Max smartphone.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera"
+ },
+ {
+  "date": "2026-10-01T10:38:54.230751+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Flock Surveillance Cameras Expand From Roads to Aerial Drones",
+  "summary": "Flock surveillance cameras are expanding their monitoring capabilities by integrating aerial drone surveillance.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wuvmm3/flock_cameras_are_moving_from_roads_to_watching/"
+ },
+ {
+  "date": "2026-10-01T10:38:54.230751+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Lemmo Introduces New E-Bike Featuring Semi-Solid State Battery \ud83d\udeb2\u26a1",
+  "summary": "Lemmo has launched the Lemmo 3, a cargo e-bike notable for featuring an early semi-solid state battery.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery"
+ },
+ {
+  "date": "2026-10-01T10:38:54.230751+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "AI Boom Drives Growth in Industrial Profits",
+  "summary": "The ongoing artificial intelligence boom is providing a measurable boost to industrial profit growth.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wuumao/ai_boom_boosts_industrial_profit_growth/"
+ },
+ {
+  "date": "2026-10-01T10:38:54.230751+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Africa Faces Productivity Battle and GDP Stakes in the AI Era",
+  "summary": "Governments across Africa are addressing AI productivity challenges as trillions in GDP are estimated to be at stake.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wuuj58/ai_1_trillion_in_gdp_at_stake_as_africas/"
+ },
+ {
+  "date": "2026-10-01T10:38:54.230751+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "other",
+  "headline": "Experts Warn AI Could Supercharge Election Risks in Southeast Asia",
+  "summary": "Reports highlight how artificial intelligence technologies could potentially exacerbate election interference risks in Southeast Asia.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wuui9e/how_ai_could_supercharge_election_risks_across/"
+ },
+ {
+  "date": "2026-10-01T10:38:54.230751+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "Taiwan Deploys AI Defenses to Counter AI-Powered Threats",
+  "summary": "Taiwan is implementing artificial intelligence tools to defend against AI-driven cyber and disinformation threats.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wuuh41/taiwan_using_ai_to_counter_ai_threats/"
+ },
+ {
+  "date": "2026-10-01T10:38:54.230751+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Tesla Model 3 Gets Big Screen Upgrade & V2L in China \ud83d\udcfa\u26a1",
+  "summary": "Tesla has updated the Model 3 in the China market with a larger screen and V2L capabilities, borrowed partly from the Model Y.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/teslas-model-3-gets-a-bigger-screen-and-v2l-but-you-cant-buy-one/"
+ },
+ {
+  "date": "2026-10-01T10:38:54.230751+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "update",
+  "headline": "Tesla Model Y Delivery Windows Pushed Back \ud83d\udd52\ud83d\ude97",
+  "summary": "Buyers interested in the Tesla Model Y face delivery wait times ranging from October 2026 to early 2027 depending on the trim.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810433/tesla-model-y-wait-times/"
  }
 ]
