@@ -7786,5 +7786,27 @@
   "verified": "official",
   "source": "The Verge",
   "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai"
+ },
+ {
+  "date": "2026-10-01T01:06:47.214980+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "What to Expect from Apple's Rumored Smart Home Hub",
+  "summary": "Apple is developing a new smart home hub accessory to integrate Siri, HomeKit controls, and daily household information.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/guide/apple-command-center/"
+ },
+ {
+  "date": "2026-10-01T01:06:47.214980+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Top 5 Xbox Games Launching in October",
+  "summary": "Polygon highlights five major Xbox games releasing in October, including Gears of War: E-Day and Call of Duty: Modern Warfare 4.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/new-xbox-games-october-2026/"
  }
 ]
