@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-09-28T11:03:57.430503+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Apple Explores Four Concepts for Revamped Vision Pro",
-  "summary": "Apple is reportedly exploring four different concepts for a revamped Vision Pro headset that may not launch until late 2028 or early 2029.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/09/28/apple-working-on-four-new-vision-pro-concepts/"
- },
- {
-  "date": "2026-09-28T11:03:57.430503+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Analyst Claims Xbox is Experiencing a 'Reverse Acquisition'",
-  "summary": "An analyst claims Xbox is undergoing a reverse acquisition focused on managerial talent rather than intellectual property.",
-  "verified": "unconfirmed",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/xbox-is-in-the-midst-of-a-reverse-acquisition-analyst-says-with-activision-best-equipped-to-run-the-studios-microsoft-built-itself/"
- },
- {
   "date": "2026-09-28T11:39:39.527642+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -14111,5 +14089,93 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810433/tesla-model-y-wait-times/"
+ },
+ {
+  "date": "2026-10-01T11:05:06.782955+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "HomePad Setup Process Leaked in Apple Code",
+  "summary": "Apple code discovered by a leaker suggests a setup process for the rumored HomePad device that mirrors iPhone Duo features.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/01/homepad-setup-process-seemingly-revealed-sharing-feature-with-iphone-duo/"
+ },
+ {
+  "date": "2026-10-01T11:05:06.782955+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "business",
+  "headline": "Apple TV Still Experiencing Outages for Some Users",
+  "summary": "Apple TV remains unavailable for some users following a broader Apple Services outage that began on September 30.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/01/apple-tv-still-down-for-some-users/"
+ },
+ {
+  "date": "2026-10-01T11:05:06.782955+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "Fortnitemares Halloween Event Kicks Off",
+  "summary": "Fortnite's annual Halloween event, Fortnitemares, is now live with themed skins, weapons, and decorations.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/fortnite-halloween-event-fortnitemares-update/"
+ },
+ {
+  "date": "2026-10-01T11:05:06.782955+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "New Uncharted Game Reportedly in Development",
+  "summary": "A new Uncharted game is reportedly in early development at Naughty Dog and is not a remake.",
+  "verified": "unconfirmed",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/new-uncharted-game-naughty-dog-report"
+ },
+ {
+  "date": "2026-10-01T11:05:06.782955+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "Gears of War Devs Tease 20th Anniversary Gift",
+  "summary": "The Coalition has teased a special birthday gift as the Gears of War series approaches its 20th anniversary.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-day-devs-tease-special-birthday-gift-during-season-1-to-celebrate-the-series-turning-20-new-changes-to-the-gnasher-and-more-ahead-of-launch/"
+ },
+ {
+  "date": "2026-10-01T11:05:06.782955+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "PlayStation Plus October 2026 Games Revealed",
+  "summary": "Sony has announced the PlayStation Plus monthly games lineup for October 2026.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/playstation-ps-plus-games-lineup-october-2026"
+ },
+ {
+  "date": "2026-10-01T11:05:06.782955+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "CDPR Addressing Witcher 3 Hair Performance Bug",
+  "summary": "CD Projekt Red is addressing PC performance issues in The Witcher 3 caused by Geralt's hair physics.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-remastered-pc-performance-is-tanking-because-of-geralts-luscious-locks-cd-projekt-red-says-but-theres-a-temporary-fix-until-this-is-addressed-in-a-patch/"
+ },
+ {
+  "date": "2026-10-01T11:05:06.782955+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "business",
+  "headline": "BMW Tuner AC Schnitzer Saved From Closure at the Last Minute! \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "Legendary BMW tuner AC Schnitzer has been saved from closure through a last-minute sale, ensuring the company survives after nearly four decades in business.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/legendary-bmw-tuner-ac-schnitzer-saved-from-death/"
  }
 ]
