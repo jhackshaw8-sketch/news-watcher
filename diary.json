@@ -14254,5 +14254,82 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810434/ram-rumble-bee-sales-hit/"
+ },
+ {
+  "date": "2026-10-01T12:45:37.919992+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "iPhone 18 Pro Sales Surge in China",
+  "summary": "A new market intelligence report analyzes the key reasons behind the strong sales performance of the iPhone 18 Pro in China.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/01/the-iphone-18-pro-is-selling-well-in-china-for-three-reasons/"
+ },
+ {
+  "date": "2026-10-01T12:45:37.919992+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "update",
+  "headline": "Halide 3.2 Brings Manual Aperture Control to iPhone 18 Pro",
+  "summary": "Halide 3.2 has been released with full support for the iPhone 18 Pro, introducing manual control over the new variable aperture camera system.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/01/iphone-18-pro-aperture-control-fully-manual-halide/"
+ },
+ {
+  "date": "2026-10-01T12:45:37.919992+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Mysterious Smart Home 'Do Not Open' Boxes Arrive at Apple Stores",
+  "summary": "Apple Stores have reportedly received mysterious 'Do Not Open' boxes in anticipation of an upcoming smart home products launch.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wuyfq5/apple_stores_receive_do_not_open_boxes_ahead_of/"
+ },
+ {
+  "date": "2026-10-01T12:45:37.919992+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Gears of War: E-Day Developers Face Potential Layoffs After Brutal Crunch",
+  "summary": "Developers of Gears of War: E-Day face potential layoffs and exhaustion following intense crunch periods leading up to the game's release.",
+  "verified": "reliable_reporter",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/after-crunching-hard-through-their-final-months-gears-of-war-e-day-developers-are-reportedly-now-expecting-layoffs"
+ },
+ {
+  "date": "2026-10-01T12:45:37.919992+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Krafton Officially Cancels PUBG Extraction Shooter Project",
+  "summary": "Krafton has officially canceled the development of PUBG: Black Budget after over a year of working on the extraction shooter project.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/pubg-black-budget-krafton-development-canceled/"
+ },
+ {
+  "date": "2026-10-01T12:45:37.919992+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "Witcher 3 Remastered Receives Patch to Address Lighting Controversies",
+  "summary": "CD Projekt Red has released a new patch for The Witcher 3 Remastered to address ongoing player debates regarding lighting adjustments.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered"
+ },
+ {
+  "date": "2026-10-01T12:45:37.919992+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Gears of War: E-Day Will Launch Without Classic Features Due to Build Constraints",
+  "summary": "The Coalition confirmed that classic features like meat shields and chainsaw duels will be absent from Gears of War: E-Day at launch due to being built completely from scratch.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/gears-of-war-e-day-missing-meat-shields"
  }
 ]
