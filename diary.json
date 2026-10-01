@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-28T00:04:28.979476+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "update",
-  "headline": "Apple Pay Gets Redesigned Checkout Flow in iOS 27",
-  "summary": "Apple has redesigned the Apple Pay checkout flow in iOS 27 for apps and websites to improve card switching and order details.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/27/ios-27-makes-it-easier-to-switch-between-apple-pay-cards/"
- },
- {
   "date": "2026-09-28T00:44:11.246255+00:00",
   "topic": "Apple News",
   "score": 5,
@@ -7742,5 +7731,27 @@
   "verified": "reliable_reporter",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
+ },
+ {
+  "date": "2026-10-01T00:04:32.449818+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "New Code Hints Reveal Apple Home Hub Features",
+  "summary": "Recent code discoveries continue to hint at features for Apple's upcoming Home Hub tablet and its connection to the iPhone Duo.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/09/30/code-hints-continue-to-reveal-features-of-apples-upcoming-home-hub?utm_source=rss"
+ },
+ {
+  "date": "2026-10-01T00:04:32.449818+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Google Launches Gemini 4 Argon AI Model",
+  "summary": "Google has officially released Gemini 4 Argon, positioning it as its most powerful AI model focused on coding and cybersecurity.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
  }
 ]
