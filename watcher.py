@@ -28,7 +28,7 @@ PROMPT = """You are a news filter for a news page about: {focus}.
 For each numbered item below, return ONLY a JSON list with one object per item:
 {{"id": <number>, "score": 1-10, "category": "launch|update|rumor|business|legal|other",
  "summary": "one sentence", "verified": "official|reliable_reporter|unconfirmed",
- "headline": "a short headline for my page"}}
+  "headline": "a short headline for my page (add 1-2 fun relevant emojis if the topic is Cars; no emojis for other topics)"}}
 
 Scoring: 8-10 confirmed launches, major announcements, big business or legal news.
 5-7 notable but routine. 1-4 opinion, deals, tips, fan chatter.
