@@ -28,7 +28,7 @@ PROMPT = """You are a news filter for a news page about: {focus}.
 For each numbered item below, return ONLY a JSON list with one object per item:
 {{"id": <number>, "score": 1-10, "category": "launch|update|rumor|business|legal|other",
  "summary": "one sentence", "verified": "official|reliable_reporter|unconfirmed",
-  "headline": "a short headline for my page (add 1-2 fun relevant emojis if the topic is Cars; no emojis for other topics)"}}
+ "headline": "a short headline for my page (add 1-2 fun relevant emojis if the topic is Cars; no emojis for other topics)"}}
 
 Scoring: 8-10 confirmed launches, major announcements, big business or legal news.
 5-7 notable but routine. 1-4 opinion, deals, tips, fan chatter.
@@ -46,7 +46,17 @@ def collect_new(topic, seen_ids):
     """Returns new items, mixed fairly so no single site fills the whole batch."""
     per_feed = []
     for feed in topic["feeds"]:
-        parsed = feedparser.parse(feed["url"], agent=UA)
+        try:
+            resp = requests.get(
+                feed["url"],
+                headers={"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9"},
+                timeout=20,
+            )
+            resp.raise_for_status()
+            parsed = feedparser.parse(resp.content)
+        except Exception as exc:
+            print(f"Could not read {feed['name']}: {exc}", file=sys.stderr)
+            continue
         if parsed.bozo and not parsed.entries:
             print(f"Could not read {feed['name']}", file=sys.stderr)
             continue
