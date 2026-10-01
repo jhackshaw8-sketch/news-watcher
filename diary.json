@@ -14584,5 +14584,49 @@
   "verified": "reliable_reporter",
   "source": "Carscoops",
   "link": "https://www.carscoops.com/2026/10/mazda-mx5-v6-rocketeer/"
+ },
+ {
+  "date": "2026-10-01T19:04:17.191103+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Apple Details Replaceable Folding Screen Layer for iPhone Duo",
+  "summary": "Apple executive Kate Bergeron revealed that the new iPhone Duo features a replaceable folding display cover layer to minimize the crease over time.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/01/apple-says-iphone-duo-has-replaceable-folding-display-layer-to-minimize-crease/"
+ },
+ {
+  "date": "2026-10-01T19:04:17.191103+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "legal",
+  "headline": "GrayKey Reportedly Finds Workaround for iPhone Reboot Protection",
+  "summary": "Law enforcement tool vendor GrayKey may have developed a workaround to keep iPhones in an easier-to-crack state after a reboot.",
+  "verified": "reliable_reporter",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/01/graykey-might-have-a-workaround-for-apples-iphone-reboot-protection?utm_source=rss"
+ },
+ {
+  "date": "2026-10-01T19:04:17.191103+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Memory Shortage Expected to Last Until 2028",
+  "summary": "Memory executives warn that ongoing RAM shortages and high pricing trends are expected to persist through 2028.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/"
+ },
+ {
+  "date": "2026-10-01T19:04:17.191103+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Florida Police Unsure Who Owns Mysterious Flock Cameras",
+  "summary": "Florida police admitted they do not know who owns multiple unpermitted surveillance cameras discovered in the state.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/tech-policy/2026/10/florida-cops-say-they-dont-know-who-owns-11-unpermitted-flock-cameras/"
  }
 ]
