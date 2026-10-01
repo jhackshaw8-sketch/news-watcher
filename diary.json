@@ -14507,5 +14507,27 @@
   "verified": "official",
   "source": "Polygon",
   "link": "https://www.polygon.com/gears-war-e-day-co-op-interview/"
+ },
+ {
+  "date": "2026-10-01T23:36:03.795065+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Apple Home Hub Leak Points to October Smart-Home Push",
+  "summary": "A leaked report suggests Apple's upcoming smart home hub will feature a StandBy-like photo face ahead of an expected October push.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wvelhm/apple_home_hub_leak_shows_standbylike_photo_face/"
+ },
+ {
+  "date": "2026-10-01T23:36:03.795065+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Tesla Patent Teases Mysterious Aero-Heavy Sports Car \ud83c\udfce\ufe0f\u26a1",
+  "summary": "A newly uncovered Tesla patent reveals a mysterious sports car featuring active aerodynamics and substantial downforce capabilities.",
+  "verified": "unconfirmed",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/tesla-spoiler-patent-may-hide-roadster-design/"
  }
 ]
