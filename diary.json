@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-09-28T11:39:39.527642+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "launch",
-  "headline": "iPhone 18 Pro Max Reviewed",
-  "summary": "An early review of the iPhone 18 Pro Max highlights it as the current top-tier Apple smartphone despite its short reign at the top.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/09/28/iphone-18-pro-max-review-the-best-iphone-for-about-a-month?utm_source=rss"
- },
- {
-  "date": "2026-09-28T11:39:39.527642+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Fortnite Launches Five Nights at Freddy's Halloween Crossover",
-  "summary": "Fortnite is kicking off its Halloween event on October 1 with a highly anticipated Five Nights at Freddy's crossover.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/fortnite-five-nights-at-freddys-collab-fortnitemares/"
- },
- {
-  "date": "2026-09-28T11:39:39.527642+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Reports Debunk Massive $400 Million Budget Rumor for Kojima's Physint",
-  "summary": "New reports suggest that Hideo Kojima's upcoming game Physint is not costing Xbox a rumored $400 million.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/action/hideo-kojimas-physint-isnt-costing-xbox-usd400-million-after-all-with-new-reports-suggesting-the-metal-gear-successors-actual-budget-is-significantly-less/"
- },
- {
-  "date": "2026-09-28T11:39:39.527642+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "Fortnite x FNAF Announcement Breaks Game's All-Time Like Record",
-  "summary": "Epic Games' announcement of the Fortnite and Five Nights at Freddy's crossover has broken records to become the game's most-liked social media reveal.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/fortnite-five-nights-at-freddys-announcement-is-now-the-games-most-liked-reveal-ever-beating-the-avengers-and-dragon-ball-z"
- },
- {
-  "date": "2026-09-28T11:39:39.527642+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Wardogs Devs Take Forced Holidays After Selling 3 Million Copies",
-  "summary": "Following sales of 3 million copies, the lead developer of Wardogs admits the team is overwhelmed and taking mandatory holidays.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/fps/as-wardogs-sells-3-million-copies-lead-admits-bottom-feeder-cheaters-constant-ddos-attacks-and-much-more-have-left-devs-overwhelmed-so-many-are-taking-mandatory-holiday/"
- },
- {
-  "date": "2026-09-28T11:39:39.527642+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "US Government Adopts AI for Document Redactions",
-  "summary": "The US government is implementing AI tools to assist with document redaction for FOIA requests, raising concerns about transparency.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2270348/the-us-government-plans-to-use-ai-to-help-redact-documents/"
- },
- {
   "date": "2026-09-28T17:04:29.354272+00:00",
   "topic": "Gaming News",
   "score": 7,
@@ -14232,5 +14166,93 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810444/2027-honda-passport-trailsport-price/"
+ },
+ {
+  "date": "2026-10-01T12:06:35.901922+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "legal",
+  "headline": "Fake Mac Zoom Installer Bypasses Gatekeeper Security",
+  "summary": "A cybersecurity firm discovered a fake Mac Zoom installer that uses a sophisticated method to bypass Apple's Gatekeeper security.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/01/this-fake-mac-zoom-installer-has-a-sneaky-way-to-bypass-gatekeeper/"
+ },
+ {
+  "date": "2026-10-01T12:06:35.901922+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Apple Stores Gear Up for New Smart Home Product Launch",
+  "summary": "Apple retail stores have received confidential 'Do Not Open' boxes in preparation for an upcoming smart home product launch.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/01/apple-stores-receive-do-not-open-boxes/"
+ },
+ {
+  "date": "2026-10-01T12:06:35.901922+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Krafton Cancels PUBG: Black Budget Spin-Off",
+  "summary": "Publisher Krafton has cancelled the development of the PUBG extraction shooter spin-off Black Budget less than a year after its initial announcement.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/krafton-pulls-the-plug-on-another-pubg-game-black-budget-less-than-a-year-after-it-was-announced"
+ },
+ {
+  "date": "2026-10-01T12:06:35.901922+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Embark Promises Stricter Bans for Arc Raiders Cheaters",
+  "summary": "Embark Studios executive producer Aleksander Gr\u00f8ndal has announced plans to implement stricter bans to combat cheaters in Arc Raiders.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/third-person-shooter/embark-promises-to-get-stricter-with-arc-raiders-bans-as-cheaters-continue-to-plague-the-extraction-shooter-no-warnings-no-second-chances/"
+ },
+ {
+  "date": "2026-10-01T12:06:35.901922+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Helldivers Movie Pushed Back to 2028",
+  "summary": "The upcoming Helldivers movie adaptation has officially been delayed to a 2028 release window.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/action-movies/helldivers-movie-delayed-to-2028-but-maybe-thats-a-good-thing/"
+ },
+ {
+  "date": "2026-10-01T12:06:35.901922+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Satlyt Raises $8M to Bring Open-Source AI Computing to Satellites",
+  "summary": "Former Google and SpaceX product manager raises $8M for Satlyt to bring open-source AI computing to satellites.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
+ },
+ {
+  "date": "2026-10-01T12:06:35.901922+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Buzzing Off Fast! Ram's Rumble Bee Sells Out in Minutes \ud83d\udc1d\ud83d\udd25",
+  "summary": "The entire 2026 allocation of the new Ram 1500 Rumble Bee with the 5.7-liter V8 sold out in just 90 minutes.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/ram-1500-rumble-bee-sells-out/"
+ },
+ {
+  "date": "2026-10-01T12:06:35.901922+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "V8 Muscle Lives On: Ram's Rumble Bee is an Instant Hit \ud83d\udefb\ud83d\udcaa",
+  "summary": "The base Ram 1500 Rumble Bee proves that American muscle trucks with V8 engines remain in high demand.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810434/ram-rumble-bee-sales-hit/"
  }
 ]
