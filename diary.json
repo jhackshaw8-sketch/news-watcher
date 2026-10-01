@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-28T08:05:14.075775+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Honor Launches Magic 9 Pro Max Flagship in China",
-  "summary": "Honor has launched its Magic 9 Pro Max flagship smartphone in China, featuring a design revamp, large battery, and a new camera system developed in collaboration with Arri.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china"
- },
- {
   "date": "2026-09-28T08:39:07.499343+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -13913,5 +13902,16 @@
   "verified": "official",
   "source": "TheTopher",
   "link": "https://www.youtube.com/watch?v=YxjU3PedB6k"
+ },
+ {
+  "date": "2026-10-01T08:07:08.101719+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Mansory's Turquoise Carbon G-Wagon Is Max Energy \ud83d\ude99\ud83d\udc8e",
+  "summary": "Mansory reveals a heavily modified, turquoise and carbon-fiber-clad Mercedes-AMG G-Class with 24-inch wheels.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/mansory-grand-entree-g-class/"
  }
 ]
