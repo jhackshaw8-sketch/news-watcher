@@ -14397,5 +14397,71 @@
   "verified": "unconfirmed",
   "source": "r/carporn",
   "link": "https://www.reddit.com/r/carporn/comments/1wv6w03/its_been_years_since_ive_been_this_close_to_a/"
+ },
+ {
+  "date": "2026-10-01T21:03:16.509205+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Arcade Adds Five New Games",
+  "summary": "Apple Arcade has added five new games to its subscription service, including Terraria+ and Pusheen\u2019s Place.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/01/apple-arcade-adds-five-new-games-including-terraria-and-pusheens-place/"
+ },
+ {
+  "date": "2026-10-01T21:03:16.509205+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Final Cut Pro 13 Leaks Ahead of Official Reveal",
+  "summary": "Final Cut Pro 13 features have leaked early via a YouTuber, revealing updates like Pixelmator Pro integration and a Natural Motion Blur tool.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/01/final-cut-pro-13-leaks-ahead-of-announcement-with-several-new-features?utm_source=rss"
+ },
+ {
+  "date": "2026-10-01T21:03:16.509205+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Fire Emblem Fortune's Weave Revealed as Three Houses Prequel",
+  "summary": "Fire Emblem Fortune's Weave is confirmed as a prequel to Three Houses, featuring deep lore connections to the story.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/fire-emblem-fortunes-weave-three-houses-connections/"
+ },
+ {
+  "date": "2026-10-01T21:03:16.509205+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Multiple Federal Agencies Hit by Major Data Breaches",
+  "summary": "Recent cyberattacks on two federal agencies have compromised a significant amount of sensitive government data.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/"
+ },
+ {
+  "date": "2026-10-01T21:03:16.509205+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Samsung Debuts First Clip-On Earbuds in South Korea",
+  "summary": "Samsung has officially launched its first clip-on earbuds in South Korea, with a global release planned for the future.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2275187/samsung-launches-its-first-clip-on-earbuds-in-south-korea/"
+ },
+ {
+  "date": "2026-10-01T21:03:16.509205+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Judge Dismisses Antitrust Lawsuits Against Google AI Search",
+  "summary": "A federal judge has dismissed antitrust lawsuits filed by Chegg and Penske against Google's AI search features.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/"
  }
 ]
