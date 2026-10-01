@@ -7841,5 +7841,27 @@
   "verified": "official",
   "source": "Polygon",
   "link": "https://www.polygon.com/new-switch-2-games-releases-october-2026/"
+ },
+ {
+  "date": "2026-10-01T02:10:11.452695+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "WhatsApp Expands Parental Controls on iOS for Teen Accounts",
+  "summary": "WhatsApp has updated its iOS app to expand parental controls for teen accounts, including group alerts and Meta AI restrictions.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/09/30/whatsapp-expands-parental-controls-to-teen-accounts-with-group-alerts-meta-ai-restrictions/"
+ },
+ {
+  "date": "2026-10-01T02:10:11.452695+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Vivo X Fold 6 Heads to Global Markets with Familiar Design",
+  "summary": "Vivo is preparing the global release of its X Fold 6 foldable phone, which retains the same size and aspect ratio as its predecessor.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras"
  }
 ]
