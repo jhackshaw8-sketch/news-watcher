@@ -14496,5 +14496,71 @@
   "verified": "reliable_reporter",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810451/connected-cars-share-driver-data/"
+ },
+ {
+  "date": "2026-10-01T13:40:25.017585+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Upcoming HomePad smart home hub rumored to launch in four color options",
+  "summary": "Leakers suggest Apple's upcoming HomePad smart home hub will launch in four different colors.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/01/homepad-could-launch-in-these-four-colors-per-leaker/"
+ },
+ {
+  "date": "2026-10-01T13:40:25.017585+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Gears of War: E-Day Review Highlights Series Return to Form",
+  "summary": "IGN published a review praising Gears of War: E-Day as a prequel that returns the series to its roots.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/gears-of-war-e-day-review"
+ },
+ {
+  "date": "2026-10-01T13:40:25.017585+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Escape from Playtime Preview Explores Twisted Multiplayer Gameplay",
+  "summary": "An IGN preview explores Escape from Playtime, an upcoming twisted multiplayer game set in the Poppy Playtime universe.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/escape-from-playtime-is-its-own-uniquely-twisted-multiplayer-toy-story-ign-preview"
+ },
+ {
+  "date": "2026-10-01T13:40:25.017585+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Riftbound Radiance TCG Reveals Exclusive Mordekaiser Card",
+  "summary": "An exclusive card reveal from the upcoming Riftbound TCG fifth set, Radiance, showcases the overnumbered Mordekaiser legend.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/riftbound-radiance-tcg-exclusive-mordekaiser-card-reveal"
+ },
+ {
+  "date": "2026-10-01T13:40:25.017585+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Legato Launches New AI Hearing Glasses",
+  "summary": "Startup Legato has launched AI-powered hearing glasses designed to make hearing care more accessible and affordable.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/"
+ },
+ {
+  "date": "2026-10-01T13:40:25.017585+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Samsung Raises Galaxy S26 Prices in the US",
+  "summary": "Samsung has increased US prices for the Galaxy S26 lineup by $100 or more due to rising component and RAM costs.",
+  "verified": "reliable_reporter",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us"
  }
 ]
