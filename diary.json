@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-28T09:04:49.694030+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "update",
-  "headline": "World of Warcraft: Forever Beta Server Capacity Increased",
-  "summary": "Blizzard has increased server capacity for the World of Warcraft: Forever beta following a surge in player popularity over the weekend.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/world-of-warcraft-forever-beta-server-cap-increase"
- },
- {
   "date": "2026-09-28T10:37:59.833307+00:00",
   "topic": "Gaming News",
   "score": 8,
@@ -13935,5 +13924,27 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810409/bmw-x3-m50-xdrive-power/"
+ },
+ {
+  "date": "2026-10-01T09:05:07.636432+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Ubisoft Restructures Studio Massive to Lead Splinter Cell and Ghost Recon",
+  "summary": "Ubisoft has reorganized its Swedish studio Massive Entertainment to take control of the Splinter Cell, Ghost Recon, and The Division franchises alongside a new IP.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/massive-entertainment-the-division-splinter-cell-ghost-recon"
+ },
+ {
+  "date": "2026-10-01T09:05:07.636432+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "rumor",
+  "headline": "BMW Considers Massive New SUV Above The X7 For US Buyers \ud83d\ude99\ud83d\udca8",
+  "summary": "BMW is considering adding a larger luxury SUV positioned above the X7 specifically for the US market.",
+  "verified": "reliable_reporter",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/bmw-wants-to-launch-an-suv-above-the-x7-in-the-us/"
  }
 ]
