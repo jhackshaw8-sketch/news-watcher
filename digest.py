@@ -42,8 +42,10 @@ Return ONLY JSON:
 Tweet rules: each tweet under 250 characters (a link is added after the last one, leave room),
 no links inside the tweet text itself, plain engaging language. ALWAYS end the tweet (or the
 last tweet of a thread) with 1 to 2 relevant hashtags that would help people discover the post.
-If a story is unconfirmed or a rumor, say so clearly (e.g. "Rumor:" or "Reportedly") instead of
-stating it as fact. Never invent facts beyond the story given.
+If the topic is Cars, sprinkle in 1-3 fun relevant emojis (e.g. the headline and a couple tweets);
+for every other topic, use no emojis at all. If a story is unconfirmed or a rumor, say so clearly
+(e.g. "Rumor:" or "Reportedly") instead of stating it as fact. Never invent facts beyond the
+story given.
 
 Stories:
 """
