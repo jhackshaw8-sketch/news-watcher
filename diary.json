@@ -13946,5 +13946,49 @@
   "verified": "reliable_reporter",
   "source": "Carscoops",
   "link": "https://www.carscoops.com/2026/10/bmw-wants-to-launch-an-suv-above-the-x7-in-the-us/"
+ },
+ {
+  "date": "2026-10-01T09:39:36.705687+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Google Introduces Gemini 4 'Argon' Model",
+  "summary": "Google has announced its first Gemini 4 model, codenamed Argon, designed for advanced knowledge work, cybersecurity defense, and creative writing.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2274263/google-gemini-4-model-argon/"
+ },
+ {
+  "date": "2026-10-01T09:39:36.705687+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "business",
+  "headline": "Mazda Expands China EV Partnership \u26a1\ud83d\ude97",
+  "summary": "Mazda is considering expanding its EV development and production in partnership with its Chinese joint-venture partner Changan.",
+  "verified": "reliable_reporter",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/mazda-poised-to-build-more-chinese-based-evs/"
+ },
+ {
+  "date": "2026-10-01T09:39:36.705687+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "business",
+  "headline": "Stellantis Tackles Quality Issues Head-On \ud83d\udee0\ufe0f",
+  "summary": "Stellantis CEO addresses manufacturing quality concerns, stating that over 2,000 engineers have been hired to swiftly resolve issues.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810412/stellantis-fixing-quality-problems-quickly/"
+ },
+ {
+  "date": "2026-10-01T09:39:36.705687+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "other",
+  "headline": "Michael Jordan's Ferrari Sells for Record $2.7M \ud83c\udfce\ufe0f\ud83d\udd25",
+  "summary": "A Ferrari 550 Maranello previously owned by basketball legend Michael Jordan sold for a record-breaking $2.7 million at auction.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810428/michael-jordan-ferrari-550-record/"
  }
 ]
