@@ -14474,5 +14474,38 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/"
+ },
+ {
+  "date": "2026-10-01T23:02:26.692301+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Launches 'Shot on iPhone Duo' Photo Campaign",
+  "summary": "Apple launched a new 'Shot on iPhone Duo' marketing campaign on Instagram featuring commissioned photography.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/01/apple-commissions-photographers-for-new-shot-on-iphone-duo-campaign/"
+ },
+ {
+  "date": "2026-10-01T23:02:26.692301+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Apple Confirms iPhone Duo Features Replaceable Cover Layer",
+  "summary": "Apple has confirmed that the new iPhone Duo features a replaceable cover layer situated above the display.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wvdxho/apple_says_iphone_duo_has_replaceable_cover_layer/"
+ },
+ {
+  "date": "2026-10-01T23:02:26.692301+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Gears of War: E-Day Confirms Local Co-op Campaign",
+  "summary": "Developers confirm that Gears of War: E-Day will feature a mandatory local co-op campaign.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/gears-war-e-day-co-op-interview/"
  }
 ]
