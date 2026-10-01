@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-09-28T21:03:44.955504+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "PS5 Emulation Progresses With First Fully Playable Games",
-  "summary": "Recent PS5 emulator updates have achieved full playability for six games at 60 FPS, marking a notable milestone in modern console emulation.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/ps5-emulator-updates-have-6-games-fully-playable-at-60-fps-and-demons-souls-isnt-far-behind/"
- },
- {
-  "date": "2026-09-28T21:03:44.955504+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "business",
-  "headline": "AMD Acquires World Labs for $8.2 Billion",
-  "summary": "AMD is acquiring Fei-Fei Li's World Labs for $8.2 billion, with Li joining AMD as executive vice president and chief scientist.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
- },
- {
-  "date": "2026-09-28T21:35:59.368658+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "watchOS 27.0.1 Released for More Apple Watch Models",
-  "summary": "Apple has expanded the availability of watchOS 27.0.1 to all compatible Apple Watch models.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/28/watchos-27-0-1-is-now-available-for-all-compatible-apple-watch-models/"
- },
- {
-  "date": "2026-09-28T21:35:59.368658+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Releases watchOS 27.0.1 for Additional Models",
-  "summary": "Apple has rolled out the watchOS 27.0.1 update to additional Apple Watch models following its initial release.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/09/28/watchos-27-0-1-additional-models/"
- },
- {
   "date": "2026-09-28T22:03:15.454366+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -14463,5 +14419,71 @@
   "verified": "official",
   "source": "Ars Technica",
   "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/"
+ },
+ {
+  "date": "2026-10-01T21:39:09.276330+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "legal",
+  "headline": "GrayKey Tool Bypasses iPhone Inactivity Reboot Security",
+  "summary": "Magnet Forensics' GrayKey tool can reportedly bypass the iPhone's automatic inactivity reboot security feature to aid law enforcement investigations.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/01/graykey-maker-can-reportedly-bypass-the-iphones-inactivity-reboot-security-feature/"
+ },
+ {
+  "date": "2026-10-01T21:39:09.276330+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Riot Co-Founder Reveals Massive Player Numbers Needed for 2XKO Survival",
+  "summary": "A Riot Games co-founder revealed that the 2XKO fighting game required millions of monthly active players to survive, sparking community debate.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/riot-games-co-founder-says-2xko-needed-hundreds-of-thousands-if-not-millions-of-monthly-active-players-to-survive"
+ },
+ {
+  "date": "2026-10-01T21:39:09.276330+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Bradley Cooper to Star as Duke in New Live-Action G.I. Joe Movie",
+  "summary": "Paramount's upcoming live-action G.I. Joe movie is moving forward with Bradley Cooper cast to play Duke in Danny McBride's project.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/action-movies/bradley-cooper-to-play-duke-in-danny-mcbrides-live-action-g-i-joe-movie-which-is-no-longer-a-transformers-crossover/"
+ },
+ {
+  "date": "2026-10-01T21:39:09.276330+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Reports Claim Trump Consulted Grok on Venezuela",
+  "summary": "Reports suggest xAI's chatbot Grok was used by President Trump to seek advice prior to a military action involving Venezuela.",
+  "verified": "unconfirmed",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
+ },
+ {
+  "date": "2026-10-01T21:39:09.276330+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "Wild 2027 Hyundai Tucson Breaks Cover With Boxy Styling & Hybrids \ud83d\ude99\ud83d\udd25",
+  "summary": "The 2027 Hyundai Tucson debuts with a bold new design, updated hybrid powertrains, and rugged XRT and XRT Pro trims.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/hyundai-tucson-2027-reveal/"
+ },
+ {
+  "date": "2026-10-01T21:39:09.276330+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "Bigger, Boxier, & 288 HP: Meet The All-New 2027 Hyundai Tucson \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "The next-generation 2027 Hyundai Tucson features a larger, boxier design and delivers up to 288 horsepower.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/805386/2027-hyundai-tucson-design-revealed/"
  }
 ]
