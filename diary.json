@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-09-28T22:35:23.451258+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Experts Examine Nvidia's AI Chip Sales and China Influence",
-  "summary": "Experts raise concerns regarding Nvidia's AI chip sales and influence in China as reports emerge that Beijing may allow local tech giants to purchase banned chips.",
-  "verified": "reliable_reporter",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/"
- },
- {
-  "date": "2026-09-28T22:35:23.451258+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "legal",
-  "headline": "Florida Files Legal Bid to Halt OpenAI Development Over Extinction Fears",
-  "summary": "The state of Florida has filed a legal bid to halt OpenAI development, arguing that large language models constitute a massive public nuisance.",
-  "verified": "official",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/"
- },
- {
-  "date": "2026-09-28T22:35:23.451258+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "launch",
-  "headline": "New Battery-Powered Device Captures Carbon Dioxide Efficiently",
-  "summary": "Researchers have developed a new device that captures carbon dioxide efficiently by pumping it across a battery using lower energy.",
-  "verified": "reliable_reporter",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/"
- },
- {
   "date": "2026-09-28T23:36:12.451047+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -14452,5 +14419,60 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/"
+ },
+ {
+  "date": "2026-10-01T22:37:18.751213+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "Apple Ranks Among Top Corporate Lobbyists in Brussels",
+  "summary": "A new report reveals that Apple is among the biggest corporate lobbyists in Brussels, meeting with EU policymakers hundreds of times.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/01/apple-among-biggest-corporate-lobbyists-in-brussels-per-report/"
+ },
+ {
+  "date": "2026-10-01T22:37:18.751213+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Twelve South Launches AirFly Drive for Wireless CarPlay",
+  "summary": "Twelve South has released the new AirFly Drive accessory designed to convert wired CarPlay into a wireless experience.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/01/twelve-south-airfly-drive/"
+ },
+ {
+  "date": "2026-10-01T22:37:18.751213+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "GTA 6 Age Rating Points to In-Game Sex Scenes",
+  "summary": "International ratings board listings suggest that GTA 6 will feature sex scenes.",
+  "verified": "unconfirmed",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes"
+ },
+ {
+  "date": "2026-10-01T22:37:18.751213+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "ChatGPT Gains Virtual Try-On Feature For Clothing",
+  "summary": "ChatGPT has introduced a virtual try-on feature powered by OpenAI's latest model, allowing users to visualize and save clothing items.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2275295/chatgpt-can-now-help-you-virtually-try-on-clothes/"
+ },
+ {
+  "date": "2026-10-01T22:37:18.751213+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "OpenAI Fires Three Employees Over Alleged Information Leaks",
+  "summary": "OpenAI has fired three employees for allegedly leaking confidential information to an external AI safety organization.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/"
  }
 ]
