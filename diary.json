@@ -13990,5 +13990,60 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810428/michael-jordan-ferrari-550-record/"
+ },
+ {
+  "date": "2026-10-01T10:06:06.015480+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Apple TV Outage Persists for Some Users",
+  "summary": "An Apple Services outage starting September 30, 2026, is continuing to cause Apple TV availability issues for some users.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/01/latest-apple-tv-outage-is-persisting-for-some-users?utm_source=rss"
+ },
+ {
+  "date": "2026-10-01T10:06:06.015480+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Graves Joins the Ranks in Riftbound",
+  "summary": "Polygon exclusively reveals that the League of Legends champion Graves is joining Riftbound.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/league-legends-riftbound-radiance-exclusive-reveal-graves-blasting-through/"
+ },
+ {
+  "date": "2026-10-01T10:06:06.015480+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Gears of War: E-Day Devs Fear Post-Launch Layoffs",
+  "summary": "Developers of Gears of War: E-Day fear potential layoffs and missing out on bonuses following massive Xbox job cuts.",
+  "verified": "reliable_reporter",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/the-coalition-gears-of-war-e-day-worried-layoffs-no-bonus"
+ },
+ {
+  "date": "2026-10-01T10:06:06.015480+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Wild M Performance Upgrades Hit The New BMW 3-Series And i3! \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "BMW has revealed aggressive M Performance parts for the new combustion and electric 3-Series and i3 models, including carbon wing mirrors and exclusive wheels.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/bmw-3-series-i3-m-performance-parts/"
+ },
+ {
+  "date": "2026-10-01T10:06:06.015480+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "launch",
+  "headline": "Testing Out The Attitude-Packed Mustang RTR! \ud83d\udc0e\ud83d\udd25",
+  "summary": "A review of the new Mustang RTR highlights how it injects extra attitude and style into the entry-level tier of Ford's pony car lineup.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/reviews/810357/ford-mustang-rtr-review/"
  }
 ]
