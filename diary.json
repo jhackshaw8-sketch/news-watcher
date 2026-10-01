@@ -14760,5 +14760,115 @@
   "verified": "official",
   "source": "Carscoops",
   "link": "https://www.carscoops.com/2026/10/fiat-multiplay-teaser/"
+ },
+ {
+  "date": "2026-10-01T15:04:43.267021+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "OLED MacBook Pro With Touch Screen Rumored for Fall Launch",
+  "summary": "Apple's long-awaited OLED MacBook Pro with a touch-enabled screen is rumored to launch as early as October or November.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/01/touch-screen-oled-macbook-pro-expected-in-october-or-november?utm_source=rss"
+ },
+ {
+  "date": "2026-10-01T15:04:43.267021+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Upcoming Apple Home Hub Color Options Leak in Code",
+  "summary": "Code leaks have revealed four color options for Apple's upcoming Home Hub ahead of its anticipated debut later this month.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/01/apples-home-hub-color-options-surface-ahead-of-expected-october-debut?utm_source=rss"
+ },
+ {
+  "date": "2026-10-01T15:04:43.267021+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Gears of War: E-Day Claims Top Series Spot on Metacritic",
+  "summary": "Gears of War: E-Day achieves a top Metacritic score for the series despite recent studio layoffs.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-day-metacritic-score-places-it-as-the-coalitions-best-take-on-the-series-amid-layoffs-and-reported-unrest-at-the-studio/"
+ },
+ {
+  "date": "2026-10-01T15:04:43.267021+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "legal",
+  "headline": "NYC Implements Landmark Click-to-Cancel Subscription Rule",
+  "summary": "New York City has implemented a new click-to-cancel rule allowing residents to easily submit complaints against businesses with difficult subscription cancellation processes.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule"
+ },
+ {
+  "date": "2026-10-01T15:04:43.267021+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Japanese Court Rules Human Voices Are Protected in AI Case",
+  "summary": "A Japanese court has ruled that human voices are protected in a landmark legal case involving artificial intelligence.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/"
+ },
+ {
+  "date": "2026-10-01T15:04:43.267021+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "launch",
+  "headline": "OpenAI Launches 'Dots' AI Agent to Challenge Meta",
+  "summary": "OpenAI announced its new 'Dots' AI agent powered by GPT-6 Astra at its DevDay conference, positioning it as a direct competitor to Meta's Muse AI platform.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"
+ },
+ {
+  "date": "2026-10-01T15:04:43.267021+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Investigation Details Kevin O\u2019Leary\u2019s Massive Utah Data Center Project",
+  "summary": "An investigative report details Kevin O\u2019Leary\u2019s ambitious but troubled plans to construct a massive 40,000-acre AI data center campus in Utah.",
+  "verified": "reliable_reporter",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash"
+ },
+ {
+  "date": "2026-10-01T15:04:43.267021+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "The Secret Function Behind Classic Mercedes Ribbed Taillights \ud83d\udca1\ud83d\ude97",
+  "summary": "The ribbed design on classic Mercedes taillights was actually a clever functional trick to maintain visibility in dirty conditions.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/features/810460/why-old-mercedes-had-ribbed-taillights/"
+ },
+ {
+  "date": "2026-10-01T15:04:43.267021+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "other",
+  "headline": "Stunning 1980s Toyota Celica Supra Appreciation \u2728\ud83c\udfce\ufe0f",
+  "summary": "A nostalgic high-resolution image showcasing a classic 1980s Toyota Celica Supra.",
+  "verified": "unconfirmed",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1wv0g2l/toyota_celia_supra_1800x1200/"
+ },
+ {
+  "date": "2026-10-01T15:04:43.267021+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "other",
+  "headline": "Breathtaking Shot of the Mighty Audi R8 GT \ud83c\udfc1\ud83d\udd25",
+  "summary": "A high-resolution photo showcasing the sleek design of the Audi R8 GT.",
+  "verified": "unconfirmed",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1wuxogg/audi_r8_gt_3197x3197/"
  }
 ]
