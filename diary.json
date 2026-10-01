@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-09-28T22:03:15.454366+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Modern Warfare 4 Changes Double XP Token Mechanics",
-  "summary": "Call of Duty: Modern Warfare 4 introduces a quality-of-life update making Double XP tokens active only during matches.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-is-finally-making-double-xp-tokens-only-active-during-matches"
- },
- {
-  "date": "2026-09-28T22:03:15.454366+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Dressmaker Dominates Steam with Chaotic Sabotage Gameplay",
-  "summary": "Indie hit Dressmaker is dominating Steam with its chaotic sabotage system and multiple hilarious endings.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/dressmaker-sabotage-revenge-customers/"
- },
- {
-  "date": "2026-09-28T22:03:15.454366+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Sony Implements Playtime-Gated PS5 Pro Lottery in Japan",
-  "summary": "Sony introduces a strict lottery system requiring 60 hours of playtime to combat PS5 Pro shortages in Japan.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/amid-ps5-pro-shortage-sony-implements-a-lottery-system-in-japan-that-requires-60-hours-of-playtime/"
- },
- {
-  "date": "2026-09-28T22:03:15.454366+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "rumor",
-  "headline": "Path of Exile Dev Shares Optimistic Take on Diablo 5",
-  "summary": "Path of Exile co-founder Chris Wilson expresses tentative optimism for Diablo 5 following its recent announcement for Spring 2029.",
-  "verified": "reliable_reporter",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/as-far-as-im-concerned-thats-a-step-in-the-right-direction-path-of-exile-dev-optimistic-about-diablo-5"
- },
- {
-  "date": "2026-09-28T22:03:15.454366+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "business",
-  "headline": "AMD Acquires AI Startup World Labs for $8.2 Billion",
-  "summary": "AMD announced it is acquiring AI research lab World Labs, co-founded by Fei-Fei Li, in an all-stock deal valued at approximately $8.2 billion.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"
- },
- {
-  "date": "2026-09-28T22:03:15.454366+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Report: AI Inference Provider Modal Labs Nears $750M Round",
-  "summary": "AI infrastructure startup Modal Labs is reportedly closing in on a $750 million funding round at a $15.75 billion valuation.",
-  "verified": "unconfirmed",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/"
- },
- {
   "date": "2026-09-28T22:35:23.451258+00:00",
   "topic": "Tech News",
   "score": 8,
@@ -14485,5 +14419,38 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/805386/2027-hyundai-tucson-design-revealed/"
+ },
+ {
+  "date": "2026-10-01T22:03:21.014446+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Diablo 2 Icon Annihilus Surprise-Drops in Diablo 4",
+  "summary": "The highly coveted Annihilus item from Diablo 2 has been unexpectedly added to Diablo 4.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/diablo/one-of-diablo-2s-most-coveted-items-surprise-drops-in-diablo-4-and-its-just-as-overpowered-as-it-was-25-years-ago/"
+ },
+ {
+  "date": "2026-10-01T22:03:21.014446+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Lyft Settles 2020 Driver Classification Lawsuit for $272.5M",
+  "summary": "Lyft agreed to pay $272.5 million to resolve a long-standing 2020 lawsuit regarding driver classification.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/"
+ },
+ {
+  "date": "2026-10-01T22:03:21.014446+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Mandia's Armadin Secures $2.5B Valuation for AI Security Swarms",
+  "summary": "Mandiant founder Kevin Mandia's new security startup Armadin has raised $255.5 million at a $2.5 billion valuation to use agent swarms for enterprise protection.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/"
  }
 ]
