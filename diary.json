@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-28T00:44:11.246255+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "update",
-  "headline": "Anker 25W MagSafe 3-in-1 Hands-On",
-  "summary": "A hands-on review of Anker's new 25W MagSafe 3-in-1 travel charger featuring active cooling.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/27/anker-magsafe-travel-sized-3-in-1-charger-qi2/"
- },
- {
   "date": "2026-09-28T04:03:58.358525+00:00",
   "topic": "Gaming News",
   "score": 5,
@@ -7753,5 +7742,49 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+ },
+ {
+  "date": "2026-10-01T00:46:58.607764+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Songs of Glimmerwick Gets Extended Gameplay Trailer",
+  "summary": "An extended gameplay launch trailer has been released for Songs of Glimmerwick.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wujyb4/songs_of_glimmerwick_extended_gameplay_launch/"
+ },
+ {
+  "date": "2026-10-01T00:46:58.607764+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Co-op Ghost Hunting Horror Game That Which Remains Announced",
+  "summary": "An announcement trailer has been released for the new co-op ghost hunting horror game That Which Remains.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wujkwh/that_which_remains_announcement_trailer_coop/"
+ },
+ {
+  "date": "2026-10-01T00:46:58.607764+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Bash Moto Receives Official 4K Gameplay Reveal Trailer",
+  "summary": "An official 4K gameplay reveal trailer has been released for Bash Moto.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wu3517/bash_moto_official_gameplay_reveal_trailer_4k/"
+ },
+ {
+  "date": "2026-10-01T00:46:58.607764+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "SpaceXAI Rolls Out Grokipedia v0.3 Design Update",
+  "summary": "SpaceXAI's AI-powered Grokipedia received a v0.3 design update featuring a new logo and refreshed homepage and live edits pages.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai"
  }
 ]
