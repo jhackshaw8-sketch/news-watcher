@@ -99,16 +99,18 @@ def main():
             tweets = post.get("tweets") or []
             if not tweets:
                 continue
-            # this real article link is what makes Discord show a picture for the post
+            # this real article link is what makes Discord show a picture; repeating it on
+            # every tweet of a thread gives each one its own matching picture
             link = stories[idx]["link"]
             label = "Thread" if post.get("type") == "thread" and len(tweets) > 1 else "Post"
             headline = post.get("headline", "").strip()
             title_line = f"**{label} {i}: {headline}**" if headline else f"**{label} {i}:**"
-            body_text = "\n\n".join(tweets)
-            msg = f"{title_line}\n{body_text}\n{link}"
-            requests.post(WEBHOOK, json={"content": msg[:1990]}, timeout=30).raise_for_status()
+            for j, tweet in enumerate(tweets):
+                prefix = f"{title_line}\n" if j == 0 else ""
+                msg = f"{prefix}{tweet}\n{link}"
+                requests.post(WEBHOOK, json={"content": msg[:1990]}, timeout=30).raise_for_status()
+                time.sleep(1)
             posted += 1
-            time.sleep(1)
 
         print(f"Posted {posted} drafts for {topic}.")
 
