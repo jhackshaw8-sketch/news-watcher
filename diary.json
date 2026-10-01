@@ -1,104 +1,5 @@
 [
  {
-  "date": "2026-09-28T18:41:10.404508+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "The Last of Us Day Celebrated With Ghost of Yotei Crossover",
-  "summary": "Naughty Dog celebrated The Last of Us Day with crossover content and ambience videos while fans await news on part 3.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/the-last-of-us-day-reveals-ghost-of-yotei-collab-content-and-ambiance-video-as-fans-beg-naughty-dog-for-tlou-3"
- },
- {
-  "date": "2026-09-28T18:41:10.404508+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Saw 11 Finds a New Director for Upcoming Sequel",
-  "summary": "Saw 11 has officially found its director, moving the horror franchise forward with potential changes.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/horror-movies/billy-the-puppet-rises-from-the-dead-as-saw-11-finds-its-director-but-fans-think-the-horror-franchise-is-getting-an-overhaul/"
- },
- {
-  "date": "2026-09-28T18:41:10.404508+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Todd Howard Blocked Elder Scrolls Spin-offs, Says Ex-Lead",
-  "summary": "Former Skyrim lead reveals Todd Howard prevented external studio spin-offs like Fallout: New Vegas.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/the-elder-scrolls/the-elder-scrolls-hasnt-had-a-fallout-new-vegas-style-spin-off-because-of-a-very-protective-todd-howard-skyrim-lead-suggests/"
- },
- {
-  "date": "2026-09-28T18:41:10.404508+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "The Witcher 3 Remaster Pushes RTX 5080 Hardware Limits",
-  "summary": "The Witcher 3 remaster requires heavy hardware specs to handle path tracing at high performance.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/the-witcher-3-gets-30-fps-on-an-rtx-5080-with-frame-gen-disabled"
- },
- {
-  "date": "2026-09-28T18:41:10.404508+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Heroes of the Storm Gets New Character Update",
-  "summary": "Blizzard is bringing Xal\u2019atath from World of Warcraft to Heroes of the Storm in an unexpected update.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/heroes-of-the-storm-update-blizzcon-2026/"
- },
- {
-  "date": "2026-09-28T18:41:10.404508+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Kingdom Come: Deliverance 2 Mod Adds Multiplayer RP",
-  "summary": "A new multiplayer mod for Kingdom Come: Deliverance 2 introduces roleplay servers to the open-world RPG.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/rpg/kingdom-come-deliverance-2-now-has-a-multiplayer-mod-that-brings-rp-servers-to-the-acclaimed-rpgs-open-world/"
- },
- {
-  "date": "2026-09-28T18:41:10.404508+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Control Resonant Day One Update Overhauls Combat",
-  "summary": "Control Resonant's day one update drastically changes combat, highlighting modern gaming trends.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/control-resonant-updates-analysis/"
- },
- {
-  "date": "2026-09-28T18:41:10.404508+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Nvidia launches security platform to rein in rogue AI agents",
-  "summary": "Nvidia introduced a new hardware and software toolkit designed to add security layers and monitor rogue AI agents.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
- },
- {
-  "date": "2026-09-28T18:41:10.404508+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Meta launches enterprise business division to monetize massive AI investments",
-  "summary": "Meta is launching a new enterprise business division to sell its AI products and services to corporate clients.",
-  "verified": "reliable_reporter",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2271136/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending/"
- },
- {
   "date": "2026-09-28T19:04:49.119052+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -14628,5 +14529,60 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810489/fiat-multipla-successor-photo/"
+ },
+ {
+  "date": "2026-10-01T18:42:59.883904+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "launch",
+  "headline": "SpaceXAI Releases Dedicated Grok iOS App for Enterprise Users",
+  "summary": "SpaceXAI has launched a separate Grok iOS app specifically designed for enterprise and work organizations.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/01/spacexai-releases-a-separate-grok-ios-app-for-enterprise-users/"
+ },
+ {
+  "date": "2026-10-01T18:42:59.883904+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "Sony's AI-Upscaling Tech Coming to Standard PS5",
+  "summary": "Sony is expanding its AI-powered upscaling technology beyond the PS5 Pro to standard PS5 consoles, beginning with Marvel's Wolverine and Ghost of Y\u014dteit.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/ps5-ai-upscaling-qssr-sony/"
+ },
+ {
+  "date": "2026-10-01T18:42:59.883904+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Fervo Energy Completes Groundbreaking Geothermal Plant",
+  "summary": "Fervo Energy completed the world's first enhanced geothermal power plant in under two years, with faster grid connections planned for future phases.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/"
+ },
+ {
+  "date": "2026-10-01T18:42:59.883904+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "OpenAI Dismisses Three Safety Researchers Over Information Handling",
+  "summary": "OpenAI has reportedly cut ties with three safety researchers following an internal investigation into the mishandling of sensitive company information.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
+ },
+ {
+  "date": "2026-10-01T18:42:59.883904+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "V6-Powered Mazda MX-5 Keeps Its Perfect Balance! \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "A modified Mazda MX-5 NC has been fitted with a Ford V6 engine while remarkably maintaining its original 50-50 weight distribution.",
+  "verified": "reliable_reporter",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/mazda-mx5-v6-rocketeer/"
  }
 ]
