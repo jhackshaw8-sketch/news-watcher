@@ -35,5 +35,19 @@
       {"name": "Engadget", "url": "https://www.engadget.com/rss.xml"},
       {"name": "r/technology", "url": "https://www.reddit.com/r/technology/new/.rss"}
     ]
+  },
+  {
+    "name": "Cars",
+    "webhook_env": "DISCORD_WEBHOOK_CARS",
+    "focus": "cars: new car releases and reveals, concept cars, classic/old cars, car restoration and build projects, car reviews, and just nice-looking or interesting cars worth sharing, not only hard news",
+    "feeds": [
+      {"name": "Carscoops", "url": "https://www.carscoops.com/feed/"},
+      {"name": "Motor1", "url": "https://www.motor1.com/rss/articles/all/"},
+      {"name": "Mat Armstrong", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcLYOTz3ct6_lk9iLToxxAw"},
+      {"name": "Mat Armstrong MK2", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2FZQeaJkpnO6IMkQglvPsg"},
+      {"name": "TheTopher", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD4NnnbISbr4dvmmzQxC2bA"},
+      {"name": "r/carporn", "url": "https://www.reddit.com/r/carporn/new/.rss"},
+      {"name": "r/spotted", "url": "https://www.reddit.com/r/spotted/new/.rss"}
+    ]
   }
 ]
