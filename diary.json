@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-09-28T23:36:12.451047+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "How to Use Safari's 'Notify Me' in macOS 27",
-  "summary": "A guide details how to use the new 'Notify Me' feature in Safari with the release of macOS 27.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/28/macos-27-how-to-use-the-new-notify-me-feature-in-safari/"
- },
- {
-  "date": "2026-09-28T23:36:12.451047+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Cyberpunk 2077 Dev Says Phantom Liberty Success Doesn't Erase Base Game Launch",
-  "summary": "A Cyberpunk 2077 developer acknowledges that the success of the Phantom Liberty expansion does not erase the troubled launch of the base game.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/cyberpunk/cyberpunk-2077-designer-doesnt-think-phantom-libertys-success-erases-the-terrible-launch-of-the-base-game/"
- },
- {
-  "date": "2026-09-28T23:36:12.451047+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Aurora CFO Defends Ambitious 2030 Driverless Truck Target",
-  "summary": "Aurora's CFO defended the company's ambitious projection of deploying 30,000 driverless trucks by the year 2030.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/"
- },
- {
-  "date": "2026-09-28T23:36:12.451047+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "legal",
-  "headline": "California Bans Public Officials from Creating Memecoins",
-  "summary": "California has introduced new cryptocurrency regulations that prohibit public officials from issuing memecoins.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2271475/california-is-banning-public-officials-from-making-memecoins/"
- },
- {
   "date": "2026-09-29T00:04:37.226080+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -14529,5 +14485,16 @@
   "verified": "unconfirmed",
   "source": "Carscoops",
   "link": "https://www.carscoops.com/2026/10/tesla-spoiler-patent-may-hide-roadster-design/"
+ },
+ {
+  "date": "2026-10-02T00:04:21.804148+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Final Fantasy 7 Lead Talks Story Direction",
+  "summary": "The lead of Final Fantasy 7 Revelation discusses the challenges of staying true to the original story without making it a personal fan project.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-director-says-it-wasnt-easy-not-turning-a-masterpiece-like-ff7-into-something-that-felt-like-my-own-personal-fan-project/"
  }
 ]
