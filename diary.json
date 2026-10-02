@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-09-29T21:37:10.996774+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "rumor",
-  "headline": "Rumored iPhone Duo Pre-Order Setup Dates Leak",
-  "summary": "Reports indicate Apple may allow pre-order setups for a rumored iPhone Duo starting October 12 ahead of an October 16 order date.",
-  "verified": "unconfirmed",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/09/29/get-ready-to-pre-order-the-iphone-duo-starting-october-12?utm_source=rss"
- },
- {
-  "date": "2026-09-29T21:37:10.996774+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Tesla Secures $30B in Credit Lines for Cybercab and Optimus Expansion",
-  "summary": "Tesla has secured $30 billion in new credit lines to help fund the scaling of its Cybercab and Optimus projects, though it does not plan to draw on the debt this year.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/"
- },
- {
   "date": "2026-09-29T22:03:22.080110+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -14166,5 +14144,60 @@
   "verified": "reliable_reporter",
   "source": "r/carporn",
   "link": "https://www.reddit.com/r/carporn/comments/1ww3ahp/trackforme_widebody_datsun_280z_4159x3327/"
+ },
+ {
+  "date": "2026-10-02T21:38:11.652781+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple TV Releases Second Season of 'The Sisters Grimm'",
+  "summary": "Apple TV has released the complete second season of its animated fantasy adventure series 'The Sisters Grimm'.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/02/apple-tv-releases-the-sisters-grimm-season-2-in-full/"
+ },
+ {
+  "date": "2026-10-02T21:38:11.652781+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "iPhone 18 Pro Max Users Experiencing SOS Issues Require Hardware Replacement",
+  "summary": "AT&T iPhone 18 Pro Max users experiencing persistent SOS issues and call failures are advised to get their devices replaced.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/02/if-your-iphone-18-pro-max-always-says-sos-you-need-to-get-it-replaced?utm_source=rss"
+ },
+ {
+  "date": "2026-10-02T21:38:11.652781+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Disney shuts down Epic Games acquisition rumors",
+  "summary": "Disney has clarified that it is not currently in conversations to acquire Fortnite developer Epic Games.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/disney-says-conversations-about-buying-epic-games-are-not-happening-right-now"
+ },
+ {
+  "date": "2026-10-02T21:38:11.652781+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Meta Open Sources Code for Custom Muse AI Gadgets \ud83e\udd16",
+  "summary": "Meta open-sourced code allowing developers to build custom gadgets powered by its new Muse AI agent.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
+ },
+ {
+  "date": "2026-10-02T21:38:11.652781+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Sean Parker Restructures Stability AI to Focus on Music",
+  "summary": "Sean Parker is restructuring Stability AI to focus on music, backed by blessing and funding from major music labels.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
  }
 ]
