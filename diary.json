@@ -1,159 +1,5 @@
 [
  {
-  "date": "2026-09-29T18:05:26.074177+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Creator Studio Adds iPhone 18 Pro Video Features",
-  "summary": "Apple Creator Studio updates bring new editing features for iPhone 18 Pro video and tools to Pixelmator Pro for iPad.",
-  "verified": "reliable_reporter",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/09/29/apple-creator-studio-lets-you-change-iphone-18-pro-video-focus-after-filming?utm_source=rss"
- },
- {
-  "date": "2026-09-29T18:05:26.074177+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Final Cut Camera Gains iPhone 18 Pro Aperture Support",
-  "summary": "Final Cut Camera for iOS has been updated to support the variable aperture system on the iPhone 18 Pro.",
-  "verified": "reliable_reporter",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/09/29/variable-aperture-iphone-18-pro-now-supported-by-final-cut-camera?utm_source=rss"
- },
- {
-  "date": "2026-09-29T18:05:26.074177+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "AI Researchers Warn Superintelligence Poses Extinction Risk",
-  "summary": "AI researchers from top labs warn in new interviews that artificial superintelligence poses an existential threat.",
-  "verified": "reliable_reporter",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews"
- },
- {
-  "date": "2026-09-29T18:05:26.074177+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "launch",
-  "headline": "OpenAI Launches ChatGPT Office Suite to Rival Microsoft",
-  "summary": "OpenAI has launched a new suite of office features for ChatGPT, directly challenging Microsoft and traditional software suites.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/"
- },
- {
-  "date": "2026-09-29T18:05:26.074177+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "Study Highlights Extensive Data Sharing in Connected Cars",
-  "summary": "A new study highlights the extensive data sharing and tracking practices of connected cars and their companion apps.",
-  "verified": "reliable_reporter",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/"
- },
- {
-  "date": "2026-09-29T18:41:30.705348+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Releases New AirPods Beta Firmware",
-  "summary": "Apple has rolled out a new beta firmware update for AirPods Pro and select other models.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/29/airpods-pro-3-and-more-just-got-new-firmware-update-in-beta/"
- },
- {
-  "date": "2026-09-29T18:41:30.705348+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "New AirPods Beta Firmware Released",
-  "summary": "Apple released new beta firmware build 9B5042a for various AirPods models to developers and public beta testers.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/09/29/apple-releases-new-airpods-beta-firmware-september/"
- },
- {
-  "date": "2026-09-29T18:41:30.705348+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "business",
-  "headline": "Apple Partners with AAP for Screen Time Guide",
-  "summary": "Apple has partnered with the American Academy of Pediatrics to provide parents with new Screen Time guides for children's devices.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/09/29/apple-american-academy-of-pediatrics-team-up-for-new-screen-time-guide?utm_source=rss"
- },
- {
-  "date": "2026-09-29T18:41:30.705348+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Final Cut Camera Gains Variable Aperture Support",
-  "summary": "Final Cut Camera app has added support for variable aperture on the iPhone 18 Pro.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wthnzt/final_cut_camera_now_supports_variable_aperture/"
- },
- {
-  "date": "2026-09-29T18:41:30.705348+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "update",
-  "headline": "Apple Shares New iOS 27 Parental Controls Guide",
-  "summary": "Apple published a new guide to help families utilize parental controls and child safety tools in iOS 27, iPadOS 27, and macOS 27.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/09/29/apple-ios-27-parental-control-guide/"
- },
- {
-  "date": "2026-09-29T18:41:30.705348+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Game of Thrones Movie Announced for 2029 Release",
-  "summary": "Warner Bros and HBO have announced Game of Thrones: Aegon's Conquest, the first feature film in the fantasy epic, scheduled for a June 2029 release.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/game-of-thrones-movie-2029-release-date-aegons-conquest/"
- },
- {
-  "date": "2026-09-29T18:41:30.705348+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "GTA 6 Developers Researched Real-Life Florida Culture",
-  "summary": "Rockstar developers reportedly conducted extensive real-world research by visiting strip clubs and beaches to capture authentic Florida life for GTA 6.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-devs-spent-years-going-to-strip-clubs-spending-time-on-the-beach-and-riding-with-ex-cops-to-research-florida-life/"
- },
- {
-  "date": "2026-09-29T18:41:30.705348+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "OpenAI Collaborates Privately on Nvidia's AI Safety Effort",
-  "summary": "OpenAI is privately collaborating with Nvidia despite being absent from its public Open Agent Safety Platform initiative.",
-  "verified": "reliable_reporter",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/"
- },
- {
-  "date": "2026-09-29T18:41:30.705348+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "update",
-  "headline": "Google Combines Gemini and Find Hub for Document Tracking",
-  "summary": "Google is integrating Gemini with Find Hub to help users easily locate important digital documents.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents/"
- },
- {
   "date": "2026-09-29T19:04:38.221268+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -14287,5 +14133,60 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810591/range-rover-sport-recall-subframe-cracks/"
+ },
+ {
+  "date": "2026-10-02T18:41:39.806557+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "Apple Tightening macOS Privacy Controls for AI Agents",
+  "summary": "Apple announced plans to tighten macOS privacy controls to address growing security concerns around AI agents requesting full disk access.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/02/apple-says-its-tightening-macos-privacy-controls-amid-the-rise-of-ai-agents/"
+ },
+ {
+  "date": "2026-10-02T18:41:39.806557+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "GTA 6 Age Rating Reveals Mature Content Details",
+  "summary": "A UK ratings board listing reveals GTA 6 will feature adult content including decapitation and drug use.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-has-detailed-decapitation-and-cocaine-can-be-snorted-directly-from-your-hand-says-uk-ratings-board/"
+ },
+ {
+  "date": "2026-10-02T18:41:39.806557+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "GTA 6 PEGI 18 Rating Confirmed",
+  "summary": "GTA 6 has officially received a PEGI 18 rating confirming details on sexual fetishes, drug use, and violence.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more"
+ },
+ {
+  "date": "2026-10-02T18:41:39.806557+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Fire Emblem: Fortune\u2019s Weave Non-Combat Guide",
+  "summary": "A guide outlines four activities to focus on outside of combat in Fire Emblem: Fortune\u2019s Weave.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/4-things-to-focus-on-outside-combat-in-fire-emblem-fortunes-weave"
+ },
+ {
+  "date": "2026-10-02T18:41:39.806557+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Tesla Reports Declining Q3 Sales and Falling Cybertruck Demand \ud83d\ude97\ud83d\udcc9",
+  "summary": "Tesla reported mediocre Q3 sales figures alongside declining Cybertruck demand.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/"
  }
 ]
