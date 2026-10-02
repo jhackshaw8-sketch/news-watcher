@@ -1,181 +1,5 @@
 [
  {
-  "date": "2026-09-29T12:04:50.959305+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "M5 Max Mac Studio Review",
-  "summary": "A comprehensive review of the M5 Max Mac Studio highlighting its performance benefits over the Ultra for most users.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/09/29/m5-max-mac-studio-review-far-better-choice-than-ultra-for-most-desks?utm_source=rss"
- },
- {
-  "date": "2026-09-29T12:04:50.959305+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Gears of War: E-Day Will Launch With Hardcore Intended Difficulty",
-  "summary": "The Coalition confirms the intended Hardcore difficulty for Gears of War: E-Day ahead of its October release.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/gears-of-war-eday-difficulty-hardcore"
- },
- {
-  "date": "2026-09-29T12:04:50.959305+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Hit Hole-Digging Game Getting a Multiplayer Sequel",
-  "summary": "A sequel to A Game About Digging a Hole has been announced for later this year with added multiplayer.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/a-game-about-digging-a-hole-with-friends-sequel-announcement-trailer/"
- },
- {
-  "date": "2026-09-29T12:04:50.959305+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Retro C64 and ZX Spectrum Handhelds Delayed",
-  "summary": "Blaze has delayed the launch of The C64 and The Spectrum handhelds by six months due to quality issues.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/hardware/handhelds/the-upcoming-c64-and-zx-spectrum-handheld-just-got-hit-with-a-six-month-delay-due-to-quality-issues/"
- },
- {
-  "date": "2026-09-29T12:04:50.959305+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Lawmaker Calls For US-China AI Treaty",
-  "summary": "Rep. Ro Khanna is calling for a US-China AI treaty as President Trump prepares to meet with tech CEOs.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty"
- },
- {
-  "date": "2026-09-29T12:04:50.959305+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Grandmother Sues Over False AI Facial Recognition Match",
-  "summary": "A grandmother is suing for $10 million after being falsely accused of bank theft due to an alleged AI facial recognition match.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wt85l9/grandmother_falsely_accused_of_bank_theft_after/"
- },
- {
-  "date": "2026-09-29T12:04:50.959305+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "business",
-  "headline": "Anthropic Warns Of AI Risks In IPO Filing",
-  "summary": "Anthropic's upcoming IPO filing warns of catastrophic AI risks and details mounting financial losses as it eyes a massive valuation.",
-  "verified": "reliable_reporter",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat"
- },
- {
-  "date": "2026-09-29T12:04:50.959305+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "legal",
-  "headline": "Lawmakers Demand Transparency For Public Land Data Centers",
-  "summary": "Lawmakers are demanding greater transparency in the approvals process for building data centers on public lands.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wt7dqm/lawmakers_call_for_transparency_of_approvals/"
- },
- {
-  "date": "2026-09-29T12:04:50.959305+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Scammers Use AI Voice Clone To Steal Millions",
-  "summary": "Scammers successfully stole \u20ac95 million from an Italian bank using an AI voice clone and a fake WhatsApp message.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wt7a3q/scammers_used_an_ai_voice_clone_and_a_fake/"
- },
- {
-  "date": "2026-09-29T12:04:50.959305+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "other",
-  "headline": "New Study Exposes Widespread Car Data Privacy Issues",
-  "summary": "A study of 21 vehicles revealed that all of them transmit data to third-party domains, with most pinging advertising companies.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wt6nmc/your_cars_data_privacy_problems_are_worse_than/"
- },
- {
-  "date": "2026-09-29T12:04:50.959305+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "AI Industry Faces $6 Trillion Revenue Hurdle For Data Centers",
-  "summary": "Industry analysis suggests the AI sector will need to generate $6 trillion by 2031 to justify the massive spend on data centers.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wt6mcm/ai_industry_needs_to_earn_6_trillion_by_2031_to/"
- },
- {
-  "date": "2026-09-29T12:04:50.959305+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "other",
-  "headline": "How AI Risk Movements Influenced Washington Policy",
-  "summary": "An examination of how existential risk movements have successfully influenced AI policy discussions in Washington.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wt6lvr/how_a_fringe_ai_movement_convinced_washington_the/"
- },
- {
-  "date": "2026-09-29T12:04:50.959305+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Meta Launches Muse For Small Business AI",
-  "summary": "Meta has launched Muse for Small Business, expanding Mark Zuckerberg's AI strategy past the consumer market.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wt6afu/meta_launches_muse_for_small_business_as/"
- },
- {
-  "date": "2026-09-29T12:44:43.021379+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "legal",
-  "headline": "Apple Explains Removal of ICE Tracking Apps",
-  "summary": "Apple provides an explanation for its controversial removal of ICE tracking apps from the App Store last year.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wt8pvq/apple_explains_last_years_controversial_decision/"
- },
- {
-  "date": "2026-09-29T12:44:43.021379+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Metal Gear Solid 2 Boss Skip Found",
-  "summary": "Players have discovered the first-ever boss skip for Metal Gear Solid 2 twenty-five years after its release.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/metal-gear/metal-gear-solid-2s-first-ever-boss-skip-has-been-discovered-after-25-years-and-it-involves-making-a-guard-do-the-dirty-work-for-you/"
- },
- {
-  "date": "2026-09-29T12:44:43.021379+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Reco Raises $55M for AI Agent Security",
-  "summary": "AI agent security startup Reco has raised $55 million in funding, bringing its total to $140 million.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/"
- },
- {
   "date": "2026-09-29T13:06:58.205011+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -14386,5 +14210,115 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2275509/tesla-supercharger-emergency-drive-away-feature/"
+ },
+ {
+  "date": "2026-10-02T12:44:45.553186+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "AT&T Claims iOS Update Fixes iPhone 18 Pro Max Cellular Issues",
+  "summary": "AT&T states that iOS 27.0.1 fixes cellular issues on the iPhone 18 Pro Max, though users continue to report connectivity problems.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/02/att-claims-ios-27-0-1-fixes-iphone-18-pro-max-cellular-issues-but-users-disagree/"
+ },
+ {
+  "date": "2026-10-02T12:44:45.553186+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Leaks Point to New Home Hub and Updated Devices in October",
+  "summary": "Recent leaks indicate an upcoming busy October for Apple with new smart home devices and updated iPhone hardware.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/02/home-hub-iphone-18-pro-cameras-and-meta-vr-on-the-appleinsider-podcast?utm_source=rss"
+ },
+ {
+  "date": "2026-10-02T12:44:45.553186+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Classic Halo: Combat Evolved Now Playable in Web Browsers",
+  "summary": "The original Xbox version of Halo: Combat Evolved is now playable directly in a web browser.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/original-xbox-version-of-halo-combat-evolved-made-available-to-play-in-a-browser"
+ },
+ {
+  "date": "2026-10-02T12:44:45.553186+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Star Wars: Galactic Racer Review",
+  "summary": "Star Wars: Galactic Racer is praised for its fast-paced gameplay despite suffering from repetitive track locations.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/star-wars-galactic-racer-review"
+ },
+ {
+  "date": "2026-10-02T12:44:45.553186+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "The Rapid Expansion and Community Impact of AI Data Centers",
+  "summary": "An exploration of how the rapid growth of massive AI data centers is changing their visual impact and community relations.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry"
+ },
+ {
+  "date": "2026-10-02T12:44:45.553186+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Kia K4 Gets a Minor Price Hike for 2027 \ud83c\udff7\ufe0f\ud83d\ude97",
+  "summary": "Kia has announced a minor price increase for its entry-level K4 model, which now starts at $22,390 for the 2027 model year.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/2027-kia-k4-pricing/"
+ },
+ {
+  "date": "2026-10-02T12:44:45.553186+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "Stunning Porsche 911 996 GT1 Evo Spotted \ud83c\udfc1\ud83d\udca8",
+  "summary": "A stunning high-resolution photo showcasing the rare Porsche 911 996 GT1 Evo has been shared by a car enthusiast.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1wvl6g3/porsche_911_996_gt1_evo_3072x4096/"
+ },
+ {
+  "date": "2026-10-02T12:44:45.553186+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "legal",
+  "headline": "The World's Loneliest Recall: Just One Range Rover Affected \ud83d\ude99\u26a0\ufe0f",
+  "summary": "Land Rover has issued a recall for a single Range Rover Sport built on February 16 due to a PCM issue.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/range-rover-sport-usa-pcm-recall/"
+ },
+ {
+  "date": "2026-10-02T12:44:45.553186+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "Aggressive Ford Mustang GTD Captured in Detail \ud83d\udc0e\ud83d\udd25",
+  "summary": "An impressive high-resolution image of the track-ready Ford Mustang GTD has been posted online.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1wvfyec/ford_mustang_gtd_2034x3704/"
+ },
+ {
+  "date": "2026-10-02T12:44:45.553186+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "Classic 1970s Porsche 911s Looking Timeless \ud83d\udcf8\ud83c\udfce\ufe0f",
+  "summary": "A beautiful classic photography feature capturing 1970s Porsche F-series Targa and G-series 911 models together.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1wve1kk/1970s_fseries_targa_gseries_911s_7952x5304/"
  }
 ]
