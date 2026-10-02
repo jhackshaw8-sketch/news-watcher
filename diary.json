@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-09-29T17:04:03.555167+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "update",
-  "headline": "Final Cut Camera Update Adds iPhone 18 Pro Support",
-  "summary": "Final Cut Camera has been updated with support for new iPhone 18 Pro features.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/29/final-cut-camera-iphone-18-pro-features/"
- },
- {
-  "date": "2026-09-29T17:04:03.555167+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Emergency SOS via Satellite Launches in Norway",
-  "summary": "Apple has officially expanded Emergency SOS via satellite to users in Norway.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/09/29/emergency-sos-via-satellite-in-norway/"
- },
- {
-  "date": "2026-09-29T17:04:03.555167+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "update",
-  "headline": "Final Cut Camera Updated with Variable Aperture Support",
-  "summary": "Final Cut Camera receives a major update featuring variable aperture support for the iPhone 18 Pro.",
-  "verified": "official",
-  "source": "Apple Newsroom",
-  "link": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/"
- },
- {
-  "date": "2026-09-29T17:04:03.555167+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "update",
-  "headline": "Apple Introduces Updates to Apple Creator Studio",
-  "summary": "Apple has announced new updates for its suite of creative and productivity apps under Apple Creator Studio.",
-  "verified": "official",
-  "source": "Apple Newsroom",
-  "link": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/"
- },
- {
-  "date": "2026-09-29T17:04:03.555167+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "other",
-  "headline": "Apple Releases Family Guide for Healthy Digital Habits",
-  "summary": "Apple releases a new family guide in partnership with the American Academy of Pediatrics for healthy digital habits.",
-  "verified": "official",
-  "source": "Apple Newsroom",
-  "link": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/"
- },
- {
-  "date": "2026-09-29T17:04:03.555167+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "The Witcher 3 Getting New Expansion Songs of the Past",
-  "summary": "The Witcher 3 is getting a new expansion titled Songs of the Past that introduces a brand new region and adventure.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-songs-of-the-past-guide/"
- },
- {
-  "date": "2026-09-29T17:04:03.555167+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "The Witcher 3 Remastered Reaches 94 on Metacritic",
-  "summary": "CD Projekt Red's remastered update for The Witcher 3: Wild Hunt achieves an impressive 94 rating on Metacritic.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/witcher-3-wild-hunt-remastered-review-roundup/"
- },
- {
-  "date": "2026-09-29T17:04:03.555167+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Arc Raiders Devs Faced Burnout After Major Launch",
-  "summary": "Arc Raiders developers experienced exhaustion and unhappiness following the game's massive launch, prompting changes to their workflow.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-devs-were-super-unhappy-and-super-tired-after-the-shooters-huge-launch-lead-says-causing-embark-to-change-direction-to-avoid-burnout/"
- },
- {
-  "date": "2026-09-29T17:04:03.555167+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "other",
-  "headline": "Guillermo del Toro Confirms Disastrous Past Attempt to Direct BioShock Movie",
-  "summary": "Guillermo del Toro has confirmed that he attempted to direct a BioShock movie adaptation, but the production process was disastrous.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/bioshock-movie-guillermo-del-toro-confirms-failed-adaptation-involvement/"
- },
- {
-  "date": "2026-09-29T17:04:03.555167+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "launch",
-  "headline": "White House Deploys AI Chatbot to Navigate Government Bureaucracy",
-  "summary": "The White House is launching America.gov, a chatbot designed to help citizens navigate government bureaucracy despite ongoing concerns about AI hallucinations.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/"
- },
- {
-  "date": "2026-09-29T17:04:03.555167+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Report: McDonald's Testing AI for Dynamic Burger Pricing",
-  "summary": "Reports indicate that McDonald's is testing AI to implement dynamic pricing for its menu items.",
-  "verified": "unconfirmed",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers/"
- },
- {
   "date": "2026-09-29T17:38:06.758756+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -14485,5 +14364,60 @@
   "verified": "official",
   "source": "Carscoops",
   "link": "https://www.carscoops.com/2026/10/lexus-toyota-steering-knuckle-recall/"
+ },
+ {
+  "date": "2026-10-02T17:37:52.417389+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Apple's New homeOS and Smart Home Hub Reportedly Launching October 13",
+  "summary": "Apple reportedly plans to launch new Home products and a new homeOS operating system on October 13.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/02/apples-new-homeos-will-launch-this-month-heres-whats-coming/"
+ },
+ {
+  "date": "2026-10-02T17:37:52.417389+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Disney Brings Percy Jackson to Netflix",
+  "summary": "Disney strikes a deal with Netflix to stream Percy Jackson and the Olympians ahead of season 3.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/percy-jackson-and-the-olympians-disney-netflix-deal-season-3/"
+ },
+ {
+  "date": "2026-10-02T17:37:52.417389+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Tavern Keeper Gets Major Update 2",
+  "summary": "Greenheart Games releases a trailer for Major Update 2: Digging Deeper in Tavern Keeper Early Access.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wv7mkd/tavern_keeper_early_access_major_update_2_digging/"
+ },
+ {
+  "date": "2026-10-02T17:37:52.417389+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "28 Games Later Horror Showcase Announced",
+  "summary": "A horror game showcase titled 28 Games Later is announced for October 1st, 2026.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wv7b0x/28_games_later_a_horror_showcase_october_1st_2026/"
+ },
+ {
+  "date": "2026-10-02T17:37:52.417389+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "launch",
+  "headline": "Behold the Wild All-Purple Larte BMW XM! \ud83d\udc9c\ud83c\udfce\ufe0f",
+  "summary": "Larte Design has revealed an eye-catching all-purple body kit tailored for the BMW XM lineup.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/larte-bmw-xm-purple/"
  }
 ]
