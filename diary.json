@@ -14265,5 +14265,38 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810554/japanese-automakers-collaborate-car-quality/"
+ },
+ {
+  "date": "2026-10-02T10:03:16.454947+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "GTA 6 Official Rating Confirms Mature Content Details",
+  "summary": "GTA 6 has received official age ratings in multiple countries, confirming the presence of explicit sexual content in the game.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/grand-theft-auto-gta-6-sex-scenes-rating-mature/"
+ },
+ {
+  "date": "2026-10-02T10:03:16.454947+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Suno Expands AI Audio Tools With New Spoken Voice Generation Beta \ud83c\udfa4",
+  "summary": "AI music platform Suno is expanding its capabilities by launching a public beta feature that generates spoken voiceovers alongside background music.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
+ },
+ {
+  "date": "2026-10-02T10:03:16.454947+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "legal",
+  "headline": "California Legalizes Balcony Solar Installations For Residents \u2600\ufe0f",
+  "summary": "California has become the tenth US state to legalize balcony solar installations, opening up new clean energy options for residents.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2275466/california-legalizes-balcony-plug-in-solar/"
  }
 ]
