@@ -14320,5 +14320,71 @@
   "verified": "reliable_reporter",
   "source": "r/carporn",
   "link": "https://www.reddit.com/r/carporn/comments/1wve1kk/1970s_fseries_targa_gseries_911s_7952x5304/"
+ },
+ {
+  "date": "2026-10-02T13:06:24.935270+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "iOS 27 Brings New Lock Screen Customization Features",
+  "summary": "iOS 27 introduces four new customization options and wallpaper settings for the iPhone Lock Screen.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/02/ios-27-lock-screen-customization/"
+ },
+ {
+  "date": "2026-10-02T13:06:24.935270+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Star Wars: Galactic Racer Review Explores Its Arcade Physics",
+  "summary": "Eurogamer reviews the new arcade-style racing game Star Wars: Galactic Racer.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/star-wars-galactic-racer-review"
+ },
+ {
+  "date": "2026-10-02T13:06:24.935270+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Home Assistant Drops 'Cloud' Branding",
+  "summary": "Home Assistant is rebranding its cloud service to Home Assistant Link to distance itself from big tech cloud terminology.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out"
+ },
+ {
+  "date": "2026-10-02T13:06:24.935270+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "\ud83d\ude97 Rivian Recalls A Few R2s For Battery Issue \ud83d\udd0b",
+  "summary": "Rivian has issued a recall for around 14 R2 vehicles due to poorly tightened battery packs.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/"
+ },
+ {
+  "date": "2026-10-02T13:06:24.935270+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "business",
+  "headline": "Mercedes Avoids US Ban Despite Chinese Ownership \ud83d\udee1\ufe0f\ud83d\ude97",
+  "summary": "Senator Bernie Moreno confirms that Mercedes-Benz will avoid potential US import bans despite its 20% Chinese ownership.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/mercedes-benz-avoids-chinese-car-ban-us/"
+ },
+ {
+  "date": "2026-10-02T13:06:24.935270+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Ford Calls Upcoming $30k Fathom Truck A Massive Production Challenge \ud83d\udee0\ufe0f\ud83d\udefb",
+  "summary": "Ford acknowledges that building its upcoming $30,000 Fathom truck will require an unprecedented engineering and production effort.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810512/ford-fathom-electric-truck-challenge/"
  }
 ]
