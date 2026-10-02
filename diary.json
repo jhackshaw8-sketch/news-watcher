@@ -14474,5 +14474,27 @@
   "verified": "unconfirmed",
   "source": "Carscoops",
   "link": "https://www.carscoops.com/2026/10/polestar-2-next-generation-report/"
+ },
+ {
+  "date": "2026-10-02T01:05:39.917699+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Acclaimed 'The Last First: Winter K2' Documentary Now Streaming on Apple TV",
+  "summary": "The acclaimed mountain climbing documentary 'The Last First: Winter K2' with a 100% Rotten Tomatoes score is now streaming on Apple TV.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/01/apple-tvs-acclaimed-the-last-first-winter-k2-documentary-now-streaming/"
+ },
+ {
+  "date": "2026-10-02T01:05:39.917699+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "California Law Fines Robotaxis for Blocking First Responders",
+  "summary": "A new California law imposes fines on robotaxi operators for blocking first responders.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/"
  }
 ]
