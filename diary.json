@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-29T08:05:38.867384+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "update",
-  "headline": "Opera for Android Adds Free eSIM and Data",
-  "summary": "Opera for Android has integrated a free eSIM and 3GB of data for users in select countries.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2271064/opera-for-android-now-comes-with-a-free-esim-and-3gb-of-data/"
- },
- {
   "date": "2026-09-29T08:39:30.020774+00:00",
   "topic": "Gaming News",
   "score": 9,
@@ -14474,5 +14463,27 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810536/gm-silverado-sierra-airbag-recall/"
+ },
+ {
+  "date": "2026-10-02T08:38:48.078353+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "BMW Unleashes the X3 M50 xDrive with 44 More HP and Stealthy Black Package \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "BMW introduces the new X3 M50 xDrive with an extra 44 horsepower and an optional Black Package, positioning it as the current performance peak for the lineup.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/bmw-x3-m50-update/"
+ },
+ {
+  "date": "2026-10-02T08:38:48.078353+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Toyota Is Now Renting Out Its Bizarre 90s Gullwing Glass-Canopy Coupe \ud83d\ude97\u2728",
+  "summary": "Toyota is adding its quirky 1990s gullwing coupe with a massive glass canopy to its growing fleet of rental classics.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810545/toyota-renting-classic-gullwing-coupe/"
  }
 ]
