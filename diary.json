@@ -1,192 +1,5 @@
 [
  {
-  "date": "2026-09-29T15:06:44.980616+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "First Look at Brendan Fraser in The Mummy 4",
-  "summary": "New set photos reveal Brendan Fraser's official look as Rick O'Connell in the currently filming Mummy 4.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/mummy-4-set-photos-rick-oconnell-brendan-fraser/"
- },
- {
-  "date": "2026-09-29T15:06:44.980616+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Lego Announces Massive Dragon Ball Shenron & Goku Set",
-  "summary": "A massive Lego Dragon Ball Shenron and Goku set has been revealed for a November release, kicking off a new partnership.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/toys-collectibles/massive-lego-dragon-ball-shenron-and-goku-set-revealed-and-its-just-the-beginning/"
- },
- {
-  "date": "2026-09-29T15:06:44.980616+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Fortnite Details Jam-Packed Halloween Horror Event",
-  "summary": "Epic Games has officially detailed the Fortnitemares Halloween event, featuring numerous iconic horror franchise characters.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/fortnite-october-halloween-fortnimares-2026-lineup/"
- },
- {
-  "date": "2026-09-29T15:06:44.980616+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Uhura Bionics Develops Emotional Voice Glasses",
-  "summary": "Uhura Bionics is developing emotion-carrying smart glasses to replace robotic voice devices for throat cancer survivors.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/"
- },
- {
-  "date": "2026-09-29T15:06:44.980616+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "launch",
-  "headline": "OpenAI DevDay 2026 Kicks Off With Major AI Announcements",
-  "summary": "OpenAI hosts its DevDay 2026 event featuring major announcements regarding ChatGPT and Codex.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2271985/openai-dev-day-live-blog-chatgpt-news/"
- },
- {
-  "date": "2026-09-29T15:06:44.980616+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Oura Postpones $2.2 Billion IPO Citing Market Uncertainty",
-  "summary": "Oura has postponed its planned $2.2 billion IPO due to market uncertainty.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/"
- },
- {
-  "date": "2026-09-29T15:06:44.980616+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Report: OpenAI Deems Planned GPT-6.1 Too Insecure for Release",
-  "summary": "OpenAI reportedly finds its planned GPT-6.1 model too insecure to release publicly due to safety and performance tradeoffs.",
-  "verified": "unconfirmed",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
- },
- {
-  "date": "2026-09-29T15:06:44.980616+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Anthropic IPO Pitch Includes Warning on AI Catastrophe Risks",
-  "summary": "Anthropic's IPO pitch includes stark warnings that future AI models could resist shutdowns and cause catastrophic harm.",
-  "verified": "reliable_reporter",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
- },
- {
-  "date": "2026-09-29T15:39:38.777291+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "business",
-  "headline": "New Apple CEO John Ternus Plans Major Company Overhaul",
-  "summary": "New Apple CEO John Ternus reportedly plans to overhaul the company to make it run faster and leaner while increasing product output.",
-  "verified": "reliable_reporter",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/29/john-ternus-apple-new-products-leaner/"
- },
- {
-  "date": "2026-09-29T15:39:38.777291+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "legal",
-  "headline": "Hong Kong Police Seek Apple's Help to Stop iPhone 18 Pro Fraud",
-  "summary": "Hong Kong police are seeking Apple's assistance to curb a wave of credit card fraud involving recent iPhone 18 Pro purchases.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/09/29/hong-kong-police-want-apples-help-in-stopping-38m-iphone-18-pro-fraud?utm_source=rss"
- },
- {
-  "date": "2026-09-29T15:39:38.777291+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "business",
-  "headline": "Apple's New CEO Moves to Overhaul Company Structure",
-  "summary": "Reports detail new Apple CEO John Ternus's strategic moves to restructure and streamline operations at the company.",
-  "verified": "reliable_reporter",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wtd811/gift_article_apples_new_ceo_moves_to_overhaul/"
- },
- {
-  "date": "2026-09-29T15:39:38.777291+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "God of War Laufey Editions and Pre-orders Detailed",
-  "summary": "Pre-orders and edition details have been detailed for God of War Laufey ahead of its February 16 release.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/god-of-war-laufey-heres-what-comes-in-each-edition"
- },
- {
-  "date": "2026-09-29T15:39:38.777291+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "CRKD Reveals ULT PRO Controller for Switch 2",
-  "summary": "CRKD has announced its first Switch 2 pro controller, the ULT PRO, to compete in the accessory market.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/hardware/gaming-controllers/crkd-launches-its-first-switch-2-pro-controller-and-the-ult-pro-is-coming-for-8bitdos-lunch/"
- },
- {
-  "date": "2026-09-29T15:39:38.777291+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Witcher 3 Remastered Faces Severe Issues on AMD GPUs",
-  "summary": "The newly released Witcher 3 Remastered is reportedly experiencing major bugs and visual artifacts on AMD GPUs.",
-  "verified": "reliable_reporter",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/the-witcher-3-remastered-is-reportedly-broken-on-amd-gpus-ahead-of-new-driver"
- },
- {
-  "date": "2026-09-29T15:39:38.777291+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Directors Hint at Hulk's Return in Avengers: Doomsday",
-  "summary": "The Russo brothers hint at Mark Ruffalo's return as Hulk in Avengers: Doomsday following a recent screening.",
-  "verified": "reliable_reporter",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/avengers-doomsday-hulk-fate-post-endgame-encore/"
- },
- {
-  "date": "2026-09-29T15:39:38.777291+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Gears of War: E-Day Release Times and Pre-load Guide",
-  "summary": "A comprehensive guide outlines global release times and pre-load instructions for Gears of War: E-Day.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/gears-of-war-eday-release-time-edt-pdt/"
- },
- {
-  "date": "2026-09-29T15:39:38.777291+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Senate Report Links Tether to Sanction Evasion",
-  "summary": "A Senate report alleges that Iran is utilizing Tether's stablecoin to evade international sanctions.",
-  "verified": "reliable_reporter",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2272053/senate-report-claims-iran-is-using-tethers-stablecoin-to-evade-sanctions/"
- },
- {
   "date": "2026-09-29T16:05:21.040618+00:00",
   "topic": "Apple News",
   "score": 5,
@@ -14485,5 +14298,115 @@
   "verified": "official",
   "source": "r/carporn",
   "link": "https://www.reddit.com/r/carporn/comments/1wvu7ds/porsche_911_gt3_r_rennsport_3169x3169/"
+ },
+ {
+  "date": "2026-10-02T15:40:24.226917+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "iOS 27.2 Brings Major Queue Fix to Apple Podcasts",
+  "summary": "iOS 27.2 introduces a long-awaited fix for the Apple Podcasts Up Next queue feature.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/02/ios-27-2-gives-apple-podcasts-the-big-fix-ive-wanted-for-years/"
+ },
+ {
+  "date": "2026-10-02T15:40:24.226917+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "GTA 6 Announces Wild Miami Heat NBA Crossover Event",
+  "summary": "The NBA's Miami Heat will partner with GTA 6 for a Vice City themed event and merchandise line this November.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/gta-6-vice-city-miami-heat-nba-collaboration-merch/"
+ },
+ {
+  "date": "2026-10-02T15:40:24.226917+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Beloved Quest Added to World of Warcraft: Forever",
+  "summary": "Blizzard has added the fan-favorite 'Kyle's Gone Missing!' quest to World of Warcraft: Forever.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/blizzard-adds-beloved-kyles-gone-missing-quest-to-world-of-warcraft-forever"
+ },
+ {
+  "date": "2026-10-02T15:40:24.226917+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "business",
+  "headline": "Warner Bros. and Paramount to Merge Under Skydance",
+  "summary": "Warner Bros. and Paramount will operate under the newly named parent company Skydance following their massive merger.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/batman-lord-of-the-rings-and-harry-potter-feature-in-first-trailer-for-skydance-the-newly-named-parent-company-for-a-merged-warner-bros-and-paramount"
+ },
+ {
+  "date": "2026-10-02T15:40:24.226917+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Pope Criticizes AI-Generated Art for Lacking Humanity",
+  "summary": "Pope Leo XIV voiced opposition to AI-generated art, stating that algorithms lack the human spark found in true art.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
+ },
+ {
+  "date": "2026-10-02T15:40:24.226917+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Nvidia Shield TV Pro Gets a Price Hike to $299",
+  "summary": "The aging Nvidia Shield TV Pro price has surprisingly increased to $299.99, nearly seven years after its initial launch.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/"
+ },
+ {
+  "date": "2026-10-02T15:40:24.226917+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "US Telecom Giants Team Up to Eliminate Coverage Gaps",
+  "summary": "Major US carriers AT&T, T-Mobile, and Verizon have formed an official partnership to eliminate coverage gaps and compete with satellite rivals.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2275806/att-t-mobile-and-verizon-have-officially-teamed-up-to-end-coverage-gaps/"
+ },
+ {
+  "date": "2026-10-02T15:40:24.226917+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "SpaceX Completes Triple-Header and Blue Origin Seeks High-Volume Launch Approval",
+  "summary": "SpaceX completed a launch triple-header while Blue Origin seeks FAA approval for up to 50 New Glenn launches annually.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/"
+ },
+ {
+  "date": "2026-10-02T15:40:24.226917+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "other",
+  "headline": "Experts Warn Users to Exercise Caution with AI Agent Data Security",
+  "summary": "Tech analysts warn users to remain cautious with their personal data despite the harmless appearance of modern AI agents.",
+  "verified": "reliable_reporter",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2275148/dont-let-the-adorable-ai-agents-fool-you/"
+ },
+ {
+  "date": "2026-10-02T15:40:24.226917+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Track-Ready Fun: The 2026 Hyundai Elantra N Specs Are Here! \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "Detailed specifications for the 2026 Hyundai Elantra N with an 8-speed DCT highlight its 276 horsepower and sub-five-second 0-60 MPH time.",
+  "verified": "official",
+  "source": "TheTopher",
+  "link": "https://www.youtube.com/watch?v=HSREywU7N9o"
  }
 ]
