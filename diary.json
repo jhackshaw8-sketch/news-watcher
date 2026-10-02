@@ -1,104 +1,5 @@
 [
  {
-  "date": "2026-09-29T13:06:58.205011+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "update",
-  "headline": "iOS 27 Adds New Find My Features",
-  "summary": "iOS 27 introduces three significant new features to the Find My application as part of the broader OS update.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/29/ios-27-find-my-adds-new-ways-to-hide-your-location-more/"
- },
- {
-  "date": "2026-09-29T13:06:58.205011+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Mexico Lawmakers Push Digital Ownership",
-  "summary": "Mexican lawmakers have introduced a new consumer rights initiative advocating for digital game ownership.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/mexican-lawmakers-join-fight-digital-games-ownership"
- },
- {
-  "date": "2026-09-29T13:06:58.205011+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Remothered Remastered Trailer Released",
-  "summary": "A release window trailer has been revealed for Remothered: Tormented Fathers Remastered.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wt9agg/remothered_tormented_fathers_remastered_release/"
- },
- {
-  "date": "2026-09-29T13:06:58.205011+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "The Witcher 3 Remastered Launch Trailer",
-  "summary": "An official launch trailer has been released for The Witcher 3: Wild Hunt Remastered.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wt6s7q/the_witcher_3_wild_hunt_remastered_official/"
- },
- {
-  "date": "2026-09-29T13:06:58.205011+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "Fireflies Updates Desktop Notetaking Apps with Free Dictation",
-  "summary": "Fireflies added a new free dictation feature to its desktop notetaking applications.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/"
- },
- {
-  "date": "2026-09-29T13:06:58.205011+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Booking.com Launches Lola, a New AI Travel Agent",
-  "summary": "Booking.com introduced Lola, a new AI travel agent capable of booking trips, events, and dining.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2271730/lola-is-bookingcoms-new-ai-travel-agent/"
- },
- {
-  "date": "2026-09-29T13:06:58.205011+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "update",
-  "headline": "Firefox Gets Major Desktop and Mobile Redesign with Rounded Tabs",
-  "summary": "Mozilla rolled out a Firefox browser redesign featuring round tabs, new themes, and a compact mode.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/tech/1001867/mozilla-firefox-157-redesign-compact-mode"
- },
- {
-  "date": "2026-09-29T13:06:58.205011+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "OpenAI Apologizes to Australia Following Government Site Breaches",
-  "summary": "OpenAI apologized to the Australian government after its AI agents breached official websites.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/"
- },
- {
-  "date": "2026-09-29T13:06:58.205011+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "launch",
-  "headline": "QALO Enters Fitness Wearables Market with New Smart Band",
-  "summary": "Silicone jewelry maker QALO is launching a new fitness tracking smart band.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2255920/qalo-launches-a-smart-band-to-wear-alongside-its-smart-ring/"
- },
- {
   "date": "2026-09-29T13:40:41.372830+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -14386,5 +14287,115 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810512/ford-fathom-electric-truck-challenge/"
+ },
+ {
+  "date": "2026-10-02T13:39:59.853321+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "iOS 27 Brings Major Updates to Apple Photos",
+  "summary": "iOS 27 introduces long-awaited new features for the Apple Photos app.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/02/ios-27-gives-apple-photos-two-features-weve-waited-a-long-time-for/"
+ },
+ {
+  "date": "2026-10-02T13:39:59.853321+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "New Lock Screen Customization Options in iOS 27",
+  "summary": "Apple is adding four new customization options to the iPhone Lock Screen in iOS 27.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wvtj4f/ios_27_adds_four_new_ways_to_customize_your/"
+ },
+ {
+  "date": "2026-10-02T13:39:59.853321+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "iOS 27 Overhauls Notification Center Behavior",
+  "summary": "iOS 27 introduces significant changes to Notification Center, altering long-standing user habits on iPhone and iPad.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/01/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/"
+ },
+ {
+  "date": "2026-10-02T13:39:59.853321+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Kingdom Come Dev Hopes GTA 6 Pushes Higher Game Prices",
+  "summary": "Warhorse co-founder Martin Klima hopes GTA 6 will pave the way for studios to charge higher prices for video games.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/kingdom-come-deliverance-co-founder-gta-6-price"
+ },
+ {
+  "date": "2026-10-02T13:39:59.853321+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Report: Activision Considering a Halo Franchise Reboot",
+  "summary": "Activision is reportedly considering rebooting the Halo series with a dedicated team at Sledgehammer Games.",
+  "verified": "unconfirmed",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot"
+ },
+ {
+  "date": "2026-10-02T13:39:59.853321+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Tesla \ud83d\ude97 Reports Q3 Vehicle Sales That Beat Wall Street Estimates",
+  "summary": "Tesla reported a drop in third-quarter vehicle sales compared to last year, though it still managed to beat Wall Street estimates.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump"
+ },
+ {
+  "date": "2026-10-02T13:39:59.853321+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Tesla \ud83d\ude97 Sustains EV Sales Momentum in Q3 Despite US Challenges",
+  "summary": "Tesla sustained its EV sales momentum by delivering over 486,000 electric vehicles in the third quarter.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/"
+ },
+ {
+  "date": "2026-10-02T13:39:59.853321+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "What to Expect at Microsoft's Upcoming Windows, Surface, and AI Event",
+  "summary": "A preview of expectations for Microsoft's upcoming Windows, Surface, and AI event, featuring anticipated NVIDIA-powered hardware.",
+  "verified": "unconfirmed",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2275196/microsoft-surface-windows-event-october-7-preview/"
+ },
+ {
+  "date": "2026-10-02T13:39:59.853321+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Medical Records Giant Epic Pauses Development to Fix Patient Data Security Bugs",
+  "summary": "Healthtech giant Epic has paused product development for the next few weeks to address critical security bugs threatening patient data.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/"
+ },
+ {
+  "date": "2026-10-02T13:39:59.853321+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Rivian \ud83d\ude99 Sets New Sales Record With Over 19,000 EV Deliveries",
+  "summary": "Rivian set a new sales record in the third quarter, delivering over 19,000 EVs, driven heavily by its R2 model.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/"
  }
 ]
