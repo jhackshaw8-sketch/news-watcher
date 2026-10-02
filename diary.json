@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-09-29T10:04:25.368837+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "Protego Closes $125M Defense Tech Fund",
-  "summary": "Protego Ventures has closed its debut $125 million fund focused on Israeli defense technology.",
-  "verified": "reliable_reporter",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/"
- },
- {
-  "date": "2026-09-29T10:04:25.368837+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Reports Detail Anthropic Finances and AI Risks",
-  "summary": "Reports indicate Anthropic faced heavy financial losses while discussing AI existential risks ahead of a potential IPO.",
-  "verified": "reliable_reporter",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2271659/anthropic-lost-8-billion-says-it-could-destroy-humanity/"
- },
- {
   "date": "2026-09-29T10:39:08.576260+00:00",
   "topic": "Gaming News",
   "score": 5,
@@ -14298,5 +14276,71 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2275466/california-legalizes-balcony-plug-in-solar/"
+ },
+ {
+  "date": "2026-10-02T10:38:34.211883+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Anticipation Builds for Potential October Apple Announcements",
+  "summary": "Speculation grows on Reddit regarding potential major product announcements from Apple following a busy September.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wvqgm6/apples_september_was_huge_october_could_be_even/"
+ },
+ {
+  "date": "2026-10-02T10:38:34.211883+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Total War Modder Corrupts Files Amid AI Dispute",
+  "summary": "A prominent Total War: Warhammer III modder deliberately broke their popular mod amid an ongoing controversy regarding AI-generated modifications.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/modder-deliberately-corrupts-their-own-hugely-popular-total-war-warhammer-iii-mod-as-row-over-ai-escalates"
+ },
+ {
+  "date": "2026-10-02T10:38:34.211883+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Limited Edition Lisa DualSense Pre-Orders Live",
+  "summary": "Pre-orders for the limited edition Lisa K-Pop themed DualSense controller officially go live ahead of its October release.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/hardware/gaming-controllers/lisa-limited-edition-dualsense-pre-orders-go-live-today-heres-where-to-grab-yours/"
+ },
+ {
+  "date": "2026-10-02T10:38:34.211883+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Blizzard Cracks Down on RMT in WoW Forever Beta",
+  "summary": "Blizzard issued a strict warning against real-money trading following a wave of bans during the WoW Forever beta.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-warns-wow-forever-players-that-its-stance-on-real-money-trading-is-crystal-clear-following-beta-ban-spree-we-will-continue-to-take-action/"
+ },
+ {
+  "date": "2026-10-02T10:38:34.211883+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Spy Shots Reveal The Sharp New 2027 Peugeot 208 \ud83d\ude97\u26a1",
+  "summary": "The upcoming 2027 Peugeot 208 has been spied testing with a sharp new design, a square steering wheel, and a brand-new platform.",
+  "verified": "unconfirmed",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/peugeot-208-scoop/"
+ },
+ {
+  "date": "2026-10-02T10:38:34.211883+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Venuum's Wild Body Kit Makes The Lamborghini Revuelto Even Wilder \ud83c\udfce\ufe0f\ud83d\udd25",
+  "summary": "Venuum has revealed a bold new tuning and body kit for the Lamborghini Revuelto for owners who find the stock supercar too subtle.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/lamborghini-revuelto-venuum-bodykit/"
  }
 ]
