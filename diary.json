@@ -14320,5 +14320,71 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810573/mazda-poppy-art-car-supports/"
+ },
+ {
+  "date": "2026-10-02T12:04:45.501678+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Star Wars: Galactic Racer Blasts Onto Consoles and PC",
+  "summary": "Star Wars: Galactic Racer has been released to positive acclaim, blending arcade racing mechanics with roguelike elements.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/star-wars-galactic-racer-review-best-arcade-racing-game-in-a-generation/"
+ },
+ {
+  "date": "2026-10-02T12:04:45.501678+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Star Wars: Galactic Racer Review Roundup",
+  "summary": "Reviewers praise Star Wars: Galactic Racer for its fast-paced gameplay and spiritual connection to classic arcade racers.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/racing/star-wars-galactic-racer-review/"
+ },
+ {
+  "date": "2026-10-02T12:04:45.501678+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Big Walk Shines on Valve's New Steam Frame Headset",
+  "summary": "Preview coverage highlights the multiplayer game Big Walk running on Valve's upcoming Steam Frame VR headset.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/hardware/vr/i-played-an-evening-of-big-walk-on-steam-frame-and-it-felt-like-wearing-a-steam-deck-on-my-face/"
+ },
+ {
+  "date": "2026-10-02T12:04:45.501678+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Amazon Warns Communities Against Blocking AI Data Centers",
+  "summary": "AWS CEO Matt Garman published a lengthy blog post urging communities to support AI data center expansion to protect the US economy and national security.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning"
+ },
+ {
+  "date": "2026-10-02T12:04:45.501678+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "other",
+  "headline": "TCL Challenges Samsung Over Mini LED Display Terminology",
+  "summary": "TCL has publicly questioned Samsung's marketing use of the term Mini LED for displays lacking a full-array local dimming backlight.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/"
+ },
+ {
+  "date": "2026-10-02T12:04:45.501678+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "Tesla Adds Emergency Drive-Away Feature to Superchargers \ud83d\ude97\u26a1",
+  "summary": "Tesla introduced an emergency drive-away feature allowing drivers to safely flee with a Supercharger cable still attached following a security incident.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2275509/tesla-supercharger-emergency-drive-away-feature/"
  }
 ]
