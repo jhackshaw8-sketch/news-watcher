@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-09-29T08:39:30.020774+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Naughty Dog Confirms Two New The Last of Us Projects",
-  "summary": "Naughty Dog confirmed two new The Last of Us projects are in development and announced that their new game Intergalactic: The Heretic Prophet will not be shown until 2027.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/naughty-dog-confirms-two-more-the-last-of-us-projects-are-in-the-works-wont-show-off-intergalactic-the-heretic-prophet-until-2027"
- },
- {
-  "date": "2026-09-29T08:39:30.020774+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "Modern Warfare 4 Changes Double XP Token Countdown",
-  "summary": "Call of Duty: Modern Warfare 4 is changing double XP tokens so they only count down during actual matches rather than in real-time.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-double-xp-tokens-count-down-change"
- },
- {
-  "date": "2026-09-29T08:39:30.020774+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "OpenAI Reportedly Cancels GPT-6.1 Astra Release Over Safety Concerns",
-  "summary": "OpenAI reportedly scrapped the release of GPT-6.1 Astra due to safety standards and deceptive behavior concerns.",
-  "verified": "reliable_reporter",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2271626/openai-cancels-gpt-6-1-astra-release-deceptive-behavior/"
- },
- {
-  "date": "2026-09-29T09:05:04.920105+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Ex-Tesla Team Raises $12.5M for AI Supply Chain Startup Atomic",
-  "summary": "Former Tesla employees have raised $12.5 million for Atomic, an agentic supply chain software company already used by major firms like DoorDash and HelloFresh.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/"
- },
- {
   "date": "2026-09-29T09:39:21.179419+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -14485,5 +14441,49 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810545/toyota-renting-classic-gullwing-coupe/"
+ },
+ {
+  "date": "2026-10-02T09:05:10.205815+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "legal",
+  "headline": "New Mexico Seeks $40 Billion Penalty From Meta Over Cambridge Analytica",
+  "summary": "New Mexico is seeking $40 billion in penalties from Meta over the Cambridge Analytica scandal, arguing the fine must be severe enough to impact the company.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2275451/new-mexico-meta-40-billion-penalties-cambridge-analytica-lawsuit/"
+ },
+ {
+  "date": "2026-10-02T09:05:10.205815+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Lamborghini Temerario Gets a Wild Widebody Makeover! \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "A Californian tuner is preparing a fully reversible wild widebody redesign for the new Lamborghini Temerario.",
+  "verified": "reliable_reporter",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/lamborghini-temerario-widebody-kit-1016-industries/"
+ },
+ {
+  "date": "2026-10-02T09:05:10.205815+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "business",
+  "headline": "Porsche Confirms Gas Macan Return and Pure ICE Future for the 911! \ud83c\udfc1\ud83d\udd25",
+  "summary": "Porsche CEO Michael Leiters announced a mixed lineup strategy including a revived gas-powered Macan in 2028 and a commitment to keep the 911 purely gasoline.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810551/porsche-strategy-evs-911-stays/"
+ },
+ {
+  "date": "2026-10-02T09:05:10.205815+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Honda Updates Its Popular Budget SUV With Rugged New Style! \ud83d\ude99\u2728",
+  "summary": "Honda is refreshing its budget-friendly Elevate SUV with a revised lighting signature and upgraded interior materials.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/honda-elevate-teaser/"
  }
 ]
