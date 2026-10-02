@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-09-29T20:38:46.326900+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Apple Faces Congressional Scrutiny Over ICEBlock App Removal",
-  "summary": "Rep. Jamie Raskin sent a letter to Apple regarding renewed scrutiny over the removal of the ICEBlock app from the App Store.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/29/apple-faces-renewed-scrutiny-over-removal-of-iceblock-from-the-app-store/"
- },
- {
-  "date": "2026-09-29T20:38:46.326900+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Apple Opens 'Get Ready' Pre-Order Phase for iPhone Duo",
-  "summary": "Apple has added a 'Get Ready' pre-order preparation option on its product page for the upcoming iPhone Duo.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/09/29/iphone-duo-get-ready-oct-12/"
- },
- {
-  "date": "2026-09-29T20:38:46.326900+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Ex-Halo Director Discusses Franchise Future",
-  "summary": "Former Halo creative director Frank O'Connor discusses potential future paths for the franchise.",
-  "verified": "reliable_reporter",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/halos-former-franchise-creative-director-sees-3-possible-paths-for-activisions-halo"
- },
- {
-  "date": "2026-09-29T20:38:46.326900+00:00",
-  "topic": "Gaming News",
-  "score": 10,
-  "category": "launch",
-  "headline": "Rockstar Details GTA 6 Gameplay Features",
-  "summary": "Rockstar reveals major new GTA 6 gameplay features, including dynamic weather and advanced NPC generation.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/gta-6-game-informer-weather-animals-npc-variety-gameplay-news/"
- },
- {
-  "date": "2026-09-29T20:38:46.326900+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "OpenAI builds toward an app store alternative within ChatGPT",
-  "summary": "OpenAI is developing features within ChatGPT that serve as an alternative to the traditional app store model for software discovery.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
- },
- {
-  "date": "2026-09-29T21:03:23.998049+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "other",
-  "headline": "iPhone 18 Pro Users Report Speaker Issues",
-  "summary": "Several iPhone 18 Pro owners are reporting unexpected speaker crackling and popping issues on forums.",
-  "verified": "unconfirmed",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/09/29/iphone-18-pro-speaker-crackling/"
- },
- {
-  "date": "2026-09-29T21:03:23.998049+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "AirPods 5 Teardown Shows Minor Repairability Boost",
-  "summary": "The iFixit teardown of the new AirPods 5 highlights the first genuine improvement in repairability for the earbuds.",
-  "verified": "reliable_reporter",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/29/ifixit-teardown-of-the-new-airpods-5-reveals-first-real-repairability-improvement/"
- },
- {
   "date": "2026-09-29T21:37:10.996774+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -14122,5 +14045,126 @@
   "verified": "official",
   "source": "Engadget",
   "link": "https://www.engadget.com/2276312/meta-muse-gadgets-open-source-smart-home-link/"
+ },
+ {
+  "date": "2026-10-02T21:03:43.051948+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "Apple Confirms iPhone 18 Pro Max Cellular Issue Requiring Hardware Swap",
+  "summary": "Apple confirms a cellular issue affecting certain iPhone 18 Pro Max units on AT&T that requires hardware replacement.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/"
+ },
+ {
+  "date": "2026-10-02T21:03:43.051948+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "Apple Tightens Privacy Controls to Protect Mac Data from AI Apps",
+  "summary": "Apple is taking steps to protect private Mac data by requiring clearer user consent before allowing AI apps access.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/02/apple-moves-to-protect-private-mac-data-from-overreaching-ai-apps?utm_source=rss"
+ },
+ {
+  "date": "2026-10-02T21:03:43.051948+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Fast & Furious Crossover Streaming Now \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "A new animated crossover special featuring Fast & Furious, LEGO, and Dragons is now streaming on Peacock.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/fast-and-furious-lego-how-to-train-your-dragon-peacock/"
+ },
+ {
+  "date": "2026-10-02T21:03:43.051948+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Warner Bros. and Paramount Merge",
+  "summary": "Warner Bros. and Paramount are merging after Paramount wins the bidding war for the notable studios.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/streaming-services/after-warner-bros-and-paramount-merge-the-notable-studios-are-getting-a-surprising-new-name/"
+ },
+ {
+  "date": "2026-10-02T21:03:43.051948+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "How to Get the Special Mewtwo 30th Anniversary Card",
+  "summary": "The special Pok\u00e9mon 30th Anniversary Mewtwo promo card will be available at select retailers later this year.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/pokemon-30th-anniversary-cards-release-date-mewtwo-promo-how-to-get/"
+ },
+ {
+  "date": "2026-10-02T21:03:43.051948+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Netflix Shifts Strategy Away From Prestige Director Deals",
+  "summary": "Netflix is ending several high-profile multiyear production deals with prominent directors as part of a strategic shift away from prestige content.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig"
+ },
+ {
+  "date": "2026-10-02T21:03:43.051948+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Amazon's Data Center Plan Faces Fresh Environmental Backlash",
+  "summary": "Amazon faces continued backlash over its $1 billion initiative regarding data centers, as critics slam the company for downplaying pollution concerns.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/"
+ },
+ {
+  "date": "2026-10-02T21:03:43.051948+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Lyft Settles Landmark Driver Misclassification Lawsuit for $272.5M",
+  "summary": "Lyft has agreed to a $272.5 million settlement to resolve a landmark driver misclassification lawsuit.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/"
+ },
+ {
+  "date": "2026-10-02T21:03:43.051948+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "legal",
+  "headline": "Tech CEO Arrested for Smuggling $300M in Nvidia Chips to China",
+  "summary": "U.S. authorities have arrested a tech CEO accused of illegally smuggling $300 million worth of Nvidia chips into China.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
+ },
+ {
+  "date": "2026-10-02T21:03:43.051948+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "update",
+  "headline": "Lexus LX Gets Sporty in Japan with New F Sport Package \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "Lexus introduces the F Sport treatment and handling tweaks for the LX in the Japanese market.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/lexus-lx-f-sport-japan/"
+ },
+ {
+  "date": "2026-10-02T21:03:43.051948+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "Stunning Widebody Datsun 280z Build Featured \ud83d\ude0d\ud83d\udd25",
+  "summary": "A stunning photo showcasing a custom TrackForme Widebody Datsun 280z.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1ww3ahp/trackforme_widebody_datsun_280z_4159x3327/"
  }
 ]
