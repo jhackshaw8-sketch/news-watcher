@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-09-29T11:37:05.807539+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Craig Federighi Talks iPhone Duo Development",
-  "summary": "Apple software chief Craig Federighi discussed how Apple assists developers in utilizing the features of the new iPhone Duo.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/29/craig-federighi-on-how-apple-helps-developers-make-the-most-of-the-iphone-duo-video/"
- },
- {
-  "date": "2026-09-29T11:37:05.807539+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Apple's $5.7B Haptic Verdict Likely to Shrink",
-  "summary": "Legal experts expect Apple's massive $5.7 billion haptic feedback trial loss to be significantly reduced upon negotiation.",
-  "verified": "reliable_reporter",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/09/29/apples-haptic-feedback-57b-trial-loss-likely-to-get-pared-way-back?utm_source=rss"
- },
- {
   "date": "2026-09-29T12:04:50.959305+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -14287,5 +14265,60 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810568/aston-martin-delays-first-ev/"
+ },
+ {
+  "date": "2026-10-02T11:38:34.473551+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "AT&T Recommends iOS 27.0.1 to Fix iPhone 18 Pro Max Call Problems",
+  "summary": "AT&T is advising iPhone 18 Pro Max users to install iOS 27.0.1 to resolve cellular issues, though customers report the update is ineffective.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/02/optimistic-att-tells-iphone-18-pro-max-ios-2701-update-will-fix-call-problems?utm_source=rss"
+ },
+ {
+  "date": "2026-10-02T11:38:34.473551+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "M6 Mac mini Reviewed: Great Performance Hindered by Low Base Storage",
+  "summary": "The M6 Mac mini review praises its fast hardware but criticizes the high entry price and insufficient base storage for Apple Intelligence.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/02/m6-mac-mini-review-excellent-hardware-badly-hampered-by-too-small-ssd?utm_source=rss"
+ },
+ {
+  "date": "2026-10-02T11:38:34.473551+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "CD Projekt Red Releases Witcher 3 Patch for PC Lighting Issues",
+  "summary": "CD Projekt Red has released a new PC patch for The Witcher 3 Remastered to address controversial lighting changes.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc"
+ },
+ {
+  "date": "2026-10-02T11:38:34.473551+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Classic PS1 Game MediEvil Arrives on PC via Recompilation Project",
+  "summary": "The classic PS1 game MediEvil is now playable on PC via a new recompilation project confirmed to be made without AI.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/hardware/retro/keep-genai-the-f-ck-away-from-medievil-my-favorite-ps1-creepy-comedy-caper-now-has-a-pc-recomp-and-its-thankfully-not-vibe-coded/"
+ },
+ {
+  "date": "2026-10-02T11:38:34.473551+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Mazda Unveils Poppy Art Car on a 1995 MX-5 Mk1 \ud83c\udf38\ud83c\udfce\ufe0f",
+  "summary": "Mazda has revealed a bespoke poppy art car based on a 1995 MX-5 Mk1 in collaboration with Mission Motorsport for the Race of Remembrance.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810573/mazda-poppy-art-car-supports/"
  }
 ]
