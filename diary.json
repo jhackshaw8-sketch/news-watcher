@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-09-29T19:04:38.221268+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Prepares iOS 27.2 with New Features",
-  "summary": "Apple is already working on iOS 27.2, bringing three new features to iPhones following the release of iOS 27.0.1.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/29/ios-27-2-three-new-features-coming-soon-to-your-iphone/"
- },
- {
-  "date": "2026-09-29T19:04:38.221268+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "business",
-  "headline": "Apple Releases Family Digital Habits Guide",
-  "summary": "Apple has launched a new guide designed to help families establish healthy digital habits with their devices.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wtikz3/apple_releases_new_guide_to_help_families_build/"
- },
- {
-  "date": "2026-09-29T19:04:38.221268+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "US Government Launches Official AI Chatbot Portal",
-  "summary": "The US government has launched America.gov, an official AI chatbot designed to serve as the main portal for federal services.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2272424/america-gov-is-us-government-ai-chatbot/"
- },
- {
   "date": "2026-09-29T19:37:57.993491+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -14188,5 +14155,27 @@
   "verified": "official",
   "source": "Ars Technica",
   "link": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/"
+ },
+ {
+  "date": "2026-10-02T19:05:02.652411+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Video Compares iPhone Duo Size to iPhone 18 Pro Max",
+  "summary": "A new video compares the physical size of the rumored iPhone Duo with the iPhone 18 Pro Max.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/02/iphone-duo-video-reveals-size-compared-to-iphone-18-pro-max/"
+ },
+ {
+  "date": "2026-10-02T19:05:02.652411+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Nintendo Switch 2 Confirmed to Get Enhanced RPG Ports",
+  "summary": "Ports of Dragon Quest 11 and the Octopath Traveler games have been announced for the upcoming Nintendo Switch 2 with welcome improvements.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/dragon-quest-11-switch-2-rpgs/"
  }
 ]
