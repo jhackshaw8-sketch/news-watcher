@@ -14056,5 +14056,60 @@
   "verified": "official",
   "source": "Carscoops",
   "link": "https://www.carscoops.com/2026/10/hyundais-new-tucson-is-already-out-but-sales-of-the-6-year-old-one-rocketed-32/"
+ },
+ {
+  "date": "2026-10-02T20:03:38.628882+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "Apple Introduces New macOS Full Disk Access Controls for AI Agents",
+  "summary": "Apple announced additional controls for macOS Full Disk Access to mitigate privacy risks posed by emerging AI agents.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/"
+ },
+ {
+  "date": "2026-10-02T20:03:38.628882+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Samsung and Google Raise Budget Phone Prices",
+  "summary": "Samsung and Google are increasing the prices of their budget smartphone lineups.",
+  "verified": "reliable_reporter",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2276208/samsung-and-google-are-raising-prices-on-their-budget-phones/"
+ },
+ {
+  "date": "2026-10-02T20:03:38.628882+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "business",
+  "headline": "Stellantis Sales Reveal Wild Contrast Across Brands \ud83d\udcca\ud83d\ude97",
+  "summary": "Stellantis reports flat overall sales while individual brands experience drastically contrasting fortunes.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/stellantis-sales-flat-but-numbers-tell-wild-story/"
+ },
+ {
+  "date": "2026-10-02T20:03:38.628882+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "BMW M Hits 1 Million Milestone and Teases Next M3 \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "BMW celebrates hitting one million M cars produced by offering a teaser of the upcoming next-generation M3.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810652/bmw-m-1-million-milestone/"
+ },
+ {
+  "date": "2026-10-02T20:03:38.628882+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Electric Porsche Cayenne Turbo GT Spotted Testing With Over 1,200 HP \u26a1\ud83d\udd0b",
+  "summary": "The hotter electric Porsche Cayenne Coupe has been spotted testing with rumors pointing to a massive 1,200 hp output for the Turbo GT variant.",
+  "verified": "reliable_reporter",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/porsche-cayenne-turbo-gt-electric-spied-2/"
  }
 ]
