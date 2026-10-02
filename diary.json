@@ -14408,5 +14408,60 @@
   "verified": "official",
   "source": "TheTopher",
   "link": "https://www.youtube.com/watch?v=HSREywU7N9o"
+ },
+ {
+  "date": "2026-10-02T16:04:06.613256+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Rumor Claims Next Halo Could Be Origin Story",
+  "summary": "A new report suggests the next Halo game could be a Master Chief origin story built using the Call of Duty engine.",
+  "verified": "unconfirmed",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/halo-reboot-master-chief-origin-story/"
+ },
+ {
+  "date": "2026-10-02T16:04:06.613256+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Nacon Reveals New PS5 Controller With Built-In Screen",
+  "summary": "Nacon is releasing a new PS5 Pro controller featuring a built-in interactive screen and charging dock.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/hardware/gaming-controllers/nacon-is-launching-the-first-ever-ps5-controller-with-an-interactive-screen-and-charging-dock/"
+ },
+ {
+  "date": "2026-10-02T16:04:06.613256+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "GTA 6 Marketing Transforms Miami Heat Into Vice City",
+  "summary": "Rockstar Games partners with the Miami Heat for a GTA 6 marketing crossover transforming them into the Vice City Heat.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/grand-theft-auto/the-power-of-gta-6-marketing-turns-nba-goliath-miami-heat-into-the-vice-city-heat-for-one-game-involving-an-arena-makeover-new-kits-and-naturally-merch/"
+ },
+ {
+  "date": "2026-10-02T16:04:06.613256+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "OpenAI Launches Business AI 'Dots' \ud83e\udd16",
+  "summary": "OpenAI has launched Dots, a business-focused AI product priced at $100 per month that competes with Muse.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast"
+ },
+ {
+  "date": "2026-10-02T16:04:06.613256+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "September Sales Shocker: V8s and Older Models Outpace EVs! \ud83d\ude97\ud83d\udca8",
+  "summary": "September auto sales show varying results, with aging models and V8 engines boosting Mazda and Ram, while Cadillac's EV-heavy lineup experiences a drag in sales.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810637/september-auto-sales-winners-losers/"
  }
 ]
