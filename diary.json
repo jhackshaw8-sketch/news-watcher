@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-09-29T20:04:15.341895+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Apple Pay Reportedly Launching in India",
-  "summary": "Apple Pay is reportedly launching in India starting with Axis Bank credit cards.",
-  "verified": "unconfirmed",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/09/29/apple-pay-reportedly-launching-in-india-today/"
- },
- {
-  "date": "2026-09-29T20:04:15.341895+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "business",
-  "headline": "OpenAI Reportedly Eyeing $30B Funding Round at $1.4T Valuation",
-  "summary": "OpenAI is reportedly in discussions to raise a massive $30 billion funding round at a $1.4 trillion valuation ahead of an anticipated 2027 public debut.",
-  "verified": "unconfirmed",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
- },
- {
   "date": "2026-09-29T20:38:46.326900+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -14111,5 +14089,38 @@
   "verified": "reliable_reporter",
   "source": "Carscoops",
   "link": "https://www.carscoops.com/2026/10/porsche-cayenne-turbo-gt-electric-spied-2/"
+ },
+ {
+  "date": "2026-10-02T20:38:21.441459+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Rumors Point to a Potential Apple Event in October",
+  "summary": "Reports suggest Apple may host a special hardware event on October 13, though an official announcement is still pending.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/02/homepad-coming-will-apple-hold-an-october-special-event/"
+ },
+ {
+  "date": "2026-10-02T20:38:21.441459+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "The Witcher 3 Remastered Review",
+  "summary": "A review praising The Witcher 3 Remastered as an exceptional update to the classic RPG.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-wild-hunt-remastered-review/"
+ },
+ {
+  "date": "2026-10-02T20:38:21.441459+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Meta Expands Ecosystem with Muse Home Link and DIY Gadgets",
+  "summary": "Meta is encouraging users to build their own Muse gadgets and has introduced a new smart home device called the Muse Home Link.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2276312/meta-muse-gadgets-open-source-smart-home-link/"
  }
 ]
