@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-29T02:03:10.578624+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple TV Hits Record Weekly Viewership",
-  "summary": "Apple TV recently recorded its highest weekly viewership ever, driven by Emmy wins and recent content premieres.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/28/emmy-wins-and-recent-premieres-help-apple-tv-reach-highest-weekly-viewership-ever/"
- },
- {
   "date": "2026-09-29T05:37:44.778658+00:00",
   "topic": "Tech News",
   "score": 8,
@@ -14441,5 +14430,16 @@
   "verified": "official",
   "source": "Carscoops",
   "link": "https://www.carscoops.com/2026/10/stellantis-patent-lets-ev-ditch-battery-drive-away/"
+ },
+ {
+  "date": "2026-10-02T02:04:35.962977+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "Porsche & Audi Street Racers Busted After Hitting 107 MPH \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "Dashcam footage captures street racers in a Porsche 911 and Audi R8 hitting 107 mph in a 35-mph zone before police intercept them in Washington.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/dashcam-shows-street-racer-hitting-107-mph-in-a-35-mph-zone/"
  }
 ]
