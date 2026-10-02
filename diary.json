@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-09-29T00:04:37.226080+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Critically Acclaimed RPG Keep Driving Lands on Switch",
-  "summary": "The highly-rated RPG Keep Driving has officially been released for consoles, including a well-suited port for the Nintendo Switch.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/keep-driving-switch-recommendation/"
- },
- {
-  "date": "2026-09-29T00:04:37.226080+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Blizzard Confirms Diablo 4 Seasons Will Outlive Diablo 5 Release",
-  "summary": "Blizzard has confirmed that Diablo 4 seasons will continue to receive support even after the eventual launch of Diablo 5.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/diablo/diablo-4-seasons-will-continue-after-diablo-5-launches-similar-to-diablo-2-and-3-blizzard-confirms/"
- },
- {
-  "date": "2026-09-29T00:04:37.226080+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "OpenAI Reportedly Ditches Model Over Safety and Performance Issues",
-  "summary": "OpenAI reportedly scrapped a model due to poor performance and safety concerns regarding its inability to follow instructions.",
-  "verified": "reliable_reporter",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
- },
- {
-  "date": "2026-09-29T00:43:25.315834+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Leak Reveals New iPhone Duo StandBy Faces in iOS 27",
-  "summary": "A recent leak reveals unannounced StandBy faces for the rumored iPhone Duo running iOS 27.",
-  "verified": "unconfirmed",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/09/28/iphone-duo-standby-leak/"
- },
- {
   "date": "2026-09-29T01:35:58.311667+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -14496,5 +14452,27 @@
   "verified": "official",
   "source": "GamesRadar",
   "link": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-director-says-it-wasnt-easy-not-turning-a-masterpiece-like-ff7-into-something-that-felt-like-my-own-personal-fan-project/"
+ },
+ {
+  "date": "2026-10-02T00:44:40.806807+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Doom: The Dark Ages DLC Gets Free Slaughter Mode Update",
+  "summary": "Doom: The Dark Ages is getting a new endless single-player Slaughter Mode as a free update for its Revelations DLC next month.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/doom-the-dark-ages-revelations-getting-new-slaughter-mode-as-free-update-next-month"
+ },
+ {
+  "date": "2026-10-02T00:44:40.806807+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Next-Gen Polestar 2 Teased: Targeting the EV Competition \u26a1\ud83d\ude97",
+  "summary": "Details are currently slim, but Polestar is preparing the second generation of its compact luxury electric sedan to compete with upcoming EV rivals.",
+  "verified": "unconfirmed",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/polestar-2-next-generation-report/"
  }
 ]
