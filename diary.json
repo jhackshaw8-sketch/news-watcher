@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-30T01:37:33.725997+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "update",
-  "headline": "Apple Pay Launches for Axis Bank Customers in India",
-  "summary": "Apple Pay is officially expanding its service to Axis Bank customers in India, marking a major market rollout after a long wait.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/09/29/apple-pay-now-rolling-out-to-axis-bank-customers-in-india/"
- },
- {
   "date": "2026-09-30T02:37:42.535462+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -14067,5 +14056,16 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
+ },
+ {
+  "date": "2026-10-03T01:37:41.238902+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "business",
+  "headline": "BMW's Q3 Sales Surge: Hits and Misses in the Lineup! \ud83d\udcc8\ud83d\ude97",
+  "summary": "BMW reports a solid third quarter with strong sales for the 3 Series and X5, though other models experienced significant declines.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/bmw-sales-up-some-models-having-strange-year/"
  }
 ]
