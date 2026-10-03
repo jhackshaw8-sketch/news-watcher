@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-09-30T00:04:23.191164+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Apple Pay Launches in India with Axis Bank Support",
-  "summary": "Apple Pay has officially launched in India, allowing customers with Axis Bank cards to add them to the Wallet app for contactless and online payments.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/09/29/apple-pay-india/"
- },
- {
-  "date": "2026-09-30T00:04:23.191164+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Steam Updates Algorithm to Feature More Games on Homepage",
-  "summary": "Valve is updating Steam's homepage algorithm to showcase up to 10 times more games, including discounted titles and events.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/platforms/pc-gaming/another-steam-page-is-being-turned-into-an-algorithm-as-valve-aims-to-show-10x-more-games-to-customers/"
- },
- {
   "date": "2026-09-30T00:45:22.371359+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -14089,5 +14067,27 @@
   "verified": "official",
   "source": "GamesRadar",
   "link": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-lead-says-he-pushed-square-enix-for-a-physical-version-of-the-jrpg-but-physical-media-will-eventually-be-essentially-disc-less/"
+ },
+ {
+  "date": "2026-10-03T00:43:39.054197+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "New Bill Aims to Ban Federal Use of Flock License Plate Readers",
+  "summary": "Senator Sanders introduces a bill to ban the federal government from using automated license plate readers like Flock.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/"
+ },
+ {
+  "date": "2026-10-03T00:43:39.054197+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "VW Clears Out Remaining ID.4 Inventory With Massive $12,500 Discount \u26a1\ud83d\ude97",
+  "summary": "Volkswagen is offering a $12,500 discount on remaining US inventory of the ID.4 as production of the electric SUV comes to an end.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/vw-id-4-incentives/"
  }
 ]
