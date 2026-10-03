@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-09-30T02:37:42.535462+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Apple Pay Officially Launches in India",
-  "summary": "Apple Pay has officially launched in India, expanding the payment service's availability to a major new market.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wtsnsi/apple_pay_launches_in_india/"
- },
- {
   "date": "2026-09-30T08:40:13.449776+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -14067,5 +14056,16 @@
   "verified": "official",
   "source": "Carscoops",
   "link": "https://www.carscoops.com/2026/10/bmw-sales-up-some-models-having-strange-year/"
+ },
+ {
+  "date": "2026-10-03T02:47:17.101480+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "A Bizarre Low-Mile Lincoln Town Car Hearse Is One Wild Ride \u26b0\ufe0f\ud83d\ude97",
+  "summary": "A bizarre low-mileage 1997 Lincoln Town Car hearse with only 19,717 miles has surfaced for sale.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/lincoln-town-car-hearse-auction/"
  }
 ]
