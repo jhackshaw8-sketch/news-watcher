@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-09-30T09:39:59.521984+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "update",
-  "headline": "Deadlock Massive Update Smashes Steam Records",
-  "summary": "Valve's Deadlock receives a massive update that drives the hero shooter to the top of the Steam charts and breaks its peak concurrent player record.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/huge-deadlock-update-propels-valves-moba-hero-shooter-to-the-top-of-the-steam-charts-smashes-peak-concurrent-player-record"
- },
- {
-  "date": "2026-09-30T09:39:59.521984+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "update",
-  "headline": "Pok\u00e9mon Pokopia Launches First Halloween Event",
-  "summary": "Pok\u00e9mon Pokopia is celebrating its first Halloween with a themed in-game event featuring Pumpkaboo and other spooky activities.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/pokemon-pokopia-halloween-event-announced/"
- },
- {
   "date": "2026-09-30T10:05:10.200566+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -14144,5 +14122,16 @@
   "verified": "official",
   "source": "r/carporn",
   "link": "https://www.reddit.com/r/carporn/comments/1wwaf29/novitec_mclaren_720s_nlargo_3276x4096/"
+ },
+ {
+  "date": "2026-10-03T10:02:54.348835+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Game of Thrones' Night King Gets a Deadly New Weapon in War for Westeros",
+  "summary": "Developers of War for Westeros reveal a terrifying new weapon for the Night King in an upcoming official release.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/game-thrones-war-for-westeros-monster-interview/"
  }
 ]
