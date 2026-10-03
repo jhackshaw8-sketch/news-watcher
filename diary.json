@@ -14067,5 +14067,27 @@
   "verified": "official",
   "source": "Carscoops",
   "link": "https://www.carscoops.com/2026/10/lincoln-town-car-hearse-auction/"
+ },
+ {
+  "date": "2026-10-03T03:44:00.298335+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Apple Advises iPhone 18 Pro Max Replacements for AT&T Bug",
+  "summary": "Apple has confirmed a cellular service issue affecting a small number of iPhone 18 Pro Max users on AT&T and advised them to get their devices replaced.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/"
+ },
+ {
+  "date": "2026-10-03T03:44:00.298335+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Users Discuss Apple's Replacement Fix for AT&T iPhone Bug",
+  "summary": "Reddit discussions highlight Apple's official guidance for iPhone 18 Pro Max users experiencing cellular failures on AT&T to seek device replacements.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wwcygp/apple_says_iphone_18_pro_max_users_with_att/"
  }
 ]
