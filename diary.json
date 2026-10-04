@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-01T21:39:09.276330+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "legal",
-  "headline": "GrayKey Tool Bypasses iPhone Inactivity Reboot Security",
-  "summary": "Magnet Forensics' GrayKey tool can reportedly bypass the iPhone's automatic inactivity reboot security feature to aid law enforcement investigations.",
-  "verified": "reliable_reporter",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/01/graykey-maker-can-reportedly-bypass-the-iphones-inactivity-reboot-security-feature/"
- },
- {
-  "date": "2026-10-01T21:39:09.276330+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Riot Co-Founder Reveals Massive Player Numbers Needed for 2XKO Survival",
-  "summary": "A Riot Games co-founder revealed that the 2XKO fighting game required millions of monthly active players to survive, sparking community debate.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/riot-games-co-founder-says-2xko-needed-hundreds-of-thousands-if-not-millions-of-monthly-active-players-to-survive"
- },
- {
-  "date": "2026-10-01T21:39:09.276330+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Bradley Cooper to Star as Duke in New Live-Action G.I. Joe Movie",
-  "summary": "Paramount's upcoming live-action G.I. Joe movie is moving forward with Bradley Cooper cast to play Duke in Danny McBride's project.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/action-movies/bradley-cooper-to-play-duke-in-danny-mcbrides-live-action-g-i-joe-movie-which-is-no-longer-a-transformers-crossover/"
- },
- {
-  "date": "2026-10-01T21:39:09.276330+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Reports Claim Trump Consulted Grok on Venezuela",
-  "summary": "Reports suggest xAI's chatbot Grok was used by President Trump to seek advice prior to a military action involving Venezuela.",
-  "verified": "unconfirmed",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
- },
- {
-  "date": "2026-10-01T21:39:09.276330+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Wild 2027 Hyundai Tucson Breaks Cover With Boxy Styling & Hybrids \ud83d\ude99\ud83d\udd25",
-  "summary": "The 2027 Hyundai Tucson debuts with a bold new design, updated hybrid powertrains, and rugged XRT and XRT Pro trims.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/hyundai-tucson-2027-reveal/"
- },
- {
-  "date": "2026-10-01T21:39:09.276330+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Bigger, Boxier, & 288 HP: Meet The All-New 2027 Hyundai Tucson \ud83c\udfce\ufe0f\ud83d\udca8",
-  "summary": "The next-generation 2027 Hyundai Tucson features a larger, boxier design and delivers up to 288 horsepower.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/805386/2027-hyundai-tucson-design-revealed/"
- },
- {
   "date": "2026-10-01T22:03:21.014446+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -5025,5 +4959,170 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/star-wars-outlaws-timed-freebie-available-now/"
+ },
+ {
+  "date": "2026-10-04T21:46:22.932778+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Exploring the Future Design of the iPhone Duo",
+  "summary": "An analysis explores the potential future of smartphone design following the unveiling of the foldable iPhone Duo.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/04/iphone-duo-shows-what-the-future-of-smartphones-could-look-like/"
+ },
+ {
+  "date": "2026-10-04T21:46:22.932778+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Fitbit Edge Leaks Reveal New Google Fitness Tracker Design",
+  "summary": "Leaked images of Google's rumored Fitbit Edge reveal a design that bridges the gap between the Pixel Watch and traditional fitness trackers.",
+  "verified": "unconfirmed",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks"
+ },
+ {
+  "date": "2026-10-04T21:46:22.932778+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "business",
+  "headline": "Plug Into Your Own Brand: Electrify America Opens Up White-Label EV Charging \u26a1\ud83d\udd0c",
+  "summary": "Electrify America now allows companies to own and brand EV charging stations using its underlying power network.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/powered-by-electrify-america-branded-ev-charging-stations/"
+ },
+ {
+  "date": "2026-10-04T21:46:22.932778+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Behind the Scenes of Monster",
+  "summary": "The production and costume designers of Monster: The Lizzie Borden Story discuss how they built the show's Victorian aesthetic.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/video/monster-real-antiques-changed-how-the-murders-were-shot-collider-bts/"
+ },
+ {
+  "date": "2026-10-04T21:46:22.932778+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Jon Bernthal's Heist Thriller Hits Paramount+",
+  "summary": "Jon Bernthal's high-budget heist thriller is now officially available to stream on Paramount Plus.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/jon-bernthal-baby-driver-streaming-success-paramount-plus-october-2026/"
+ },
+ {
+  "date": "2026-10-04T21:46:22.932778+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Original Blade Trilogy Arrives on Peacock",
+  "summary": "Wesley Snipes' complete Blade trilogy makes its official streaming debut on Peacock.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/blade-trilogy-wesley-snipes-streaming-peacock-october-2026/"
+ },
+ {
+  "date": "2026-10-04T21:46:22.932778+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Remembering Storyboard Artist J. Todd Anderson",
+  "summary": "Renowned storyboard artist J. Todd Anderson, known for his work with the Coen brothers and on The Nice Guys, has passed away at age 67.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wxprxs/j_todd_anderson_the_nice_guys_and_the_big/"
+ },
+ {
+  "date": "2026-10-04T21:46:22.932778+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "update",
+  "headline": "James Gunn Starts Writing His Next Film",
+  "summary": "Filmmaker James Gunn confirms he has already begun writing his next project prior to Man of Tomorrow.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wxosfy/james_gunn_confirms_hes_already_writing_his_next/"
+ },
+ {
+  "date": "2026-10-04T21:46:22.932778+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "other",
+  "headline": "Managing Child Aging in Long-Running Franchises",
+  "summary": "An analysis questions how the original Harry Potter films managed child aging compared to modern television adaptations.",
+  "verified": "unconfirmed",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wxlvsp/how_did_the_potter_films_keep_three_kids_from/"
+ },
+ {
+  "date": "2026-10-04T21:46:22.932778+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "First Poster for Killer Sheep Comedy 'Black Sheeps'",
+  "summary": "The first poster for the killer sheep horror-comedy Black Sheeps has been revealed.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wxl3ao/first_poster_for_horrorcomedy_black_sheeps_a/"
+ },
+ {
+  "date": "2026-10-04T21:46:22.932778+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Actor and Subject Marjoe Gortner Passes Away",
+  "summary": "Actor and evangelist Marjoe Gortner, subject of an Oscar-winning documentary, has passed away at 82.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wxkr7p/marjoe_gortner_preacher_and_actor_who_was_subject/"
+ },
+ {
+  "date": "2026-10-04T21:46:22.932778+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "Dan Bakkedahl Announces Reddit AMA",
+  "summary": "Actor Dan Bakkedahl announces an upcoming Reddit AMA session scheduled for Wednesday.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wxjbib/amaqa_announcement_dan_bakkedahl_wednesday_107_at/"
+ },
+ {
+  "date": "2026-10-04T21:46:22.932778+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Daily Wire Movie Production Paused in Montana",
+  "summary": "Production on the Daily Wire film Pawn Shop was temporarily halted in Montana following a special city meeting.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wxj382/daily_wire_movie_pawn_shop_filming_temporarily/"
+ },
+ {
+  "date": "2026-10-04T21:46:22.932778+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Marie Antoinette 4K Re-Release Poster Revealed",
+  "summary": "An official poster arrives for the 20th anniversary 4K theatrical re-release of Sofia Coppola's Marie Antoinette.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wxiz2a/official_poster_for_the_20th_anniversary/"
+ },
+ {
+  "date": "2026-10-04T21:46:22.932778+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Tom Cruise's 'Digger' Faces Massive Box Office Losses",
+  "summary": "Tom Cruise's latest film 'Digger' is projected to lose around $150 million after a weak $8 million domestic debut.",
+  "verified": "reliable_reporter",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/digger-tom-cruise-movie-bombs-1237146199/"
  }
 ]
