@@ -28,6 +28,8 @@ jobs:
           DISCORD_WEBHOOK_GAMING: ${{ secrets.DISCORD_WEBHOOK_GAMING }}
           DISCORD_WEBHOOK_TECH: ${{ secrets.DISCORD_WEBHOOK_TECH }}
           DISCORD_WEBHOOK_CARS: ${{ secrets.DISCORD_WEBHOOK_CARS }}
+          DISCORD_WEBHOOK_MOVIES: ${{ secrets.DISCORD_WEBHOOK_MOVIES }}
+          DISCORD_WEBHOOK_EVENTS: ${{ secrets.DISCORD_WEBHOOK_EVENTS }}
       - name: Save seen items and diary
         if: always()
         run: |
