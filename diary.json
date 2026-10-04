@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-01T22:37:18.751213+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "business",
-  "headline": "Apple Ranks Among Top Corporate Lobbyists in Brussels",
-  "summary": "A new report reveals that Apple is among the biggest corporate lobbyists in Brussels, meeting with EU policymakers hundreds of times.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/01/apple-among-biggest-corporate-lobbyists-in-brussels-per-report/"
- },
- {
-  "date": "2026-10-01T22:37:18.751213+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Twelve South Launches AirFly Drive for Wireless CarPlay",
-  "summary": "Twelve South has released the new AirFly Drive accessory designed to convert wired CarPlay into a wireless experience.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/01/twelve-south-airfly-drive/"
- },
- {
-  "date": "2026-10-01T22:37:18.751213+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "rumor",
-  "headline": "GTA 6 Age Rating Points to In-Game Sex Scenes",
-  "summary": "International ratings board listings suggest that GTA 6 will feature sex scenes.",
-  "verified": "unconfirmed",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes"
- },
- {
-  "date": "2026-10-01T22:37:18.751213+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "update",
-  "headline": "ChatGPT Gains Virtual Try-On Feature For Clothing",
-  "summary": "ChatGPT has introduced a virtual try-on feature powered by OpenAI's latest model, allowing users to visualize and save clothing items.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2275295/chatgpt-can-now-help-you-virtually-try-on-clothes/"
- },
- {
-  "date": "2026-10-01T22:37:18.751213+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "OpenAI Fires Three Employees Over Alleged Information Leaks",
-  "summary": "OpenAI has fired three employees for allegedly leaking confidential information to an external AI safety organization.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/"
- },
- {
   "date": "2026-10-01T23:02:26.692301+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -5168,5 +5113,71 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1wxd7r5/reacher_spinoff_neagley_renewed_for_season_2_at/"
+ },
+ {
+  "date": "2026-10-04T23:02:19.169248+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "New Vampire Brawler 'Half' Aims to Fill the 'Blade'-Sized Void",
+  "summary": "While Marvel's Blade remains stuck, an upcoming indie vampire film titled Half aims to satisfy genre fans.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/features/half-vampire-action-movie-india-blade-1236898106/"
+ },
+ {
+  "date": "2026-10-04T23:02:19.169248+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Blockbuster Disaster Movie '2012' Shifts to a New Streaming Home",
+  "summary": "The disaster blockbuster 2012 is making a move to a new streaming platform next month.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/john-cusack-2012-streaming-starz-october-2026/"
+ },
+ {
+  "date": "2026-10-04T23:02:19.169248+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Classic 'Ghostbusters' Movies Now Streaming in One Place for Free",
+  "summary": "Classic Ghostbusters films are now streaming for free in one convenient place just in time for Halloween.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/ghostbusters-franchise-streaming-free-fandango-october-2026/"
+ },
+ {
+  "date": "2026-10-04T23:02:19.169248+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Dawson's Creek Reunion Honors James Van Der Beek At Heroes Gala",
+  "summary": "James Van Der Beek was remembered during a tearful Dawson's Creek reunion at the Barbara Berlanti Heroes Gala.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/james-van-der-beek-dawsons-creek-reunion-katherine-lanasa-1237146230/"
+ },
+ {
+  "date": "2026-10-04T23:02:19.169248+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Naruto's Confirmed Anime Sequel Prepares For Big Reveal",
+  "summary": "Naruto's officially confirmed anime sequel is set to reveal its big return this weekend.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/naruto-new-anime-sequel-revive-franchise/"
+ },
+ {
+  "date": "2026-10-04T23:02:19.169248+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Star Wars: Galactic Racer Officially Announced For October 2026 Release",
+  "summary": "Star Wars is officially switching genres with the upcoming release of Galactic Racer on October 6, 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-wars-switching-genres-new-galactic-racer-release/"
  }
 ]
