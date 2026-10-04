@@ -69,7 +69,7 @@
     "feeds": [
       {"name": "Variety", "url": "https://variety.com/feed/"},
       {"name": "Deadline", "url": "https://deadline.com/feed/"},
-      {"name": "People", "url": "https://people.com/feed/"},
+         {"name": "ScreenRant", "url": "https://screenrant.com/feed/"},
       {"name": "GamesRadar", "url": "https://www.gamesradar.com/rss/"},
       {"name": "r/entertainment", "url": "https://www.reddit.com/r/entertainment/new/.rss"}
     ]
