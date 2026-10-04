@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-01T18:42:59.883904+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "launch",
-  "headline": "SpaceXAI Releases Dedicated Grok iOS App for Enterprise Users",
-  "summary": "SpaceXAI has launched a separate Grok iOS app specifically designed for enterprise and work organizations.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/01/spacexai-releases-a-separate-grok-ios-app-for-enterprise-users/"
- },
- {
-  "date": "2026-10-01T18:42:59.883904+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "update",
-  "headline": "Sony's AI-Upscaling Tech Coming to Standard PS5",
-  "summary": "Sony is expanding its AI-powered upscaling technology beyond the PS5 Pro to standard PS5 consoles, beginning with Marvel's Wolverine and Ghost of Y\u014dteit.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/ps5-ai-upscaling-qssr-sony/"
- },
- {
-  "date": "2026-10-01T18:42:59.883904+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Fervo Energy Completes Groundbreaking Geothermal Plant",
-  "summary": "Fervo Energy completed the world's first enhanced geothermal power plant in under two years, with faster grid connections planned for future phases.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/"
- },
- {
-  "date": "2026-10-01T18:42:59.883904+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "OpenAI Dismisses Three Safety Researchers Over Information Handling",
-  "summary": "OpenAI has reportedly cut ties with three safety researchers following an internal investigation into the mishandling of sensitive company information.",
-  "verified": "reliable_reporter",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
- },
- {
-  "date": "2026-10-01T18:42:59.883904+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "V6-Powered Mazda MX-5 Keeps Its Perfect Balance! \ud83c\udfce\ufe0f\ud83d\udca8",
-  "summary": "A modified Mazda MX-5 NC has been fitted with a Ford V6 engine while remarkably maintaining its original 50-50 weight distribution.",
-  "verified": "reliable_reporter",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/mazda-mx5-v6-rocketeer/"
- },
- {
   "date": "2026-10-01T19:04:17.191103+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -4948,5 +4893,16 @@
   "verified": "official",
   "source": "Carscoops",
   "link": "https://www.carscoops.com/2026/10/land-rover-vw-beetle/"
+ },
+ {
+  "date": "2026-10-04T18:51:39.401784+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Zelda: Ocarina of Time Remake Brings Flute and Quiz Features to Switch 2",
+  "summary": "Nintendo's upcoming Zelda: Ocarina of Time remake for Switch 2 features official instrument support and new interactive modes.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-new-features-notes-app-nintendo/"
  }
 ]
