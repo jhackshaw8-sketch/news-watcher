@@ -1,8 +1,8 @@
 """Writes a batch of short, funny, relatable draft tweets in a loose internet-voice
-style and posts them to the viral-tweets Discord channel. Some are standalone,
-some are loosely inspired by recent stories from the other tracked topics, and
-at most one "engagement question" post (inviting replies) goes out per day,
-no matter how many times this runs."""
+style and posts them to the viral-tweets Discord channel, each with a real meme
+image attached. Some posts are standalone, some are loosely inspired by recent
+stories from the other tracked topics, and at most one "engagement question"
+post (inviting replies) goes out per day, no matter how many times this runs."""
 import json
 import os
 import random
@@ -67,6 +67,39 @@ def recent_headlines():
     return recent[:HEADLINE_SAMPLE]
 
 
+MEME_SUBREDDITS = {
+    "gaming": "gamingmemes",
+    "game": "gamingmemes",
+    "movie": "moviememes",
+    "film": "moviememes",
+    "tech": "techhumor",
+    "apple": "techhumor",
+    "car": "memes",  # no reliably-active car meme subreddit; falls back to general memes
+}
+
+
+def pick_subreddit(text):
+    low = text.lower()
+    for keyword, sub in MEME_SUBREDDITS.items():
+        if keyword in low:
+            return sub
+    return "memes"  # general fallback, safe-for-work meme subreddit
+
+
+def fetch_meme(subreddit):
+    """Free public API that returns a random real meme image from the given
+    subreddit. Returns an image URL, or None if it fails for any reason."""
+    try:
+        r = requests.get(f"https://meme-api.com/gimme/{subreddit}", timeout=15)
+        r.raise_for_status()
+        data = r.json()
+        if not data.get("nsfw") and not data.get("spoiler") and data.get("url"):
+            return data["url"]
+    except Exception as exc:
+        print(f"Meme fetch failed for r/{subreddit}: {exc}")
+    return None
+
+
 def ask_gemini(spec):
     n = spec.count("\n- ") + 1
     body = {
@@ -97,7 +130,16 @@ def main():
             continue
         if post.get("type") == "question":
             posted_question = True
-        requests.post(WEBHOOK, json={"content": text[:1990]}, timeout=30).raise_for_status()
+
+        # attach a real meme image for oneliner/reaction posts; a question post
+        # usually works better as plain text so the question itself stands out
+        msg = text
+        if post.get("type") in ("oneliner", "reaction"):
+            meme_url = fetch_meme(pick_subreddit(text))
+            if meme_url:
+                msg = f"{text}\n{meme_url}"
+
+        requests.post(WEBHOOK, json={"content": msg[:1990]}, timeout=30).raise_for_status()
         time.sleep(1)
 
     if posted_question:
