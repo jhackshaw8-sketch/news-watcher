@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-01T22:03:21.014446+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Diablo 2 Icon Annihilus Surprise-Drops in Diablo 4",
-  "summary": "The highly coveted Annihilus item from Diablo 2 has been unexpectedly added to Diablo 4.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/diablo/one-of-diablo-2s-most-coveted-items-surprise-drops-in-diablo-4-and-its-just-as-overpowered-as-it-was-25-years-ago/"
- },
- {
-  "date": "2026-10-01T22:03:21.014446+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Lyft Settles 2020 Driver Classification Lawsuit for $272.5M",
-  "summary": "Lyft agreed to pay $272.5 million to resolve a long-standing 2020 lawsuit regarding driver classification.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/"
- },
- {
-  "date": "2026-10-01T22:03:21.014446+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Mandia's Armadin Secures $2.5B Valuation for AI Security Swarms",
-  "summary": "Mandiant founder Kevin Mandia's new security startup Armadin has raised $255.5 million at a $2.5 billion valuation to use agent swarms for enterprise protection.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/"
- },
- {
   "date": "2026-10-01T22:37:18.751213+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -5124,5 +5091,27 @@
   "verified": "reliable_reporter",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/digger-tom-cruise-movie-bombs-1237146199/"
+ },
+ {
+  "date": "2026-10-04T22:04:26.821405+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Beavis and Butt-Head Season 4 Premiere Date Announced",
+  "summary": "Beavis and Butt-Head Season 4 is officially returning in just two weeks.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/beavis-and-butt-head-season-4-release-date-comedy-central-october-2026/"
+ },
+ {
+  "date": "2026-10-04T22:04:26.821405+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Tom Cruise's New Film Marks Final Pre-Merger Warner Bros. Release",
+  "summary": "Tom Cruise's latest film marks the final Warner Bros. release before a major merger, recording a low global debut.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/warner-bros-digger-tom-cruise-worst-box-office-global-opening/"
  }
 ]
