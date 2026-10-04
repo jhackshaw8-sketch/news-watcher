@@ -22,7 +22,7 @@ MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")  # check AI Studio fo
 MIN_SCORE = int(os.getenv("MIN_SCORE", "7"))         # stories at or above this ping you
 DIARY_MIN_SCORE = int(os.getenv("DIARY_MIN_SCORE", "5"))  # stories at or above this go in the diary
 MAX_ITEMS = 25
-UA = "Mozilla/5.0 (compatible; news-watcher/1.0)"
+UA = "python:news-watcher-bot:v1.0 (personal RSS watcher)"
 
 PROMPT = """You are a news filter for a news page about: {focus}.
 For each numbered item below, return ONLY a JSON list with one object per item:
@@ -53,6 +53,7 @@ def collect_new(topic, seen_ids):
                 timeout=20,
             )
             resp.raise_for_status()
+            time.sleep(1.5)  # small pause between requests so sites like Reddit don't rate-limit us
             parsed = feedparser.parse(resp.content)
         except Exception as exc:
             print(f"Could not read {feed['name']}: {exc}", file=sys.stderr)
