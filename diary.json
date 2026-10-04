@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-01T23:02:26.692301+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Launches 'Shot on iPhone Duo' Photo Campaign",
-  "summary": "Apple launched a new 'Shot on iPhone Duo' marketing campaign on Instagram featuring commissioned photography.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/01/apple-commissions-photographers-for-new-shot-on-iphone-duo-campaign/"
- },
- {
-  "date": "2026-10-01T23:02:26.692301+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Apple Confirms iPhone Duo Features Replaceable Cover Layer",
-  "summary": "Apple has confirmed that the new iPhone Duo features a replaceable cover layer situated above the display.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wvdxho/apple_says_iphone_duo_has_replaceable_cover_layer/"
- },
- {
-  "date": "2026-10-01T23:02:26.692301+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Gears of War: E-Day Confirms Local Co-op Campaign",
-  "summary": "Developers confirm that Gears of War: E-Day will feature a mandatory local co-op campaign.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/gears-war-e-day-co-op-interview/"
- },
- {
-  "date": "2026-10-01T23:36:03.795065+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Apple Home Hub Leak Points to October Smart-Home Push",
-  "summary": "A leaked report suggests Apple's upcoming smart home hub will feature a StandBy-like photo face ahead of an expected October push.",
-  "verified": "unconfirmed",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wvelhm/apple_home_hub_leak_shows_standbylike_photo_face/"
- },
- {
-  "date": "2026-10-01T23:36:03.795065+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Tesla Patent Teases Mysterious Aero-Heavy Sports Car \ud83c\udfce\ufe0f\u26a1",
-  "summary": "A newly uncovered Tesla patent reveals a mysterious sports car featuring active aerodynamics and substantial downforce capabilities.",
-  "verified": "unconfirmed",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/tesla-spoiler-patent-may-hide-roadster-design/"
- },
- {
   "date": "2026-10-02T00:04:21.804148+00:00",
   "topic": "Gaming News",
   "score": 5,
@@ -5179,5 +5124,49 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/star-wars-switching-genres-new-galactic-racer-release/"
+ },
+ {
+  "date": "2026-10-04T23:36:54.944823+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Clash of the Titans Becomes Massive Netflix Hit",
+  "summary": "The fantasy epic Clash of the Titans, starring Ralph Fiennes, has become a massive streaming hit on Netflix.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/clash-of-the-titans-streaming-hit-netflix-october-2026/"
+ },
+ {
+  "date": "2026-10-04T23:36:54.944823+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Ransom Canyon Canceled at Netflix After Two Seasons",
+  "summary": "Netflix has officially canceled the series Ransom Canyon after running for two seasons.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2275690/why-ransom-canyon-canceled-netflix/"
+ },
+ {
+  "date": "2026-10-04T23:36:54.944823+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "The Rings of Power Brings Tom Bombadil to the Screen",
+  "summary": "The Rings of Power officially introduces Tolkien's powerful character Tom Bombadil to the screen.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/rings-of-power-lord-of-the-rings-tom-bombadil-introduction/"
+ },
+ {
+  "date": "2026-10-04T23:36:54.944823+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Pok\u00e9mon Pokopia Halloween Event Adds Pumpkaboo and Gourgeist",
+  "summary": "Pok\u00e9mon Pokopia's upcoming Halloween event officially adds fan-favorite characters Pumpkaboo and Gourgeist.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/pokemon-pokopia-halloween-event-pumpkaboo-gourgeist/"
  }
 ]
