@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-02T16:40:40.790228+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "business",
-  "headline": "AT&T and Apple tackling iPhone 18 Pro Max cellular issues",
-  "summary": "AT&T confirms it is collaborating with Apple to address cellular connectivity issues affecting the iPhone 18 Pro Max.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/02/att-statement-on-iphone-18-pro-max-issues/"
- },
- {
-  "date": "2026-10-02T16:40:40.790228+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "update",
-  "headline": "Apple preparing Mac mail fix for Microsoft Exchange shutdown",
-  "summary": "Apple is actively developing a software fix for Mac email apps following Microsoft's shutdown of older Exchange connections.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/02/apple-plans-fix-as-microsofts-exchange-shutdown-disrupts-mac-email?utm_source=rss"
- },
- {
-  "date": "2026-10-02T16:40:40.790228+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "New GTA 6 Screenshots Spotlight Lucia and Jason",
-  "summary": "Rockstar has released brand new GTA 6 screenshots highlighting the relationship between protagonists Lucia and Jason.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/brand-new-gta-6-screenshots-focus-on-lucia-and-jasons-relationship"
- },
- {
-  "date": "2026-10-02T16:40:40.790228+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Star Wars: Galactic Racer Becomes One of the Best-Rated Games in the Franchise",
-  "summary": "Star Wars: Galactic Racer has achieved a remarkably high Metacritic score, placing it among the best-rated Star Wars releases.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/racing/star-wars-galactic-racer-metacritic-score-makes-it-one-of-the-best-rated-star-wars-games-of-all-time-beating-every-battlefront-title/"
- },
- {
-  "date": "2026-10-02T16:40:40.790228+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Riot Boss Discusses the Challenges Facing the League of Legends MMO",
-  "summary": "Riot Games boss Marc Merrill discusses the complex challenges and smart reasons behind why the League of Legends MMO might not be made.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/league-of-legends/there-are-all-sorts-of-smart-reasons-the-league-of-legends-mmo-shouldnt-be-made-riot-boss-says-but-were-doing-it-anyway/"
- },
- {
-  "date": "2026-10-02T16:40:40.790228+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "rumor",
-  "headline": "New GTA 6 Details and Information Breakdown Released",
-  "summary": "A weekly breakdown video analyzes a massive batch of new GTA 6 details and fresh information provided by Rob Nelson.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/grand-theft-auto/heres-everything-new-we-learned-about-gta-6-this-week-after-rockstar-revealed-new-details-on-the-animals-activities-and-weather-in-its-sprawling-open-world-sandbox/"
- },
- {
-  "date": "2026-10-02T16:40:40.790228+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Paramount and Warner Bros. to Become Skydance",
-  "summary": "Following their merger, Paramount and Warner Bros. will operate under the name Skydance, as announced by CEO David Ellison.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2275866/soon-to-be-merged-paramount-and-warner-bros-will-be-known-as-skydance-going-forward/"
- },
- {
-  "date": "2026-10-02T16:40:40.790228+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Great Scott! This Custom Back to the Future Toyota Tacoma is Pure 80s Nostalgia \u26a1\ufe0f\ud83d\ude99",
-  "summary": "A Texas dealer has built a custom Toyota Tacoma inspired by Back to the Future, featuring a retro Marty McFly tribute treatment.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/tx-dealer-builds-custom-toyota-tacoma-inspired-by-back-to-the-future/"
- },
- {
   "date": "2026-10-02T17:03:56.639804+00:00",
   "topic": "Apple News",
   "score": 5,
@@ -6796,5 +6708,203 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1wy8zfz/jack_oconnell_and_odessa_azion_to_play/"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Arc Raiders and The Finals Headed to Film and TV",
+  "summary": "Arc Raiders and The Finals are being adapted into upcoming films and television shows.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/arc-raiders-and-the-finals-are-getting-adapted-into-films-and-tv-shows"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "How D&D and World of Warcraft Will Combine",
+  "summary": "The upcoming Dungeons & Dragons and World of Warcraft crossover book will adapt the universe rather than copy the MMO mechanics.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Ace Combat 8 Breaks Series Records on Steam",
+  "summary": "Ace Combat 8 achieved a massive Steam launch with over 52,000 concurrent players taking to the skies.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wyd8rb/ace_combat_8_is_far_and_away_the_series_biggest/"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Everything to Know About D&D World of Warcraft",
+  "summary": "The massive Dungeons and Dragons: World of Warcraft crossover book was detailed following its initial announcement.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/dungeons-and-dragons-world-of-warcraft-everything-you-need-to-know"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Chernin Entertainment Picks Up Arc Raiders and The Finals Adaptations",
+  "summary": "Chernin Entertainment has secured rights to create film and TV adaptations of Arc Raiders and The Finals.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wyckkj/arc_raiders_the_finals_video_games_set_tv_series/"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "NBA 2K25 Getting Delisted and Losing Single Player Mode",
+  "summary": "NBA 2K25 is being delisted after two years, rendering its single-player story mode completely unplayable.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/nba-2k25-is-getting-delisted-after-just-2-years-and-single-player-story-mode-will-become-unplayable"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Why Hideo Kojima is Staying Quiet About OD",
+  "summary": "Hideo Kojima explains why he is keeping quiet about his upcoming game OD until release.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/action/why-is-hideo-kojima-so-quiet-about-od-this-time-i-dont-want-to-reveal-much-says-metal-gear-and-death-stranding-mastermind/"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Players React as NBA 2K25 Faces Delisting",
+  "summary": "Discussion on NBA 2K25 being delisted after just two years and losing access to its campaign mode.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wychzs/nba_2k25_is_getting_delisted_after_just_2_years/"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "Fortnite Replaces Art After AI Watermark Discovered",
+  "summary": "Fortnite quietly updated in-game art after players spotted a Google Gemini AI watermark on the original asset.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/fortnite-has-updated-in-game-art-after-fans-discovered-a-google-gemini-ai-image-watermark"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Hideo Kojima Talks AI and Game Development",
+  "summary": "Hideo Kojima expresses mixed feelings about AI replacing artists following DLSS implementation in Death Stranding 2.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/open-world/hideo-kojima-addresses-ai-after-dlss-5-hit-death-stranding-2-says-i-dont-much-like-the-idea-of-it-taking-work-or-control-from-artists/"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Supermassive Games Lays Off Over 70 Employees",
+  "summary": "Supermassive Games has laid off over 70 employees as part of restructuring efforts.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wyc0v8/supermassive_games_layoffs_arrive_with_over_70/"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "Jagex Details Ambitious RuneScape Reignited Relaunch",
+  "summary": "Jagex details RuneScape Reignited, an ambitious relaunch plan featuring wiped servers for the long-running MMO.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/mmo/inside-runescape-reignited-jagexs-ambitious-plan-to-relaunch-its-longest-running-mmo-theres-a-level-of-confidence-that-this-is-the-right-thing-to-do/"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Sebastian Stan Discusses New Film 'Fjord'",
+  "summary": "Sebastian Stan discusses his new movie 'Fjord' and its themes of family and belief systems at its premiere.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/sebastian-stan-fjord-question-belief-systems-nyff-1236899165/"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Entertainment Partners Appoints New UK Boss",
+  "summary": "Entertainment Partners has appointed Chris Gratton as the new Executive Vice President and Managing Director of its UK business.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/entertainment-partners-names-uk-boss-1237146861/"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Original Cast Set to Return for 'Sicario 3'",
+  "summary": "Emily Blunt, Benicio Del Toro, and Josh Brolin are reportedly returning for 'Sicario 3', with Padraic McKinley set to direct.",
+  "verified": "reliable_reporter",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/sicario-3-emily-blunt-benicio-del-toro-josh-brolin-1237146047/"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "CMA Announces Star-Studded Lineup for Dolly Parton Special",
+  "summary": "The 20-performer lineup has been announced for the upcoming CMA Dolly Parton television special airing in October.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/music/news/cma-dolly-parton-celebration-abc-special-ella-langley-1236899168/"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Sicario 3 Officially Confirmed With Returning Cast",
+  "summary": "Sicario 3 has been officially confirmed to be moving forward with three original stars and a new director.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/taylor-sheridan-sicario-3-confirmed-blunt-brolin-del-toro-director/"
+ },
+ {
+  "date": "2026-10-05T16:41:48.574780+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Magic: The Gathering Brings Back God Packs",
+  "summary": "Magic: The Gathering God Packs are officially returning with a brand new twist for players.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/magic-the-gathering-god-packs-return/"
  }
 ]
