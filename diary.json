@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-02T04:04:23.160407+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "AT&T Urges Immediate iPhone 18 Pro Max Update for Cellular Fix",
-  "summary": "AT&T has issued an alert to customers advising immediate software updates to resolve cellular connectivity issues affecting the iPhone 18 Pro Max.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/"
- },
- {
   "date": "2026-10-02T06:04:42.072012+00:00",
   "topic": "Cars",
   "score": 6,
@@ -5652,5 +5641,38 @@
   "verified": "official",
   "source": "/Film",
   "link": "https://www.slashfilm.com/2276856/lanterns-episode-8-hal-jordan-killer-identity-explained/"
+ },
+ {
+  "date": "2026-10-05T04:07:43.007913+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Lanterns Finale Confirms Major Manhunter Theory With a Twist",
+  "summary": "The season 1 finale of Lanterns features a major twist that confirms a popular Manhunter theory with compelling details.",
+  "verified": "reliable_reporter",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2276870/lanterns-episode-8-noah-macon-manhunter-twist-explained/"
+ },
+ {
+  "date": "2026-10-05T04:07:43.007913+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Skydance Media Merger Date Set for October",
+  "summary": "John Oliver avoided discussing the upcoming Paramount Skydance and Warner Bros. Discovery merger on his show.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/john-oliver-last-week-tonight-david-ellison-skydance-hbo-warner-bros-1236898839/"
+ },
+ {
+  "date": "2026-10-05T04:07:43.007913+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "The Expanse Officially Returns in 2027 With Epic Prequel",
+  "summary": "The Expanse officially returns in 2027 with a massive six-part prequel and new video game titles.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/expanse-official-return-telltale-prequel-series-2027/"
  }
 ]
