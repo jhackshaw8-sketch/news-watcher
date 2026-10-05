@@ -1,115 +1,5 @@
 [
  {
-  "date": "2026-10-02T12:44:45.553186+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "AT&T Claims iOS Update Fixes iPhone 18 Pro Max Cellular Issues",
-  "summary": "AT&T states that iOS 27.0.1 fixes cellular issues on the iPhone 18 Pro Max, though users continue to report connectivity problems.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/02/att-claims-ios-27-0-1-fixes-iphone-18-pro-max-cellular-issues-but-users-disagree/"
- },
- {
-  "date": "2026-10-02T12:44:45.553186+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Leaks Point to New Home Hub and Updated Devices in October",
-  "summary": "Recent leaks indicate an upcoming busy October for Apple with new smart home devices and updated iPhone hardware.",
-  "verified": "unconfirmed",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/02/home-hub-iphone-18-pro-cameras-and-meta-vr-on-the-appleinsider-podcast?utm_source=rss"
- },
- {
-  "date": "2026-10-02T12:44:45.553186+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Classic Halo: Combat Evolved Now Playable in Web Browsers",
-  "summary": "The original Xbox version of Halo: Combat Evolved is now playable directly in a web browser.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/original-xbox-version-of-halo-combat-evolved-made-available-to-play-in-a-browser"
- },
- {
-  "date": "2026-10-02T12:44:45.553186+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Star Wars: Galactic Racer Review",
-  "summary": "Star Wars: Galactic Racer is praised for its fast-paced gameplay despite suffering from repetitive track locations.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/star-wars-galactic-racer-review"
- },
- {
-  "date": "2026-10-02T12:44:45.553186+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "The Rapid Expansion and Community Impact of AI Data Centers",
-  "summary": "An exploration of how the rapid growth of massive AI data centers is changing their visual impact and community relations.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry"
- },
- {
-  "date": "2026-10-02T12:44:45.553186+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Kia K4 Gets a Minor Price Hike for 2027 \ud83c\udff7\ufe0f\ud83d\ude97",
-  "summary": "Kia has announced a minor price increase for its entry-level K4 model, which now starts at $22,390 for the 2027 model year.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/2027-kia-k4-pricing/"
- },
- {
-  "date": "2026-10-02T12:44:45.553186+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "Stunning Porsche 911 996 GT1 Evo Spotted \ud83c\udfc1\ud83d\udca8",
-  "summary": "A stunning high-resolution photo showcasing the rare Porsche 911 996 GT1 Evo has been shared by a car enthusiast.",
-  "verified": "reliable_reporter",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1wvl6g3/porsche_911_996_gt1_evo_3072x4096/"
- },
- {
-  "date": "2026-10-02T12:44:45.553186+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "legal",
-  "headline": "The World's Loneliest Recall: Just One Range Rover Affected \ud83d\ude99\u26a0\ufe0f",
-  "summary": "Land Rover has issued a recall for a single Range Rover Sport built on February 16 due to a PCM issue.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/range-rover-sport-usa-pcm-recall/"
- },
- {
-  "date": "2026-10-02T12:44:45.553186+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "Aggressive Ford Mustang GTD Captured in Detail \ud83d\udc0e\ud83d\udd25",
-  "summary": "An impressive high-resolution image of the track-ready Ford Mustang GTD has been posted online.",
-  "verified": "reliable_reporter",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1wvfyec/ford_mustang_gtd_2034x3704/"
- },
- {
-  "date": "2026-10-02T12:44:45.553186+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "Classic 1970s Porsche 911s Looking Timeless \ud83d\udcf8\ud83c\udfce\ufe0f",
-  "summary": "A beautiful classic photography feature capturing 1970s Porsche F-series Targa and G-series 911 models together.",
-  "verified": "reliable_reporter",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1wve1kk/1970s_fseries_targa_gseries_911s_7952x5304/"
- },
- {
   "date": "2026-10-02T13:06:24.935270+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -6191,5 +6081,71 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/brandon-sanderson-mistborn-legacy-fall-2026-psa/"
+ },
+ {
+  "date": "2026-10-05T12:47:07.429020+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Apple TV Releases 'All of Us' Documentary Highlighting iPad Learning",
+  "summary": "A new Apple TV documentary titled All of Us highlights how iPads are used to enable inclusive learning at a unique school.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/05/apple-tv-doc-all-of-us-shows-how-ipads-enable-inclusive-learning-in-a-unique-school/"
+ },
+ {
+  "date": "2026-10-05T12:47:07.429020+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Quietly Increases iCloud Mail Alias Limit to Nine",
+  "summary": "Apple has quietly increased the maximum limit of iCloud Mail aliases from three to nine.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/05/apple-triples-icloud-mail-alias-limit/"
+ },
+ {
+  "date": "2026-10-05T12:47:07.429020+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Dead by Daylight Developer Working on AAA Sci-Fi Shooter",
+  "summary": "Behaviour Interactive is hiring developers for an unannounced triple-A sci-fi first-person shooter with high realism.",
+  "verified": "reliable_reporter",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter"
+ },
+ {
+  "date": "2026-10-05T12:47:07.429020+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Google Admits Complex Android Apps Struggle on Intel Chromebooks",
+  "summary": "Google acknowledges that certain complex Android applications experience performance issues running on Intel Chromebooks.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2277034/google-admits-some-complex-android-apps-run-poorly-on-intel-googlebooks/"
+ },
+ {
+  "date": "2026-10-05T12:47:07.429020+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Sam Altman Reacts to Andrew Garfield Playing Him in 'Artificial'",
+  "summary": "OpenAI CEO Sam Altman shares his surreal reaction to seeing Andrew Garfield portray him outside his home for Luca Guadagnino's upcoming film 'Artificial'.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/sam-altman-artificial-filmed-outside-house-waved-andrew-garfield-1236899020/"
+ },
+ {
+  "date": "2026-10-05T12:47:07.429020+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Marvel Announces New X-Men Leader to Replace Cyclops",
+  "summary": "Marvel has officially announced that an Omega-level mutant is replacing Cyclops as the new leader of the X-Men.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/x-men-new-leader-jean-grey-magneto-cyclops/"
  }
 ]
