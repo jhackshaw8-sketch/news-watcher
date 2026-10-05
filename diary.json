@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-02T10:38:34.211883+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Anticipation Builds for Potential October Apple Announcements",
-  "summary": "Speculation grows on Reddit regarding potential major product announcements from Apple following a busy September.",
-  "verified": "unconfirmed",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wvqgm6/apples_september_was_huge_october_could_be_even/"
- },
- {
-  "date": "2026-10-02T10:38:34.211883+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Total War Modder Corrupts Files Amid AI Dispute",
-  "summary": "A prominent Total War: Warhammer III modder deliberately broke their popular mod amid an ongoing controversy regarding AI-generated modifications.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/modder-deliberately-corrupts-their-own-hugely-popular-total-war-warhammer-iii-mod-as-row-over-ai-escalates"
- },
- {
-  "date": "2026-10-02T10:38:34.211883+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Limited Edition Lisa DualSense Pre-Orders Live",
-  "summary": "Pre-orders for the limited edition Lisa K-Pop themed DualSense controller officially go live ahead of its October release.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/hardware/gaming-controllers/lisa-limited-edition-dualsense-pre-orders-go-live-today-heres-where-to-grab-yours/"
- },
- {
-  "date": "2026-10-02T10:38:34.211883+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Blizzard Cracks Down on RMT in WoW Forever Beta",
-  "summary": "Blizzard issued a strict warning against real-money trading following a wave of bans during the WoW Forever beta.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-warns-wow-forever-players-that-its-stance-on-real-money-trading-is-crystal-clear-following-beta-ban-spree-we-will-continue-to-take-action/"
- },
- {
-  "date": "2026-10-02T10:38:34.211883+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Spy Shots Reveal The Sharp New 2027 Peugeot 208 \ud83d\ude97\u26a1",
-  "summary": "The upcoming 2027 Peugeot 208 has been spied testing with a sharp new design, a square steering wheel, and a brand-new platform.",
-  "verified": "unconfirmed",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/peugeot-208-scoop/"
- },
- {
-  "date": "2026-10-02T10:38:34.211883+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Venuum's Wild Body Kit Makes The Lamborghini Revuelto Even Wilder \ud83c\udfce\ufe0f\ud83d\udd25",
-  "summary": "Venuum has revealed a bold new tuning and body kit for the Lamborghini Revuelto for owners who find the stock supercar too subtle.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/lamborghini-revuelto-venuum-bodykit/"
- },
- {
   "date": "2026-10-02T11:03:43.088925+00:00",
   "topic": "Gaming News",
   "score": 8,
@@ -6026,5 +5960,115 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/witcher-4-map-size-official/"
+ },
+ {
+  "date": "2026-10-05T10:40:41.966907+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "New Focus Mode Lock Screen Controls Leaked for iPhone Duo",
+  "summary": "Code snippets suggest Apple is working on introducing new Focus mode controls directly on the Lock Screen for the upcoming iPhone Duo.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/05/iphone-duo-focus-modes-easier-toggle-lock-screen/"
+ },
+ {
+  "date": "2026-10-05T10:40:41.966907+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "rumor",
+  "headline": "GTA 6 Interview Teases Deep NPC Design and Modern American Setting",
+  "summary": "A new interview details the extensive NPC design and modern setting of Grand Theft Auto 6.",
+  "verified": "reliable_reporter",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/grand-theft-auto-gta-6-love-magazine-interview-npc-details/"
+ },
+ {
+  "date": "2026-10-05T10:40:41.966907+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "The Witcher 3 Remastered Hits Massive Steam Player Milestone",
+  "summary": "The Witcher 3 Remastered pushed the game to a new Steam player peak of nearly 140,000 players.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-remastered-leads-to-new-steam-player-peak-of-nearly-140-000-as-cd-projekt-red-celebrates-its-11-year-old-rpgs-resurgence-much-love/"
+ },
+ {
+  "date": "2026-10-05T10:40:41.966907+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "US Senate Kills AI Data Center Power Bill",
+  "summary": "The US Senate rejected a bill aimed at protecting Americans from rising power bills caused by AI data centers.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wy574e/us_senate_kills_bill_that_could_potentially/"
+ },
+ {
+  "date": "2026-10-05T10:40:41.966907+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "Windows 11 Update Assigns New Shortcut to Tilde Key",
+  "summary": "Windows 11 File Explorer update adds a shortcut function to the tilde key to quickly access the user folder.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wy54yg/windows_11s_file_explorer_is_finally_giving_the/"
+ },
+ {
+  "date": "2026-10-05T10:40:41.966907+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Qualcomm and Arm Head to Court for High-Stakes Trial",
+  "summary": "Qualcomm and Arm are heading back to trial in a high-stakes legal battle involving potential massive damages.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wy4znw/qualcomm_and_arm_head_to_trial_again_potential/"
+ },
+ {
+  "date": "2026-10-05T10:40:41.966907+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "German Utility Introduces Heavy-Consumer Power Plan",
+  "summary": "A German utility provider launched a specialized electricity plan targeting heavy energy consumers like gamers.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wy4o4b/german_utility_provider_introduces_gaming/"
+ },
+ {
+  "date": "2026-10-05T10:40:41.966907+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Quantum Startup planqc Wins European Tech Award",
+  "summary": "Quantum computing startup planqc has won the prestigious Made in Europe Award.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wy48bk/planqc_wins_made_in_europe_award_for_quantum/"
+ },
+ {
+  "date": "2026-10-05T10:40:41.966907+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "Electric BMW M3 Teased! \u26a1\ud83c\udfce\ufe0f",
+  "summary": "BMW teased the all-new electric M3 while celebrating the production milestone of its one-millionth M vehicle.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/bmw-m3-ev-teaser/"
+ },
+ {
+  "date": "2026-10-05T10:40:41.966907+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "legal",
+  "headline": "Volkswagen Recalls Nearly 50,000 Tiguans Over Engine Stalling Risk \u26a0\ufe0f",
+  "summary": "Volkswagen is recalling nearly 50,000 2025 Tiguans due to an issue that can cause the engines to shut off unexpectedly.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810766/volkswagen-recalls-nearly-50-000/"
  }
 ]
