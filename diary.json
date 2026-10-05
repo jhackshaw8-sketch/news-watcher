@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-02T11:03:43.088925+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Gears of War: E-Day Addresses Missing Franchise Features",
-  "summary": "Eurogamer discusses missing features in Gears of War: E-Day with developer reassurances.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/gears-of-war-eday-missing-features-update"
- },
- {
-  "date": "2026-10-02T11:03:43.088925+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Steam Projected to Hit Record $20 Billion Revenue",
-  "summary": "An analyst predicts Steam is on track to earn a record $20 billion this year.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/steam-on-track-to-earn-a-record-usd20-billion-this-year-thanks-to-games-like-the-witcher-3-remastered-and-wardogs-analyst-says-after-a-massive-september/"
- },
- {
-  "date": "2026-10-02T11:03:43.088925+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Street Fighter Movie References Evo Moment 37",
-  "summary": "GamesRadar reports that the upcoming Street Fighter movie references Evo Moment 37.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/live-action-movies/street-fighter-movie-references-the-franchises-most-iconic-match-the-parry-fest-of-evo-moment-37/"
- },
- {
-  "date": "2026-10-02T11:03:43.088925+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "KDC 2 Developer Hopes GTA 6 Raises Industry Game Prices",
-  "summary": "Kingdom Come: Deliverance 2 lead Martin Kl\u00edma hopes GTA 6 paves the way for higher game prices.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/grand-theft-auto/kingdom-come-deliverance-2-lead-wants-gta-6-to-open-the-door-to-charging-more-for-games-even-though-the-popularity-of-rockstars-series-beats-me/"
- },
- {
-  "date": "2026-10-02T11:03:43.088925+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Aston Martin Pushes Back EV Launch to 2033\u20132035 While Keeping V8 and V12 Engines Alive \ud83c\udfce\ufe0f\ud83d\udca8",
-  "summary": "Aston Martin has delayed its first electric vehicle to between 2033 and 2035 while committing to producing V8 and V12 engines through 2035.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810568/aston-martin-delays-first-ev/"
- },
- {
   "date": "2026-10-02T11:38:34.473551+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -6070,5 +6015,115 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810766/volkswagen-recalls-nearly-50-000/"
+ },
+ {
+  "date": "2026-10-05T11:05:41.248057+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "iOS 27 Brings Adapted Focus Modes to the iPhone Duo",
+  "summary": "Apple has adapted Focus Modes in iOS 27 to accommodate the unique form factor of the new iPhone Duo.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/05/focus-modes-are-another-way-apple-has-adapted-ios-27-for-the-iphone-duo/"
+ },
+ {
+  "date": "2026-10-05T11:05:41.248057+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Ace Combat 8 Soars to Record-Breaking Steam Launch",
+  "summary": "Ace Combat 8: Wings of Theve has achieved the series' biggest launch on Steam following its official release on October 2nd.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/ace-combat-8-steam-launch-record-players"
+ },
+ {
+  "date": "2026-10-05T11:05:41.248057+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Final Fantasy Resonance Delivers a Surprisingly Great Experience",
+  "summary": "Final Fantasy Resonance successfully combines elements of FF5 and FF6 after rising from the ashes of a closed-down mobile game.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6"
+ },
+ {
+  "date": "2026-10-05T11:05:41.248057+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Google Admits Intel Googlebooks Have Android App Issues",
+  "summary": "Google admits on launch day that Intel-based Googlebooks may struggle with some Android apps despite previous claims.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance"
+ },
+ {
+  "date": "2026-10-05T11:05:41.248057+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "How a BMW M5 Helped VW Build Its Secret W10 Engine \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "Former VW boss Ferdinand Pi\u00ebch secretly used a W10-powered BMW M5 prototype as his personal daily driver during the development of VW's engine.",
+  "verified": "reliable_reporter",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/bmw-m5-helped-vw-create-secretive-w10-for-sale/"
+ },
+ {
+  "date": "2026-10-05T11:05:41.248057+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "update",
+  "headline": "Stunning Ruf-Built Porsche 914/6 Fetches Six Figures at Auction \ud83c\udfc1\u2728",
+  "summary": "A custom 1970 Porsche 914/6 built by Ruf for famous designer Luc Donckerwolke has been sold at auction for six figures.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810774/luc-donckerwolke-ruf-porsche-914/"
+ },
+ {
+  "date": "2026-10-05T11:05:41.248057+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Rebuttal Documentary Surfaces Online for Gaza Film 'NAZA'",
+  "summary": "A counter-documentary made by IDF reserve members has surfaced online in response to the award-winning Gaza documentary NAZA.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/naza-rebuttal-doc-idf-reserve-members-1236898918/"
+ },
+ {
+  "date": "2026-10-05T11:05:41.248057+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "business",
+  "headline": "Canal+ Threatens to Pull $1.1 Billion Cinema Deal Over French Tax Hike",
+  "summary": "Canal+ Group threatens to withdraw its massive $1.1 billion investment deal with the French film industry over a proposed tax hike.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/frances-canal-1-1-billion-cinema-deal-tax-hike-1236898925/"
+ },
+ {
+  "date": "2026-10-05T11:05:41.248057+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Anthony Mackie Returns to Broadway for Macbeth in 2027 \ud83c\udfad",
+  "summary": "Anthony Mackie announces his return to Broadway to star in Macbeth, scheduled for spring 2027.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/anthony-mackie-macbeth-broadway-avengers-star-1237146358/"
+ },
+ {
+  "date": "2026-10-05T11:05:41.248057+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Kingdom Hearts Collection 1-3 Impressions Hit Nintendo Switch 2 \ud83d\udddd\ufe0f",
+  "summary": "The Kingdom Hearts Collection 1-3 is previewed for the Nintendo Switch 2.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/kingdom-hearts-collection-1-3-nintendo-switch-2/"
  }
 ]
