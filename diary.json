@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-02T06:04:42.072012+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "legal",
-  "headline": "Cadillac Optiq Recalled Over Window Safety Issue \ud83d\ude97\u26a0\ufe0f",
-  "summary": "GM is recalling nearly 30,000 Cadillac Optiq EVs because the power window anti-pinch system may fail to detect obstructions.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/cadillacs-optiq-wants-to-munch-your-fingers/"
- },
- {
   "date": "2026-10-02T06:44:30.712590+00:00",
   "topic": "Cars",
   "score": 8,
@@ -5718,5 +5707,27 @@
   "verified": "official",
   "source": "r/movies",
   "link": "https://www.reddit.com/r/movies/comments/1wxvg4n/riz_ahmed_alejandro_g_i\u00f1arritu_in_conversation_bfi/"
+ },
+ {
+  "date": "2026-10-05T06:08:15.023285+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "The Porsche 944 Wagon is Finally Real! \ud83d\ude99\ud83d\udca8",
+  "summary": "CarPoint is building a very limited run of ten Porsche 944 shooting brakes based on customer coupes.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810721/porsche-944-gt-k44-shooting/"
+ },
+ {
+  "date": "2026-10-05T06:08:15.023285+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Harvey Keitel Cast in Debut Feature 'The Method'",
+  "summary": "Harvey Keitel and Mina Sundwall have been cast in Gaurav Bhardwaj's debut feature film 'The Method'.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/harvey-keitel-stars-new-york-acting-drama-method-1236898849/"
  }
 ]
