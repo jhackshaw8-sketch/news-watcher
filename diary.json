@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-02T09:05:10.205815+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "legal",
-  "headline": "New Mexico Seeks $40 Billion Penalty From Meta Over Cambridge Analytica",
-  "summary": "New Mexico is seeking $40 billion in penalties from Meta over the Cambridge Analytica scandal, arguing the fine must be severe enough to impact the company.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2275451/new-mexico-meta-40-billion-penalties-cambridge-analytica-lawsuit/"
- },
- {
-  "date": "2026-10-02T09:05:10.205815+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Lamborghini Temerario Gets a Wild Widebody Makeover! \ud83c\udfce\ufe0f\ud83d\udca8",
-  "summary": "A Californian tuner is preparing a fully reversible wild widebody redesign for the new Lamborghini Temerario.",
-  "verified": "reliable_reporter",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/lamborghini-temerario-widebody-kit-1016-industries/"
- },
- {
-  "date": "2026-10-02T09:05:10.205815+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "business",
-  "headline": "Porsche Confirms Gas Macan Return and Pure ICE Future for the 911! \ud83c\udfc1\ud83d\udd25",
-  "summary": "Porsche CEO Michael Leiters announced a mixed lineup strategy including a revived gas-powered Macan in 2028 and a commitment to keep the 911 purely gasoline.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810551/porsche-strategy-evs-911-stays/"
- },
- {
-  "date": "2026-10-02T09:05:10.205815+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "launch",
-  "headline": "Honda Updates Its Popular Budget SUV With Rugged New Style! \ud83d\ude99\u2728",
-  "summary": "Honda is refreshing its budget-friendly Elevate SUV with a revised lighting signature and upgraded interior materials.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/honda-elevate-teaser/"
- },
- {
   "date": "2026-10-02T09:39:27.106983+00:00",
   "topic": "Gaming News",
   "score": 7,
@@ -5971,5 +5927,38 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/810741/angelelli-tipo-829-italian-v6/"
+ },
+ {
+  "date": "2026-10-05T09:06:06.678163+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "business",
+  "headline": "Stellantis Vows to Fix Quality Woes After Cost-Cutting Backlash \ud83d\ude97\ud83d\udd27",
+  "summary": "Stellantis acknowledges ongoing quality issues stemming from previous cost-cutting measures and promises improvements.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/stellantis-addressing-quality-woes-heard-that-before/"
+ },
+ {
+  "date": "2026-10-05T09:06:06.678163+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "10 Cloverfield Lane Is Now Streaming For Free",
+  "summary": "J.J. Abrams' thriller 10 Cloverfield Lane is now officially streaming for free in honor of its upcoming anniversary.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/jj-abrams-sci-fi-thriller-10-cloverfield-lane-streaming-free-pluto-tv-october-2026/"
+ },
+ {
+  "date": "2026-10-05T09:06:06.678163+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Rockstar Games Drops Official GTA 6 Story Teaser",
+  "summary": "Rockstar Games has shared an official story teaser for Grand Theft Auto VI, building anticipation for its upcoming release.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/gta-6-new-story-teaser-rockstar-games/"
  }
 ]
