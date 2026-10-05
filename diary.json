@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-02T09:39:27.106983+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Bethesda Issues Cease and Desist Over AI-Generated Fallout Project",
-  "summary": "The creator of a viral AI-generated Fallout game took it offline following a cease and desist order from Bethesda.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/person-behind-viral-ai-generated-fallout-new-york-game-hauls-it-offline-says-bethesda-issued-cease-and-desist"
- },
- {
-  "date": "2026-10-02T09:39:27.106983+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Sony Brings AI-Guided Upscaling to PS5 for Wolverine and Ghost of Yotei",
-  "summary": "Sony has introduced AI-guided upscaling for the PS5, which is already available in Marvel's Wolverine and Ghost of Yotei.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei"
- },
- {
-  "date": "2026-10-02T09:39:27.106983+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "VW Revs Up Chattanooga for the Future \ud83d\ude97\ud83d\udca8",
-  "summary": "Volkswagen has restarted Atlas production in Chattanooga as it prepares for major line changes and anchors its US strategy around the plant.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810561/2027-volkswagen-atlas-production-chattanooga/"
- },
- {
-  "date": "2026-10-02T09:39:27.106983+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "business",
-  "headline": "Japanese Rivals Team Up for Quality \ud83d\udee0\ufe0f\ud83c\uddef\ud83c\uddf5",
-  "summary": "Japanese automakers including Toyota, Honda, Mazda, Suzuki, and Mitsubishi are cooperating to share ideas on vehicle quality standards.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810554/japanese-automakers-collaborate-car-quality/"
- },
- {
   "date": "2026-10-02T10:03:16.454947+00:00",
   "topic": "Gaming News",
   "score": 9,
@@ -5960,5 +5916,115 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/gta-6-new-story-teaser-rockstar-games/"
+ },
+ {
+  "date": "2026-10-05T09:42:25.733715+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "other",
+  "headline": "Remembering Steve Jobs on the 15th Anniversary of His Passing",
+  "summary": "Today marks the 15th anniversary of the passing of Apple co-founder Steve Jobs.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/05/today-15th-anniversary-steve-jobs-death/"
+ },
+ {
+  "date": "2026-10-05T09:42:25.733715+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "Apple Announces Replacement Program for Faulty iPhone 18 Pro Max Batch",
+  "summary": "Apple has announced a replacement program for a faulty batch of iPhone 18 Pro Max devices.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wy43jr/apple_offers_to_replace_faulty_batch_of_iphone_18/"
+ },
+ {
+  "date": "2026-10-05T09:42:25.733715+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "rumor",
+  "headline": "Rockstar Reveals Wild GTA 6 Research Tactics in Florida",
+  "summary": "Rockstar Games reveals details about their extensive Florida field research involving gang members, cops, and high-altitude surveillance for GTA 6.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/gta-6-research-gang-members"
+ },
+ {
+  "date": "2026-10-05T09:42:25.733715+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Jagex Faces Fan Backlash Over Generative AI Trailer",
+  "summary": "RuneScape developer Jagex faces community backlash after using generative AI in a recent promotional trailer shown at RuneFest.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai"
+ },
+ {
+  "date": "2026-10-05T09:42:25.733715+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "business",
+  "headline": "BMW Cuts 20% of Management Roles as AI Integration Expands \ud83e\udd16\ud83d\udcc9",
+  "summary": "BMW is cutting 20 percent of its management positions by leveraging artificial intelligence and streamlining its vehicle lineup.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810754/bmw-strategy-brings-management-cuts/"
+ },
+ {
+  "date": "2026-10-05T09:42:25.733715+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "Stunning Aston Martin V12 Vanquish Captured in High Resolution \u2728\ud83d\ude97",
+  "summary": "A high-resolution photo showcase of the classic Aston Martin V12 Vanquish shared by an enthusiast community.",
+  "verified": "unconfirmed",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1wy41ty/aston_martin_v12_vanquish_1638x2048/"
+ },
+ {
+  "date": "2026-10-05T09:42:25.733715+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Mazda Confirms Plans for a New Pickup Truck Successor \ud83d\udefb\ud83d\udca8",
+  "summary": "Mazda has confirmed that it will continue its pickup truck line by developing a successor to the current BT-50.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810748/mazda-new-pickup-truck-confirmed/"
+ },
+ {
+  "date": "2026-10-05T09:42:25.733715+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Glen Powell Blockbuster Dominates Streaming Charts",
+  "summary": "Glen Powell's legacy sequel is dominating streaming charts in 2026 after a strong theatrical run.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/glen-powell-twisters-streaming-success-hulu-october-2026/"
+ },
+ {
+  "date": "2026-10-05T09:42:25.733715+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "The Legend of Zelda Oracles Games Officially Returning in New Collection",
+  "summary": "The Legend of Zelda Oracles games are officially returning in a new collection.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/legend-of-zelda-master-collection-oracle-games-tcg/"
+ },
+ {
+  "date": "2026-10-05T09:42:25.733715+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "update",
+  "headline": "PlayStation Plus Users Have Until October 6 To Claim 4 Free Games",
+  "summary": "PlayStation Plus subscribers have until October 6 to claim four free games including Sniper Elite and Chained Echoes.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/playstation-plus-free-games-september-2026-last-chance/"
  }
 ]
