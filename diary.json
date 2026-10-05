@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-02T18:05:10.360604+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Original Halo Now Playable in Web Browsers",
-  "summary": "The original Halo game is now playable directly in web browsers with multiplayer support thanks to AI-driven decompilations.",
-  "verified": "reliable_reporter",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/halo-web-browser-ai-game-mods/"
- },
- {
-  "date": "2026-10-02T18:05:10.360604+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Former PlayStation Boss Advises Xbox on Exclusives",
-  "summary": "Former PlayStation boss Shawn Layden advises Xbox to pick a clear lane regarding exclusive games to improve its market position.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/dreamcast-moment-former-playstation-boss-xbox-exclusive-games"
- },
- {
-  "date": "2026-10-02T18:05:10.360604+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "OpenAI Unveils Dots Enterprise Agent Platform",
-  "summary": "OpenAI has announced Dots, a new enterprise-focused agent platform capable of handling workplace tasks as well as personal errands.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
- },
- {
-  "date": "2026-10-02T18:05:10.360604+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "business",
-  "headline": "White House Hosts Tech CEOs for AI Safety Pledge",
-  "summary": "The White House hosted major tech CEOs for an AI safety pledge and signed an executive order rebranding AI as super intelligence.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
- },
- {
-  "date": "2026-10-02T18:05:10.360604+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Rivian Sales Pop As R2 Bet Pays Off \ud83d\ude97\ud83d\udcc8",
-  "summary": "Rivian reported a significant boost in third-quarter production and deliveries driven by the rollout of its affordable R2 vehicle.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2"
- },
- {
-  "date": "2026-10-02T18:05:10.360604+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "YouTube Prioritizes Original Shorts Over Clippers",
-  "summary": "YouTube is updating its platform to prioritize original Shorts and crack down on third-party clipper accounts.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2275978/youtube-takes-aim-at-clipper-accounts-will-prioritize-original-shorts/"
- },
- {
-  "date": "2026-10-02T18:05:10.360604+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "legal",
-  "headline": "Range Rover Sport Recalled Over Subframe Defect \u26a0\ufe0f\ud83d\ude97",
-  "summary": "Land Rover is recalling 2024-2026 Range Rover Sport SUVs due to a potential cracking defect in the rear subframe.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810591/range-rover-sport-recall-subframe-cracks/"
- },
- {
   "date": "2026-10-02T18:41:39.806557+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -7170,5 +7093,192 @@
   "verified": "official",
   "source": "Variety",
   "link": "https://variety.com/2026/tv/news/chris-wayland-succeed-valari-staab-president-nbcu-local-1236899214/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Cash Adds ID Check for Reloads",
+  "summary": "Apple Cash will require identity verification via Green Dot Bank starting November 9 for card reloads.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/05/apple-cash-reload-id-check/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "Apple One Prices Increase Across 12 European Countries",
+  "summary": "Apple has raised subscription prices for Apple One Family and Premier tiers in 12 European countries.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/05/apple-one-subscribers-in-europe-hit-with-a-price-increase?utm_source=rss"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Baldur's Gate 3 Console Update Adds Massive Cheat Menu",
+  "summary": "A new official console update for Baldur's Gate 3 introduces a mod with over 300 cheat options for players on PS5 and Xbox.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/bg3-console-cheaters-menu-mod/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Arc Raiders and The Finals Headed to Film and TV",
+  "summary": "Embark Studios' games Arc Raiders and The Finals are officially being adapted into movies and TV shows by Chernin Entertainment.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/arc-raiders-the-finals-movie-tv-adaptations/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Hyundai Electric Hatch Launch \ud83d\ude97\u26a1",
+  "summary": "Hyundai has officially released its new all-electric hot hatch in the UK market with a starting price of around $25,000.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2277678/hyundai-ioniq-3-all-electric-hot-hatch-goes-on-sale-in-the-uk/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "legal",
+  "headline": "California Closes the Montana LLC Supercar Tax Loophole \ud83d\ude97\ud83d\udca8",
+  "summary": "California is taking legal action to close the loophole that allowed supercar owners to avoid local taxes using Montana LLC registrations.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810827/california-closes-montana-tax-loophole-wealthy-owners/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "Stunning RUF-Tuned Porsche 911 Turbo X50 Showcase \ud83c\udfce\ufe0f\u2728",
+  "summary": "A stunning high-resolution showcase of a classic RUF-tuned Porsche 911 Turbo X50 shared by car enthusiasts.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1wyd3ne/ruf_96_porsche_911_turbo_x50_1410x1763/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "Alfa Romeo 4C Meets Porsche 911 Targa in Great Photo \ud83d\udcf8\ud83c\udfc1",
+  "summary": "A high-resolution photo featuring an Alfa Romeo 4C paired with a Porsche 911 Targa.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1wyazb9/alfa_romeo_4c_and_porsche_911_targa_3000x4000/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Apple TV Officially Renews 'Imperfect Women' for Season 2",
+  "summary": "Apple TV has officially renewed its series Imperfect Women for a second season, with Kerry Washington leading a new chapter.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/imperfect-women-season-2-renewed-kerry-washington-apple-tv/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "update",
+  "headline": "Paramount+ Decides the Future of Taylor Sheridan's 'Tulsa King'",
+  "summary": "Paramount+ has officially made a major decision regarding the future of Taylor Sheridan's gangster series Tulsa King ahead of its upcoming season.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/tulsa-king-season-5-renewed-filming-new-york/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Tulsa King Officially Renewed For Season 5",
+  "summary": "Tulsa King has been officially renewed for Season 5 at Paramount+ with production moving to New York.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/tulsa-king-renewed-season-5-new-york-cast-1236899136/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple TV Renews Imperfect Women For Season 2",
+  "summary": "Apple TV has renewed thriller series Imperfect Women for a second season focusing on Kerry Washington's character.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/imperfect-women-renewed-season-2-kerry-washington-eleanor-1237146839/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Kerry Washington Returns for Imperfect Women Season 2",
+  "summary": "Apple TV has renewed Imperfect Women for Season 2 with star Kerry Washington returning to lead the cast.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/imperfect-women-renewed-season-2-apple-tv-kerry-washington-1236899254/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Tulsa King Season 5 Confirmed Ahead of Season 4",
+  "summary": "Paramount+ has renewed Tulsa King for a fifth season ahead of its fourth season premiere, shifting production to New York.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/tulsa-king-renewal-season-5-new-york-new-cast-1237146863/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Netflix Sci-Fi Hit Officially Ending in Two Seasons",
+  "summary": "An unnamed Netflix sci-fi series is officially ending after a planned total of three seasons.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/3-body-problem-netflix-sci-fi-series-underrated/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Paramount+ Confirms Tulsa King Season 5 Fate",
+  "summary": "Paramount+ officially confirms the season 5 renewal for Taylor Sheridan's Tulsa King ahead of upcoming releases.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/taylor-sheridan-tulsa-king-season-5-fate-paramount-plus-renewed-confirmed/"
+ },
+ {
+  "date": "2026-10-05T18:06:27.589977+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "FNAF Dev Unveils New Horror Co-op Game",
+  "summary": "A developer associated with Five Nights At Freddy's has officially unveiled a brand new horror co-op game.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/five-nights-at-freddys-dev-new-co-op-horror-exclusive/"
  }
 ]
