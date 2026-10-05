@@ -1,115 +1,5 @@
 [
  {
-  "date": "2026-10-02T15:40:24.226917+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "iOS 27.2 Brings Major Queue Fix to Apple Podcasts",
-  "summary": "iOS 27.2 introduces a long-awaited fix for the Apple Podcasts Up Next queue feature.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/02/ios-27-2-gives-apple-podcasts-the-big-fix-ive-wanted-for-years/"
- },
- {
-  "date": "2026-10-02T15:40:24.226917+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "GTA 6 Announces Wild Miami Heat NBA Crossover Event",
-  "summary": "The NBA's Miami Heat will partner with GTA 6 for a Vice City themed event and merchandise line this November.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/gta-6-vice-city-miami-heat-nba-collaboration-merch/"
- },
- {
-  "date": "2026-10-02T15:40:24.226917+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Beloved Quest Added to World of Warcraft: Forever",
-  "summary": "Blizzard has added the fan-favorite 'Kyle's Gone Missing!' quest to World of Warcraft: Forever.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/blizzard-adds-beloved-kyles-gone-missing-quest-to-world-of-warcraft-forever"
- },
- {
-  "date": "2026-10-02T15:40:24.226917+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "business",
-  "headline": "Warner Bros. and Paramount to Merge Under Skydance",
-  "summary": "Warner Bros. and Paramount will operate under the newly named parent company Skydance following their massive merger.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/batman-lord-of-the-rings-and-harry-potter-feature-in-first-trailer-for-skydance-the-newly-named-parent-company-for-a-merged-warner-bros-and-paramount"
- },
- {
-  "date": "2026-10-02T15:40:24.226917+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Pope Criticizes AI-Generated Art for Lacking Humanity",
-  "summary": "Pope Leo XIV voiced opposition to AI-generated art, stating that algorithms lack the human spark found in true art.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/"
- },
- {
-  "date": "2026-10-02T15:40:24.226917+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Nvidia Shield TV Pro Gets a Price Hike to $299",
-  "summary": "The aging Nvidia Shield TV Pro price has surprisingly increased to $299.99, nearly seven years after its initial launch.",
-  "verified": "official",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/"
- },
- {
-  "date": "2026-10-02T15:40:24.226917+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "US Telecom Giants Team Up to Eliminate Coverage Gaps",
-  "summary": "Major US carriers AT&T, T-Mobile, and Verizon have formed an official partnership to eliminate coverage gaps and compete with satellite rivals.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2275806/att-t-mobile-and-verizon-have-officially-teamed-up-to-end-coverage-gaps/"
- },
- {
-  "date": "2026-10-02T15:40:24.226917+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "SpaceX Completes Triple-Header and Blue Origin Seeks High-Volume Launch Approval",
-  "summary": "SpaceX completed a launch triple-header while Blue Origin seeks FAA approval for up to 50 New Glenn launches annually.",
-  "verified": "official",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/"
- },
- {
-  "date": "2026-10-02T15:40:24.226917+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "other",
-  "headline": "Experts Warn Users to Exercise Caution with AI Agent Data Security",
-  "summary": "Tech analysts warn users to remain cautious with their personal data despite the harmless appearance of modern AI agents.",
-  "verified": "reliable_reporter",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2275148/dont-let-the-adorable-ai-agents-fool-you/"
- },
- {
-  "date": "2026-10-02T15:40:24.226917+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "launch",
-  "headline": "Track-Ready Fun: The 2026 Hyundai Elantra N Specs Are Here! \ud83c\udfce\ufe0f\ud83d\udca8",
-  "summary": "Detailed specifications for the 2026 Hyundai Elantra N with an 8-speed DCT highlight its 276 horsepower and sub-five-second 0-60 MPH time.",
-  "verified": "official",
-  "source": "TheTopher",
-  "link": "https://www.youtube.com/watch?v=HSREywU7N9o"
- },
- {
   "date": "2026-10-02T16:04:06.613256+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -6499,5 +6389,192 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/onslaught-2026-digital-release-date/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "iCloud+ Custom Email Domains Get an Upgrade",
+  "summary": "Apple has rolled out an improved perk for iCloud+ subscribers regarding custom email domains.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/05/icloud-just-rolled-out-an-improved-perk-for-subscribers/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Podcast Discusses Apple Smart Home Plans and Leaks",
+  "summary": "The latest podcast episode discusses Apple's smart home plans and upcoming product leaks.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/05/apples-smart-home-plans-xthings-security-with-raj-sundar-on-smart-home-insider?utm_source=rss"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Apple TV 4K Reportedly Launching Next Week",
+  "summary": "Reports indicate that a new Apple TV 4K featuring two major upgrades is launching next week.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/05/new-apple-tv-4k-launches-next-week-with-two-major-upgrades/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "macOS 27 Update Fixes Third-Party HDR Display Issues",
+  "summary": "The latest macOS 27 update addresses and resolves a prominent issue affecting third-party HDR displays.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/05/macos-27-just-fixed-the-most-annoying-problem-for-third-party-hdr-displays/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Lego Reveals Three New Batman Sets for 2027",
+  "summary": "Lego has officially announced three new Batman sets launching in January 2027.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/lego-batman-new-sets-january-2027/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "Borderlands MMO Revived and Playable in English",
+  "summary": "The fan-revived Borderlands MMO project is now playable in English 11 years after its shutdown.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/borderlands/the-borderlands-mmo-is-officially-saved-and-playable-in-english-11-years-after-its-shutdown-and-17-months-after-restoration-efforts-began-we-did-it/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "PlatinumGames Teases Potential Return of Bayonetta",
+  "summary": "PlatinumGames CEO expresses a strong desire to further develop the Bayonetta character, hinting at a potential return.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/bayonetta-return-platinumgames-ceo-tease/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Garry's Mod Creator Candidly Discusses S&box Launch",
+  "summary": "The creator of Garry's Mod admits that the launch of S&box was problematic due to an overwhelming amount of low-quality content.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/garrys-mod-creator-admits-the-launch-of-s-and-box-was-s-t-and-so-was-its-free-weekend-there-being-too-much-content-is-a-problem/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Halloween: The Game Reveals Michael Myers DLC",
+  "summary": "A new DLC featuring Halloween 5: The Revenge of Michael Myers has been revealed for Halloween: The Game.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wyb2r7/halloween_5_the_revenge_of_michael_myers_dlc/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "OpenAI Rolls Out Visual Ads Alongside Image Generation",
+  "summary": "OpenAI has introduced visual ads that appear next to image generation results in the U.S.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "legal",
+  "headline": "Google Faces Major Antitrust Accusations and Potential Fine in Poland",
+  "summary": "Poland's antitrust regulator has accused Google of unfair market practices, facing a potential fine of up to 10 percent of annual revenue.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2277403/polands-antitrust-regulator-accuses-google-of-unfair-market-practices/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Walmart and Wing Expand Drone Delivery to Denver and Seattle",
+  "summary": "Wing and Walmart are expanding their drone delivery service to Denver and Seattle by 2027.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2277395/wing-and-walmart-are-bringing-drone-deliveries-to-denver-and-seattle-in-2027/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Lexus Fine-Tunes The RX At The N\u00fcrburgring \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "Lexus has updated the RX with a tweaked brake hold function and new front door glass following testing at the N\u00fcrburgring.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/lexus-fine-tuned-the-new-rx-at-the-nurburgring/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "'La Perra' Secures International Distribution After Cannes Success",
+  "summary": "Dominga Sotomayor's Cannes title 'La Perra' has secured multiple international distribution deals.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/dominga-sotomayor-cannes-directors-fortnight-la-perra-1236899156/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "New Psychological Horror 'Elise' Added to Big Canary Productions Slate",
+  "summary": "Big Canary Productions has added the psychological horror 'Elise' to its slate with a director and distributor attached.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/canada-big-canary-productions-horror-elise-distribution-1237146791/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "BookTok Hit 'Legends & Lattes' Gets Graphic Novel Adaptation",
+  "summary": "Travis Baldree's popular BookTok hit 'Legends & Lattes' is receiving a full-color graphic adaptation.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/legends-and-lattes-graphic-novel-sneak-peek-preview-pages/"
+ },
+ {
+  "date": "2026-10-05T15:41:51.653245+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "update",
+  "headline": "'Lanterns' Finale Sets Up John Stewart in 'Man of Tomorrow'",
+  "summary": "The 'Lanterns' finale officially sets up John Stewart's upcoming role in James Gunn's 'Man of Tomorrow'.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/lanterns-finale-episode-8-john-stewart-man-of-tomorrow-connection/"
  }
 ]
