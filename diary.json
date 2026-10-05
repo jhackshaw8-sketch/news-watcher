@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-02T14:41:07.666048+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "iPhone Duo available from $9/month with trade-in",
-  "summary": "Apple offers the new iPhone Duo starting at $9 per month with a trade-in through the iPhone Upgrade Program.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/02/iphone-duo-can-be-just-9-month-with-trade-in-using-apple-upgrade/"
- },
- {
-  "date": "2026-10-02T14:41:07.666048+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "business",
-  "headline": "UK Apple Store to reopen on iPhone Duo launch day",
-  "summary": "The Apple SouthGate store in the UK is reopening on the same day as the iPhone Duo launch following extensive renovations.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/02/apple-store-in-uk-reopens-on-iphone-duo-launch-day/"
- },
- {
-  "date": "2026-10-02T14:41:07.666048+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Miami Heat to Sport GTA 6-Themed Uniforms in Upcoming NBA Match",
-  "summary": "The Miami Heat are set to wear GTA 6-themed uniforms during a November basketball match against the Milwaukee Bucks.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/miami-heat-gta-6-uniform"
- },
- {
-  "date": "2026-10-02T14:41:07.666048+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Fast & Furious TV Show Coming in 2028 \ud83d\ude97\ud83d\udca8",
-  "summary": "Peacock has officially announced an unexpected Fast & Furious TV show starring Vin Diesel to premiere in 2028 alongside Fast Forever.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/fast-furious-tv-series-peacock-vin-diesel/"
- },
- {
-  "date": "2026-10-02T14:41:07.666048+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Early Hands-On Impressions of the Biggest October Video Game Releases",
-  "summary": "IGN shares early hands-on preview impressions of major upcoming October video game releases like Phantom Blade Zero and Castlevania: Belmont's Curse.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/8-big-october-games-weve-already-played-if-you-want-to-know-what-we-think-of-them-so-far"
- },
- {
-  "date": "2026-10-02T14:41:07.666048+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "Tesla Emergency Unplug Update \ud83d\ude97\ud83d\udca8",
-  "summary": "Tesla introduced a software update allowing drivers to quickly disconnect and drive off mid-charge during emergencies.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting"
- },
- {
-  "date": "2026-10-02T14:41:07.666048+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "Rugged Ready: 2027 Toyota Grand Highlander Gets Woodland Treatment \ud83d\ude99\ud83c\udf32",
-  "summary": "The 2027 Toyota Grand Highlander introduces a new Woodland Edition featuring all-terrain tires, taller springs, and increased ground clearance.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/2027-toyota-grand-highlander-debut/"
- },
- {
   "date": "2026-10-02T15:05:13.146291+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -6158,5 +6081,104 @@
   "verified": "official",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/karoline-leavitt-fox-news-white-house-press-secretary-1237146659/"
+ },
+ {
+  "date": "2026-10-05T14:42:45.703631+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "business",
+  "headline": "Ninja Theory Staff Bid Farewell as Layoffs Begin",
+  "summary": "Ninja Theory staff are bidding farewell as layoffs begin following Microsoft's decision to close the studio.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/ninja-theory-layoffs"
+ },
+ {
+  "date": "2026-10-05T14:42:45.703631+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Disney Uploads WandaVision Episodes Free on YouTube",
+  "summary": "Disney has made WandaVision episodes free on YouTube ahead of the premiere of VisionQuest on Disney Plus.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/wandavision-youtube-streaming-free-visionquest/"
+ },
+ {
+  "date": "2026-10-05T14:42:45.703631+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Palworld Cursed Dating Sim Clarified by Pocketpair Lead",
+  "summary": "Pocketpair clarifies that Palworld's dating sim project is just a small goofy side project and not a full spin-off.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/survival/palworlds-cursed-dating-sim-is-a-little-goofy-thing-and-not-a-proper-spin-off-pocketpair-lead-says-i-would-only-consider-palfarm-the-true-spin-off/"
+ },
+ {
+  "date": "2026-10-05T14:42:45.703631+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Secret Marvel Gacha Game Project Comet Leaks Online",
+  "summary": "A trailer for a new mobile Marvel gacha game titled Project Comet has leaked online.",
+  "verified": "unconfirmed",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/marvel-project-comet-trailer-leak/"
+ },
+ {
+  "date": "2026-10-05T14:42:45.703631+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "legal",
+  "headline": "Sen. Adam Schiff Discusses AI Regulation and Tech Oversight",
+  "summary": "Senator Adam Schiff discusses AI regulation, antitrust, privacy, and technology oversight with The Verge.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption"
+ },
+ {
+  "date": "2026-10-05T14:42:45.703631+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Researchers Track Chinese AI Agent Fleet Targeting Mapping Services",
+  "summary": "Researchers discovered a Chinese AI agent fleet running on Tencent's infrastructure and targeting Alibaba's Amap.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/"
+ },
+ {
+  "date": "2026-10-05T14:42:45.703631+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "OpenAI Tests Display Ads Within ChatGPT",
+  "summary": "OpenAI is currently testing the integration of display ads within ChatGPT.",
+  "verified": "reliable_reporter",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt/"
+ },
+ {
+  "date": "2026-10-05T14:42:45.703631+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Criterion Announces Massive 4K 'Complete Kubrick' Box Set",
+  "summary": "Criterion is releasing 'The Complete Kubrick,' a 30-disc collector's edition featuring all 13 feature films and three early shorts with new 4K restorations.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/the-complete-kubrick-criterion-michael-chaiken-2026-1237146577/"
+ },
+ {
+  "date": "2026-10-05T14:42:45.703631+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "LEGO Announces New 2027 Batman Sets",
+  "summary": "LEGO has officially revealed three new Batman sets scheduled for release in 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/lego-batman-2027-sets-joker-art-arkham-knight-batmobile-batman-returns/"
  }
 ]
