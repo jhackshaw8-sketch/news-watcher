@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-02T07:38:47.979777+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "legal",
-  "headline": "GM Issues Safety Recall for Select Silverado and Sierra Trucks Over Airbag Concern",
-  "summary": "General Motors is recalling 1,559 Chevrolet Silverado and GMC Sierra trucks from the 2016 and 2017 model years due to potential cracking and rupturing in the roof-rail airbag inflators.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810536/gm-silverado-sierra-airbag-recall/"
- },
- {
   "date": "2026-10-02T08:38:48.078353+00:00",
   "topic": "Cars",
   "score": 8,
@@ -5740,5 +5729,27 @@
   "verified": "unconfirmed",
   "source": "r/movies",
   "link": "https://www.reddit.com/r/movies/comments/1wy22rs/while_warner_bros_confirms_its_not_canceled_still/"
+ },
+ {
+  "date": "2026-10-05T07:41:58.035704+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Mazda Knows Enthusiasts Want The Miata Light And Analog \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "Mazda recognizes that enthusiasts prefer a light and analog Miata over an electric version right now.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810729/mazda-miata-electric-customers-uninterested/"
+ },
+ {
+  "date": "2026-10-05T07:41:58.035704+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "business",
+  "headline": "Mercedes-Benz Expected To Bypass US Ban Despite Chinese Ownership Stake \ud83c\udfdb\ufe0f",
+  "summary": "Mercedes-Benz is likely to avoid a US ban despite having nearly 20 percent Chinese ownership due to potential waivers and cutoff debates.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810730/a-us-china-car-bill/"
  }
 ]
