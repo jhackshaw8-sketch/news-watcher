@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-02T08:38:48.078353+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "BMW Unleashes the X3 M50 xDrive with 44 More HP and Stealthy Black Package \ud83c\udfce\ufe0f\ud83d\udca8",
-  "summary": "BMW introduces the new X3 M50 xDrive with an extra 44 horsepower and an optional Black Package, positioning it as the current performance peak for the lineup.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/bmw-x3-m50-update/"
- },
- {
-  "date": "2026-10-02T08:38:48.078353+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Toyota Is Now Renting Out Its Bizarre 90s Gullwing Glass-Canopy Coupe \ud83d\ude97\u2728",
-  "summary": "Toyota is adding its quirky 1990s gullwing coupe with a massive glass canopy to its growing fleet of rental classics.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810545/toyota-renting-classic-gullwing-coupe/"
- },
- {
   "date": "2026-10-02T09:05:10.205815+00:00",
   "topic": "Tech News",
   "score": 9,
@@ -5817,5 +5795,181 @@
   "verified": "official",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/brian-cox-youtube-deal-sony-bbc-presenter-scientist-1237146484/"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "iPhone 18 Pro Rumored to Feature Slimmer Dynamic Island Cutout",
+  "summary": "Rumors suggest the upcoming iPhone 18 Pro will feature a slimmed-down Dynamic Island cutout that impacts triple Live Activity support.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/05/iphone-18-pro-three-live-activities-dynamic-island/"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "Arc Raiders Launches Big 'Frozen Trail' Update With Free Trial",
+  "summary": "Arc Raiders is hosting a four-day free trial to celebrate the release of its major new update, Frozen Trail.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Google Fitbit Edge Leaks With Pixel 11 Colors",
+  "summary": "Google's upcoming Fitbit Edge has leaked, showing a built-in screen and color options matching the Pixel 11.",
+  "verified": "unconfirmed",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2276917/google-fitbit-edge-leaks-out-with-a-screen-and-pixel-11-colors/"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Qualcomm Licenses Huawei Chip Tech Patents",
+  "summary": "Qualcomm has licensed patents related to Huawei's LogicFolding chip technology.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wy361m/qualcomm_licenses_patents_on_huaweis_logicfolding/"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "legal",
+  "headline": "Maryland Passes Law Against Surveillance Pricing",
+  "summary": "Maryland has passed a new law targeting algorithmic surveillance pricing to protect consumer costs.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wy173m/marylands_new_law_targets_surveillance_pricing_as/"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "legal",
+  "headline": "Labour Promises Car Right-to-Repair \ud83d\ude97\ud83d\udd27",
+  "summary": "The UK Labour party has promised to introduce a right-to-repair policy specifically for cars.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wy0vcw/labour_promises_right_to_repair_for_cars/"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "launch",
+  "headline": "World's Tallest Wind Turbine Built in Germany",
+  "summary": "Germany has constructed the world's tallest wind turbine, reaching a height of nearly 1,200 feet.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wxx77l/worlds_tallest_wind_turbine_reaches_nearly_1200/"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Pentagon Backs Space-Based Solar Power Plan",
+  "summary": "The Pentagon is backing an ambitious initiative to beam solar power down from space.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wxv2jc/pentagon_backs_ambitious_plan_to_beam_solar_power/"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Why Tech Giants Are Eyeing Space for AI Data Centers",
+  "summary": "Tech companies are increasingly exploring space-based data centers to handle soaring AI workloads.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wxtjq2/why_tech_companies_are_racing_to_put_ai_data/"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "The Rise of Fragmented, Country-Specific Internets",
+  "summary": "An analysis highlights how geopolitical fragmentation is leading to heavily regulated, country-specific internet ecosystems.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wxsq77/every_country_has_its_own_internet_now/"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "New 'Super Intelligence Force' Launched",
+  "summary": "A new 'Super Intelligence Force' initiative has been launched following public discussions around regulating AI growth.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wxrxsx/trump_launches_super_intelligence_force_after/"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Sam Altman Says World Must Accept Some Risks for AI",
+  "summary": "OpenAI CEO Sam Altman argued that society must accept some negative outcomes to unlock the broader benefits of AI.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wxr6az/sam_altman_to_decoded_the_world_should_accept/"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Texas Resident Fights Data Center Over Proposed Park Land",
+  "summary": "Local residents in Texas are fighting to prevent a planned public park site from being converted into a data center.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wxpl2i/a_texas_woman_is_fighting_to_preserve_land_that/"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Musk Announces Plan to Rename SpaceX Unit",
+  "summary": "Elon Musk announced plans to rename a corporate entity from SpaceXAI to SpaceXSI.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wxoywg/musk_says_he_will_rename_spacexai_to_spacexsi/"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Lanzante's Extreme 95-59 HDK Carbon Monster Drops! \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "Lanzante has revealed the extreme 95-59 HDK featuring wild carbon fiber elements, including a front splitter, roof scoop, and a massive rear wing.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/lanzante-95-59-high-downforce-kit/"
+ },
+ {
+  "date": "2026-10-05T08:42:42.108263+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "New Italian Tipo 829 Sports Car Debuts in Three Flavors! \ud83c\uddee\ud83c\uddf9\ud83d\ude97",
+  "summary": "Angelelli Automobili has proposed a new Italian sports car, the Tipo 829, offered in Terra, Strada, and Pista variants powered by a 3.2-liter V6 engine.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810741/angelelli-tipo-829-italian-v6/"
  }
 ]
