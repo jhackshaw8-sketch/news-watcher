@@ -8039,5 +8039,115 @@
   "verified": "official",
   "source": "Variety",
   "link": "https://variety.com/2026/legit/news/aafca-broadway-luncheon-andre-deshields-brandon-dirden-jasmine-cephas-jones-cheryl-wills-1236899466/"
+ },
+ {
+  "date": "2026-10-05T22:36:41.736219+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "macOS Beta Hints at Potential Touchscreen MacBooks",
+  "summary": "The latest macOS 27.2 beta includes references to new touch gestures, fueling speculation about future touchscreen MacBooks.",
+  "verified": "reliable_reporter",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/05/macos-development-continues-to-hint-at-touchscreen-macbooks?utm_source=rss"
+ },
+ {
+  "date": "2026-10-05T22:36:41.736219+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "No New Watch Dogs Games Expected Anytime Soon",
+  "summary": "Ubisoft acknowledges the importance of the Watch Dogs franchise but confirms no new entries are planned for the near future.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/ubisoft-boss-says-watch-dogs-is-important-to-companys-future-but-dont-expect-any-new-entries-anytime-soon"
+ },
+ {
+  "date": "2026-10-05T22:36:41.736219+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "Overwatch Season 5 Skins, Hero, and Map Revealed",
+  "summary": "Blizzard reveals Overwatch Season 5 featuring a new hero, a new map, and Halloween and Solo Leveling themed skins.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/overwatch-season-5-skins-tech-witches-halloween-battle-pass/"
+ },
+ {
+  "date": "2026-10-05T22:36:41.736219+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "update",
+  "headline": "Kia's New Sportage Takes Shape With Dramatic Styling \ud83d\ude99\u2728",
+  "summary": "Spy shots reveal that the upcoming Kia Sportage is adopting a dramatic new design language inspired by Hyundai's Tucson.",
+  "verified": "reliable_reporter",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/kias-new-sportage-takes-shape-with-dramatic-new-design/"
+ },
+ {
+  "date": "2026-10-05T22:36:41.736219+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Project Earnie: The Ultimate Restored Land Rover Discovery \ud83d\udee0\ufe0f\ud83d\ude99",
+  "summary": "Project Earnie is a meticulously restored and upgraded Series II Land Rover Discovery featuring bespoke brown leather and modern infotainment.",
+  "verified": "reliable_reporter",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/project-earnie-perfect-land-rover-series-ii-discovery/"
+ },
+ {
+  "date": "2026-10-05T22:36:41.736219+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Mahershala Ali's Thriller Surges 326% at the Box Office",
+  "summary": "Mahershala Ali's thriller Your Mother Your Mother Your Mother saw a massive 326% box office surge in its second weekend.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/mahershala-ali-your-mother-your-mother-your-mother-box-office-surge/"
+ },
+ {
+  "date": "2026-10-05T22:36:41.736219+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Mayor of Kingstown Arrives on Netflix Today",
+  "summary": "Taylor Sheridan's hit crime thriller series Mayor of Kingstown, starring Jeremy Renner, officially premieres on Netflix today.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/mayor-of-kingstown-taylor-sheridan-best-action-crime-series-streaming-netflix/"
+ },
+ {
+  "date": "2026-10-05T22:36:41.736219+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Controversial Uncensored Anime Episode Dated for 2026",
+  "summary": "An uncensored version of a controversial anime episode is officially scheduled to release in November 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/controversial-rent-a-girlfriend-release-blu-ray-censorship/"
+ },
+ {
+  "date": "2026-10-05T22:36:41.736219+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Marvel Reveals Venom's True Form Without a Host",
+  "summary": "Marvel has officially revealed the true, hostless form of the Venom symbiote after 38 years.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/venom-true-form-design-eddie-brock-symbiote/"
+ },
+ {
+  "date": "2026-10-05T22:36:41.736219+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "NCIS Returns for Season 24 Premiere",
+  "summary": "NCIS season 24 is set to premiere on CBS in just 24 hours.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/ncis-season-24-premiere-new-era/"
  }
 ]
