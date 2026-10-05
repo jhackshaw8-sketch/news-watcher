@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-02T01:08:06.583459+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Stellantis Patent Proposes Ejectable EV Batteries for Emergencies \ud83d\udd0b\ud83d\ude97",
-  "summary": "Stellantis has patented an emergency system that allows an electric vehicle to physically eject its high-voltage battery.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/stellantis-patent-lets-ev-ditch-battery-drive-away/"
- },
- {
   "date": "2026-10-02T02:04:35.962977+00:00",
   "topic": "Cars",
   "score": 6,
@@ -5278,5 +5267,236 @@
   "verified": "reliable_reporter",
   "source": "Variety Film",
   "link": "https://variety.com/2026/film/box-office/korea-box-office-the-assassins-admissions-lead-1236898809/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "OLED MacBook Pros Expected to Be Considerably Lighter",
+  "summary": "Mark Gurman reports that upcoming MacBook Pro models with OLED displays will feature a significantly lighter design due to internal reengineering.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/04/oled-macbook-pro-significantly-lighter-rumor/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "BOBABOMB Drops First Trailer for 16-Player Bubble Party Chaos",
+  "summary": "Two Shrimps Studio has released the first trailer and mechanic details for BOBABOMB, a 16-player multiplayer party game about blowing boba tea bubbles.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wxvghz/bobabomb_two_shrimps_studio_a_party_game_where/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Open-World Satire Sandrider Showcases Creator-Mogging Gameplay",
+  "summary": "GameMog has shared a trailer for Sandrider, an open-world satirical game where players try to mog other creators and defeat the worm.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wxums5/sandrider_gamemog_compete_with_other_creators_to/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Ubisoft Names Generative AI Initiative 'Motherbrain'",
+  "summary": "Ubisoft has named its generative AI gaming initiative 'Motherbrain', according to a new report from Kotaku.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wxufne/ubisoft_has_lovingly_named_its_genai_gaming/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Crown Control Gameplay Trailer Highlights Co-op Deckbuilding",
+  "summary": "Melioarc has released a gameplay trailer for Crown Control, a tactical roguelike deckbuilder supporting 1-4 players in online co-op.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wxsn8z/crown_control_melioarc_online_coop_rpg_roguelike/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "The Finals Season 12 Update Teases Next-Level Destruction",
+  "summary": "Embark Studios has showcased next-level destruction coming to the Season 12 update for their free-to-play multiplayer shooter, The Finals.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wxqyvz/next_level_destruction_showcased_by_embark/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Futuristic Arcade Racer G-VORA Announced With Split-Screen",
+  "summary": "Ma\u00f1ana studios announced G-VORA, a futuristic anti-gravity arcade racer featuring local split-screen and combat mechanics inspired by F-Zero.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wxpmfw/gvora_ma\u00f1ana_studios_futuristic_antigravity/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Civilization Sandbox New Dawn Protocol Teases Planetary Rebuilding",
+  "summary": "Solo developer Udara shared a look at New Dawn Protocol, a globe-scale civilization sandbox about rebuilding a post-silence planet.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wxn722/new_dawn_protocol_unms_a_globescale_civilization/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Limbival Announced As Arena Shooter Where You Use Enemy Limbs",
+  "summary": "Cryers For The Future announced Limbival, a circus-themed roguelite arena shooter where players rip off enemy limbs to use as weapons.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wxmdhc/limbival_cryers_for_the_future_a_roguelite_arena/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "StarVaders Spin-Off Dicevaders Officially Launches",
+  "summary": "Pengonauts has officially launched Dicevaders, a dice-based roguelike spin-off set in the StarVaders universe.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wxm5ih/dicevaders_pengonauts_just_launched_our_dice/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Horror-Simulator THE GROUNDSKEEPER Blends Cleaning With Paranormal",
+  "summary": "THE GROUNDSKEEPER is an upcoming simulation-horror game combining PowerWash Simulator mechanics with paranormal entity survival.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wxl4qq/the_groundskeeper_dtheprodev_powerwash_simulator/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "First-Person Chaos Cooking Game WE ARE COOKING Revealed",
+  "summary": "Maciej & Jacek released a trailer and Steam page for WE ARE COOKING, an Overcooked-style chaotic cooking game viewed through the chef's eyes.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wxl27s/we_are_cooking_maciejjacek_overcookedlike_chaos/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Ant Colony Simulator Antopolis Releases Playable Demo",
+  "summary": "Emily Horton released a playable demo for Antopolis, positioning it as an exceptionally detailed ant colony simulation game.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wxj835/antopolis_emily_horton_detailed_ant_sim/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Roguelike Dungeon Crawler End of End Releases First Demo",
+  "summary": "Squidboat has released the first demo for End of End, their modern take on classic roguelike dungeon crawlers built in Godot.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wxix5x/end_of_end_squidboat_a_modern_take_on_the_classic/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Retro TV Show Dice Deckbuilder The Zibbo Show Drops Demo",
+  "summary": "Tessera Studios launched a free Steam demo for The Zibbo Show, a dice deckbuilder set inside a retro sci-fi game show.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wxink0/the_zibbo_show_tessera_studios_roguelike_dice/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Incremental Horde FPS They Are Adorable Releases Steam Demo",
+  "summary": "3kittens released a Steam demo for They Are Adorable, an incremental tower defense FPS featuring hordes of cute creatures.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wxifv7/they_are_adorable_3kittens_incremental_tower/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Korean Directors Rally Behind 'The Assassin(s)' Amid Political Backlash",
+  "summary": "The Directors Guild of Korea has publicly supported the filmmakers of 'The Assassin(s)' amidst a political controversy surrounding the box office hit.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/the-assassins-korea-directors-guild-1236898817/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Luke Grimes Breaks Down 'Marshals' Season 2 Premiere Twist",
+  "summary": "Luke Grimes discusses the fallout from the brutal 'Marshals' Season 2 premiere and hints at what lies ahead for the characters.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/marshals-season-2-premiere-death-luke-grimes/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Channing Dungey Lined Up for Expanded Paramount-WBD Role",
+  "summary": "Channing Dungey is reportedly lined up for an expanded post-merger role overseeing Paramount and WBD cable networks.",
+  "verified": "reliable_reporter",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/channing-dungey-role-skydance-paramount-wbd-cable-networks-1237146154/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Stephen King Unveils First Look at His Disney Series Debut",
+  "summary": "Stephen King has officially shared the first clip of his upcoming debut appearance in a returning Disney series.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/stephen-king-debut-clip-big-city-greens-disney/"
+ },
+ {
+  "date": "2026-10-05T01:38:50.000283+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Surprise Release of The Legend of Zelda: Temple of Seasons Announced",
+  "summary": "The Legend of Zelda: Temple of Seasons has received a surprise release for fans of the Oracle series.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/legend-of-zelda-temple-of-seasons-play-now/"
  }
 ]
