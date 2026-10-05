@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-02T22:37:34.383678+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Lyft Settles California Worker Lawsuit for $272.5M",
-  "summary": "Lyft has agreed to pay $272.5 million to settle a major worker classification lawsuit brought by the state of California.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2276430/lyft-agrees-to-pay-272-5-million-to-settle-worker-classification-lawsuit/"
- },
- {
-  "date": "2026-10-02T22:37:34.383678+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "update",
-  "headline": "Testing the Corvette Stingray & Z06 on the Track \ud83c\udfce\ufe0f\ud83d\udd25",
-  "summary": "A track review of the Chevrolet Corvette Stingray and Z06 highlights their incredible performance on the circuit.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/chevrolet-corvette-stingray-z06-track-review/"
- },
- {
   "date": "2026-10-02T23:35:40.099199+00:00",
   "topic": "Tech News",
   "score": 7,
@@ -8149,5 +8127,115 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/ncis-season-24-premiere-new-era/"
+ },
+ {
+  "date": "2026-10-05T23:03:21.600813+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "update",
+  "headline": "Tool Frees Up Apple Intelligence Mac Storage",
+  "summary": "A new open-source tool allows macOS users to free up storage by removing Apple Intelligence files, though caution is advised.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/05/this-tool-frees-up-apple-intelligence-storage-on-macos-but-think-twice-before-using-it/"
+ },
+ {
+  "date": "2026-10-05T23:03:21.600813+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "macOS 27.2 Rumored to Add Touch Gestures",
+  "summary": "macOS 27.2 is rumored to introduce touch gestures in anticipation of a future MacBook Ultra release.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wymy0p/macos_272_adds_touch_gestures_ahead_of_macbook/"
+ },
+ {
+  "date": "2026-10-05T23:03:21.600813+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "OLED MacBook Pro Rumored for November",
+  "summary": "Rumors suggest an OLED MacBook Pro with a touchscreen and lighter build could arrive as early as November.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wymk70/apple_oled_macbook_pro_could_arrive_by_november/"
+ },
+ {
+  "date": "2026-10-05T23:03:21.600813+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "MCP Agent Protocol Sparks Security Concerns Over Malicious Prompts",
+  "summary": "The Model Context Protocol (MCP) for agent-to-agent communication introduces significant security risks regarding malicious prompt propagation.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
+ },
+ {
+  "date": "2026-10-05T23:03:21.600813+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "launch",
+  "headline": "Mazda's New Electric SUV Lets You Talk to Pedestrians Through the Grille \ud83d\ude97\ud83d\udd0a",
+  "summary": "The new Mazda CX-6e electric SUV features a front speaker system that allows drivers to project custom text and live voice messages to pedestrians.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810784/mazda-cx-6e-external-announcement/"
+ },
+ {
+  "date": "2026-10-05T23:03:21.600813+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Marshals Season 2 Explores Season 1's Most Tragic Death",
+  "summary": "Marshals Season 2 reveals how Tom Weaver's actions in Season 1 directly led to a major tragedy for the team.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/marshals-season-2-episode-1-weaver-double-g-garrett-death/"
+ },
+ {
+  "date": "2026-10-05T23:03:21.600813+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Verity Box Office Success Heralds More Colleen Hoover Adaptations",
+  "summary": "The strong box office performance of Verity starring Anne Hathaway paves the way for future Colleen Hoover film adaptations.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2278243/verity-box-office-future-colleen-hoover-adaptations-meaning/"
+ },
+ {
+  "date": "2026-10-05T23:03:21.600813+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Amazon's Eight Billion Genies Adaptation Gets Positive Progress Update",
+  "summary": "Charles Soule shares an extremely positive progress update on Amazon's Eight Billion Genies adaptation with writer Rodney Rothman.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/eight-billion-genies-adaptation-update-charles-soule-rodney-rothman/"
+ },
+ {
+  "date": "2026-10-05T23:03:21.600813+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "HBO's Lanterns Finale Introduces Major Green Lantern Lore Twist",
+  "summary": "The HBO Lanterns finale officially introduces a defining piece of Green Lantern lore with a twist for John Stewart.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/lanterns-episode-8-season-finale-yellow-ring/"
+ },
+ {
+  "date": "2026-10-05T23:03:21.600813+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "legal",
+  "headline": "Subscribers File Supreme Court Petition To Halt Paramount-WBD Merger",
+  "summary": "Paramount subscribers have filed a Supreme Court petition to temporarily halt the impending merger with Warner Bros. Discovery.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/paramount-warner-bros-supreme-court-1237147278/"
  }
 ]
