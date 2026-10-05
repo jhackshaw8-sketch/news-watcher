@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-02T02:04:35.962977+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "Porsche & Audi Street Racers Busted After Hitting 107 MPH \ud83c\udfce\ufe0f\ud83d\udca8",
-  "summary": "Dashcam footage captures street racers in a Porsche 911 and Audi R8 hitting 107 mph in a 35-mph zone before police intercept them in Washington.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/dashcam-shows-street-racer-hitting-107-mph-in-a-35-mph-zone/"
- },
- {
   "date": "2026-10-02T04:04:23.160407+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -5575,5 +5564,82 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/marshals-season-2-episode-1-dutton-ranch-crossover-tate-weaver/"
+ },
+ {
+  "date": "2026-10-05T02:40:01.651436+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "John Ternus Prioritizes Product Design as New Apple CEO",
+  "summary": "New Apple CEO John Ternus has reportedly made product design a major priority within the company.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/04/john-ternus-making-design-a-major-priority/"
+ },
+ {
+  "date": "2026-10-05T02:40:01.651436+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Lego Zelda Set Announced",
+  "summary": "Nintendo and Lego have announced an official Legend of Zelda: Ocarina of Time set to celebrate the series' 40th anniversary.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-lego-set/"
+ },
+ {
+  "date": "2026-10-05T02:40:01.651436+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "'A Tale of Two Cities' Star Breaks Down Finale's Heartbreaking Ending",
+  "summary": "Star Mirren Mack discusses the heartbreaking finale and romantic arcs of the recent adaptation of 'A Tale of Two Cities'.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/a-tale-of-two-cities-finale-twist-love-triangle-mirren-mack/"
+ },
+ {
+  "date": "2026-10-05T02:40:01.651436+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Marvel Debuts New Ghost Rider Design",
+  "summary": "Marvel has officially revealed a new design for Johnny Blaze's Ghost Rider.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/ghost-rider-new-design-revealed-halo/"
+ },
+ {
+  "date": "2026-10-05T02:40:01.651436+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "DC Turns The Flash Into An Anti-Hero",
+  "summary": "DC shifts The Flash into an anti-hero role in a new comic storyline.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/wally-west-flash-become-antihero-dc/"
+ },
+ {
+  "date": "2026-10-05T02:40:01.651436+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Tom Hardy Begins MobLand Season 2 Tradition",
+  "summary": "Tom Hardy has officially kicked off a new intense tradition for the second season of MobLand.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/mobland-season-2-episode-3-frankie-harry-meetings-tradition/"
+ },
+ {
+  "date": "2026-10-05T02:40:01.651436+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "James Gunn's Superman Sequel Starts Early on HBO Max",
+  "summary": "A new HBO Max release marks the early start for James Gunn's upcoming Superman sequel, Man of Tomorrow, ahead of its 2027 release.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/james-gunn-superman-man-of-tomorrow-lanterns-hbo-max-setup/"
  }
 ]
