@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-02T10:03:16.454947+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "GTA 6 Official Rating Confirms Mature Content Details",
-  "summary": "GTA 6 has received official age ratings in multiple countries, confirming the presence of explicit sexual content in the game.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/grand-theft-auto-gta-6-sex-scenes-rating-mature/"
- },
- {
-  "date": "2026-10-02T10:03:16.454947+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Suno Expands AI Audio Tools With New Spoken Voice Generation Beta \ud83c\udfa4",
-  "summary": "AI music platform Suno is expanding its capabilities by launching a public beta feature that generates spoken voiceovers alongside background music.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
- },
- {
-  "date": "2026-10-02T10:03:16.454947+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "legal",
-  "headline": "California Legalizes Balcony Solar Installations For Residents \u2600\ufe0f",
-  "summary": "California has become the tenth US state to legalize balcony solar installations, opening up new clean energy options for residents.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2275466/california-legalizes-balcony-plug-in-solar/"
- },
- {
   "date": "2026-10-02T10:38:34.211883+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -6026,5 +5993,38 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/playstation-plus-free-games-september-2026-last-chance/"
+ },
+ {
+  "date": "2026-10-05T10:06:59.909987+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "EU Users Facing Longer Wait for Siri AI",
+  "summary": "EU users might face a months-long wait for the upgraded Siri AI, according to Mark Gurman.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/05/extended-eu-wait-predicted-for-siri-ai/"
+ },
+ {
+  "date": "2026-10-05T10:06:59.909987+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "UK Police Test Hyundai Ioniq 9 EV For Highway Duty \ud83d\ude93\u26a1",
+  "summary": "British traffic officers are testing the all-electric Hyundai Ioniq 9 for potential frontline highway duty.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/british-traffic-officers-testing-ioniq-9-ev/"
+ },
+ {
+  "date": "2026-10-05T10:06:59.909987+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "CD Projekt Red Confirms The Witcher 4 Map Size Details",
+  "summary": "CD Projekt Red has officially confirmed details regarding The Witcher 4 map size and features, hinting at Ciri's journey.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/witcher-4-map-size-official/"
  }
 ]
