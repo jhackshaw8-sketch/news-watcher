@@ -8237,5 +8237,93 @@
   "verified": "official",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/paramount-warner-bros-supreme-court-1237147278/"
+ },
+ {
+  "date": "2026-10-05T23:35:27.340347+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Apple Reportedly Planning to Track Google Chrome Promos in Safari",
+  "summary": "Apple is reportedly preparing to track how Google promotes Chrome and the Google app within the Safari browser.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/05/apple-may-soon-track-when-google-promotes-chrome-inside-safari/"
+ },
+ {
+  "date": "2026-10-05T23:35:27.340347+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Google Reportedly Expands Gemini 'Call for Me' to Personal Contacts",
+  "summary": "Google may be expanding its AI-powered 'Call for Me' feature to personal contacts based on findings from an APK teardown.",
+  "verified": "unconfirmed",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
+ },
+ {
+  "date": "2026-10-05T23:35:27.340347+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Fiat & Maserati Reveal Advanced AI Hands-Free Driving Prototypes \ud83d\ude97\ud83d\udca8",
+  "summary": "Fiat and Maserati have introduced new Level 2++ hands-free driving prototypes powered by Wayve AI Driver technology.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/fiat-maserati-autonomous-prototypes/"
+ },
+ {
+  "date": "2026-10-05T23:35:27.340347+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Neon Launches Oscar Campaign for Artificial",
+  "summary": "Neon has launched an Oscar campaign for Andrew Garfield and Yura Borisov for their roles in the upcoming film 'Artificial'.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/awards/artificial-oscars-campaign-andrew-garfield-supporting-actor-1236899378/"
+ },
+ {
+  "date": "2026-10-05T23:35:27.340347+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Spirited Away Returns to Theaters for 25th Anniversary",
+  "summary": "Hayao Miyazaki\u2019s Oscar-winning masterpiece 'Spirited Away' is officially returning to theaters for a special five-night anniversary run.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/spirited-away-25th-anniversary-theaters-october-2026/"
+ },
+ {
+  "date": "2026-10-05T23:35:27.340347+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Anya Taylor-Joy and Chris Evans Star in Sacrifice Coming to Netflix",
+  "summary": "The new thriller 'Sacrifice', starring Anya Taylor-Joy and Chris Evans, is officially scheduled to hit Netflix next week.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/anya-taylor-joy-sacrifice-streaming-release-date-netflix-october-16-2026/"
+ },
+ {
+  "date": "2026-10-05T23:35:27.340347+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "business",
+  "headline": "WBD Executive JB Perrette Moves to Skydance Leadership Team",
+  "summary": "Warner Bros. Discovery streaming veteran JB Perrette has made the move to join Skydance's new executive leadership team under David Ellison.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/skydance-david-ellison-zaslav-jb-perrette-streaming-executive-1237146730/"
+ },
+ {
+  "date": "2026-10-05T23:35:27.340347+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Top Five New Paramount+ Series to Watch This Week",
+  "summary": "Paramount+ has highlighted its top five new series to stream for the week of October 5 through October 9, 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/best-new-paramount-plus-shows-to-watch-week-october-5-2026/"
  }
 ]
