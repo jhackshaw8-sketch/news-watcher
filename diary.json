@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-03T03:44:00.298335+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Apple Advises iPhone 18 Pro Max Replacements for AT&T Bug",
-  "summary": "Apple has confirmed a cellular service issue affecting a small number of iPhone 18 Pro Max users on AT&T and advised them to get their devices replaced.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/"
- },
- {
-  "date": "2026-10-03T03:44:00.298335+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Users Discuss Apple's Replacement Fix for AT&T iPhone Bug",
-  "summary": "Reddit discussions highlight Apple's official guidance for iPhone 18 Pro Max users experiencing cellular failures on AT&T to seek device replacements.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wwcygp/apple_says_iphone_18_pro_max_users_with_att/"
- },
- {
   "date": "2026-10-03T08:03:31.581575+00:00",
   "topic": "Gaming News",
   "score": 5,
@@ -8831,5 +8809,82 @@
   "verified": "unconfirmed",
   "source": "r/movies",
   "link": "https://www.reddit.com/r/movies/comments/1wyq645/unabomber_should_you_see_it/"
+ },
+ {
+  "date": "2026-10-06T04:05:30.354749+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Apple Rumored to Plan Double Product Launches in October",
+  "summary": "Sources claim Apple is planning two distinct product launch events in October.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wys1pl/macrumors_sources_apple_planning_two_sets_of/"
+ },
+ {
+  "date": "2026-10-06T04:05:30.354749+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "Stunning Ferrari 458 Speciale and 488 Pista Duo Spotted \ud83c\udfce\ufe0f\ud83d\udd25",
+  "summary": "A high-resolution photo showcasing a stunning duo of Ferrari V8 track specials, the 458 Speciale and the 488 Pista.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1wysjkp/ferrari_duo_458_speciale_488_pista_3277x4096/"
+ },
+ {
+  "date": "2026-10-06T04:05:30.354749+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "other",
+  "headline": "BMW 740 and M8 Side-by-Side Showcase \ud83d\ude97\ud83d\udca8",
+  "summary": "An enthusiast photo post featuring a BMW 740 and a high-performance M8 parked together.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1wyoqsh/bmw_740_and_m8_4032x2268/"
+ },
+ {
+  "date": "2026-10-06T04:05:30.354749+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Luca Guadagnino's AI Docudrama 'Artificial' Earns Rave Reviews",
+  "summary": "Luca Guadagnino's 'Artificial', starring Andrew Garfield as Sam Altman, receives critical acclaim as a brilliant tech-geek docudrama about the origins of OpenAI.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/reviews/artificial-review-andrew-garfield-luca-gaudagnino-1236898663/"
+ },
+ {
+  "date": "2026-10-06T04:05:30.354749+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Cult Classic 'Attack of the Killer Tomatoes' Officially Getting First Sequel in 34 Years",
+  "summary": "The cult sci-fi franchise Attack of the Killer Tomatoes is officially returning with a new sequel 34 years after the last installment.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/attack-of-the-killer-tomatoes-organic-intelligence-streaming-interview-directors/"
+ },
+ {
+  "date": "2026-10-06T04:05:30.354749+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Late-Night Hosts Skip Media Merger News",
+  "summary": "Jon Stewart and John Oliver avoided discussing the major Skydance-Warner Bros. Discovery media merger on their respective late-night shows.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/jon-stewart-daily-show-skydance-david-ellison-ai-1236899825/"
+ },
+ {
+  "date": "2026-10-06T04:05:30.354749+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Mistborn Returns in Fall 2026 With Three New Books",
+  "summary": "Brandon Sanderson's Mistborn universe is officially returning in Fall 2026 with the release of three new books.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/brandon-sanderson-mistborn-3-new-books-fall-2026/"
  }
 ]
