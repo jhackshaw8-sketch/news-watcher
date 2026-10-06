@@ -8655,5 +8655,60 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/avengers-endgame-encore-marvel-infinity-vision-extra-scenes/"
+ },
+ {
+  "date": "2026-10-06T02:39:45.631823+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Apple Rumored to Host Multiple Product Launches in October",
+  "summary": "Apple is reportedly planning two separate sets of product launches in October, including a home hub, HomePod mini, Apple TV 4K, and additional devices later in the month.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/05/apple-two-sets-of-product-launches-october/"
+ },
+ {
+  "date": "2026-10-06T02:39:45.631823+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Apple Opens App Store for iPhone Duo-Ready Apps",
+  "summary": "Apple has invited developers to submit apps optimized for the new iPhone Duo to the App Store.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wyr18s/apple_invites_developers_to_submit_iphone/"
+ },
+ {
+  "date": "2026-10-06T02:39:45.631823+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "business",
+  "headline": "Nissan Opens First Overseas Nismo Center in Australia! \ud83c\udfce\ufe0f\ud83c\udde6\ud83c\uddfa",
+  "summary": "Nissan has opened its first Nismo Performance Center outside of Japan in Melbourne, Australia, to cater to classic Skyline, GT-R, and Z owners.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/nismo-opens-shop-in-australia-to-cater-to-classic-skyline-and-gt-r-demands/"
+ },
+ {
+  "date": "2026-10-06T02:39:45.631823+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Andrew Garfield Reflects on Playing Sam Altman in Artificial",
+  "summary": "Andrew Garfield discussed his initial impression of Sam Altman prior to portraying the OpenAI CEO in Luca Guadagnino's film Artificial at its New York Film Festival premiere.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/andrew-garfield-sam-altman-movie-artificial-nyff-premiere-luca-guadagnino-1236894719/"
+ },
+ {
+  "date": "2026-10-06T02:39:45.631823+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Skydance Overhauls International Division Post-Merger",
+  "summary": "Skydance is fully reorganizing its international operations following its combination with Warner Bros. Discovery, with executive Kevin MacLellan not moving forward into the top global role.",
+  "verified": "reliable_reporter",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/skydance-reorganize-international-kevin-maclellan-1236899732/"
  }
 ]
