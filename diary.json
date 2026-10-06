@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-03T10:48:53.767003+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Memory Shortages to Persist Until 2028 Warns Micron",
-  "summary": "Micron CEO warns that global RAM shortages will persist through 2028 due to high demand, impacting future hardware availability.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand"
- },
- {
   "date": "2026-10-03T11:43:54.462686+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -9546,5 +9535,93 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/the-housemaid-streaming-on-hbo-max-october-9-2026/"
+ },
+ {
+  "date": "2026-10-06T11:05:06.574801+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Apple Fires Back at OpenAI in Ongoing Trade Secret Lawsuit",
+  "summary": "Apple and OpenAI continue exchanging legal filings and arguments in the ongoing trade secret theft lawsuit.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/06/dont-change-the-subject-apple-tells-openai-over-its-lawsuit?utm_source=rss"
+ },
+ {
+  "date": "2026-10-06T11:05:06.574801+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "CD Projekt Red Details Next Witcher 3 Remaster Patches",
+  "summary": "CD Projekt Red outlines upcoming patches for The Witcher 3 Remastered amid ongoing community division over recent changes.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/cd-projekt-red-witcher-3-bugs-issues-remastered-ps5"
+ },
+ {
+  "date": "2026-10-06T11:05:06.574801+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Halo Studios Teases Halo 7 With New Concept Art",
+  "summary": "Halo Studios reveals new concept art for Halo 7, teasing an ancient and terrifying new creature.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/halo/now-that-halo-7-is-over-at-activision-halo-studios-releases-concept-art-for-their-version-of-the-fps-teasing-an-ancient-terrible-creature-guarded-by-a-timelock/"
+ },
+ {
+  "date": "2026-10-06T11:05:06.574801+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Amazon Alexa Plus Bug Causes Creepy 'Lalala' Singing Loop",
+  "summary": "An Amazon Alexa Plus bug is causing certain Echo devices to repeatedly sing 'lalala' for minutes on end without user prompting.",
+  "verified": "reliable_reporter",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end"
+ },
+ {
+  "date": "2026-10-06T11:05:06.574801+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "business",
+  "headline": "\u26a1 Chevy Bolt Faces Production Cuts at Dealerships \ud83d\udcc9",
+  "summary": "Chevrolet is reportedly slashing production plans for the new Chevy Bolt down to just 35,000 units.",
+  "verified": "unconfirmed",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/2027-chevy-bolt-service-notice-water-leak/"
+ },
+ {
+  "date": "2026-10-06T11:05:06.574801+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "\ud83d\ude90 Renault ESpace Concept Revives the Classic Minivan Icon \u2728",
+  "summary": "Renault has revealed the E-Space concept, rebooting a French icon and potentially bringing minivans back into the spotlight.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/renaults-e-space-concept-reboots-another-french-icon/"
+ },
+ {
+  "date": "2026-10-06T11:05:06.574801+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "\ud83d\udefb Roush Unveils 2027 Super Duty Package Without Engine Boost \ud83d\udcaa",
+  "summary": "Roush introduces a $21,399 upgrade package for the 2027 Ford Super Duty focusing on suspension and styling rather than power.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810911/2027-roush-super-duty-package/"
+ },
+ {
+  "date": "2026-10-06T11:05:06.574801+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "business",
+  "headline": "Disney Announces Theme Park Price Hikes",
+  "summary": "Disney has officially announced price increases across ticket sales, annual passes, and Lightning Lane access for both Disneyland and Disney World.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1wyz0h1/disneyland_and_disney_world_price_increases_for/"
  }
 ]
