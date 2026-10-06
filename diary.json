@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-03T01:37:41.238902+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "business",
-  "headline": "BMW's Q3 Sales Surge: Hits and Misses in the Lineup! \ud83d\udcc8\ud83d\ude97",
-  "summary": "BMW reports a solid third quarter with strong sales for the 3 Series and X5, though other models experienced significant declines.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/bmw-sales-up-some-models-having-strange-year/"
- },
- {
   "date": "2026-10-03T02:47:17.101480+00:00",
   "topic": "Cars",
   "score": 6,
@@ -8644,5 +8633,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/lanterns-episode-8-easter-eggs-comics-references-dcu-ties-finale/"
+ },
+ {
+  "date": "2026-10-06T02:03:53.457697+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Apple Accuses OpenAI of Improper Trade Secrets Arguments",
+  "summary": "Apple has accused OpenAI of improperly introducing new arguments into an ongoing trade secrets legal dispute between the two companies.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/05/apple-accuses-openai-of-improperly-adding-new-arguments-to-trade-secrets-case/"
+ },
+ {
+  "date": "2026-10-06T02:03:53.457697+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Marvel Criticized Over Avengers: Endgame: Encore Screening-Exclusive Scenes",
+  "summary": "Marvel is facing criticism for releasing 'Avengers: Endgame: Encore' with new scenes restricted only to paying attendees of specific IMAX and Infinity Vision screenings.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/avengers-endgame-encore-marvel-infinity-vision-extra-scenes/"
  }
 ]
