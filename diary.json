@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-03T08:03:31.581575+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "New PS1-Style Horror Game Brings Backrooms Terror",
-  "summary": "A retro-styled PS1 horror game utilizing Backrooms aesthetics is gaining attention nearly six years after its initial concept.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/steam-horror-game-turns-ps1-era-graphics-into-backrooms-style-nightmare-fuel/"
- },
- {
   "date": "2026-10-03T09:05:50.630880+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -9183,5 +9172,49 @@
   "verified": "official",
   "source": "r/carporn",
   "link": "https://www.reddit.com/r/carporn/comments/1wyteu8/best_of_show_delahaye_5760x3763/"
+ },
+ {
+  "date": "2026-10-06T08:05:56.405250+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "business",
+  "headline": "Sedans Strike Back: Camry & Accord Lead Hybrid Surge \ud83d\ude97\ud83d\udca8",
+  "summary": "Hybrid-heavy versions of the Toyota Camry and Honda Accord are driving an unexpected US sedan sales rebound in 2026.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810882/toyota-camry-honda-accord-corolla/"
+ },
+ {
+  "date": "2026-10-06T08:05:56.405250+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Can Renault Make Minivans Cool Again With The New E-Space Concept? \ud83d\ude90\u2728",
+  "summary": "Renault is attempting to reinvent the classic minivan segment for the modern era with its new E-Space concept car.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810881/2026-renault-espace-concept/"
+ },
+ {
+  "date": "2026-10-06T08:05:56.405250+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Friday the 13th Prequel Series Teases Uncharted Territory Ahead of Premiere",
+  "summary": "The creators and star of Peacock's upcoming Friday the 13th prequel series teased the show's expansion into new territory ahead of its October premiere.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/friday-the-13-jason-voorhees-crystal-lake-peaock-series-mask-interview/"
+ },
+ {
+  "date": "2026-10-06T08:05:56.405250+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Lottie Brooks Books Getting TV Adaptation",
+  "summary": "Studiocanal is adapting Kate Kirby's best-selling pre-teen book series 'The Extremely Embarrassing Life of Lottie Brooks' into a television series.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/extremely-embarrassing-life-lottie-brooks-tv-series-coming-1237146862/"
  }
 ]
