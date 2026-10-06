@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-03T09:05:50.630880+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "update",
-  "headline": "Apple Tightens Full-Disk Access to Curb AI Agent Abuse",
-  "summary": "Apple is modifying full-disk access permissions to prevent potential abuse by AI agents.",
-  "verified": "reliable_reporter",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wwimff/apple_changes_fulldisk_access_permissions_to_curb/"
- },
- {
-  "date": "2026-10-03T09:05:50.630880+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Gears of War: E-Day Devs Detail Gore Investment",
-  "summary": "Gears of War: E-Day developers focused heavily on enhancing the gore and violence after feeling fans had become desensitised.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works"
- },
- {
-  "date": "2026-10-03T09:05:50.630880+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "update",
-  "headline": "Warhammer 40K Custodes Codex Hands-On Impressions",
-  "summary": "An early hands-on look at the new Warhammer 40K Custodes Codex reveals that the faction has finally been portrayed accurately and powerfully.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/tabletop-gaming/after-over-8-years-warhammer-40k-finally-got-the-custodes-right/"
- },
- {
-  "date": "2026-10-03T09:05:50.630880+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Timeless Elegance: The Majestic Toyota Century \ud83d\udc51\ud83c\uddef\ud83c\uddf5",
-  "summary": "A stunning high-resolution showcase of the iconic Toyota Century luxury car.",
-  "verified": "official",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1wwgeiw/toyota_century_3368x1848/"
- },
- {
-  "date": "2026-10-03T09:05:50.630880+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Wild Aerodynamics: Novitec McLaren 720S N-Largo \ud83c\udfce\ufe0f\ud83d\udca8",
-  "summary": "An aggressive and wide-body modified Novitec McLaren 720S N-Largo is featured in high detail.",
-  "verified": "official",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1wwaf29/novitec_mclaren_720s_nlargo_3276x4096/"
- },
- {
   "date": "2026-10-03T10:02:54.348835+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -9282,5 +9227,60 @@
   "verified": "reliable_reporter",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1wys6my/the_batman_2_pauses_production_as_director_matt/"
+ },
+ {
+  "date": "2026-10-06T09:40:05.922159+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Apple accuses OpenAI in trade secrets dispute",
+  "summary": "Apple has accused OpenAI of improperly introducing new arguments into an ongoing trade secrets legal dispute.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wyy8gm/apple_accuses_openai_of_improperly_adding_new/"
+ },
+ {
+  "date": "2026-10-06T09:40:05.922159+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Supermassive Games Hit With Major Layoffs Affecting Over 70 Staff",
+  "summary": "Supermassive Games has reportedly suffered major layoffs resulting in the departure of over 70 developers.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/supermassive-games-layoffs-70"
+ },
+ {
+  "date": "2026-10-06T09:40:05.922159+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Practical Magic 2 Pulled From Theaters for Digital Release",
+  "summary": "Warner Bros. has pulled Practical Magic 2 from over 2,100 theaters as the fantasy sequel prepares for its upcoming digital release.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/practical-magic-2-sandra-bullock-nicole-kidman-box-office-removed-from-2100-theaters/"
+ },
+ {
+  "date": "2026-10-06T09:40:05.922159+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Game Of Thrones: Flame Of The Night King Arriving October 26",
+  "summary": "Game of Thrones: Conquest has officially announced the launch of Flame of the Night King for October 26.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/game-of-thrones-conquest-flame-night-king-october-2026/"
+ },
+ {
+  "date": "2026-10-06T09:40:05.922159+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Red Dead Redemption 2 Halloween DLC Officially Announced",
+  "summary": "An official Halloween DLC has been announced for Red Dead Redemption 2 to celebrate the spooky season.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/red-dead-redemption-2-online-halloween-october-2026-event/"
  }
 ]
