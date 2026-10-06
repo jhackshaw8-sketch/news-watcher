@@ -9238,5 +9238,49 @@
   "verified": "official",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/action-arena-japanese-nbcuniversal-formats-sold-mipcom-1237146813/"
+ },
+ {
+  "date": "2026-10-06T09:05:09.760507+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Tarae: The Unbound Preview Highlights ARPG Potential",
+  "summary": "Eurogamer previews the new top-down ARPG Tarae: The Unbound and its visceral combat mechanics.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/tarae-the-unbound-preview"
+ },
+ {
+  "date": "2026-10-06T09:05:09.760507+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Infinity Ward Details Call of Duty: Modern Warfare 4 DMZ Mode",
+  "summary": "Infinity Ward details the new DMZ extraction shooter mode for Call of Duty: Modern Warfare 4.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-reveal"
+ },
+ {
+  "date": "2026-10-06T09:05:09.760507+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Daimler Truck Envisions Autonomous Rigs & Airships for 2070 \ud83d\ude9b\ud83d\udef8",
+  "summary": "Daimler Truck has unveiled four speculative design studies exploring autonomous maintenance, electric freight, airships, and vertical logistics for the year 2070.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810894/daimler-truck-2070-future-transport/"
+ },
+ {
+  "date": "2026-10-06T09:05:09.760507+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "The Batman 2 Pauses Production",
+  "summary": "Production on The Batman 2 has temporarily paused as director Matt Reeves attends to a family matter.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1wys6my/the_batman_2_pauses_production_as_director_matt/"
  }
 ]
