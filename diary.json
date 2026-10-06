@@ -10008,5 +10008,170 @@
   "verified": "official",
   "source": "Variety",
   "link": "https://variety.com/2026/tv/news/emmys-prime-video-six-year-deal-15-million-a-year-1236899957/"
+ },
+ {
+  "date": "2026-10-06T13:40:09.904936+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "legal",
+  "headline": "Apple Faces Additional $184M Penalty in Masimo Patent Case",
+  "summary": "Apple has been ordered to pay an additional $184 million to Masimo for Apple Watch patent infringement.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/06/apple-must-pay-masimo-an-extra-184m-for-apple-watch-patent-infringement/"
+ },
+ {
+  "date": "2026-10-06T13:40:09.904936+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "legal",
+  "headline": "Apple's Masimo Patent Bill Grows by $184 Million in Interest",
+  "summary": "A federal judge has ordered Apple to pay an extra $184 million in interest on top of its existing $634 million patent loss to Masimo.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/06/apple-watch-patent-bill-just-got-bigger/"
+ },
+ {
+  "date": "2026-10-06T13:40:09.904936+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Discussion: Apple's Masimo Patent Bill Increases Further",
+  "summary": "Reddit discussion highlights that Apple's patent loss to Masimo has increased due to newly ordered interest payments.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wz2rxt/apples_634_million_apple_watch_patent_bill_just/"
+ },
+ {
+  "date": "2026-10-06T13:40:09.904936+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Rumor: Apple Expected to Launch Over Seven New Products in October",
+  "summary": "Reports indicate that Apple is preparing to launch over seven new products in October following upcoming releases.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/06/apple-will-launch-7-new-products-in-october-heres-whats-coming/"
+ },
+ {
+  "date": "2026-10-06T13:40:09.904936+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "FF14 Brings Back Popular Fall Guys Crossover Event",
+  "summary": "Square Enix is officially bringing back the Fall Guys crossover event to Final Fantasy 14 this week.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/final-fantasy-14-fall-guys-crossover-event-dates-rewards/"
+ },
+ {
+  "date": "2026-10-06T13:40:09.904936+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Xbox Elite Series 3 Controller Leaks Online",
+  "summary": "Images and details for the unannounced Xbox Elite Series 3 controller have leaked online.",
+  "verified": "unconfirmed",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics"
+ },
+ {
+  "date": "2026-10-06T13:40:09.904936+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Nintendo Switch Sports Resort Impresses in New Preview",
+  "summary": "An IGN preview expresses high praise for the upcoming Nintendo Switch Sports Resort, noting it improves on its predecessor.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/nintendo-switch-sports-resort-appears-to-solve-all-of-switch-sports-shortcomings-ign-preview"
+ },
+ {
+  "date": "2026-10-06T13:40:09.904936+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Glimpse Launches Explore Software for Hardware Quality Control",
+  "summary": "Glimpse has introduced Explore, a new image processing software utilizing CT scanners for hardware quality control.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/"
+ },
+ {
+  "date": "2026-10-06T13:40:09.904936+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "JBL Releases Powerful PartyBox Ultimate 2 With 1,500 Watts",
+  "summary": "JBL has released the PartyBox Ultimate 2, featuring 1,500 watts of sound and an integrated light show.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2278603/jbl-partybox-ultimate-2-delivers-1500-watts-of-sound-and-a-built-in-light-show/"
+ },
+ {
+  "date": "2026-10-06T13:40:09.904936+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "update",
+  "headline": "Google Restricts Free Gemini Access and Pushes Paid Subscription",
+  "summary": "Google is restricting free Gemini users to the Flash Lite model, requiring a $4.99/month subscription for standard Flash and Pro.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"
+ },
+ {
+  "date": "2026-10-06T13:40:09.904936+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Neo Headphones That Roll Up Into Bluetooth Speakers Launch in the US",
+  "summary": "Tomorrow Doesn't Matter's Neo headphones, which roll up into a Bluetooth speaker, are now available in the US.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1004860/tomorrow-doesnt-matter-tdm-neo-headphone-roll-up-bluetooth-speaker-us-availability"
+ },
+ {
+  "date": "2026-10-06T13:40:09.904936+00:00",
+  "topic": "Movies",
+  "score": 10,
+  "category": "business",
+  "headline": "Paramount and Warner Bros. Discovery Complete Massive $111 Billion Merger",
+  "summary": "Paramount and Warner Bros. Discovery have officially closed their massive $111 billion merger to form Skydance Corp. under CEO David Ellison.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/paramount-warner-bros-merger-officially-closes-skydance-david-ellison-1236900047/"
+ },
+ {
+  "date": "2026-10-06T13:40:09.904936+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Halo 7 Official Teaser Reveals New Enemy",
+  "summary": "A new Halo 7 teaser trailer has been officially released, revealing a brand-new enemy for the franchise.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/halo-7-official-teaser-enemy/"
+ },
+ {
+  "date": "2026-10-06T13:40:09.904936+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Cult Horror Franchise Returns After 34 Years",
+  "summary": "A cult classic horror movie series is officially making its long-awaited return with a new sequel after 34 years.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/attack-killer-tomatoes-reboot-return-2026/"
+ },
+ {
+  "date": "2026-10-06T13:40:09.904936+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "New Sherlock Holmes Adaptation Announced with Major Twist",
+  "summary": "A brand new Sherlock Holmes series has been announced featuring a major twist and a familiar lead star.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/scarlett-holmes-lucy-hale-casting-announcement/"
  }
 ]
