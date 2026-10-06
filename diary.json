@@ -9623,5 +9623,148 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1wyz0h1/disneyland_and_disney_world_price_increases_for/"
+ },
+ {
+  "date": "2026-10-06T11:38:45.497711+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "HomePod Mini Shipping Delays Spark Refresh Rumors",
+  "summary": "HomePod mini shipping estimates have stretched to eight weeks in multiple countries, fueling speculation of an upcoming hardware refresh.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/06/homepod-mini-waits-reach-eight-weeks/"
+ },
+ {
+  "date": "2026-10-06T11:38:45.497711+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Developers Can Now Submit Apps for iPhone Duo",
+  "summary": "Apple has officially opened App Store submissions for updated apps supporting the new iPhone Duo.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/06/developers-can-now-submit-iphone-duo-apps-hope-for-approved-in-time?utm_source=rss"
+ },
+ {
+  "date": "2026-10-06T11:38:45.497711+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "update",
+  "headline": "Apple Music Spotted Getting a Logo Redesign",
+  "summary": "Reddit users discuss the discovery of a newly redesigned Apple Music logo appearing in recent beta software.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wyzuni/apple_music_is_getting_a_new_logo/"
+ },
+ {
+  "date": "2026-10-06T11:38:45.497711+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "New Apple Music Logo Appears in Latest Betas",
+  "summary": "Apple is rolling out a refreshed Apple Music logo across recent iOS 27.2 and macOS 27.2 beta updates.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/06/apple-music-is-getting-a-new-logo/"
+ },
+ {
+  "date": "2026-10-06T11:38:45.497711+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Apple TV+ Renews 'Imperfect Women' for Season 2",
+  "summary": "Apple TV+ has officially renewed its hit series 'Imperfect Women' for a second season following strong acclaim.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/06/imperfect-women-returning-for-second-season?utm_source=rss"
+ },
+ {
+  "date": "2026-10-06T11:38:45.497711+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Watch Dogs: Legion Director's Cut Reportedly Planned",
+  "summary": "Ubisoft will reportedly attempt to relaunch Watch Dogs: Legion with a revamped Director's Cut next year.",
+  "verified": "unconfirmed",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/ubisoft-will-reportedly-try-relaunching-watch-dogs-legion-with-a-directors-cut"
+ },
+ {
+  "date": "2026-10-06T11:38:45.497711+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Gears of War: E-Day Dev Finds Xbox Series S Performance Boost",
+  "summary": "Developer The Coalition has discovered a new method to squeeze better performance out of the Xbox Series S for Gears of War: E-Day.",
+  "verified": "reliable_reporter",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd"
+ },
+ {
+  "date": "2026-10-06T11:38:45.497711+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Star Wars: Galactic Racer Launches on PS5",
+  "summary": "The official launch trailer for Star Wars: Galactic Racer on PS5 has been released.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1wyyjep/star_wars_galactic_racer_launch_trailer_ps5_games/"
+ },
+ {
+  "date": "2026-10-06T11:38:45.497711+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Rockstar Clarifies GTA 6 Stance on Politics",
+  "summary": "Rockstar stated that GTA 6 will not focus on national politics or be too specific about particular people or events.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/gta-6-political-events"
+ },
+ {
+  "date": "2026-10-06T11:38:45.497711+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "update",
+  "headline": "Google to Remove Free Access to Gemini Flash and Pro Models",
+  "summary": "Google is removing free user access to its Gemini Flash and Pro AI models starting October 9.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2278504/google-removes-free-access-gemini-flash-pro-october-9/"
+ },
+ {
+  "date": "2026-10-06T11:38:45.497711+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "business",
+  "headline": "Good news for drivers: Car thefts drop 21% nationwide! \ud83d\udcc9\ud83d\ude97",
+  "summary": "Vehicle thefts across all 50 states fell by 21% during the first half of 2026, marking a continued decline from pandemic-era peaks.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810913/usa-car-thefts-21-percent-down/"
+ },
+ {
+  "date": "2026-10-06T11:38:45.497711+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Oscar-Nominated Composer George Fenton Passes Away at 76",
+  "summary": "Renowned film composer George Fenton, known for his work on Gandhi and The Blue Planet, has passed away at the age of 76.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/george-fenton-dead-gandhi-blue-planet-composer-1237147722/"
+ },
+ {
+  "date": "2026-10-06T11:38:45.497711+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Sherlock Reunion Set for BBC's New Charles Dickens Adaptation",
+  "summary": "Martin Freeman and Jim Broadbent have officially joined Mark Gatiss's upcoming BBC Dickens adaptation, The Bride\u2019s Chamber.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/chales-dickens-the-brides-chamber-bbc-adaptation-martin-freeman/"
  }
 ]
