@@ -13748,5 +13748,203 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1wzf5qe/eva_marie_saint_star_of_on_the_waterfront_and/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "iFixit Publishes Apple Watch Series 12 and Ultra 4 Teardowns",
+  "summary": "iFixit has published its teardown of the Apple Watch Series 12 and Apple Watch Ultra 4, revealing mixed repairability results.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/06/ifixit-tears-down-apple-watch-series-12-and-ultra-4-finds-mixed-repairability-results/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Marvel's Wolverine Update Adds Scent Trail Toggle",
+  "summary": "Insomniac Games has added a toggle for scent trails in the latest patch for Marvel's Wolverine.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/insomniac-finally-lets-players-toggle-wolverines-scent-trails-on-and-off"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Ex-Ramp Engineers Secure $20M for Melius",
+  "summary": "Former Ramp engineers raised $20 million for their new platform Melius after a successful product pivot.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "OpenAI Rolls Out Default ChatGPT Watermarking in the EU",
+  "summary": "OpenAI is implementing default watermarks for ChatGPT text outputs specifically for users in the EU.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Major Streaming Services Weigh Unification",
+  "summary": "Streaming platforms HBO Max, Paramount+, and Discovery+ may potentially unify into a single consolidated service.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Hackers Steal Counterfeit TLS Certificates for Google and Others",
+  "summary": "Hackers compromised three domain registries to obtain unauthorized counterfeit TLS certificates for Google and other tech services.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Mini Countryman Gets Rugged With New Lifted Variant \ud83d\ude99\ud83c\udf32",
+  "summary": "Mini has introduced a new rugged Untamed Edition variant for the Countryman featuring revised styling and increased ground clearance.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/mini-countryman-untamed-edition/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Brendan Fraser's The Mummy Becomes a Massive Netflix Hit",
+  "summary": "Brendan Fraser's original 'The Mummy' movie becomes a major streaming hit on Netflix while its fourth installment continues filming.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/brendan-fraser-the-mummy-streaming-success-netflix-october-2026/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Director Brian Duffield Announces Reddit AMA",
+  "summary": "Director Brian Duffield announces an upcoming Reddit AMA session scheduled for Friday.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wzfly6/amaqa_announcement_brian_duffield_friday_109_at_9/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Bobby Kotick and Laurene Powell Jobs Join Skydance Board",
+  "summary": "Bobby Kotick and Laurene Powell Jobs have officially joined the Skydance Board of Directors.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wzf8n8/bobby_kotick_and_laurene_powell_jobs_join/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Sam Raimi Horror Sequel Dominates Streaming Charts",
+  "summary": "Sam Raimi's horror sequel dominates streaming charts and outperforms recent major releases.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/sam-raimi-evil-dead-burn-overtakes-supergirl-streaming-success-hbo-max-october-2026/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Official Trailer Released for 'Gods Don't Give Gifts'",
+  "summary": "An official trailer has been released for the upcoming movie 'Gods Don't Give Gifts'.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wzer39/gods_dont_give_gifts_official_trailer/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "legal",
+  "headline": "Examining Hollywood Lawsuits and Reputation Destruction",
+  "summary": "An analysis examines how five women's lawsuits have impacted Hollywood reputations.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wzemlr/how_to_destroy_a_reputation_in_hollywood_as_told/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "First Poster Released for 'Heartland' Starring Jessica Chastain",
+  "summary": "The first poster for 'Heartland', starring Jessica Chastain, Garrett Hedlund, and John Hawkes, has been revealed.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wze833/first_poster_for_heartland_starring_jessica/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "business",
+  "headline": "Legendary Oscar Winner Eva Marie Saint Passes Away at 102",
+  "summary": "Oscar-winning actress Eva Marie Saint, known for 'North by Northwest' and 'On the Waterfront', has passed away at 102.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wze7en/eva_marie_saint_north_by_northwest_star_and_oscar/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Tulsa King Officially Returns Next Week",
+  "summary": "Taylor Sheridan's crime drama series Tulsa King is officially returning for a new season next week.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/tulsa-king-season-4-october-16-streaming-paramount/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "update",
+  "headline": "DC Announces New Supergirl Character",
+  "summary": "DC has officially announced a new Supergirl, replacing the original character after 67 years.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/new-supergirl-dc-replace-kara-original/"
+ },
+ {
+  "date": "2026-10-06T22:38:14.440708+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Harry Potter Game Releasing This October",
+  "summary": "A new Harry Potter gaming release is officially scheduled to launch this October.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/harry-potter-lego-games-october-2026/"
  }
 ]
