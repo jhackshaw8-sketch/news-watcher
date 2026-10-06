@@ -8765,5 +8765,71 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1wyqk68/hollywood_unions_warn_of_25year_drop_in_us/"
+ },
+ {
+  "date": "2026-10-06T03:40:24.417169+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Apple Rumored to Plan Second Wave of October Product Announcements",
+  "summary": "Reports indicate Apple may plan a second wave of product announcements later in the month following an expected October 13 event.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/05/apple-reportedly-planning-second-wave-of-product-announcements-later-this-month/"
+ },
+ {
+  "date": "2026-10-06T03:40:24.417169+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Apple Opens App Store Submissions for iPhone Duo Optimized Apps",
+  "summary": "Apple has officially announced that developers can now submit apps optimized for the new iPhone Duo to the App Store.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions/"
+ },
+ {
+  "date": "2026-10-06T03:40:24.417169+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Netflix Willy Wonka Series Breaks Rotten Tomatoes Record",
+  "summary": "Netflix's new Willy Wonka series faces heavy criticism and breaks a Rotten Tomatoes record for negative reasons due to its $3 million prize and AI voice usage.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/wonkas-the-golden-ticket-rotten-tomatoes-record/"
+ },
+ {
+  "date": "2026-10-06T03:40:24.417169+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "review",
+  "headline": "Andrew Garfield Shines in OpenAI Origin Story 'Artificial'",
+  "summary": "A review of Luca Guadagnino's OpenAI origin story 'Artificial' highlights Andrew Garfield's chilling performance as Sam Altman at the New York Film Festival.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wys6rs/artificial_review_andrew_garfield_is_chilling_as/"
+ },
+ {
+  "date": "2026-10-06T03:40:24.417169+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "business",
+  "headline": "Box Office Recap: 'Verity' Opens Strong and 'Avengers: Endgame' Retakes Crown",
+  "summary": "The box office weekend recap highlights 'Verity' opening strong with $61.8M worldwide and 'Avengers: Endgame' reclaiming the top spot.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wyq9nf/october_24_box_office_recap_verity_opens_with_a/"
+ },
+ {
+  "date": "2026-10-06T03:40:24.417169+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "review",
+  "headline": "Audience Discussion and Polls Open for 'Unabomber'",
+  "summary": "A discussion thread invites audiences to share their thoughts and ratings on the movie 'Unabomber'.",
+  "verified": "unconfirmed",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1wyq645/unabomber_should_you_see_it/"
  }
 ]
