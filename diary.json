@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-03T01:04:49.082217+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Meta Open-Sources Muse AI for Smart Devices",
-  "summary": "Meta is giving away its Muse AI code for free to encourage broader integration into everyday smart home devices like TVs and appliances.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
- },
- {
   "date": "2026-10-03T01:37:41.238902+00:00",
   "topic": "Cars",
   "score": 6,
@@ -8501,5 +8490,71 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1wyigbr/robert_kelkerkelly_days_of_our_lives_star_dies_at/"
+ },
+ {
+  "date": "2026-10-06T01:06:14.280609+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Apple Opens App Store Submissions for iPhone Duo Apps",
+  "summary": "Apple has started accepting App Store submissions for apps optimized for the upcoming iPhone Duo.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/05/apple-invites-developers-to-submit-iphone-duo-ready-apps-to-the-app-store/"
+ },
+ {
+  "date": "2026-10-06T01:06:14.280609+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Ultimate Lexus GX 550 Upgrade Revealed \ud83d\ude99\u2728",
+  "summary": "Novel introduces a new upgrade package for the Lexus GX 550 featuring body enhancements, aftermarket wheels, and an upgraded audio system.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/lexus-gx-550-novel-body-kit/"
+ },
+ {
+  "date": "2026-10-06T01:06:14.280609+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Luca Guadagnino's OpenAI Drama 'Artificial' Earns Strong Early Reviews",
+  "summary": "Early reviews for Luca Guadagnino's OpenAI drama 'Artificial' praise it as a provocative and visceral corporate drama following its premiere.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/artificial-first-reactions-sam-altman-open-ai-1236899622/"
+ },
+ {
+  "date": "2026-10-06T01:06:14.280609+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Ben Affleck's New Netflix Thriller Sets Official Release Date",
+  "summary": "Ben Affleck's new action thriller written and directed by him is officially arriving on Netflix on October 9.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/netflix-action-movie-animals-ben-affleck-release-date-october-2026/"
+ },
+ {
+  "date": "2026-10-06T01:06:14.280609+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Pok\u00e9mon Officially Unveils Gengar Redesign for 30th Anniversary",
+  "summary": "The Pok\u00e9mon franchise has officially revealed a new Gengar redesign as part of its upcoming 30th-anniversary celebration.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/pokemon-gengar-redesign-series-30th-anniversary-collab/"
+ },
+ {
+  "date": "2026-10-06T01:06:14.280609+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "update",
+  "headline": "The Batman Part II Production Paused as Matt Reeves Steps Away",
+  "summary": "Production on The Batman Part II has temporarily paused as director Matt Reeves steps away for personal reasons.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1wyf65l/the_batman_part_ii_production_paused_as_matt/"
  }
 ]
