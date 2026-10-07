@@ -15222,5 +15222,71 @@
   "verified": "official",
   "source": "Variety Film",
   "link": "https://variety.com/2026/film/news/singapore-film-festival-stands-by-the-assassins-1236904122/"
+ },
+ {
+  "date": "2026-10-07T09:05:17.658251+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Formula 1 on Apple TV Adding Dolby Atmos Support",
+  "summary": "Formula 1 broadcasting on Apple TV will add support for Dolby Atmos audio starting later this month with the U.S. Grand Prix.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/07/formula-1-apple-tv-dolby-atmos-this-month/"
+ },
+ {
+  "date": "2026-10-07T09:05:17.658251+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "legal",
+  "headline": "Common Sense Media Flags ChatGPT for Teens as an Unacceptable Risk",
+  "summary": "Nonprofit Common Sense Media has labeled OpenAI's ChatGPT for Teens as an unacceptable risk regarding youth safety.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
+ },
+ {
+  "date": "2026-10-07T09:05:17.658251+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Alfa Romeo Refreshes the Junior SUV with Interior and Wheel Updates \ud83d\ude97\u2728",
+  "summary": "Alfa Romeo is updating the Junior SUV with improved interior trim and new wheels, alongside minor updates to the Stelvio and Giulia.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/alfa-romeos-changing-the-junior-again-but-this-time-the-name-stays/"
+ },
+ {
+  "date": "2026-10-07T09:05:17.658251+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Aaron Sorkin Discusses 'The Social Reckoning' Connection to 'The Social Network'",
+  "summary": "Aaron Sorkin clarifies why his upcoming film The Social Reckoning is not a direct sequel to The Social Network.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/the-social-reckoning-facebook-mark-zuckerberg-aaron-sorkin/"
+ },
+ {
+  "date": "2026-10-07T09:05:17.658251+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "'Lonesome Dove' Officially Returning With New Netflix Adaptation",
+  "summary": "Jeb Stuart teases a brand new Netflix adaptation of the 900-page novel Lonesome Dove that will cover untouched material.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/lonesome-dove-netflix-remake-jeb-stuart-1989-miniseries/"
+ },
+ {
+  "date": "2026-10-07T09:05:17.658251+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Michelle Yeoh Discusses Blade Runner 2099 at Busan",
+  "summary": "Michelle Yeoh discussed her role in the upcoming Prime Video series Blade Runner 2099 during an appearance at the Busan International Film Festival.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/michelle-yeoh-blade-runner-2099-its-my-time-busan-1237148825/"
  }
 ]
