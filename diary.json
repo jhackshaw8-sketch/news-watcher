@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-04T22:04:26.821405+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Beavis and Butt-Head Season 4 Premiere Date Announced",
-  "summary": "Beavis and Butt-Head Season 4 is officially returning in just two weeks.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/beavis-and-butt-head-season-4-release-date-comedy-central-october-2026/"
- },
- {
-  "date": "2026-10-04T22:04:26.821405+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Tom Cruise's New Film Marks Final Pre-Merger Warner Bros. Release",
-  "summary": "Tom Cruise's latest film marks the final Warner Bros. release before a major merger, recording a low global debut.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/warner-bros-digger-tom-cruise-worst-box-office-global-opening/"
- },
- {
-  "date": "2026-10-04T22:37:15.008522+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Coyote vs. Acme Surpasses $100 Million Globally",
-  "summary": "The previously shelved film 'Coyote vs. Acme' became a box-office success with over $100 million globally after being rescued by Ketchup Entertainment.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/box-office/coyote-vs-acme-proves-david-zaslav-wrong-box-office-1236895011/"
- },
- {
-  "date": "2026-10-04T22:37:15.008522+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Paranormal Activity Finds New Streaming Home for Halloween",
-  "summary": "The ultra-low-budget horror hit 'Paranormal Activity' is moving to a new streaming home just in time for Halloween.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/paranormal-activity-streaming-starz-october-2026/"
- },
- {
-  "date": "2026-10-04T22:37:15.008522+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Sheryl Lee Ralph Hopes Abbott Elementary Runs Like Grey's Anatomy",
-  "summary": "Sheryl Lee Ralph discusses her long-term hopes for Abbott Elementary as the sitcom enters its sixth season.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/sheryl-lee-ralph-abbott-elementary-running-as-long-greys-anatomy-1237146255/"
- },
- {
-  "date": "2026-10-04T22:37:15.008522+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "James Gunn Confirms He Is Already Writing His Next Film",
-  "summary": "James Gunn confirms that he is already actively writing his next film project ahead of Superman: Man of Tomorrow.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1wxospf/james_gunn_confirms_hes_already_writing_his_next/"
- },
- {
-  "date": "2026-10-04T22:37:15.008522+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Reacher Spinoff Neagley Renewed For Season 2 At Amazon",
-  "summary": "Amazon has officially announced an early season 2 renewal for the Reacher spinoff series Neagley.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1wxd7r5/reacher_spinoff_neagley_renewed_for_season_2_at/"
- },
- {
   "date": "2026-10-04T23:02:19.169248+00:00",
   "topic": "Movies",
   "score": 6,
@@ -19369,5 +19292,104 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/georgie-and-mandys-first-marriage-return-season-3-premiere/"
+ },
+ {
+  "date": "2026-10-07T22:38:18.555546+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Dragon's Dogma 2: Dark Arisen Expansion Reviewed",
+  "summary": "IGN reviews the Dragon's Dogma 2 expansion, Dark Arisen, praising its engaging characters and vibrant enemies.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/dragons-dogma-2-dark-arisen-review"
+ },
+ {
+  "date": "2026-10-07T22:38:18.555546+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "BMW iX3 M60 Unveiled with 603 HP! \u26a1\ud83c\udfce\ufe0f",
+  "summary": "BMW has revealed the high-performance iX3 M60 xDrive, featuring 603 horsepower and a 0-62 mph time of 3.9 seconds despite not being a full M model.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/the-bmw-ix3-m60-has-603-hp-and-its-not-even-a-true-m-model/"
+ },
+ {
+  "date": "2026-10-07T22:38:18.555546+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Miles Teller to Receive Honor at Newport Beach Film Festival",
+  "summary": "Miles Teller is set to receive the Artist of Distinction Award at the upcoming Newport Beach Film Festival.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/awards/miles-teller-honored-newport-beach-film-festival-paper-tiger-1236904354/"
+ },
+ {
+  "date": "2026-10-07T22:38:18.555546+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "reviews_of_note",
+  "headline": "Andrew Garfield's New Biopic Hailed as His Best Since The Social Network",
+  "summary": "Andrew Garfield's new tech biopic has received glowing reviews, marking his best-rated film since The Social Network.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/andrew-garfield-artificial-rotten-tomatoes-is-it-good/"
+ },
+ {
+  "date": "2026-10-07T22:38:18.555546+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Exploring the Biblical Theme in Netflix's 'East of Eden'",
+  "summary": "An analysis explores how Netflix's new miniseries East of Eden recontextualizes the meaning of 'timshel'.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/east-of-eden-timshel-meaning-netflix/"
+ },
+ {
+  "date": "2026-10-07T22:38:18.555546+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "First Look and Official Details Revealed for New 'Doctor Who' Series",
+  "summary": "A first look reveals the upcoming Doctor Who television spin-off featuring a brand-new Doctor.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/doctor-who-tardis-crew-spin-off-series-first-look/"
+ },
+ {
+  "date": "2026-10-07T22:38:18.555546+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Producer Discusses Criterion's New Stanley Kubrick Box Set",
+  "summary": "An in-depth interview discusses the production of Criterion's comprehensive Stanley Kubrick box set.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x09ksx/its_not_the_bullet_that_kills_its_the_hard_heart/"
+ },
+ {
+  "date": "2026-10-07T22:38:18.555546+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Star Wars Series Announces Ezra Bridger's Return",
+  "summary": "A brand-new Star Wars prequel series featuring Ezra Bridger has been officially announced ahead of Ahsoka season 2.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-wars-new-ezra-series-ahsoka-season-2-prequel/"
+ },
+ {
+  "date": "2026-10-07T22:38:18.555546+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Major Avengers Character Confirms MCU Return",
+  "summary": "A major Avengers actor has officially confirmed their upcoming return to the MCU four years after their last appearance.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/avengers-secret-wars-nick-fury-return-confirmed-samuel-l-jackson/"
  }
 ]
