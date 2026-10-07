@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-04T04:16:16.481487+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "update",
-  "headline": "Linux Kernel 7.4 Adds Initial Support for Apple M4 and A18 Pro Chips",
-  "summary": "Upcoming Linux 7.4 kernel will introduce initial device trees for Apple M4 and A18 Pro chips.",
-  "verified": "reliable_reporter",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wx4naz/linux_74_to_introduce_initial_device_trees_for/"
- },
- {
   "date": "2026-10-04T10:22:56.997669+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -14848,5 +14837,16 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/game-of-thrones-rise-of-dragons-october-2026/"
+ },
+ {
+  "date": "2026-10-07T04:42:58.056661+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Fallout: NCR Officially Releasing In 2027",
+  "summary": "Fallout: NCR is officially scheduled for release in 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/fallout-ncr-collection-2027-release-date/"
  }
 ]
