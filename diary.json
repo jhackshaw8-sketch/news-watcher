@@ -1,115 +1,5 @@
 [
  {
-  "date": "2026-10-04T10:22:56.997669+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "legal",
-  "headline": "Forensics Firm Allegedly Bypasses iPhone Auto-Reboot Feature",
-  "summary": "Reports emerge that a digital forensics firm has allegedly found a way to bypass Apple's automatic iPhone reboot security feature.",
-  "verified": "unconfirmed",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wx8l6f/automatic_iphone_reboot_forensics_firm_allegedly/"
- },
- {
-  "date": "2026-10-04T10:22:56.997669+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "other",
-  "headline": "GOTY 2026 Nominations Shape Up as a Battleground of Blockbusters",
-  "summary": "Polygon discusses the stacked lineup of critically acclaimed games competing for the 2026 Game of the Year title.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/goty-watch-nominations-metacritic-85-club/"
- },
- {
-  "date": "2026-10-04T10:22:56.997669+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Nivalis Nights Combines Cyberpunk Aesthetics with Cozy Sim Mechanics",
-  "summary": "Nivalis Nights blends Cyberpunk 2077 aesthetics with farming and management sims, offering a compelling premise.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/nivalis-nights-now-playing"
- },
- {
-  "date": "2026-10-04T10:22:56.997669+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Tower Defense Game Bollwerk Features Massive Physics-Driven Armies",
-  "summary": "Bollwerk Games has launched a Steam page for their tower defense game featuring over 100,000 physical units.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wxb1tz/bollwerk_bollwerk_games_a_tower_defense_game_with/"
- },
- {
-  "date": "2026-10-04T10:22:56.997669+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "Star Vortex Major Update Adds Eight-Player Online Multiplayer",
-  "summary": "Star Vortex has received its largest update yet, adding online multiplayer support for up to eight players.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wx9s2v/star_vortex_zorg_spaceship_building_action_rpg/"
- },
- {
-  "date": "2026-10-04T10:22:56.997669+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Suikoden Soundtracks Now Available on Spotify and Apple Music",
-  "summary": "Soundtracks for the Suikoden series have officially arrived on major streaming platforms like Apple Music and Spotify.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wwzcx4/suikoden_iii_hd_suikoden_iii_suikoden_iv_and/"
- },
- {
-  "date": "2026-10-04T10:22:56.997669+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Final Fantasy Resonance Combat Combined Job Systems and Unique Heroes",
-  "summary": "Developers reveal that Final Fantasy Resonance's combat system was designed to merge classic job systems with unique characters.",
-  "verified": "reliable_reporter",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wwz5s6/final_fantasy_resonances_combat_was_an_experiment/"
- },
- {
-  "date": "2026-10-04T10:22:56.997669+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Digital Foundry Praises The Witcher 3 Remastered on Switch 2",
-  "summary": "Digital Foundry's tech review highlights The Witcher 3 Remastered on Switch 2 as a massive visual upgrade.",
-  "verified": "reliable_reporter",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wwyljd/digital_foundry_the_witcher_3_remastered_switch_2/"
- },
- {
-  "date": "2026-10-04T10:22:56.997669+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Retrospective Explores Past Controversies Over Blizzard Software",
-  "summary": "A retrospective video examines past controversies surrounding Blizzard's software deployments and registry access.",
-  "verified": "reliable_reporter",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wwyeev/when_blizzard_shipped_malware_savestate_starcraft/"
- },
- {
-  "date": "2026-10-04T10:22:56.997669+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Gears of War: E-Day Devs Proud to Anchor Xbox's Exclusive Lineup",
-  "summary": "Developers of Gears of War: E-Day express pride in anchoring Xbox's lineup amid the platform's renewed focus on exclusivity.",
-  "verified": "reliable_reporter",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wwxaja/gears_of_war_eday_devs_proud_to_be_one_of_xboxs/"
- },
- {
   "date": "2026-10-04T17:14:10.327235+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -15530,5 +15420,192 @@
   "verified": "official",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/walmart-vizio-streaming-holiday-movie-rachel-bilson-scott-foley-1237146799/"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Apple's Smart Home Security Camera Still Expected Next Year",
+  "summary": "Apple's rumored home security camera remains in development for release next year.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/07/apple-home-security-camera-still-coming-next-year/"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Foldable iPhone Duo Code Hints at Two-Page Document Layout",
+  "summary": "Code findings suggest the upcoming foldable iPhone Duo will feature a two-page document preview layout.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/07/iphone-duo-document-preview-two-page-layout/"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Dawn of War 4 Promises Massive Single-Player Campaign",
+  "summary": "The developer of Warhammer 40,000: Dawn of War 4 claims the upcoming RTS will feature more single-player launch content than any other game in the genre's history.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-dev-says-its-got-more-single-player-content-than-any-other-rts-ever-at-launch"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Xbox CEO Reports Division Return to Growth After Restructuring",
+  "summary": "Xbox CEO Asha Sharma reports that the gaming division is returning to growth following extensive restructuring and significant layoffs.",
+  "verified": "reliable_reporter",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/xbox-asha-sharma-growth-restructuring-layoffs"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Xbox Clarifies Future Plans for Battle.net Storefront",
+  "summary": "Xbox leadership clarifies that Battle.net will not be pivoting to become a direct competitor to Steam despite recent integration efforts.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/xbox-ceo-says-battle-net-isnt-turning-into-steam-after-the-witcher-3-deal-we-will-do-it-the-right-way/"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Leaked Footage Surfaces From Canceled Perfect Dark Reboot",
+  "summary": "New development footage from Xbox's canceled Perfect Dark reboot has leaked online, showcasing early parkour mechanics and environmental physics.",
+  "verified": "unconfirmed",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/perfect-dark-reboot-footage-leak"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Jaguar Reveals Polarizing Type 01 Electric Grand Tourer \ud83d\ude97\ud83d\udca8",
+  "summary": "Jaguar has revealed its new Type 01 electric grand tourer, carrying over the polarizing design from its recent concept car.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/transportation/1006536/jaguar-type-01-design-specs-price-reveal"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "A Closer Look at Jaguar's Controversial Type 01 EV \ud83d\ude99\u2728",
+  "summary": "The new Jaguar Type 01 EV features a controversial design aimed at attracting younger, affluent buyers to the brand.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2279734/jaguars-controversial-type-01-ev-looks-like-a-40s-gangster-car-built-for-the-modern-electric-era/"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Goodman Faces Scrutiny Over Japanese Data Center Project",
+  "summary": "Goodman faces scrutiny over its Japanese data center project following recent setbacks at its Sydney site.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wzstyz/goodmans_japanese_data_center_under_fire/"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "South Korea Calls for Comprehensive Anti-Cyber-Attack Tools",
+  "summary": "The South Korean president has called for the development of advanced tools designed to completely stop cyber-attacks.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wzsckw/south_korean_president_calls_for_creation_of/"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "legal",
+  "headline": "South Africa Publishes New Right to Repair Rules",
+  "summary": "South Africa's Competition Commission has published new Right to Repair guidelines affecting technology and gadgets.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wzs9tw/competition_commission_publishes_new_right_to/"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Anthropic Reconfigures Its Security Program",
+  "summary": "AI firm Anthropic has restructured its specialized security program.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wzs9mm/anthropic_reconfigures_its_cool_kids_security/"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Google Messages Reportedly Removing Easy RCS Toggle",
+  "summary": "Google Messages reportedly plans to remove a simple toggle that allowed users to easily turn off RCS messaging.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wzrivx/hope_you_like_rcs_because_google_messages_plans/"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Box Office Flop Finds New Life and Dominates on Streaming",
+  "summary": "A DC sci-fi superhero film that underperformed at the box office has successfully found a new audience on streaming.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/dc-sci-fi-supergirl-streaming-success-hbo-max-october-2026/"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Inside the Creation of the New Princess Diana Documentary 'Diana Unheard'",
+  "summary": "Producers of the upcoming documentary 'Diana Unheard' discuss using never-before-heard audio of Princess Diana.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/diana-unheard-documentary-princess-never-before-heard-audio-1237148864/"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "business",
+  "headline": "Hogwarts Legacy 2 Shifts Development Under New Skydance Ownership",
+  "summary": "Hogwarts Legacy 2 is officially under new ownership with Skydance, which will impact its ongoing development and eventual release.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/hogwarts-legacy-2-officially-under-new-ownership/"
+ },
+ {
+  "date": "2026-10-07T10:39:33.132577+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "New Strategy Game 'Game of Thrones: War for Westeros' Announced",
+  "summary": "A new strategy game titled Game of Thrones: War for Westeros is officially announced, featuring Jon Snow and the Night King.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/game-of-thrones-jon-snow-vs-night-king-war-westeros/"
  }
 ]
