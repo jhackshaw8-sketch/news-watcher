@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-04T23:02:19.169248+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "New Vampire Brawler 'Half' Aims to Fill the 'Blade'-Sized Void",
-  "summary": "While Marvel's Blade remains stuck, an upcoming indie vampire film titled Half aims to satisfy genre fans.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/features/half-vampire-action-movie-india-blade-1236898106/"
- },
- {
-  "date": "2026-10-04T23:02:19.169248+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Blockbuster Disaster Movie '2012' Shifts to a New Streaming Home",
-  "summary": "The disaster blockbuster 2012 is making a move to a new streaming platform next month.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/john-cusack-2012-streaming-starz-october-2026/"
- },
- {
-  "date": "2026-10-04T23:02:19.169248+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Classic 'Ghostbusters' Movies Now Streaming in One Place for Free",
-  "summary": "Classic Ghostbusters films are now streaming for free in one convenient place just in time for Halloween.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/ghostbusters-franchise-streaming-free-fandango-october-2026/"
- },
- {
-  "date": "2026-10-04T23:02:19.169248+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Dawson's Creek Reunion Honors James Van Der Beek At Heroes Gala",
-  "summary": "James Van Der Beek was remembered during a tearful Dawson's Creek reunion at the Barbara Berlanti Heroes Gala.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/james-van-der-beek-dawsons-creek-reunion-katherine-lanasa-1237146230/"
- },
- {
-  "date": "2026-10-04T23:02:19.169248+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Naruto's Confirmed Anime Sequel Prepares For Big Reveal",
-  "summary": "Naruto's officially confirmed anime sequel is set to reveal its big return this weekend.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/naruto-new-anime-sequel-revive-franchise/"
- },
- {
-  "date": "2026-10-04T23:02:19.169248+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Star Wars: Galactic Racer Officially Announced For October 2026 Release",
-  "summary": "Star Wars is officially switching genres with the upcoming release of Galactic Racer on October 6, 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-wars-switching-genres-new-galactic-racer-release/"
- },
- {
   "date": "2026-10-04T23:36:54.944823+00:00",
   "topic": "Movies",
   "score": 6,
@@ -19391,5 +19325,93 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/avengers-secret-wars-nick-fury-return-confirmed-samuel-l-jackson/"
+ },
+ {
+  "date": "2026-10-07T23:02:47.279870+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Dragon's Dogma 2: Dark Arisen Release Dates and Reviews Drop",
+  "summary": "The review thread and official platform release dates for Dragon's Dogma 2: Dark Arisen have been published.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x0a5ri/dragons_dogma_2_dark_arisen_review_thread/"
+ },
+ {
+  "date": "2026-10-07T23:02:47.279870+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Ron Perlman Hosts New Dragon's Dogma 2: Dark Arisen Trailer",
+  "summary": "Capcom released a new overview trailer for Dragon's Dogma 2: Dark Arisen presented by Ron Perlman.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x09qyv/welcome_to_dragons_dogma_2_dark_arisen_presented/"
+ },
+ {
+  "date": "2026-10-07T23:02:47.279870+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Endeavor Catalyst Secures $320M to Fund Tech Founders Outside Silicon Valley",
+  "summary": "Endeavor Catalyst has raised $320 million to invest in tech founders located outside of Silicon Valley.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/"
+ },
+ {
+  "date": "2026-10-07T23:02:47.279870+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "Rivian R2 Live Pet Cam Feature Launches for Smartphones \ud83d\udc36\ud83d\udcf1",
+  "summary": "Rivian R2 owners can now display a live pet camera feed directly on their smartphone lockscreen.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2280753/rivian-r2-owners-can-now-put-a-live-pet-cam-on-their-phones-lockscreen/"
+ },
+ {
+  "date": "2026-10-07T23:02:47.279870+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Classic Western Dollars Trilogy Gets Remastered Box Set Release",
+  "summary": "Clint Eastwood's iconic Dollars Trilogy is returning next month in a newly remastered Sergio Leone box set.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/clint-eastwood-dollars-trilogy-sergio-leone-blu-ray-box-set-november-2026/"
+ },
+ {
+  "date": "2026-10-07T23:02:47.279870+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Timothy Olyphant's Apple TV Series Set for November 4 Release",
+  "summary": "Timothy Olyphant's Apple TV series approaches its new release date on November 4.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/timothy-olyphant-stick-apple-tv-new-release-streaming-success-october-2026/"
+ },
+ {
+  "date": "2026-10-07T23:02:47.279870+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Final Fantasy 9 Officially Returning in November 2026 Collection",
+  "summary": "Square Enix announces a new Final Fantasy 9 collection slated for November 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/final-fantasy-9-collection-november-2026/"
+ },
+ {
+  "date": "2026-10-07T23:02:47.279870+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Mike Flanagan and Cast Discuss Carrie Series Ending and Season 2",
+  "summary": "Mike Flanagan and the cast of the Carrie series clarify book ending changes and season 2 plans.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/carrie-finale-book-changes-season-2-setup-mike-flanagan-summer-howell-amber-midthunder/"
  }
 ]
