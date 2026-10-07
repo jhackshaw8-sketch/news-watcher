@@ -16179,5 +16179,82 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/terminator-survivors-sarah-connor-replaced/"
+ },
+ {
+  "date": "2026-10-07T12:47:55.373240+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Intel Macs Dropped From New Magic Accessories Compatibility",
+  "summary": "Apple has officially dropped Intel-based Macs from the compatibility lists for the newly updated Magic Mouse and Magic Trackpad.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/07/apple-drops-intel-macs-for-magic-mouse-trackpad/"
+ },
+ {
+  "date": "2026-10-07T12:47:55.373240+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Proposed EU Tech Tax Faces Internal and US Opposition",
+  "summary": "The European Union's proposed tax hike on Big Tech companies is facing strong resistance both from the United States and from several EU member states.",
+  "verified": "reliable_reporter",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/07/eu-big-tech-tax-hike-faces-opposition-not-just-from-us-but-at-home-too?utm_source=rss"
+ },
+ {
+  "date": "2026-10-07T12:47:55.373240+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Apple Awaiting Samsung Tech for Bezel-Free iPhone Displays",
+  "summary": "A leak claims that Apple is waiting on Samsung to develop advanced bezel-free OLED display technology for future iPhones.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/07/apple-samsung-ultimate-bezel-free-iphone-display/"
+ },
+ {
+  "date": "2026-10-07T12:47:55.373240+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Disney Lorcana's Hyperia City Expansion Hands-On",
+  "summary": "Hands-on impressions reveal new Pixar characters from the Coco franchise coming to the Disney Lorcana TCG Hyperia City expansion.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/disney-lorcana-tcgs-hyperia-city-expansion-first-hands-on-impressions"
+ },
+ {
+  "date": "2026-10-07T12:47:55.373240+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "AI-Generated Minecraft Clone Launches Inside X With Multiplayer",
+  "summary": "An AI-generated clone of Minecraft has been made playable directly inside X with working multiplayer and crypto sponsorships.",
+  "verified": "reliable_reporter",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/someone-used-ai-to-make-minecraft-playable-inside-twitter-with-working-multiplayer-and-immediately-sold-sponsorships-via-crypto"
+ },
+ {
+  "date": "2026-10-07T12:47:55.373240+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Doctor Who Announces New Protagonist for February 2027 Return",
+  "summary": "Doctor Who is officially set to introduce a brand new protagonist replacing the Doctor in its February 2027 return.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/doctor-who-stormcage-doctor-replacement-2027/"
+ },
+ {
+  "date": "2026-10-07T12:47:55.373240+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Percy Jackson TV Series Set to Enter New Era in Two Months",
+  "summary": "The Percy Jackson television series is officially entering a major new era in just two months.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/percy-jackson-and-the-olympians-season-3-book-never-adapted/"
  }
 ]
