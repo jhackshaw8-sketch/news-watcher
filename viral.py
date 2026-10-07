@@ -1,8 +1,8 @@
 """Writes a batch of short, funny, relatable draft tweets in a loose internet-voice
-style and posts them to the viral-tweets Discord channel, each with a real meme
-image attached. Some posts are standalone, some are loosely inspired by recent
-stories from the other tracked topics, and at most one "engagement question"
-post (inviting replies) goes out per day, no matter how many times this runs."""
+style and posts them to the viral-tweets Discord channel. Some posts are standalone,
+some are loosely inspired by recent stories from the other tracked topics, and at
+most one "engagement question" post (inviting replies) goes out per day, no matter
+how many times this runs."""
 import json
 import os
 import random
@@ -18,6 +18,7 @@ STATE_FILE = ROOT / "viral_state.json"
 
 GEMINI_KEY = os.environ["GEMINI_API_KEY"]
 WEBHOOK = os.environ["DISCORD_WEBHOOK_VIRAL"]
+KLIPY_KEY = os.getenv("KLIPY_API_KEY", "")
 MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")
 HEADLINE_SAMPLE = 6
 
@@ -33,7 +34,12 @@ shock value or crude language. No politics, no punching down at real people.
 Write exactly this set of posts:
 {spec}
 
-Return ONLY JSON: {{"posts": [{{"type": "oneliner" or "reaction" or "question", "text": "..."}}]}}
+For each "oneliner" or "reaction" post, also give "gif_keyword": one or two plain English
+words describing the REACTION/EMOTION the post captures (e.g. "shocked", "done", "crying
+laughing", "nervous", "excited", "facepalm") so a matching reaction GIF can be attached.
+Leave "gif_keyword" out for "question" posts.
+
+Return ONLY JSON: {{"posts": [{{"type": "oneliner" or "reaction" or "question", "text": "...", "gif_keyword": "..."}}]}}
 Each post under 270 characters, no hashtags needed, no links.
 """
 
@@ -67,36 +73,28 @@ def recent_headlines():
     return recent[:HEADLINE_SAMPLE]
 
 
-MEME_SUBREDDITS = {
-    "gaming": "gamingmemes",
-    "game": "gamingmemes",
-    "movie": "moviememes",
-    "film": "moviememes",
-    "tech": "techhumor",
-    "apple": "techhumor",
-    "car": "memes",  # no reliably-active car meme subreddit; falls back to general memes
-}
-
-
-def pick_subreddit(text):
-    low = text.lower()
-    for keyword, sub in MEME_SUBREDDITS.items():
-        if keyword in low:
-            return sub
-    return "memes"  # general fallback, safe-for-work meme subreddit
-
-
-def fetch_meme(subreddit):
-    """Free public API that returns a random real meme image from the given
-    subreddit. Returns an image URL, or None if it fails for any reason."""
+def fetch_reaction_gif(keyword):
+    """Searches Klipy (Discord's own GIF provider, since Tenor's API shut down in
+    2026) for a real reaction GIF matching the keyword. Returns a URL, or None."""
+    if not KLIPY_KEY or not keyword:
+        return None
     try:
-        r = requests.get(f"https://meme-api.com/gimme/{subreddit}", timeout=15)
+        r = requests.get(
+            f"https://api.klipy.com/api/v1/{KLIPY_KEY}/gifs/search",
+            params={"q": keyword, "customer_id": "viral-tweets-bot", "per_page": 5},
+            timeout=15,
+        )
         r.raise_for_status()
-        data = r.json()
-        if not data.get("nsfw") and not data.get("spoiler") and data.get("url"):
-            return data["url"]
+        results = (r.json().get("data") or {}).get("data") or []
+        if not results:
+            return None
+        file = results[0].get("file", {})
+        for size in ("sm", "xs", "hd", "md"):
+            url = (file.get(size) or {}).get("gif", {}).get("url")
+            if url:
+                return url
     except Exception as exc:
-        print(f"Meme fetch failed for r/{subreddit}: {exc}")
+        print(f"GIF fetch failed for '{keyword}': {exc}")
     return None
 
 
@@ -131,13 +129,11 @@ def main():
         if post.get("type") == "question":
             posted_question = True
 
-        # attach a real meme image for oneliner/reaction posts; a question post
-        # usually works better as plain text so the question itself stands out
         msg = text
         if post.get("type") in ("oneliner", "reaction"):
-            meme_url = fetch_meme(pick_subreddit(text))
-            if meme_url:
-                msg = f"{text}\n{meme_url}"
+            gif_url = fetch_reaction_gif(post.get("gif_keyword", ""))
+            if gif_url:
+                msg = f"{text}\n{gif_url}"
 
         requests.post(WEBHOOK, json={"content": msg[:1990]}, timeout=30).raise_for_status()
         time.sleep(1)
