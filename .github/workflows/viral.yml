@@ -24,7 +24,7 @@ jobs:
       - run: python viral.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-                    DISCORD_WEBHOOK_VIRAL: ${{ secrets.DISCORD_WEBHOOK_VIRAL }}
+      DISCORD_WEBHOOK_VIRAL: ${{ secrets.DISCORD_WEBHOOK_VIRAL }}
           KLIPY_API_KEY: ${{ secrets.KLIPY_API_KEY }}
       - name: Save viral state
         if: always()
