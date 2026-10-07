@@ -2,7 +2,8 @@
 style and posts them to the viral-tweets Discord channel. Some posts are standalone,
 some are loosely inspired by recent stories from the other tracked topics, and at
 most one "engagement question" post (inviting replies) goes out per day, no matter
-how many times this runs."""
+how many times this runs. Most posts stay plain text; one random post per batch
+gets a real reaction GIF attached for variety."""
 import json
 import os
 import random
@@ -121,8 +122,14 @@ def main():
     spec = build_spec(include_question, headlines)
     out = ask_gemini(spec)
 
+    posts = out.get("posts", [])
+    # most posts stay plain text like before; only ONE random post per batch
+    # (if any are eligible) gets a reaction GIF attached, for variety
+    eligible = [i for i, p in enumerate(posts) if p.get("type") in ("oneliner", "reaction")]
+    gif_index = random.choice(eligible) if eligible else None
+
     posted_question = False
-    for post in out.get("posts", []):
+    for i, post in enumerate(posts):
         text = (post.get("text") or "").strip()
         if not text:
             continue
@@ -130,7 +137,7 @@ def main():
             posted_question = True
 
         msg = text
-        if post.get("type") in ("oneliner", "reaction"):
+        if i == gif_index:
             gif_url = fetch_reaction_gif(post.get("gif_keyword", ""))
             if gif_url:
                 msg = f"{text}\n{gif_url}"
