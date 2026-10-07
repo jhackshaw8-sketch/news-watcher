@@ -1,192 +1,5 @@
 [
  {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Google Adjusts Gemini App Tiers and Model Access Limits",
-  "summary": "Google is updating its Gemini app model tiers with new usage limits for free and AI Plus users, alongside a Deep Think feature for AI Pro.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "business",
-  "headline": "Apple Leads China Smartphone Sales After iPhone 18 Pro Launch",
-  "summary": "Apple has climbed to the top of smartphone sales in China following the successful release of the iPhone 18 Pro.",
-  "verified": "reliable_reporter",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wx10a2/apple_leads_china_smartphone_sales_after_launch/"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "update",
-  "headline": "Watch F1 Bahrain Grand Prix Free on Apple TV This Weekend",
-  "summary": "Apple is offering the Bahrain Grand Prix on Apple TV for free to all users in the US this weekend without a subscription.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/03/watch-f1-on-apple-tv-tonight-free-bahrain-gp/"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Limits Photographic Styles Texture and Grain to iPhone 18 Pro",
-  "summary": "Apple quietly restricted new Photographic Styles Texture and Grain controls exclusively to the iPhone 18 Pro, despite previous indications they would come to older devices.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wwweo2/apple_promised_texture_grain_controls_for_iphone/"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "RuneScape 4 and Reignited Revealed at RuneFest 2026",
-  "summary": "Jagex announced RuneScape 4 and RuneScape Reignited at RuneFest 2026.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/runefest-2026-runescape-4-runescape-reignited-old-school-runescape-jagex"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Fourth Unreal Engine RuneScape MMO and Animated Series Announced",
-  "summary": "Jagex announced a fourth RuneScape MMO built in Unreal Engine alongside an animated adaptation featuring MoistCr1TiKaL.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/runescape-4-mmo-jagex-animation-series-moistcr1tikal"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Gears of War E-Day Devs Proud to Anchor Xbox Exclusivity",
-  "summary": "The Coalition expressed pride in Gears of War: E-Day being a flagship Xbox exclusive title.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newfound-focus-on-exclusivity"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "The Witcher Season 5 Reportedly Delayed to 2027",
-  "summary": "Netflix has reportedly delayed the final fifth season of The Witcher to 2027.",
-  "verified": "reliable_reporter",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/the-witcher-season-5-when-release-date-netflix/"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Warner Bros. Gives The Devils a Restored 4K Theatrical Release",
-  "summary": "Warner Bros. is bringing Ken Russell's controversial 1971 film The Devils to theaters in restored 4K.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/ken-russell-the-devils-movie-4k-restoration-nc-17-rating/"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "RuneScape Animated Series Announced in Partnership With MoistCr1TiKaL",
-  "summary": "Jagex partners with MoistCr1TiKaL and Lyrical Media to produce a RuneScape animated show.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/runescape-animated-series-announced/"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Metroid-Vania Action Game Blends Genres This October",
-  "summary": "An upcoming action game blending Metroid and Dead Cells mechanics is slated for an October release.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/castlevania-belmonts-curse-release-date-metroidvania/"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "RuneScape 4 Officially Revealed by Developer Jagex",
-  "summary": "Jagex officially unveiled RuneScape 4 as an upcoming Unreal Engine MMO.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/runescape-4-announcement-runefest-reveal-jagex/"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Federal Judge Slams Flock LPR Tech As Mass Surveillance",
-  "summary": "A federal judge ruled that using Flock's license plate reading technology without a warrant violates Fourth Amendment rights.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "Study Shows Digital Wallets Crucial for Capturing Gen Z Shoppers",
-  "summary": "A recent study indicates that online retailers risk losing Gen Z customers if they do not support digital wallet payments.",
-  "verified": "reliable_reporter",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2273492/online-retailers-dont-support-digital-wallets-losing-gen-z-customers/"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "ICE Reportedly Uses Palantir Database to Track Protestors",
-  "summary": "Immigration and Customs Enforcement is reportedly utilizing Palantir software to compile dossiers on political protestors.",
-  "verified": "unconfirmed",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2276609/ice-is-reportedly-using-a-palantir-database-to-compile-dossiers-on-protestors/"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Citroen is Bringing Back the Iconic 2CV as an Affordable EV! \ud83d\ude97\u26a1",
-  "summary": "Citroen is reviving the iconic 2CV as an affordable electric vehicle, starting with a concept debut in Paris and a planned production version for 2028.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/citroen-2cv-teasers/"
- },
- {
-  "date": "2026-10-04T02:24:33.194661+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "launch",
-  "headline": "This Tiny 5-HP Electric Minivan is Headed to Production \ud83d\ude90\ud83d\udd0b",
-  "summary": "The Nora EV Metro is a tiny urban electric MPV with 5 horsepower that is set to go on sale in Pakistan.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/nora-ev-metro/"
- },
- {
   "date": "2026-10-04T04:16:16.481487+00:00",
   "topic": "Apple News",
   "score": 5,
@@ -14815,5 +14628,27 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/hideo-kojima-major-live-action-movie-cameo-comments/"
+ },
+ {
+  "date": "2026-10-07T02:39:57.316028+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Suzuki's Tiny New Electric Kei Car Goes Global \u26a1\ufe0f\ud83d\ude97",
+  "summary": "Suzuki has released a new sub-$10k small electric Kei car in Japan that is also heading to Europe.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/suzukis-esky-japan/"
+ },
+ {
+  "date": "2026-10-07T02:39:57.316028+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Harry Potter Dominates Streaming Ahead of HBO Series",
+  "summary": "The first Harry Potter film is performing exceptionally well on two major streaming services ahead of HBO's upcoming series adaptation.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/harry-potter-and-the-philosophers-stone-streaming-success-apple-tv-prime-video-october-2026/"
  }
 ]
