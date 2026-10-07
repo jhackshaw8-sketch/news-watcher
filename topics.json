@@ -59,7 +59,10 @@
       {"name": "Deadline Film", "url": "https://deadline.com/v/film/feed/"},
       {"name": "Collider", "url": "https://collider.com/feed/"},
       {"name": "/Film", "url": "https://www.slashfilm.com/feed/"},
-      {"name": "r/movies", "url": "https://www.reddit.com/r/movies/new/.rss"}
+      {"name": "r/movies", "url": "https://www.reddit.com/r/movies/new/.rss"},
+      {"name": "Sony Pictures (trailers)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCz97F7dMxBNOfGYu3rx8aCw"},
+      {"name": "Warner Bros (trailers)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgKkNPU2Ib7_TcyAl8M2S-w"},
+      {"name": "Universal Pictures (trailers)", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq0OueAsdxH6b8nyAspwViw"}
     ]
   },
   {
@@ -69,7 +72,7 @@
     "feeds": [
       {"name": "Variety", "url": "https://variety.com/feed/"},
       {"name": "Deadline", "url": "https://deadline.com/feed/"},
-         {"name": "ScreenRant", "url": "https://screenrant.com/feed/"},
+      {"name": "ScreenRant", "url": "https://screenrant.com/feed/"},
       {"name": "GamesRadar", "url": "https://www.gamesradar.com/rss/"},
       {"name": "r/entertainment", "url": "https://www.reddit.com/r/entertainment/new/.rss"}
     ]
