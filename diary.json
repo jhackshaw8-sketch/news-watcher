@@ -14980,5 +14980,82 @@
   "verified": "reliable_reporter",
   "source": "r/movies",
   "link": "https://www.reddit.com/r/movies/comments/1wzjjzv/is_film_and_tv_production_leaving_los_angeles/"
+ },
+ {
+  "date": "2026-10-07T06:45:36.276071+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "other",
+  "headline": "Three Years of iPhone 80% Charge Limit Results Analyzed",
+  "summary": "A user shares the long-term battery health results after maintaining an 80% charge limit on their iPhone for three years.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1wzp2v7/three_years_of_80_charge_limits_on_iphone_the/"
+ },
+ {
+  "date": "2026-10-07T06:45:36.276071+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Meta's Muse AI Raises Privacy Concerns",
+  "summary": "Meta's Muse AI agent raises privacy concerns regarding user data collection and profiling.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wznzb5/metas_muse_ai_agent_is_building_a_dossier_on_you/"
+ },
+ {
+  "date": "2026-10-07T06:45:36.276071+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "China Launches DeepZang AI for Tibetan Language",
+  "summary": "China has introduced the DeepZang AI model to enhance Tibetan language technology and promote ethnic unity.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wznypf/chinas_deepzang_ai_aims_to_transform_tibetan/"
+ },
+ {
+  "date": "2026-10-07T06:45:36.276071+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "SpaceX Eyes $40 Billion Loan to Buy Nvidia Chips",
+  "summary": "SpaceX is reportedly in talks to secure a $40 billion loan specifically to purchase Nvidia AI chips.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1wznljn/spacex_in_talks_to_borrow_40_billion_to_buy/"
+ },
+ {
+  "date": "2026-10-07T06:45:36.276071+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Classic Italian Flair Lives On: Alfa Romeo Giulia and Stelvio Get Another Refresh \ud83c\uddee\ud83c\uddf9\u2728",
+  "summary": "Alfa Romeo is keeping the Giulia and Stelvio alive by giving them yet another update instead of immediate replacements.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811000/2027-alfa-romeo-giulia-stelvio/"
+ },
+ {
+  "date": "2026-10-07T06:45:36.276071+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Charge on the Go: Honda Prepares Dynamic Wireless EV Charging Road Trials \u26a1\ud83d\udee3\ufe0f",
+  "summary": "Honda is preparing to test dynamic wireless EV-charging roads on a Japanese expressway starting in late 2026.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/810998/honda-dynamic-wireless-charging-road/"
+ },
+ {
+  "date": "2026-10-07T06:45:36.276071+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Zhang Yimou Teases Three-Body Problem Adaptation",
+  "summary": "Director Zhang Yimou shared new details about his upcoming sci-fi film adaptation of The Three-Body Problem at the Busan International Film Festival.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/zhang-yimou-three-body-problem-busan-jury-1237148613/"
  }
 ]
