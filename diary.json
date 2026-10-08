@@ -21107,5 +21107,126 @@
   "verified": "official",
   "source": "Variety",
   "link": "https://variety.com/2026/shopping/news/lululemon-ganni-workout-collection-shop-online-1236905495/"
+ },
+ {
+  "date": "2026-10-08T13:42:04.154602+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "New MacBook Pro Leak Teases Big Upgrades for Pros",
+  "summary": "A recent leak indicates potential positive updates for professional users regarding the upcoming redesigned MacBook Pro.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/08/new-macbook-pro-leak-could-be-very-good-news-for-pro-users/"
+ },
+ {
+  "date": "2026-10-08T13:42:04.154602+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Apple Expected to Reveal Three New Products on October 13",
+  "summary": "Reports indicate Apple is still on track to announce three new products during a planned event on October 13.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/08/new-apple-product-still-expected-october-13/"
+ },
+ {
+  "date": "2026-10-08T13:42:04.154602+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Star Wars: Galactic Racer Started As A Board Game",
+  "summary": "Star Wars: Galactic Racer was originally prototyped as a board game covered in Post-It notes before becoming a critically acclaimed racing video game.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/star-wars-galactic-racer-board-game-post-it-prototype"
+ },
+ {
+  "date": "2026-10-08T13:42:04.154602+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Google Launches Offline AI Meeting Note-Taker App",
+  "summary": "Google has released AI Edge Foresight, a new local-first, offline meeting note-taker competing with Granola.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
+ },
+ {
+  "date": "2026-10-08T13:42:04.154602+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Manus Secures Over $500M in New Funding",
+  "summary": "China's Manus has raised over $500 million in its first funding round since splitting from Meta, backed by major investors including Tencent.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
+ },
+ {
+  "date": "2026-10-08T13:42:04.154602+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "DOC NYC 2026 Festival Lineup Announced",
+  "summary": "DOC NYC announces its 2026 festival lineup featuring opening film 'The Hummingbird Paints Fragrant Songs'.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/festivals/doc-nyc-2026-lineup-1236904728/"
+ },
+ {
+  "date": "2026-10-08T13:42:04.154602+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Netflix Officially Expands 'Bridgerton' Universe With New Series",
+  "summary": "Netflix officially announces a new Bridgerton spin-off series focusing on Lady Violet's early life and romance.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/bridgerton-lady-violet-spinoff-netflix-shondaland/"
+ },
+ {
+  "date": "2026-10-08T13:42:04.154602+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Major Marvel Television Reveals From NYCC 2026",
+  "summary": "Marvel Television reveals major announcements and moments during its NYCC 2026 panel.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2281004/marvel-television-nycc-2026-live-updates/"
+ },
+ {
+  "date": "2026-10-08T13:42:04.154602+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Josh Hartnett Stars In New Netflix Sea Monster Horror Miniseries",
+  "summary": "Netflix adds a new horror miniseries starring Josh Hartnett about a town terrorized by a sea monster.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2279038/josh-hartnett-sea-monster-miniseries-below-streaming-netflix/"
+ },
+ {
+  "date": "2026-10-08T13:42:04.154602+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Mike Flanagan's 'Carrie' Keeps Key Stephen King Book Detail",
+  "summary": "Mike Flanagan's upcoming adaptation of Stephen King's Carrie includes a specific book detail left out of previous versions.",
+  "verified": "reliable_reporter",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2276833/mike-flanagan-carrie-stephen-king-book-detail-previous-missed/"
+ },
+ {
+  "date": "2026-10-08T13:42:04.154602+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "New Netflix Horror Series Debuts to Strong Reviews",
+  "summary": "Netflix's new Stephen King meets Lovecraft horror series has launched with a solid Rotten Tomatoes score.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/netflix-below-rotten-tomatoes-score-debut/"
  }
 ]
