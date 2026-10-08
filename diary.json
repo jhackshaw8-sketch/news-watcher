@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-05T05:43:31.824226+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Riz Ahmed and Alejandro G. I\u00f1\u00e1rritu BFI Talk Available",
-  "summary": "A recorded conversation between Riz Ahmed and Alejandro G. I\u00f1\u00e1rritu hosted by the BFI is shared for viewing.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1wxvg4n/riz_ahmed_alejandro_g_i\u00f1arritu_in_conversation_bfi/"
- },
- {
   "date": "2026-10-05T06:08:15.023285+00:00",
   "topic": "Cars",
   "score": 7,
@@ -20095,5 +20084,38 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/elder-scrolls-6-title-official-tease-xbox/"
+ },
+ {
+  "date": "2026-10-08T06:06:00.484591+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "launch",
+  "headline": "Nissan's New Global Truck Hits Mexico! \ud83d\udefb\ud83d\udca8",
+  "summary": "Nissan's Chinese-built truck, marketed as the Frontier Pro and Navara Pro, is going on sale in Mexico and other markets with combustion and plug-in hybrid options.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811125/nissan-chinese-truck-export-markets/"
+ },
+ {
+  "date": "2026-10-08T06:06:00.484591+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "Porsche Confirms New Mid-Engine Hypercar! \ud83c\udfce\ufe0f\ud83d\udd25",
+  "summary": "Porsche has officially confirmed a new mid-engine hypercar that could serve as a gas-powered successor to the iconic 918 Spyder.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/features/810284/porsche-flat-eight-supercar-price-horsepower-details/"
+ },
+ {
+  "date": "2026-10-08T06:06:00.484591+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "James Gunn Defends Clayface Movie Development",
+  "summary": "DC Studios head James Gunn defended the decision to develop a Clayface movie against online criticism regarding original IP and audience demands.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/james-gunn-responds-to-clayface-criticism-dc-studios-1236905240/"
  }
 ]
