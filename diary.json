@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-05T07:10:27.468700+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "La Oreja de Van Gogh Hit Songs Head to the Big Screen in New Musical",
-  "summary": "The hit songs of Spanish pop group La Oreja de Van Gogh are being adapted into an ambitious romantic musical film titled 'Puedes Contar Conmigo' directed by Fernando Gonz\u00e1lez Molina.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/la-oreja-de-van-gogh-fernando-gonzalez-molina-1236898493/"
- },
- {
-  "date": "2026-10-05T07:10:27.468700+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Psychological Thriller 'Traveller\u2019s Hell' Sets November Release Date",
-  "summary": "MBC Studios has officially scheduled the psychological thriller 'Traveller\u2019s Hell' for a November 19 theatrical release starting in Saudi cinemas.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/mbc-studios-november-19-release-landmark-travellers-hell-1237146471/"
- },
- {
-  "date": "2026-10-05T07:10:27.468700+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Skydance Considers Pausing 'LOTR: Shadow Of The Past' Film Project",
-  "summary": "Skydance is reportedly looking to pause development on Stephen Colbert's 'LOTR: Shadow Of The Past' film, though Warner Bros insists it is still in development.",
-  "verified": "unconfirmed",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1wy22rs/while_warner_bros_confirms_its_not_canceled_still/"
- },
- {
   "date": "2026-10-05T07:41:58.035704+00:00",
   "topic": "Cars",
   "score": 6,
@@ -20271,5 +20238,60 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/below-netflix-review-josh-hartnett/"
+ },
+ {
+  "date": "2026-10-08T07:41:40.011330+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Control Resonant Devs Ditch Yellow Paint for Exploration",
+  "summary": "The developers of Control Resonant made a conscious design choice to omit yellow paint guidance mechanics to encourage player exploration.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/control-resonant-yellow-paint-conscious-decision-marvels-wolverine"
+ },
+ {
+  "date": "2026-10-08T07:41:40.011330+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Monster Hunter Wilds Runs at 30FPS on Switch 2",
+  "summary": "Capcom successfully achieved a stable 30FPS for the Monster Hunter Wilds port on the Nintendo Switch 2 after a painstaking development process.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom"
+ },
+ {
+  "date": "2026-10-08T07:41:40.011330+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "NJ Data Center Fined for Massive Unpermitted Air Pollution",
+  "summary": "Public records reveal that a New Jersey data center emitted massive amounts of unpermitted air pollution for nearly a year before regulators intervened.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x0jz0p/nj_data_center_emitted_staggering_amounts_of_air/"
+ },
+ {
+  "date": "2026-10-08T07:41:40.011330+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Malaysia Breaks Ground on New 'Silicon Island' for AI",
+  "summary": "Malaysia is constructing a new 'Silicon Island' project to support its growing artificial intelligence and tech infrastructure ambitions.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x0jv6t/malaysia_builds_a_new_silicon_island_to_house_its/"
+ },
+ {
+  "date": "2026-10-08T07:41:40.011330+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "business",
+  "headline": "Ferrari Daytona SP3 Set to Fetch Massive Millions at Auction \ud83c\udfce\ufe0f\ud83d\udcb0",
+  "summary": "A former Ferrari development and press Daytona SP3 is heading to auction with an eight-figure estimate following a previous $26,000,000 charity sale.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811143/ferrari-daytona-sp3-auction-value/"
  }
 ]
