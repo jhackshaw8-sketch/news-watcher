@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-05T04:07:43.007913+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Lanterns Finale Confirms Major Manhunter Theory With a Twist",
-  "summary": "The season 1 finale of Lanterns features a major twist that confirms a popular Manhunter theory with compelling details.",
-  "verified": "reliable_reporter",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2276870/lanterns-episode-8-noah-macon-manhunter-twist-explained/"
- },
- {
-  "date": "2026-10-05T04:07:43.007913+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Skydance Media Merger Date Set for October",
-  "summary": "John Oliver avoided discussing the upcoming Paramount Skydance and Warner Bros. Discovery merger on his show.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/news/john-oliver-last-week-tonight-david-ellison-skydance-hbo-warner-bros-1236898839/"
- },
- {
-  "date": "2026-10-05T04:07:43.007913+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "The Expanse Officially Returns in 2027 With Epic Prequel",
-  "summary": "The Expanse officially returns in 2027 with a massive six-part prequel and new video game titles.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/expanse-official-return-telltale-prequel-series-2027/"
- },
- {
   "date": "2026-10-05T04:57:13.463758+00:00",
   "topic": "Movies",
   "score": 6,
@@ -20018,5 +19985,60 @@
   "verified": "official",
   "source": "Variety Film",
   "link": "https://variety.com/2026/film/markets-festivals/pang-brothers-josie-ho-thriller-mage-busan-market-debut-1236905233/"
+ },
+ {
+  "date": "2026-10-08T04:41:12.470067+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Star Wars: Galactic Racer to Double Party Limit Post-Launch",
+  "summary": "Fuse Games plans to double the multiplayer party limit in Star Wars: Galactic Racer from three to six players shortly after launch.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/star-wars-galactic-racer-multiplayer-party-limit-will-be-doubled-via-update"
+ },
+ {
+  "date": "2026-10-08T04:41:12.470067+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Bethesda Unveils New $13,999 Fallout Release",
+  "summary": "Bethesda has officially announced a new high-end Fallout release priced at $13,999.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/bethesda-fallout-stern-pinball-october-2026/"
+ },
+ {
+  "date": "2026-10-08T04:41:12.470067+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Game Of Thrones Getting New Finale In 2027",
+  "summary": "Game of Thrones is officially getting a new finale with the release of War For Westeros in 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/game-of-thrones-is-getting-a-new-finale-in-war-for-westeros/"
+ },
+ {
+  "date": "2026-10-08T04:41:12.470067+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "The Witcher: Legacy Officially Slated For 2027",
+  "summary": "The Witcher franchise will officially return in 2027 with the release of The Witcher: Legacy.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/witcher-legacy-2027-release-date-psa/"
+ },
+ {
+  "date": "2026-10-08T04:41:12.470067+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Star Wars: Episode X Receives Exciting New Update",
+  "summary": "A recent update regarding Star Wars: Episode X and the upcoming Skywalker saga trilogy has been revealed.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-wars-episode-x-latest-update-way-more-exciting-watts-kinberg/"
  }
 ]
