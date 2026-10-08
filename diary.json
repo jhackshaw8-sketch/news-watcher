@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-05T07:41:58.035704+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Mazda Knows Enthusiasts Want The Miata Light And Analog \ud83c\udfce\ufe0f\ud83d\udca8",
-  "summary": "Mazda recognizes that enthusiasts prefer a light and analog Miata over an electric version right now.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810729/mazda-miata-electric-customers-uninterested/"
- },
- {
-  "date": "2026-10-05T07:41:58.035704+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "business",
-  "headline": "Mercedes-Benz Expected To Bypass US Ban Despite Chinese Ownership Stake \ud83c\udfdb\ufe0f",
-  "summary": "Mercedes-Benz is likely to avoid a US ban despite having nearly 20 percent Chinese ownership due to potential waivers and cutoff debates.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810730/a-us-china-car-bill/"
- },
- {
-  "date": "2026-10-05T08:05:52.444413+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "End Of Abyss Receives Major Patch Right After Launch",
-  "summary": "A rapid post-launch patch for End of Abyss successfully resolved the majority of player complaints just one day after release.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wy09x0/end_of_abyss_patch_fixes_most_of_my_complaints/"
- },
- {
-  "date": "2026-10-05T08:05:52.444413+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "2027 Chevy Corvette Z06 Arrives Down Under! \ud83c\udfce\ufe0f\ud83c\udde6\ud83c\uddfa",
-  "summary": "The updated 2027 Chevrolet Corvette Z06 has officially landed in Australia with pricing starting at AU$299,990 in standard 3LZ spec.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/2027-chevrolet-corvette-z06-australia-no-grand-sport/"
- },
- {
-  "date": "2026-10-05T08:05:52.444413+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Inside Disney+'s New Supernatural Teen Drama Coven Academy",
-  "summary": "Creator Tim Federle discusses the plot, character arcs, and potential second-season storylines for Disney+'s supernatural teen drama Coven Academy.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/disney-plus-series-coven-academy-finale-creator-tim-federle/"
- },
- {
-  "date": "2026-10-05T08:05:52.444413+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Talpa Studios Unveils New Entertainment Formats for Mipcom",
-  "summary": "Talpa Studios is heading to Mipcom with a slate of new entertainment formats including 'Sing With Me' and 'The Golden Elevators'.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/global/talpa-studios-mipcom-sing-with-me-the-golden-elevators-1236898478/"
- },
- {
-  "date": "2026-10-05T08:05:52.444413+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "New IP Studio Forge Films Announces Viking Mythology Series 'Lost in Hel'",
-  "summary": "A trio of entertainment executives have launched Forge Films Company and announced the Viking mythology series 'Lost in Hel' as their first project.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/forge-films-company-launch-lost-in-hel-viking-series-1237145372/"
- },
- {
-  "date": "2026-10-05T08:05:52.444413+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Brian Cox Signs Content Deal with Sony's New Digital Studio",
-  "summary": "British scientist and broadcaster Brian Cox has signed a content deal with Sony Pictures Television International Production's Digital Studio.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/brian-cox-youtube-deal-sony-bbc-presenter-scientist-1237146484/"
- },
- {
   "date": "2026-10-05T08:42:42.108263+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -20293,5 +20205,60 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/811143/ferrari-daytona-sp3-auction-value/"
+ },
+ {
+  "date": "2026-10-08T08:05:57.816997+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "What to Expect From Apple This October",
+  "summary": "An overview outlining twelve upcoming announcements and product releases expected from Apple during the month of October.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x0l4d8/12_new_things_to_expect_from_apple_in_october/"
+ },
+ {
+  "date": "2026-10-08T08:05:57.816997+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Crimson Desert DLC Delayed by Two Weeks",
+  "summary": "Pearl Abyss has delayed the first DLC for Crimson Desert, Charting the Unknown, by two weeks to October 29 for a more polished experience.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/crimson-desert-charting-the-unknown-dlc-delayed"
+ },
+ {
+  "date": "2026-10-08T08:05:57.816997+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "Xbox Mythic Achievements Roll Out to Insiders",
+  "summary": "Xbox Mythic Achievements, comparable to PlayStation Platinum Trophies, have been officially announced and are rolling out for Insiders, retroactively applying back to the Xbox 360 era.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/xbox-mythic-achievements-playstation-trophies"
+ },
+ {
+  "date": "2026-10-08T08:05:57.816997+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "legal",
+  "headline": "Court Rules Long-Term License Plate Tracking Unconstitutional \ud83d\uded1",
+  "summary": "A federal circuit judge has ruled that monthlong warrantless license plate tracking is unconstitutional, impacting law enforcement surveillance practices.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/judge-rules-warrantless-alpr-tracking-unconstitutional/"
+ },
+ {
+  "date": "2026-10-08T08:05:57.816997+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Porsche Is Brewing Up More 911 Specials (Hello, GT2 RS?) \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "Porsche is reportedly developing additional 911 special editions, with rumors heavily pointing toward an upcoming GT2 RS.",
+  "verified": "unconfirmed",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811139/porsche-confirms-more-911-specials/"
  }
 ]
