@@ -1,115 +1,5 @@
 [
  {
-  "date": "2026-10-05T09:42:25.733715+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "other",
-  "headline": "Remembering Steve Jobs on the 15th Anniversary of His Passing",
-  "summary": "Today marks the 15th anniversary of the passing of Apple co-founder Steve Jobs.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/05/today-15th-anniversary-steve-jobs-death/"
- },
- {
-  "date": "2026-10-05T09:42:25.733715+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "update",
-  "headline": "Apple Announces Replacement Program for Faulty iPhone 18 Pro Max Batch",
-  "summary": "Apple has announced a replacement program for a faulty batch of iPhone 18 Pro Max devices.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wy43jr/apple_offers_to_replace_faulty_batch_of_iphone_18/"
- },
- {
-  "date": "2026-10-05T09:42:25.733715+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "rumor",
-  "headline": "Rockstar Reveals Wild GTA 6 Research Tactics in Florida",
-  "summary": "Rockstar Games reveals details about their extensive Florida field research involving gang members, cops, and high-altitude surveillance for GTA 6.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/gta-6-research-gang-members"
- },
- {
-  "date": "2026-10-05T09:42:25.733715+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Jagex Faces Fan Backlash Over Generative AI Trailer",
-  "summary": "RuneScape developer Jagex faces community backlash after using generative AI in a recent promotional trailer shown at RuneFest.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai"
- },
- {
-  "date": "2026-10-05T09:42:25.733715+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "business",
-  "headline": "BMW Cuts 20% of Management Roles as AI Integration Expands \ud83e\udd16\ud83d\udcc9",
-  "summary": "BMW is cutting 20 percent of its management positions by leveraging artificial intelligence and streamlining its vehicle lineup.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810754/bmw-strategy-brings-management-cuts/"
- },
- {
-  "date": "2026-10-05T09:42:25.733715+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "Stunning Aston Martin V12 Vanquish Captured in High Resolution \u2728\ud83d\ude97",
-  "summary": "A high-resolution photo showcase of the classic Aston Martin V12 Vanquish shared by an enthusiast community.",
-  "verified": "unconfirmed",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1wy41ty/aston_martin_v12_vanquish_1638x2048/"
- },
- {
-  "date": "2026-10-05T09:42:25.733715+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "launch",
-  "headline": "Mazda Confirms Plans for a New Pickup Truck Successor \ud83d\udefb\ud83d\udca8",
-  "summary": "Mazda has confirmed that it will continue its pickup truck line by developing a successor to the current BT-50.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810748/mazda-new-pickup-truck-confirmed/"
- },
- {
-  "date": "2026-10-05T09:42:25.733715+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Glen Powell Blockbuster Dominates Streaming Charts",
-  "summary": "Glen Powell's legacy sequel is dominating streaming charts in 2026 after a strong theatrical run.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/glen-powell-twisters-streaming-success-hulu-october-2026/"
- },
- {
-  "date": "2026-10-05T09:42:25.733715+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "The Legend of Zelda Oracles Games Officially Returning in New Collection",
-  "summary": "The Legend of Zelda Oracles games are officially returning in a new collection.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/legend-of-zelda-master-collection-oracle-games-tcg/"
- },
- {
-  "date": "2026-10-05T09:42:25.733715+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "update",
-  "headline": "PlayStation Plus Users Have Until October 6 To Claim 4 Free Games",
-  "summary": "PlayStation Plus subscribers have until October 6 to claim four free games including Sniper Elite and Chained Echoes.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/playstation-plus-free-games-september-2026-last-chance/"
- },
- {
   "date": "2026-10-05T10:06:59.909987+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -20304,5 +20194,148 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/assassins-creed-animus-ezio-return-october-2026-psa/"
+ },
+ {
+  "date": "2026-10-08T10:06:37.473153+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Call of Cthulhu Tabletop Game Changes Lovecraftian God Name",
+  "summary": "Chaosium officially changed the name of a Lovecraftian god for the upcoming tabletop game Call of Cthulhu: Old Ones.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/call-of-cthulhu-shub-niggurath-name-change-lovecraft/"
+ },
+ {
+  "date": "2026-10-08T10:06:37.473153+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "AirTrunk Triples Japan Data Center Investment to $30B",
+  "summary": "Australia's AirTrunk plans to triple its data center investment in Japan to up to $30 billion.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x0mmoi/australias_airtrunk_to_triple_japan_data_center/"
+ },
+ {
+  "date": "2026-10-08T10:06:37.473153+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Spain's Aragon Becomes a $70 Billion Data Center Hub",
+  "summary": "Fast-track permits have transformed Spain's Aragon region into a massive $70 billion data center magnet.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x0mm1r/fasttrack_permits_turn_spains_aragon_into_a_70/"
+ },
+ {
+  "date": "2026-10-08T10:06:37.473153+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Manus Raises Over $500M Following Meta Exit",
+  "summary": "Manus successfully raises over $500 million in funding following its exit from Meta.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x0mlpv/manus_raises_more_than_500_million_after_meta_exit/"
+ },
+ {
+  "date": "2026-10-08T10:06:37.473153+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "NVIDIA Launches DGX Station for Windows with 748GB Unified Memory",
+  "summary": "NVIDIA introduces the DGX Station for Windows, bringing massive 748GB unified memory to desktop workstations.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x0ml6x/nvidia_dgx_station_for_windows_brings_748gb/"
+ },
+ {
+  "date": "2026-10-08T10:06:37.473153+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Finland Orders Google to Halt Data Center Work Over Environmental Reviews",
+  "summary": "Finland orders Google to halt ongoing data center construction due to missing environmental reviews.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x0m6en/finland_orders_google_to_halt_data_centre_work/"
+ },
+ {
+  "date": "2026-10-08T10:06:37.473153+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Jeremy Clarkson is Selling Iconic Grand Tour Classics! \ud83c\udfce\ufe0f\ud83c\uddec\ud83c\udde7",
+  "summary": "Jeremy Clarkson is auctioning off three classic cars featured in the final episode of The Grand Tour.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/jeremy-clarkson-selling-classic-cars-the-grand-tour/"
+ },
+ {
+  "date": "2026-10-08T10:06:37.473153+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "business",
+  "headline": "Jeep Becomes Official 4x4 of Moab in New Partnership Deal! \ud83d\ude99\ud83c\udfdc\ufe0f",
+  "summary": "Moab has partnered with Jeep in a two-year deal involving $250,000 in cash and five loaned vehicles.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811166/jeep-named-official-4x4-moab/"
+ },
+ {
+  "date": "2026-10-08T10:06:37.473153+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Wim Wenders Boards Peter Lindbergh Doc",
+  "summary": "Wim Wenders has joined the Peter Lindbergh documentary 'Truth:Beauty' as an executive producer.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/wim-wenders-peter-lindbergh-documentary-truthbeauty-1236905380/"
+ },
+ {
+  "date": "2026-10-08T10:06:37.473153+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Russell Crowe's Netflix Thriller Hits 40M Views",
+  "summary": "Russell Crowe's psychological thriller on Netflix has surpassed 40 million views despite receiving poor reviews.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/unabomber-russell-crowe-mindhunter-replacement-streaming-success-netflix-october-2026/"
+ },
+ {
+  "date": "2026-10-08T10:06:37.473153+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Bringing Tim Blake Nelson's Thriller to Screen",
+  "summary": "Tim Blake Nelson, Amanda Seyfried, and Scoot McNairy discuss the 12-year journey to bring their new crime thriller to the screen.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/amanda-seyfried-the-life-and-deaths-of-wilson-shedd-tim-blake-nelson-interview/"
+ },
+ {
+  "date": "2026-10-08T10:06:37.473153+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Nintendo Officially Teases Zelda: Majora's Mask Return",
+  "summary": "Nintendo has officially teased a potential return or remake of The Legend of Zelda: Majora's Mask.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/legend-of-zelda-majoras-mask-remake-teased/"
+ },
+ {
+  "date": "2026-10-08T10:06:37.473153+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Crunchyroll Confirms New Centralized PS5 Hub and Era",
+  "summary": "Crunchyroll has officially confirmed a new centralized PS5-integrated hub for anime premieres and game-inspired content.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/crunchyroll-officially-confirms-the-beginning-of-a-brand-new-era/"
  }
 ]
