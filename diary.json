@@ -20260,5 +20260,93 @@
   "verified": "unconfirmed",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/811139/porsche-confirms-more-911-specials/"
+ },
+ {
+  "date": "2026-10-08T08:41:41.943160+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "OLED MacBook Pro Design Expectations",
+  "summary": "Mark Gurman reports that the upcoming OLED MacBook Pro will not feature a significantly thinner design.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/08/oled-macbook-pro-wont-be-thinner/"
+ },
+ {
+  "date": "2026-10-08T08:41:41.943160+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "OLED MacBook Pro Thickness Rumors",
+  "summary": "Discussion on Reddit regarding Mark Gurman's report that future OLED MacBook Pros will retain a similar thickness.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x0lq0n/gurman_oled_macbook_pro_wont_be_significantly/"
+ },
+ {
+  "date": "2026-10-08T08:41:41.943160+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Gears of War Boss Addresses Development Timeline and Studio Layoffs",
+  "summary": "The head of Gears of War developer The Coalition reassures fans that the next game will have a shorter development cycle while addressing recent industry layoffs at Microsoft.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game"
+ },
+ {
+  "date": "2026-10-08T08:41:41.943160+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Jeremy Clarkson's Farm-Grown Jaguar F-Type \ud83d\ude9c\ud83c\udf3f",
+  "summary": "Jeremy Clarkson's latest Prime Video special features a Jaguar F-Type V6S modified with flax composite and farm-sourced materials from Diddly Squat Farm.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811149/jeremy-clarkson-growing-a-jaguar/"
+ },
+ {
+  "date": "2026-10-08T08:41:41.943160+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Lightdox Acquires Sales Rights to Chris Marker Doc 'Nostalgia for the Future'",
+  "summary": "Lightdox has acquired international sales rights for the Chris Marker documentary Nostalgia for the Future, narrated by Charlotte Rampling.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/nostalgia-for-the-future-lightdox-sales-acquisition-1237149710/"
+ },
+ {
+  "date": "2026-10-08T08:41:41.943160+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Nathan Fielder's Elizabeth Holmes Doc Sets UK Release Date",
+  "summary": "Nathan Fielder and Lance Oppenheim's Elizabeth Holmes documentary 'You Can See Everything' has set a November release date in the U.K. and Ireland.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/film/global/nathan-fielder-you-can-see-everything-uk-release-date-1236905306/"
+ },
+ {
+  "date": "2026-10-08T08:41:41.943160+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Marc Forster to Direct TV Adaptation of Thriller Novel 'Nines'",
+  "summary": "Director Marc Forster is adapting Jamie Scallion's upcoming revenge thriller novel 'Nines' for television.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/marc-forster-nines-jamie-scallion-tv-renee-wolfe-fremantle-1237149709/"
+ },
+ {
+  "date": "2026-10-08T08:41:41.943160+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Brad Bird Debuts 'Ray Gunn' at London Film Festival",
+  "summary": "Animation director Brad Bird is debuting his long-awaited feature 'Ray Gunn' at the London Film Festival after a 30-year journey.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/brad-bird-ray-gunn-london-film-festival-skydance-netflix-1237148899/"
  }
 ]
