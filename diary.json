@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-05T03:05:11.132582+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Lanterns Finale Reveals the Tragic Truth Behind Hal Jordan's Death",
-  "summary": "The season 1 finale of Lanterns revealed the tragic identity of Hal Jordan's killer, shocking fans.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2276856/lanterns-episode-8-hal-jordan-killer-identity-explained/"
- },
- {
   "date": "2026-10-05T04:07:43.007913+00:00",
   "topic": "Movies",
   "score": 6,
@@ -19974,5 +19963,38 @@
   "verified": "official",
   "source": "/Film",
   "link": "https://www.slashfilm.com/2280814/samuel-l-jackson-next-marvel-movie-nick-fury-avengers-secret-wars/"
+ },
+ {
+  "date": "2026-10-08T03:41:02.654490+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Mixtape Sweeps 2026 AGDAs With Game of the Year Win",
+  "summary": "Developer Beethoven & Dinosaur won three awards at the 2026 Australian Game Developer Awards, including Game of the Year for Mixtape.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/mixtape-wins-game-of-the-year-at-the-2026-australian-game-developer-awards"
+ },
+ {
+  "date": "2026-10-08T03:41:02.654490+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Jesse Eisenberg Praises Julianne Moore in 'The Debut'",
+  "summary": "Jesse Eisenberg praised Julianne Moore's performance at the New York Film Festival premiere of his latest directorial feature, 'The Debut'.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/the-debut-jesse-eisenberg-julianne-moores-oscar-frontrunner-nyff-1236905218/"
+ },
+ {
+  "date": "2026-10-08T03:41:02.654490+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Legendary Indian Star Nana Patekar Passes Away at 75",
+  "summary": "Renowned Indian Hindi and Marathi cinema star Nana Patekar has passed away at the age of 75 due to cardiac arrest.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/obituaries-people-news/nana-patekar-dead-parinda-krantiveer-1236905203/"
  }
 ]
