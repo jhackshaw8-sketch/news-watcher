@@ -20051,5 +20051,49 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/star-trek-2009-kelvin-timeline-return-rediscovered/"
+ },
+ {
+  "date": "2026-10-08T05:39:42.554642+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Australia Mandates AI Safety Proof",
+  "summary": "Australia has outlined new plans requiring artificial intelligence companies to prove that their safety systems are effective.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x0ir43/australia_outlines_plans_to_make_ai_companies/"
+ },
+ {
+  "date": "2026-10-08T05:39:42.554642+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "PoeLLM Malware Infects 3K+ Servers",
+  "summary": "A new malware threat named PoeLLM is exploiting poetry generation to infect over 3,000 servers.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x0i313/poetry_is_the_new_ai_security_threat_as_poellm/"
+ },
+ {
+  "date": "2026-10-08T05:39:42.554642+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Tech Leaders to Receive National Medal of Science",
+  "summary": "Elon Musk, Sergey Brin, Jensen Huang, and Lisa Su are set to receive the National Medal of Science at the White House.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x0eyrc/trump_to_award_national_medal_of_science_to_musk/"
+ },
+ {
+  "date": "2026-10-08T05:39:42.554642+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "update",
+  "headline": "Xbox Officially Teases The Elder Scrolls 6 Title",
+  "summary": "An Xbox executive has officially teased the potential title for the highly anticipated game The Elder Scrolls 6.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/elder-scrolls-6-title-official-tease-xbox/"
  }
 ]
