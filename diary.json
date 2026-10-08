@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-05T02:40:01.651436+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "business",
-  "headline": "John Ternus Prioritizes Product Design as New Apple CEO",
-  "summary": "New Apple CEO John Ternus has reportedly made product design a major priority within the company.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/04/john-ternus-making-design-a-major-priority/"
- },
- {
-  "date": "2026-10-05T02:40:01.651436+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "New Lego Zelda Set Announced",
-  "summary": "Nintendo and Lego have announced an official Legend of Zelda: Ocarina of Time set to celebrate the series' 40th anniversary.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-lego-set/"
- },
- {
-  "date": "2026-10-05T02:40:01.651436+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "'A Tale of Two Cities' Star Breaks Down Finale's Heartbreaking Ending",
-  "summary": "Star Mirren Mack discusses the heartbreaking finale and romantic arcs of the recent adaptation of 'A Tale of Two Cities'.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/a-tale-of-two-cities-finale-twist-love-triangle-mirren-mack/"
- },
- {
-  "date": "2026-10-05T02:40:01.651436+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Marvel Debuts New Ghost Rider Design",
-  "summary": "Marvel has officially revealed a new design for Johnny Blaze's Ghost Rider.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/ghost-rider-new-design-revealed-halo/"
- },
- {
-  "date": "2026-10-05T02:40:01.651436+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "DC Turns The Flash Into An Anti-Hero",
-  "summary": "DC shifts The Flash into an anti-hero role in a new comic storyline.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/wally-west-flash-become-antihero-dc/"
- },
- {
-  "date": "2026-10-05T02:40:01.651436+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Tom Hardy Begins MobLand Season 2 Tradition",
-  "summary": "Tom Hardy has officially kicked off a new intense tradition for the second season of MobLand.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/mobland-season-2-episode-3-frankie-harry-meetings-tradition/"
- },
- {
-  "date": "2026-10-05T02:40:01.651436+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "James Gunn's Superman Sequel Starts Early on HBO Max",
-  "summary": "A new HBO Max release marks the early start for James Gunn's upcoming Superman sequel, Man of Tomorrow, ahead of its 2027 release.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/james-gunn-superman-man-of-tomorrow-lanterns-hbo-max-setup/"
- },
- {
   "date": "2026-10-05T03:05:11.132582+00:00",
   "topic": "Movies",
   "score": 6,
@@ -19996,5 +19919,60 @@
   "verified": "official",
   "source": "Deadline Film",
   "link": "https://deadline.com/2026/10/skydance-warner-bros-films-in-works-1237149497/"
+ },
+ {
+  "date": "2026-10-08T03:04:41.768577+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Witcher 3 Remastered Lighting Divides Fans",
+  "summary": "The recent free Witcher 3 Remastered Edition update has boosted player counts on Steam, but its new lighting changes have divided community opinions.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting"
+ },
+ {
+  "date": "2026-10-08T03:04:41.768577+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Microsoft Introduces New Laptop USB-C Port Design",
+  "summary": "Microsoft has introduced a newly designed USB-C port for its laptops with unique functional improvements.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x0g1eh/microsoft_just_invented_the_ultimate_laptop_usbc/"
+ },
+ {
+  "date": "2026-10-08T03:04:41.768577+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Sebastian Stan Teases Heartbreaking Tone in 'Avengers: Doomsday'",
+  "summary": "Sebastian Stan shared that he has not yet seen 'Avengers: Doomsday' but expects the film to be heartbreaking.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/sebastian-stan-avengers-doomsday-pretty-heartbreaking-1236905173/"
+ },
+ {
+  "date": "2026-10-08T03:04:41.768577+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Tom Cruise Faces New Challenges in Upcoming Film 'Digger'",
+  "summary": "Tom Cruise is set to take on a rare type of character in his upcoming movie 'Digger' where he cannot save the day.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/tom-cruise-digger-role-not-hero-mission-impossible-top-gun/"
+ },
+ {
+  "date": "2026-10-08T03:04:41.768577+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Samuel L. Jackson Confirms Next MCU Appearance as Nick Fury",
+  "summary": "Samuel L. Jackson has confirmed his next MCU appearance as Nick Fury in a project other than 'Avengers: Doomsday'.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2280814/samuel-l-jackson-next-marvel-movie-nick-fury-avengers-secret-wars/"
  }
 ]
