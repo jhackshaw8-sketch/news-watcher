@@ -1,115 +1,5 @@
 [
  {
-  "date": "2026-10-05T23:03:21.600813+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "update",
-  "headline": "Tool Frees Up Apple Intelligence Mac Storage",
-  "summary": "A new open-source tool allows macOS users to free up storage by removing Apple Intelligence files, though caution is advised.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/05/this-tool-frees-up-apple-intelligence-storage-on-macos-but-think-twice-before-using-it/"
- },
- {
-  "date": "2026-10-05T23:03:21.600813+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "macOS 27.2 Rumored to Add Touch Gestures",
-  "summary": "macOS 27.2 is rumored to introduce touch gestures in anticipation of a future MacBook Ultra release.",
-  "verified": "unconfirmed",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wymy0p/macos_272_adds_touch_gestures_ahead_of_macbook/"
- },
- {
-  "date": "2026-10-05T23:03:21.600813+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "OLED MacBook Pro Rumored for November",
-  "summary": "Rumors suggest an OLED MacBook Pro with a touchscreen and lighter build could arrive as early as November.",
-  "verified": "unconfirmed",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wymk70/apple_oled_macbook_pro_could_arrive_by_november/"
- },
- {
-  "date": "2026-10-05T23:03:21.600813+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "MCP Agent Protocol Sparks Security Concerns Over Malicious Prompts",
-  "summary": "The Model Context Protocol (MCP) for agent-to-agent communication introduces significant security risks regarding malicious prompt propagation.",
-  "verified": "reliable_reporter",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
- },
- {
-  "date": "2026-10-05T23:03:21.600813+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "launch",
-  "headline": "Mazda's New Electric SUV Lets You Talk to Pedestrians Through the Grille \ud83d\ude97\ud83d\udd0a",
-  "summary": "The new Mazda CX-6e electric SUV features a front speaker system that allows drivers to project custom text and live voice messages to pedestrians.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810784/mazda-cx-6e-external-announcement/"
- },
- {
-  "date": "2026-10-05T23:03:21.600813+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Marshals Season 2 Explores Season 1's Most Tragic Death",
-  "summary": "Marshals Season 2 reveals how Tom Weaver's actions in Season 1 directly led to a major tragedy for the team.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/marshals-season-2-episode-1-weaver-double-g-garrett-death/"
- },
- {
-  "date": "2026-10-05T23:03:21.600813+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Verity Box Office Success Heralds More Colleen Hoover Adaptations",
-  "summary": "The strong box office performance of Verity starring Anne Hathaway paves the way for future Colleen Hoover film adaptations.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2278243/verity-box-office-future-colleen-hoover-adaptations-meaning/"
- },
- {
-  "date": "2026-10-05T23:03:21.600813+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "Amazon's Eight Billion Genies Adaptation Gets Positive Progress Update",
-  "summary": "Charles Soule shares an extremely positive progress update on Amazon's Eight Billion Genies adaptation with writer Rodney Rothman.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/eight-billion-genies-adaptation-update-charles-soule-rodney-rothman/"
- },
- {
-  "date": "2026-10-05T23:03:21.600813+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "HBO's Lanterns Finale Introduces Major Green Lantern Lore Twist",
-  "summary": "The HBO Lanterns finale officially introduces a defining piece of Green Lantern lore with a twist for John Stewart.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/lanterns-episode-8-season-finale-yellow-ring/"
- },
- {
-  "date": "2026-10-05T23:03:21.600813+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "legal",
-  "headline": "Subscribers File Supreme Court Petition To Halt Paramount-WBD Merger",
-  "summary": "Paramount subscribers have filed a Supreme Court petition to temporarily halt the impending merger with Warner Bros. Discovery.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/paramount-warner-bros-supreme-court-1237147278/"
- },
- {
   "date": "2026-10-05T23:35:27.340347+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -22900,5 +22790,126 @@
   "verified": "official",
   "source": "Variety Film",
   "link": "https://variety.com/2026/film/reviews/other-mommy-review-jessica-chastain-doppelganger-horror-1236906167/"
+ },
+ {
+  "date": "2026-10-08T23:04:55.364619+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Apple Announces Special October 13 Media Event for New Products",
+  "summary": "Apple marketing chief Greg Joswiak announced a special media hands-on event in New York City for October 13 to introduce new products.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/08/apple-october-13-launch/"
+ },
+ {
+  "date": "2026-10-08T23:04:55.364619+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Saleen Reopens S1 Deposits, But the Wait Continues \ud83c\udfce\ufe0f\u23f3",
+  "summary": "Saleen is once again accepting refundable deposits for its S1 sports car, though a firm delivery date remains unannounced.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/saleen-s1-deposits-still-no-delivery-date/"
+ },
+ {
+  "date": "2026-10-08T23:04:55.364619+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Jaguar Teases Type 01-Styled SUV as Its Next Move \ud83d\ude99\u2728",
+  "summary": "Jaguar has hinted that its upcoming second model will likely be an SUV featuring the design language seen on the Type 01 concept.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811245/jaguar-next-model-crossover-design/"
+ },
+ {
+  "date": "2026-10-08T23:04:55.364619+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Ben Affleck's 'Animals' Reviewed: A Kidnap Thriller Stretched Too Thin",
+  "summary": "A review of Netflix's kidnap thriller 'Animals' starring Ben Affleck and Kerry Washington notes that the film struggles by being stretched too thin.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/animals-review-ben-affleck-kerry-washington-netflix-1237149370/"
+ },
+ {
+  "date": "2026-10-08T23:04:55.364619+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "business",
+  "headline": "Tom Cruise's Latest Film Projected to Lose a Massive $250 Million",
+  "summary": "Tom Cruise's new movie is projected to suffer historic box-office losses reaching the quarter-billion-dollar mark.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/tom-cruise-digger-box-office-loss-250-million/"
+ },
+ {
+  "date": "2026-10-08T23:04:55.364619+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Ben Affleck Campaigned for LA Mayor as His 'Animals' Character",
+  "summary": "Ben Affleck playfully campaigned for mayor in Los Angeles as his fictional character from the Netflix film 'Animals' to urge people not to vote for him.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/ben-affleck-campaigned-mayor-la-animals-character-1237150628/"
+ },
+ {
+  "date": "2026-10-08T23:04:55.364619+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Review: Ben Affleck's 'Animals' Struggles with Its Political Ambitions",
+  "summary": "A review of Ben Affleck's Netflix thriller 'Animals' criticizes the film for attempting to get political but ultimately pulling its punches.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/animals-netflix-ben-affleck-review/"
+ },
+ {
+  "date": "2026-10-08T23:04:55.364619+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Marvel Surprises NYCC With VisionQuest Premiere",
+  "summary": "Marvel surprised New York Comic Con attendees with an early screening of VisionQuest ahead of its October 14 Disney+ premiere.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/marvel-visionquest-surprise-premieres-nycc-first-reactions-1236906093/"
+ },
+ {
+  "date": "2026-10-08T23:04:55.364619+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Blacky The Metal Arm Cat Announced at Busan",
+  "summary": "Hong Kong's Point Five Creations is presenting its new animated feature Blacky The Metal Arm Cat at the Busan ACFM.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/another-world-blacky-the-metal-arm-cat-point-five-creations-1237148928/"
+ },
+ {
+  "date": "2026-10-08T23:04:55.364619+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Mockingbird Launches Slate at Busan ACFM",
+  "summary": "Vietnam's Mockingbird Pictures is launching three new titles, including horror and comedy drama projects, at the Busan ACFM.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/vietnam-tuan-tran-mockingbird-happiest-cell-busan-1237148960/"
+ },
+ {
+  "date": "2026-10-08T23:04:55.364619+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Ben Affleck's Animals Debuts on Netflix",
+  "summary": "Ben Affleck returns to the thriller genre with Netflix's Animals, which received a lukewarm critical reception.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/animals-movie-review/"
  }
 ]
