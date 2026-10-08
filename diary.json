@@ -1,148 +1,5 @@
 [
  {
-  "date": "2026-10-05T10:06:59.909987+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "EU Users Facing Longer Wait for Siri AI",
-  "summary": "EU users might face a months-long wait for the upgraded Siri AI, according to Mark Gurman.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/05/extended-eu-wait-predicted-for-siri-ai/"
- },
- {
-  "date": "2026-10-05T10:06:59.909987+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "UK Police Test Hyundai Ioniq 9 EV For Highway Duty \ud83d\ude93\u26a1",
-  "summary": "British traffic officers are testing the all-electric Hyundai Ioniq 9 for potential frontline highway duty.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/british-traffic-officers-testing-ioniq-9-ev/"
- },
- {
-  "date": "2026-10-05T10:06:59.909987+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "CD Projekt Red Confirms The Witcher 4 Map Size Details",
-  "summary": "CD Projekt Red has officially confirmed details regarding The Witcher 4 map size and features, hinting at Ciri's journey.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/witcher-4-map-size-official/"
- },
- {
-  "date": "2026-10-05T10:40:41.966907+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "New Focus Mode Lock Screen Controls Leaked for iPhone Duo",
-  "summary": "Code snippets suggest Apple is working on introducing new Focus mode controls directly on the Lock Screen for the upcoming iPhone Duo.",
-  "verified": "unconfirmed",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/05/iphone-duo-focus-modes-easier-toggle-lock-screen/"
- },
- {
-  "date": "2026-10-05T10:40:41.966907+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "rumor",
-  "headline": "GTA 6 Interview Teases Deep NPC Design and Modern American Setting",
-  "summary": "A new interview details the extensive NPC design and modern setting of Grand Theft Auto 6.",
-  "verified": "reliable_reporter",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/grand-theft-auto-gta-6-love-magazine-interview-npc-details/"
- },
- {
-  "date": "2026-10-05T10:40:41.966907+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "The Witcher 3 Remastered Hits Massive Steam Player Milestone",
-  "summary": "The Witcher 3 Remastered pushed the game to a new Steam player peak of nearly 140,000 players.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-remastered-leads-to-new-steam-player-peak-of-nearly-140-000-as-cd-projekt-red-celebrates-its-11-year-old-rpgs-resurgence-much-love/"
- },
- {
-  "date": "2026-10-05T10:40:41.966907+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "US Senate Kills AI Data Center Power Bill",
-  "summary": "The US Senate rejected a bill aimed at protecting Americans from rising power bills caused by AI data centers.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wy574e/us_senate_kills_bill_that_could_potentially/"
- },
- {
-  "date": "2026-10-05T10:40:41.966907+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "update",
-  "headline": "Windows 11 Update Assigns New Shortcut to Tilde Key",
-  "summary": "Windows 11 File Explorer update adds a shortcut function to the tilde key to quickly access the user folder.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wy54yg/windows_11s_file_explorer_is_finally_giving_the/"
- },
- {
-  "date": "2026-10-05T10:40:41.966907+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Qualcomm and Arm Head to Court for High-Stakes Trial",
-  "summary": "Qualcomm and Arm are heading back to trial in a high-stakes legal battle involving potential massive damages.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wy4znw/qualcomm_and_arm_head_to_trial_again_potential/"
- },
- {
-  "date": "2026-10-05T10:40:41.966907+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "German Utility Introduces Heavy-Consumer Power Plan",
-  "summary": "A German utility provider launched a specialized electricity plan targeting heavy energy consumers like gamers.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wy4o4b/german_utility_provider_introduces_gaming/"
- },
- {
-  "date": "2026-10-05T10:40:41.966907+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Quantum Startup planqc Wins European Tech Award",
-  "summary": "Quantum computing startup planqc has won the prestigious Made in Europe Award.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wy48bk/planqc_wins_made_in_europe_award_for_quantum/"
- },
- {
-  "date": "2026-10-05T10:40:41.966907+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Electric BMW M3 Teased! \u26a1\ud83c\udfce\ufe0f",
-  "summary": "BMW teased the all-new electric M3 while celebrating the production milestone of its one-millionth M vehicle.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/bmw-m3-ev-teaser/"
- },
- {
-  "date": "2026-10-05T10:40:41.966907+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "legal",
-  "headline": "Volkswagen Recalls Nearly 50,000 Tiguans Over Engine Stalling Risk \u26a0\ufe0f",
-  "summary": "Volkswagen is recalling nearly 50,000 2025 Tiguans due to an issue that can cause the engines to shut off unexpectedly.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810766/volkswagen-recalls-nearly-50-000/"
- },
- {
   "date": "2026-10-05T11:05:41.248057+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -20337,5 +20194,137 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/crunchyroll-officially-confirms-the-beginning-of-a-brand-new-era/"
+ },
+ {
+  "date": "2026-10-08T10:40:48.089880+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "New iPhone 18 Pro, Apple Watch, and AirPods Hit Stores Worldwide",
+  "summary": "The new iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5 have officially arrived in stores worldwide.",
+  "verified": "official",
+  "source": "Apple Newsroom",
+  "link": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/"
+ },
+ {
+  "date": "2026-10-08T10:40:48.089880+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Showcases iPhone 18 Pro Camera With New Photography Exhibition",
+  "summary": "Apple announced a new photography exhibition titled 'What Holds Us' to showcase the advanced camera capabilities of the iPhone 18 Pro.",
+  "verified": "official",
+  "source": "Apple Newsroom",
+  "link": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/"
+ },
+ {
+  "date": "2026-10-08T10:40:48.089880+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "Apple TV Shatters Records With 29 Wins at the Primetime Emmy Awards",
+  "summary": "Apple TV broke records at the 78th Primetime Emmy Awards, winning 29 awards overall and making Widow's Bay the most decorated freshman comedy.",
+  "verified": "official",
+  "source": "Apple Newsroom",
+  "link": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/"
+ },
+ {
+  "date": "2026-10-08T10:40:48.089880+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Minecraft Switch 2 Upgrade Free for Digital Owners",
+  "summary": "Minecraft is getting a Switch 2 edition upgrade that is free exclusively for digital owners.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/minecraft-nintendo-switch-2-upgrade-digital-only/"
+ },
+ {
+  "date": "2026-10-08T10:40:48.089880+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "other",
+  "headline": "Why Doctor Doom Is Hard to Beat",
+  "summary": "Director Joe Russo explains the formidable nature of Doctor Doom in Avengers: Doomsday.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/marvel-movies/joe-russo-explains-why-doctor-doom-is-very-difficult-to-beat-in-avengers-doomsday/"
+ },
+ {
+  "date": "2026-10-08T10:40:48.089880+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "P.T. Native PC Port 1.0 Released With Modern Features",
+  "summary": "A fan-made native PC port of P.T. 1.0 has been released with modern graphical features like ray tracing and DLSS 4.5.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x033vr/pt_native_pc_port_10_is_out_now_with_dlss_45/"
+ },
+ {
+  "date": "2026-10-08T10:40:48.089880+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Blizzard Adds 2004 SD Toggle to WoW",
+  "summary": "Blizzard is adding a nostalgic SD toggle to World of Warcraft to ease controversial visual updates.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/world-of-warcraft/to-make-world-of-warcraft-forevers-controversial-skyborne-less-jarring-to-look-at-blizzard-is-going-back-to-2004/"
+ },
+ {
+  "date": "2026-10-08T10:40:48.089880+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "other",
+  "headline": "Samuel L. Jackson Confirms Avengers Return",
+  "summary": "Samuel L. Jackson confirms his return as Nick Fury in Avengers: Secret Wars despite lack of details from Marvel.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/marvel-movies/samuel-l-jackson-says-hes-in-avengers-secret-wars-but-marvel-hasnt-told-him-anything-else/"
+ },
+ {
+  "date": "2026-10-08T10:40:48.089880+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "rumor",
+  "headline": "Rockstar Discusses GTA 6 Mission Freedom and Storytelling",
+  "summary": "Rockstar co-president Rob Nelson discusses how GTA 6 strikes a balance between player freedom and structured storytelling.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-missions-rockstar-has-made-a-very-conscious-effort-to-open-things-up/"
+ },
+ {
+  "date": "2026-10-08T10:40:48.089880+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "update",
+  "headline": "Honda Delays CR-V Redesign and Shifts Civic Production \ud83d\ude97\ud83d\udca8",
+  "summary": "Honda has reportedly delayed the redesigned CR-V to spring 2027 and shifted next-generation Civic sedan production out of Indiana, altering its North American supply plans.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811170/honda-cr-v-redesign-delayed/"
+ },
+ {
+  "date": "2026-10-08T10:40:48.089880+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "business",
+  "headline": "How Jeff Bezos Inspired Ferrari's First EV \u26a1\ud83c\udfce\ufe0f",
+  "summary": "A 2016 chat between Jeff Bezos and Ferrari Chairman John Elkann reportedly provided the initial push that inspired Ferrari to develop its upcoming Luce EV.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811150/jeff-bezos-motivate-ferrari-ev/"
+ },
+ {
+  "date": "2026-10-08T10:40:48.089880+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "The Witcher: No Man's Land Officially Arriving Fall 2026 \ud83c\udfae\u2694\ufe0f",
+  "summary": "Netflix has officially announced that a brand-new Witcher project titled No Man's Land is arriving in Fall 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/witcher-no-mans-land-fall-2026-psa/"
  }
 ]
