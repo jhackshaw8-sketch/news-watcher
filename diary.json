@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-06T08:05:56.405250+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "business",
-  "headline": "Sedans Strike Back: Camry & Accord Lead Hybrid Surge \ud83d\ude97\ud83d\udca8",
-  "summary": "Hybrid-heavy versions of the Toyota Camry and Honda Accord are driving an unexpected US sedan sales rebound in 2026.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810882/toyota-camry-honda-accord-corolla/"
- },
- {
-  "date": "2026-10-06T08:05:56.405250+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "Can Renault Make Minivans Cool Again With The New E-Space Concept? \ud83d\ude90\u2728",
-  "summary": "Renault is attempting to reinvent the classic minivan segment for the modern era with its new E-Space concept car.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810881/2026-renault-espace-concept/"
- },
- {
-  "date": "2026-10-06T08:05:56.405250+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "Friday the 13th Prequel Series Teases Uncharted Territory Ahead of Premiere",
-  "summary": "The creators and star of Peacock's upcoming Friday the 13th prequel series teased the show's expansion into new territory ahead of its October premiere.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/friday-the-13-jason-voorhees-crystal-lake-peaock-series-mask-interview/"
- },
- {
-  "date": "2026-10-06T08:05:56.405250+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Lottie Brooks Books Getting TV Adaptation",
-  "summary": "Studiocanal is adapting Kate Kirby's best-selling pre-teen book series 'The Extremely Embarrassing Life of Lottie Brooks' into a television series.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/extremely-embarrassing-life-lottie-brooks-tv-series-coming-1237146862/"
- },
- {
-  "date": "2026-10-06T08:40:02.552989+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "Alpine Teases Stunning New EV Concept With Pop-Down Headlights \u26a1\ufe0f\ud83d\ude97",
-  "summary": "Alpine has teased a new concept featuring pop-down headlights that previews the upcoming fully electric A310 grand tourer.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/alpines-latest-creation-has-pop-down-headlights/"
- },
- {
-  "date": "2026-10-06T08:40:02.552989+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Classic Gameshow Action Arena Goes Global",
-  "summary": "NBCUniversal Formats has acquired international distribution rights for the iconic Japanese gameshow Action Arena for the first time in its 30-year history.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/action-arena-japanese-nbcuniversal-formats-sold-mipcom-1237146813/"
- },
- {
   "date": "2026-10-06T09:05:09.760507+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -23076,5 +23010,93 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/the-expanse-complete-visual-history-august-2027/"
+ },
+ {
+  "date": "2026-10-09T08:41:54.962883+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "SpaceX Plans Big Push Into Mobile Carrier Market",
+  "summary": "SpaceX has announced plans to expand its telecommunications business by acquiring low-band spectrum to become a major mobile carrier.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2281967/spacex-major-mobile-carrier-low-band-spectrum-acquisition/"
+ },
+ {
+  "date": "2026-10-09T08:41:54.962883+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Fired OpenAI Safety Researchers Speak Out in Open Letter",
+  "summary": "Three recently fired OpenAI safety researchers have published an open letter disputing their dismissals and warning of a chilling effect on internal safety discussions.",
+  "verified": "reliable_reporter",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2281966/fired-openai-safety-researchers-dispute-their-dismissals-in-open-letter/"
+ },
+ {
+  "date": "2026-10-09T08:41:54.962883+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "update",
+  "headline": "Military Duty for the Ineos Grenadier! \ud83e\ude96\ud83d\ude99",
+  "summary": "Italy and Austria have adopted the Ineos Grenadier for their military fleets, while the UK continues competitive trials.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811292/ineos-grenadier-lands-first-military/"
+ },
+ {
+  "date": "2026-10-09T08:41:54.962883+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Jeremy Allen White Discusses Real-World Impact in Aaron Sorkin's The Social Reckoning",
+  "summary": "Jeremy Allen White and Mikey Madison discuss working with Aaron Sorkin on The Social Reckoning and address the harmful real-world impacts of social media algorithms.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/jeremy-allen-white-mikey-madison-the-social-reckoning-facebook-interview/"
+ },
+ {
+  "date": "2026-10-09T08:41:54.962883+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Icelandic Drama 'Elma' Sets October Premiere Date",
+  "summary": "The Icelandic crime thriller series 'Elma' is scheduled to premiere domestically on S\u00edminn on October 15.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/iceland-drama-elma-siminn-ncu-mipcom-1237150792/"
+ },
+ {
+  "date": "2026-10-09T08:41:54.962883+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "business",
+  "headline": "Network 5 Profits Fall Sharply Amid Streaming Push",
+  "summary": "UK television network 5 reported a 64% drop in pre-tax profit down to \u00a311.93 million amid streaming investments.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/skydance-5-profit-drops-streaming-investment-1237146522/"
+ },
+ {
+  "date": "2026-10-09T08:41:54.962883+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "legal",
+  "headline": "Michael Ovitz Ordered to Finish Deposition",
+  "summary": "Michael Ovitz has been ordered to complete his deposition in the Julia Ormond case following a walkout.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x1c43i/michael_ovitz_ordered_to_complete_deposition_in/"
+ },
+ {
+  "date": "2026-10-09T08:41:54.962883+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "update",
+  "headline": "Charlie Cox Shouts Out 'Save Daredevil' Campaign",
+  "summary": "Charlie Cox acknowledged the 'Save Daredevil' campaign at NYCC following Disney+'s cancellation of 'Born Again'.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x18odl/charlie_cox_shouts_out_save_daredevil_campaign_at/"
  }
 ]
