@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-06T01:37:15.435267+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Releases MagSafe 3 Charging Cable Firmware Update",
-  "summary": "Apple has released a new firmware update for the MagSafe 3 charging cable.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wyq4w3/apple_releases_magsafe_3_charging_cable_firmware/"
- },
- {
-  "date": "2026-10-06T01:37:15.435267+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Andrew Garfield Chills as Sam Altman in Luca Guadagnino's OpenAI Film 'Artificial'",
-  "summary": "Andrew Garfield stars as Sam Altman in Luca Guadagnino's new OpenAI origin film 'Artificial', which premiered at the New York Film Festival.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/artificial-review-andrew-garfield-is-chilling-as-sam-altman-in-luca-guadagninos-open-ai-origin-story-that-should-make-you-very-afraid-new-york-film-festival-1237146922/"
- },
- {
-  "date": "2026-10-06T01:37:15.435267+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "'Agatha All Along' Dominates Global Streaming Charts on Disney+",
-  "summary": "Disney+'s hit witch drama 'Agatha All Along' is dominating global streaming charts following its premiere.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/disney-plus-new-fantasy-drama-coven-academy-streaming-success-october-2026/"
- },
- {
-  "date": "2026-10-06T01:37:15.435267+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Kyle Chandler Moved to Tears by Emotional 'Lanterns' Season 1 Finale",
-  "summary": "Actor Kyle Chandler revealed that the emotional Season 1 finale of 'Lanterns' brought him to tears.",
-  "verified": "reliable_reporter",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2278332/kyle-chandler-lanterns-season-1-finale-tears/"
- },
- {
-  "date": "2026-10-06T01:37:15.435267+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Golden Globes Announces 2027 Podcast Shortlist",
-  "summary": "The Golden Globes has revealed its shortlist of 30 eligible podcasts for its second annual award, which will be handed out on Sunday, January 10, 2027.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/golden-globe-reveals-podcast-shortlist-conan-obrien-1237147495/"
- },
- {
-  "date": "2026-10-06T01:37:15.435267+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "First Look At New Star Trek Villain Species",
-  "summary": "Star Trek has unveiled a first look at a mysterious new villain species that threatens the Enterprise.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-trek-hidden-design/"
- },
- {
-  "date": "2026-10-06T01:37:15.435267+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "business",
-  "headline": "David Zaslav Bids Farewell Ahead of Skydance Merger",
-  "summary": "David Zaslav bid farewell to Warner Bros. employees in a video message on the eve of the Skydance merger close.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1wypyy6/david_zaslav_bids_farewell_to_warner_bros/"
- },
- {
-  "date": "2026-10-06T01:37:15.435267+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Lanterns Finale Hidden Easter Eggs Revealed",
-  "summary": "The season finale of HBO's Lanterns features over 12 major Easter eggs and references to the greater DC Universe.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/lanterns-episode-8-easter-eggs-comics-references-dcu-ties-finale/"
- },
- {
   "date": "2026-10-06T02:03:53.457697+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -22812,5 +22724,93 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/crazy-rich-asians-sequel-show-hbo-confirmed-cast-production-details/"
+ },
+ {
+  "date": "2026-10-09T01:41:03.106158+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Jensen Ackles Star in New Crime Thriller Series",
+  "summary": "Jensen Ackles has been announced to star in a new crime thriller series tailored for fans of his previous work.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/jensen-ackles-new-crime-thriller-rules-of-prey-tracker-replacement/"
+ },
+ {
+  "date": "2026-10-09T01:41:03.106158+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Major Gaming Shake-Up Unites Batman and TMNT",
+  "summary": "Warner Bros. and Paramount have merged their gaming divisions, uniting major franchises like Batman and TMNT under one roof.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/batman-tmnt-mortal-kombat-warner-bros-paramount-games-merger/"
+ },
+ {
+  "date": "2026-10-09T01:41:03.106158+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Yellowstone Sequel Marshals Becomes Massive Streaming Hit",
+  "summary": "Taylor Sheridan's Yellowstone sequel series Marshals debuted as the top scripted show on TV with 8 million viewers.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/taylor-sheridan-marshals-season-2-ratings-success-cbs-october-2026/"
+ },
+ {
+  "date": "2026-10-09T01:41:03.106158+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Charlie Cox Shouts Out Save Daredevil Campaign at NYCC",
+  "summary": "Charlie Cox acknowledged the 'Save Daredevil' fan campaign at NYCC following the recent cancellation news of the Disney+ series.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/charlie-cox-save-daredevil-campaign-1237150712/"
+ },
+ {
+  "date": "2026-10-09T01:41:03.106158+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Black Clover Season 2 Episode 2 Release Date Announced",
+  "summary": "Black Clover Season 2, Episode 2 has officially announced its release date and time for streaming platforms this weekend.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/black-clover-season-2-episode-2-release-date-time/"
+ },
+ {
+  "date": "2026-10-09T01:41:03.106158+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "DC Announces New Green Lantern Series Featuring Hal Jordan",
+  "summary": "DC officially announces a new Green Lantern comic series titled The Dying Of The Light, featuring the return of Hal Jordan.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/hal-jordan-return-dying-light-green-lantern-dc/"
+ },
+ {
+  "date": "2026-10-09T01:41:03.106158+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Nathan Fillion Headlines New HBO Detective Series",
+  "summary": "Nathan Fillion stars in a new 8-part HBO detective series featuring a critically praised ensemble cast.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/hbo-max-lanterns-detective-sci-fi-series-cast-best/"
+ },
+ {
+  "date": "2026-10-09T01:41:03.106158+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "DC Reveals Radical New Character Design for Classic Hero After 54 Years",
+  "summary": "DC has revealed a radical new character design for a classic superhero in its latest title after 54 years.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/etrigan-demon-jason-blood-redesign/"
  }
 ]
