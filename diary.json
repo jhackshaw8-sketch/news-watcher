@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-06T03:40:24.417169+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Apple Rumored to Plan Second Wave of October Product Announcements",
-  "summary": "Reports indicate Apple may plan a second wave of product announcements later in the month following an expected October 13 event.",
-  "verified": "unconfirmed",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/05/apple-reportedly-planning-second-wave-of-product-announcements-later-this-month/"
- },
- {
-  "date": "2026-10-06T03:40:24.417169+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Apple Opens App Store Submissions for iPhone Duo Optimized Apps",
-  "summary": "Apple has officially announced that developers can now submit apps optimized for the new iPhone Duo to the App Store.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions/"
- },
- {
-  "date": "2026-10-06T03:40:24.417169+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Netflix Willy Wonka Series Breaks Rotten Tomatoes Record",
-  "summary": "Netflix's new Willy Wonka series faces heavy criticism and breaks a Rotten Tomatoes record for negative reasons due to its $3 million prize and AI voice usage.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/wonkas-the-golden-ticket-rotten-tomatoes-record/"
- },
- {
-  "date": "2026-10-06T03:40:24.417169+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "review",
-  "headline": "Andrew Garfield Shines in OpenAI Origin Story 'Artificial'",
-  "summary": "A review of Luca Guadagnino's OpenAI origin story 'Artificial' highlights Andrew Garfield's chilling performance as Sam Altman at the New York Film Festival.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1wys6rs/artificial_review_andrew_garfield_is_chilling_as/"
- },
- {
-  "date": "2026-10-06T03:40:24.417169+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "business",
-  "headline": "Box Office Recap: 'Verity' Opens Strong and 'Avengers: Endgame' Retakes Crown",
-  "summary": "The box office weekend recap highlights 'Verity' opening strong with $61.8M worldwide and 'Avengers: Endgame' reclaiming the top spot.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1wyq9nf/october_24_box_office_recap_verity_opens_with_a/"
- },
- {
-  "date": "2026-10-06T03:40:24.417169+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "review",
-  "headline": "Audience Discussion and Polls Open for 'Unabomber'",
-  "summary": "A discussion thread invites audiences to share their thoughts and ratings on the movie 'Unabomber'.",
-  "verified": "unconfirmed",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1wyq645/unabomber_should_you_see_it/"
- },
- {
   "date": "2026-10-06T04:05:30.354749+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -22823,5 +22757,236 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/east-of-eden-netflix-hoon-lee-joseph-zada-joe-anders-interview/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "other",
+  "headline": "Analysis Examines Accountability Among Major AI Leaders",
+  "summary": "An article examines how leaders of major AI companies deflect accountability for the trajectory of artificial intelligence.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x1b1ev/nothing_about_this_was_inevitable_the_leaders_of/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "PlayStation Sells Hundreds of VR Patents to Meta as Stock Shortages Continue",
+  "summary": "PlayStation has sold hundreds of VR patents to Meta amidst ongoing PSVR 2 shortages, hinting at a potential exit from the VR market.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x194yu/after_months_of_psvr_2_stock_shortages/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "South Korea Successfully Test-Fires First Homegrown Hypersonic Weapon",
+  "summary": "The South Korean presidency announced the successful test-firing of the nation's first homegrown hypersonic weapon.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x187q3/south_korea_testfires_its_first_homegrown/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "New Threadlike Motor Drives Flexible Robots Without Gears",
+  "summary": "Researchers have developed a threadlike motor using sliding fibers to drive flexible robots without gears.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x17ktq/threadlike_motor_uses_sliding_fibers_to_drive/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Dell Launches Nvidia RTX Spark Laptop with High-End Specs",
+  "summary": "Dell has launched the Nvidia RTX Spark laptop equipped with an 18-core CPU and a 120Hz OLED display.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x17e4x/dell_launches_nvidia_rtx_spark_laptop_with_18core/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "ChatGPT Introduces GPT-6 and Intelligent Visual UI",
+  "summary": "ChatGPT has rolled out GPT-6 alongside a new intelligent user interface featuring visual answers.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x16z9z/chatgpt_gets_gpt6_and_new_intelligent_ui_with/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Court Evaluates Legality of Charging for Early Access to Social Posts",
+  "summary": "A judge is weighing whether the U.S. President can legally charge a fee for early access to Truth Social posts.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x16yio/judge_weighs_if_us_president_can_charge_100k_for/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Xbox CEO Confirms Family of Devices Strategy for Next Console Generation",
+  "summary": "Xbox CEO Asha Sharma confirmed a family of devices strategy for the upcoming 10th console generation during a Microsoft town hall.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x169qe/xbox_ceo_asha_sharma_confirms_family_of_devices/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "AMD Confirms FSR 4 is Coming to Handheld Devices",
+  "summary": "AMD executive Jack Huynh announced that FSR 4 will soon be brought to handheld devices using a lightweight model.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x167xt/amds_jack_huynh_fsr_4_is_coming_to_handhelds_via/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Google Launches Workplace AI Agent Designed to Act Like a Colleague",
+  "summary": "Google has launched a new Workplace AI agent designed to act and collaborate like a human colleague.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x167uk/google_launches_workplace_ai_agent_that_acts_like/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Analysts Project Over 50% Surge in Alibaba AI Cloud Revenue",
+  "summary": "Analysts project that Alibaba's AI cloud revenue will surge over 50% following heavy investments.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x166o0/alibabas_ai_cloud_revenue_set_to_surge_over_50_as/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Global Rise of Chinese Open-Weight AI Models Benefits Third-Party Providers",
+  "summary": "Reports highlight that while China's open-weight AI models are globally popular, third-party providers capture much of the revenue.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x165zs/chinas_openweight_artificial_intelligence_models/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Jensen Huang Reflects on Nvidia's Roots Tied to Windows",
+  "summary": "Nvidia CEO Jensen Huang stated in an interview that the company was originally founded because of Windows.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x164g0/jensen_huang_nvidia_was_founded_because_of_windows/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "OpenAI Math Solutions Still Falling Short of Field Standards",
+  "summary": "Assessments show that OpenAI's current math solutions are still falling short of professional field standards.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x15yw5/openais_math_solutions_arent_meeting_the_fields/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Nvidia and Other AI Stocks Sink Following OpenAI Revenue Report",
+  "summary": "AI-related stocks including Nvidia, Oracle, and CoreWeave experienced a dip following a recent OpenAI revenue report.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x15vbo/nvidia_oracle_coreweave_and_other_ai_stocks_sink/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Lenovo Globally Launches New 2-in-1 Laptop with RTX Spark N1X",
+  "summary": "Lenovo has globally launched a 2-in-1 laptop featuring up to 64 GB of RAM and the 20-core RTX Spark N1X chip.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x15qbm/lenovo_launches_powerful_2in1_laptop_globally/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "MSI Releases 16-Inch Laptop with 128 GB RAM and Nvidia RTX Spark",
+  "summary": "MSI has released a 16-inch laptop packed with 128 GB RAM, a bright OLED display, and a 20-core Nvidia RTX Spark processor.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x15ofv/msi_releases_new_16inch_laptop_with_128_gb_ram/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "SpaceX Acquires Low-Band Spectrum to Expand Starlink Mobile Services",
+  "summary": "SpaceX has acquired a nationwide low-band spectrum portfolio in a deal aimed at boosting Starlink mobile services and challenging US carriers.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x15j23/spacex_takes_aim_at_us_wireless_carriers_with/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Samsung Expects Massive 780% Operating Profit Jump on AI Boom",
+  "summary": "Samsung anticipates a massive 780% jump in quarterly operating profit driven by the ongoing artificial intelligence boom.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x15i1o/samsung_expects_780_quarterly_operating_profit/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Anthropic Launches Free AI Security Scans for Open-Source Projects",
+  "summary": "Anthropic has launched a free AI-powered security scanning service tailored for open-source software projects.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x158td/anthropic_launches_free_ai_security_scans_for/"
+ },
+ {
+  "date": "2026-10-09T03:41:38.403294+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Crystal Hefner Asks Jessica Biel to Drop Playmates",
+  "summary": "Crystal Hefner publicly asked Jessica Biel to reconsider starring in 'Playmates', a coming-of-age story inspired by the late Hugh Hefner.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/hugh-hefner-widow-jessica-biel-please-reconsider-playmates-1237150727/"
  }
 ]
