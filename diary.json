@@ -1,192 +1,5 @@
 [
  {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Luca Guadagnino's 'Artificial' Premieres at NYFF",
-  "summary": "Luca Guadagnino's Artificial premiered at the New York Film Festival with stars like Andrew Garfield and Jason Schwartzman in attendance.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/gallery/luca-guadagnino-artificial-red-carpet-premiere-photos/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Now You See Me Sequel Tops Prime Video Charts",
-  "summary": "Mark Ruffalo's heist sequel Now You See Me: Now You Don't has claimed the No. 1 spot on Prime Video, surpassing Reacher.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/now-you-see-me-now-you-dont-streaming-hit-prime-video-october-2026/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Russell Crowe's Acclaimed Film Pulled From Theaters",
-  "summary": "Russell Crowe's acclaimed recent film has been pulled from 1,400 theaters amid box office struggles.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/the-weight-russell-crowe-best-reviewed-movie-removed-from-1400-theaters/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Alan Ritchson's 'Runner' Exits Theaters for Digital Debut",
-  "summary": "Alan Ritchson's action movie Runner has been removed from over 2,200 theaters ahead of its upcoming digital release.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/runner-alan-ritchson-action-movie-box-office-removed-from-2200-theaters/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "business",
-  "headline": "Casey Bloys Extends Multiyear Deal at Skydance for HBO Max and Paramount+",
-  "summary": "Casey Bloys has signed a multiyear contract extension to continue overseeing HBO Max and Paramount+ in his new role at Skydance.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/news/casey-bloys-new-deal-hbo-max-paramount-skydance-1236899664/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Trump Announces Super PAC Will Fund Future Political TV Ads",
-  "summary": "Donald Trump announced that his super PAC, MAGA Inc., will now fund TV advertisements that were previously run at taxpayer expense.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/trump-tv-ads-taxpayers-maga-inc-1237147451/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Power Rangers Confirms Final Farewell to Tommy Oliver",
-  "summary": "The Power Rangers franchise is preparing to bid a final farewell to the iconic character Tommy Oliver.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/power-rangers-green-tommy-oliver-goodbye/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Trump to Self-Fund Patriotic TV Ads After Public Backlash",
-  "summary": "Following heavy criticism, Donald Trump stated he will personally pay for forthcoming government-style promotional ads.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/news/trump-pay-for-political-ads-himself-1236899674/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "First Reactions Drop for Andrew Garfield's New Movie",
-  "summary": "Andrew Garfield's new film has received its first official reactions following a record-breaking journey and acquisition by Neon.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/artificial-first-reactions-andrew-garfield-luca-guadagnino/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Kate Mulgrew Gives Update on Live-Action Janeway Future",
-  "summary": "Kate Mulgrew provided an update on the future of Star Trek and the possibility of returning to live-action as Captain Janeway.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-trek-kate-mulgrew-pause-no-live-action-janeway/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "legal",
-  "headline": "Ex-'American Idol' Singer Sentenced to Life in Prison for Murder",
-  "summary": "A former American Idol contestant has been sentenced to life in prison following a conviction for the murder of his wife.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1wymazp/former_american_idol_singer_is_sentenced_to_life/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "David Corenswet Teases 'Man of Tomorrow' as DCU's 'Empire Strikes Back'",
-  "summary": "Superman star David Corenswet compared the upcoming DCU film 'Man of Tomorrow' to 'The Empire Strikes Back'.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/man-of-tomorrow-empire-strikes-back-comparison-david-corenswet-explained/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Kylie Jenner Lands Acting Role in Hulu's 'Bachelorette Weekend'",
-  "summary": "Kylie Jenner is officially expanding her career into acting with a new Hulu series titled 'Bachelorette Weekend'.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1wymazg/kylie_jenner_gets_into_acting_in_bachelorette/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Stephen King Horror Adaptation Becomes Global Streaming Hit",
-  "summary": "A chaotic Stephen King horror adaptation has climbed the charts to become a massive global streaming hit.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/stephen-king-the-monkey-hbo-max-global-streaming-success-october-2026/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "'Grey's Anatomy' Star Confirms the Death of His Wife",
-  "summary": "A prominent 'Grey's Anatomy' cast member confirmed the tragic passing of his wife in a heartfelt public statement.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1wyj80k/greys_anatomy_star_mourns_death_of_his_wife_the/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "How 'Avengers: Endgame' Continues to Shape Hollywood's IP Strategy",
-  "summary": "An industry retrospective analyzes how 'Avengers: Endgame' reclaimed major box office milestones years after its initial release.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1wyinfw/avengers_endgame_is_the_biggest_movie_ever_again/"
- },
- {
-  "date": "2026-10-06T00:48:22.105758+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "'Days of Our Lives' Star Robert Kelker-Kelly Passes Away at 62",
-  "summary": "Daytime Emmy-winning 'Days of Our Lives' actor Robert Kelker-Kelly has passed away at the age of 62.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1wyigbr/robert_kelkerkelly_days_of_our_lives_star_dies_at/"
- },
- {
   "date": "2026-10-06T01:06:14.280609+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -22812,5 +22625,115 @@
   "verified": "reliable_reporter",
   "source": "ScreenRant",
   "link": "https://screenrant.com/visionquest-ultron-new-design-human-explained-james-spader/"
+ },
+ {
+  "date": "2026-10-09T00:52:18.629206+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Phantom Blade Zero Preview Hypes Up Action Fans",
+  "summary": "An IGN preview expresses high excitement for Phantom Blade Zero after a hands-on session, highlighting its stylish action.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/phantom-blade-zero-might-be-this-years-most-stylish-action-game-ign-preview"
+ },
+ {
+  "date": "2026-10-09T00:52:18.629206+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Developer Hopes GTA 6 Will Drive Up Game Prices",
+  "summary": "Warhorse Studios co-founder Martin Klima hopes GTA 6 will help push industry game prices up to ensure business survival.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices"
+ },
+ {
+  "date": "2026-10-09T00:52:18.629206+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Charlie Cox Stars in Unannounced Sega Game",
+  "summary": "Actor Charlie Cox has revealed during NYCC 2026 that he is starring in an unannounced Sega video game.",
+  "verified": "reliable_reporter",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/daredevil-star-charlie-cox-confirms-hes-in-an-unannounced-sega-game-nycc-2026"
+ },
+ {
+  "date": "2026-10-09T00:52:18.629206+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Crystal Harris Asks Jessica Biel to Drop Hefner Biopic Role",
+  "summary": "Hugh Hefner's widow Crystal Harris is publicly asking Jessica Biel to reconsider playing his wife in the upcoming movie 'Playmates' due to allegations of abuse.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/hugh-hefner-widow-jessica-biel-reconsider-playing-wife-1236906237/"
+ },
+ {
+  "date": "2026-10-09T00:52:18.629206+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Critics Divided Over 'The Social Reckoning' Reviews",
+  "summary": "Critics are divided over 'The Social Reckoning', which arrives 16 years after 'The Social Network'.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/the-social-reckoning-rotten-tomatoes-score-is-it-good/"
+ },
+ {
+  "date": "2026-10-09T00:52:18.629206+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Universal Announces Holiday Event Lineup",
+  "summary": "Universal Studios Hollywood announces its upcoming holiday celebrations featuring Grinchmas, Merry Minions, and festive additions to Super Nintendo World.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/universal-studios-hollywood-2026-holiday-events-1237150654/"
+ },
+ {
+  "date": "2026-10-09T00:52:18.629206+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Natasha Rothwell Joins LA Benefit Play",
+  "summary": "Natasha Rothwell has joined the cast of V's 'This Is Crazy!' benefit performance for NAMI in Los Angeles.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/natasha-rothwell-this-is-crazy-nami-benefit-performance-1237150666/"
+ },
+ {
+  "date": "2026-10-09T00:52:18.629206+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Taylor Sheridan Show Confirms Genre Change",
+  "summary": "Taylor Sheridan's latest action thriller series officially confirms a notable genre shift for its ongoing run.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/taylor-sheridan-lioness-season-3-spy-shows-genre-change/"
+ },
+ {
+  "date": "2026-10-09T00:52:18.629206+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Prime Video Fantasy Series Sets 2026 Return",
+  "summary": "Prime Video's fantasy series continues to draw acclaim ahead of its officially scheduled return in 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/lord-of-the-rings-of-power-season-3-prime-video-fantasy-series-better-2026-return/"
+ },
+ {
+  "date": "2026-10-09T00:52:18.629206+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "business",
+  "headline": "David Zaslav Secures Massive Merger Payout",
+  "summary": "David Zaslav secures a massive $606 million payout following the Paramount and Warner Bros. corporate merger.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x13ym1/david_zaslav_gets_606_million_payout_from/"
  }
 ]
