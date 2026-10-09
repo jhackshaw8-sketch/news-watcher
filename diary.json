@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-06T02:03:53.457697+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Apple Accuses OpenAI of Improper Trade Secrets Arguments",
-  "summary": "Apple has accused OpenAI of improperly introducing new arguments into an ongoing trade secrets legal dispute between the two companies.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/05/apple-accuses-openai-of-improperly-adding-new-arguments-to-trade-secrets-case/"
- },
- {
-  "date": "2026-10-06T02:03:53.457697+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Marvel Criticized Over Avengers: Endgame: Encore Screening-Exclusive Scenes",
-  "summary": "Marvel is facing criticism for releasing 'Avengers: Endgame: Encore' with new scenes restricted only to paying attendees of specific IMAX and Infinity Vision screenings.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/avengers-endgame-encore-marvel-infinity-vision-extra-scenes/"
- },
- {
   "date": "2026-10-06T02:39:45.631823+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -22812,5 +22790,82 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/etrigan-demon-jason-blood-redesign/"
+ },
+ {
+  "date": "2026-10-09T02:05:44.570438+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Ace Combat 8 Sells 1 Million Copies Record-Fast",
+  "summary": "Ace Combat 8 has reached 1 million copies sold worldwide faster than any previous installment in the franchise.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x184ow/ace_combat_8_has_surpassed_1_million_copies/"
+ },
+ {
+  "date": "2026-10-09T02:05:44.570438+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Charlie Cox Confirmed for Unannounced Sega Game",
+  "summary": "Actor Charlie Cox has confirmed during an appearance that he is involved in an unannounced Sega game.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x17p7j/not_sure_what_im_allowed_to_say_daredevil_star/"
+ },
+ {
+  "date": "2026-10-09T02:05:44.570438+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "update",
+  "headline": "Wild 1,200-HP V8 Porsche 911 Restomod Built for Ultimate Speed \ud83c\udfce\ufe0f\ud83d\udd25",
+  "summary": "A custom build featuring a front-engined, twin-turbo V8 Porsche 911 pushes over 1,200 horsepower to the rear wheels.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/a-front-engined-twin-turbo-v8-porsche-911-sounds-like-sacrilege-but-actually-works/"
+ },
+ {
+  "date": "2026-10-09T02:05:44.570438+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Ted Lasso Star Teases Show's Future",
+  "summary": "Ted Lasso star Brendan Hunt has officially teased the potential future of the series following developments after recent seasons.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/ted-lasso-season-5-brendan-hunt/"
+ },
+ {
+  "date": "2026-10-09T02:05:44.570438+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Marvel Announces New Spy Series Zodiac",
+  "summary": "Marvel Television has officially announced a new spy thriller series titled Zodiac and revealed its comic-inspired logo.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2281866/marvel-zodiac-tv-series-explained-comic-book-clues/"
+ },
+ {
+  "date": "2026-10-09T02:05:44.570438+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Review: Ben Affleck's Animals Fails to Thrill",
+  "summary": "A new review for Ben Affleck's Netflix kidnapping thriller Animals finds the film to be underwhelming.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2280225/animals-review-ben-affleck-netflix-movie/"
+ },
+ {
+  "date": "2026-10-09T02:05:44.570438+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Law & Order: SVU Season 28 Premieres on NBC",
+  "summary": "The Season 28 premiere of Law & Order: SVU aired on Oct. 8 on NBC with a ripped-from-the-headlines storyline.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/law-and-order-svu-season-28-premiere-volition-gang-rape-cornell-7-1236906037/"
  }
 ]
