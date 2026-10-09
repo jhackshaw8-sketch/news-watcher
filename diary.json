@@ -1,159 +1,5 @@
 [
  {
-  "date": "2026-10-06T05:04:42.255719+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "AI-Driven Attacks Change Security Strategies",
-  "summary": "AI-driven cyberattacks are actively shifting modern security strategies across the tech industry.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wytqxh/need_for_speed_aidriven_attacks_are_changing/"
- },
- {
-  "date": "2026-10-06T05:04:42.255719+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "Economist Warns AI Threatens Employment",
-  "summary": "An economist warns that artificial intelligence could triple unemployment rates within the decade.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wytoz7/top_economist_warns_ai_could_triple_unemployment/"
- },
- {
-  "date": "2026-10-06T05:04:42.255719+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "AI Boom Impacts Cheap Smartphones",
-  "summary": "The rising demands of the AI boom are causing the availability of the world's cheapest smartphones to decline.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wyt9kw/the_ai_boom_is_making_the_worlds_cheapest/"
- },
- {
-  "date": "2026-10-06T05:04:42.255719+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Oppo Launches Massive 8,000mAh Phone",
-  "summary": "Oppo has officially released a new smartphone featuring an 8,000mAh battery and 80W fast charging support.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wysw7w/oppo_releases_8000mah_phone_with_80w_fast/"
- },
- {
-  "date": "2026-10-06T05:04:42.255719+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Court Blocks Utah's Impossible VPN Law",
-  "summary": "A court agreed with the EFF that Utah's VPN law demands a technical impossibility to enforce.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wyrgtk/court_agrees_with_eff_utahs_vpn_law_demands_a/"
- },
- {
-  "date": "2026-10-06T05:04:42.255719+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "legal",
-  "headline": "Global Outcry Over Facebook Post Death Sentence",
-  "summary": "International pressure mounts as Saudi Arabia is urged to spare a man sentenced to death over a Facebook post.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wyqbsz/saudi_arabia_urged_to_spare_man_sentenced_to/"
- },
- {
-  "date": "2026-10-06T05:04:42.255719+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Cable Lobby Sues FCC Over TV Caps",
-  "summary": "The cable industry lobby plans to sue the FCC over the repeal of national TV ownership caps.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wyq56y/cable_lobby_to_sue_us_president_fcc_over_repeal/"
- },
- {
-  "date": "2026-10-06T05:04:42.255719+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Researchers Track Chinese AI Agent Fleet",
-  "summary": "Cybersecurity researchers are currently tracking a coordinated Chinese AI agent fleet.",
-  "verified": "unconfirmed",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wyovs7/researchers_are_tracking_a_chinese_ai_agent_fleet/"
- },
- {
-  "date": "2026-10-06T05:04:42.255719+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Amazon Hires Former Microsoft Copilot CTO",
-  "summary": "Amazon has hired Microsoft's former Copilot CTO to spearhead its internal initiatives.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wyoord/amazon_hires_microsofts_former_copilot_cto/"
- },
- {
-  "date": "2026-10-06T05:04:42.255719+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "McDonald's Faces Antitrust Suit Over AI Pricing",
-  "summary": "McDonald's has been hit with an antitrust lawsuit regarding its implementation of AI-assisted menu pricing.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wyny61/mcdonalds_hit_with_antitrust_suit_over_aiassisted/"
- },
- {
-  "date": "2026-10-06T05:04:42.255719+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Google Advances in Data Acquisition Bid",
-  "summary": "Google has received a regulatory boost in its efforts to acquire data assets for AI training.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wyn8fo/google_just_got_a_boost_in_its_bid_to_buy_spirit/"
- },
- {
-  "date": "2026-10-06T05:04:42.255719+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "FBI Confirms Arrests in ShinyHunters Hack",
-  "summary": "The FBI has confirmed multiple arrests connected to the high-profile ShinyHunters data hacks.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wyn5y1/fbi_confirms_multiple_arrests_related_to/"
- },
- {
-  "date": "2026-10-06T05:04:42.255719+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "Android 10 Support Ending For Google Auto",
-  "summary": "Google has announced that Android 10 support will soon end for Google Auto users.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wymn7p/andriod_10_support_will_end_soon_for_google_auto/"
- },
- {
-  "date": "2026-10-06T05:04:42.255719+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Game of Thrones Icons Set for an Official 2027 Return",
-  "summary": "Characters from Game of Thrones are officially scheduled to return in a project slated for 2027.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/game-of-thrones-night-king-daenerys-2027-return/"
- },
- {
   "date": "2026-10-06T06:05:05.647425+00:00",
   "topic": "Cars",
   "score": 8,
@@ -22922,5 +22768,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/dungeon-crawler-carl-big-boi-boxers-november-2026-psa/"
+ },
+ {
+  "date": "2026-10-09T05:05:28.093984+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "Triple Threat: Stunning Ferrari 812 Competizione A Trio Spotted! \ud83c\udfce\ufe0f\ud83d\udd25",
+  "summary": "A stunning high-resolution photo showcasing three Ferrari 812 Competizione A cars together.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x1a7ey/triple_threat_ferrari_812_competizione_a_3277x4096/"
+ },
+ {
+  "date": "2026-10-09T05:05:28.093984+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "House of the Dragon Officially Returns October 21",
+  "summary": "House of the Dragon has officially been confirmed to return on October 21.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/house-of-the-dragon-collection-october-2026/"
  }
 ]
