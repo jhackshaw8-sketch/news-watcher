@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-06T03:04:08.921185+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Rumors Hint at Second October Apple Event for New Macs",
-  "summary": "Rumors suggest Apple may hold a second October event focusing on new Mac releases.",
-  "verified": "unconfirmed",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/06/second-october-event-possible-with-new-macs-as-the-focus?utm_source=rss"
- },
- {
-  "date": "2026-10-06T03:04:08.921185+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Andrew Garfield Opens Up About Playing Sam Altman",
-  "summary": "Andrew Garfield discussed his intensive preparation for playing OpenAI CEO Sam Altman, describing the character as a dangerous and manipulative figure.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/artificial-star-andrew-garfield-on-playing-sam-altman-1237147012/"
- },
- {
-  "date": "2026-10-06T03:04:08.921185+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "\ud83d\ude97 Revving Up for the Matchbox Movie Premiere! \ud83c\udfac",
-  "summary": "The cast including John Cena and Jessica Biel attended the New York premiere of the Apple Originals action film Matchbox: The Movie.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/gallery/matchbox-the-movie-red-carpet-premiere-photos-apple-tv/"
- },
- {
-  "date": "2026-10-06T03:04:08.921185+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "My Hero Academia Officially Sets December 2026 Return Date",
-  "summary": "My Hero Academia has officially announced its return with a massive new release scheduled for December 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/my-hero-academia-december-2026-release-tcg/"
- },
- {
-  "date": "2026-10-06T03:04:08.921185+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "The Diplomat Creator Details Season 4 Streaming Strategy",
-  "summary": "The creator of Netflix's The Diplomat discussed how the political thriller avoids common streaming complaints for season four.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/netflix-the-diplomat-annual-release-strategy-debora-cahn/"
- },
- {
-  "date": "2026-10-06T03:04:08.921185+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Hollywood Unions Warn of 25-Year Drop in U.S. Production",
-  "summary": "Hollywood unions have issued warnings regarding a significant 25-year decline in U.S. production market share.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1wyqk68/hollywood_unions_warn_of_25year_drop_in_us/"
- },
- {
   "date": "2026-10-06T03:40:24.417169+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -22878,5 +22812,16 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/jon-bernthal-the-amateur-hbo-max-streaming-october-2026/"
+ },
+ {
+  "date": "2026-10-09T03:04:51.506401+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Netflix\u2019s \u2018East of Eden\u2019 Cast Open Up About Iconic Roles",
+  "summary": "Cast members Hoon Lee, Joseph Zada, and Joe Anders share their experience and initial fear of taking on iconic roles in Netflix's upcoming 'East of Eden' adaptation.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/east-of-eden-netflix-hoon-lee-joseph-zada-joe-anders-interview/"
  }
 ]
