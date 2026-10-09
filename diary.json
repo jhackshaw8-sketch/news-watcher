@@ -1,115 +1,5 @@
 [
  {
-  "date": "2026-10-06T22:03:03.001043+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Apple Partners With LG for Upcoming Smart Home Accessories",
-  "summary": "Apple is reportedly collaborating with LG Electronics to develop smart home accessories like doorbells, locks, and cameras for its upcoming home hub.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/06/lg-apple-smart-home-products/"
- },
- {
-  "date": "2026-10-06T22:03:03.001043+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "business",
-  "headline": "Apple Sets Q4 2026 Earnings Release for November 2",
-  "summary": "Apple has officially announced that it will report its fourth fiscal quarter earnings for 2026 on Monday, November 2.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/06/apple-q4-2026-earnings-nov-2/"
- },
- {
-  "date": "2026-10-06T22:03:03.001043+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Push for Federal Film Incentive Gains Momentum",
-  "summary": "California Democrats and union leaders are campaigning for a federal film incentive to help the U.S. compete with international tax credits.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/unions-democrats-federal-film-incentive-1236903623/"
- },
- {
-  "date": "2026-10-06T22:03:03.001043+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Skydance Unveils New Board of Directors",
-  "summary": "Skydance has revealed its new board of directors featuring high-profile additions like Laurene Powell Jobs and Bobby Kotick.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/skydancs-board-of-directors-laurene-powell-jobs-bobby-kotick-1237148375/"
- },
- {
-  "date": "2026-10-06T22:03:03.001043+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Two New 'Harry Potter' Books Coming in February",
-  "summary": "J.K. Rowling is officially releasing two new Harry Potter books in February ahead of the upcoming HBO series adaptation.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/new-harry-potter-books-release-date-february-2027/"
- },
- {
-  "date": "2026-10-06T22:03:03.001043+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Review: 'The Table: Day and Night' Opens Busan",
-  "summary": "The caf\u00e9-based Korean romance anthology 'The Table: Day and Night' opened the Busan Film Festival to a mixed review.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/reviews/the-table-day-and-night-review-1236903693/"
- },
- {
-  "date": "2026-10-06T22:03:03.001043+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "announcement",
-  "headline": "How 'Silo' Led to the 'Mistborn' Movie Deal",
-  "summary": "Brandon Sanderson explains how Apple TV's success with 'Silo' convinced him to partner for a 'Mistborn' movie adaptation.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/silo-apple-tv-mistborn-movie-brandon-sanderson-creative-control/"
- },
- {
-  "date": "2026-10-06T22:03:03.001043+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Skydance Shakes Up Board With High-Profile Additions",
-  "summary": "Skydance Corp. adds Laurene Powell Jobs and Bobby Kotick to its board and brings in Tony Blair as an adviser.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/skydance-board-bobby-kotick-laurene-powell-jobs-tony-blair-1236903730/"
- },
- {
-  "date": "2026-10-06T22:03:03.001043+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "other",
-  "headline": "Legendary Star Eva Marie Saint Passes Away at 102",
-  "summary": "Oscar-winning 'North by Northwest' and 'On the Waterfront' star Eva Marie Saint has passed away at age 102.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/alfred-hitchcock-star-eva-marie-saint-dead-at-102/"
- },
- {
-  "date": "2026-10-06T22:03:03.001043+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "other",
-  "headline": "Remembering Eva Marie Saint",
-  "summary": "Iconic actress Eva Marie Saint, known for her roles in On the Waterfront and North by Northwest, has passed away at age 102.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1wzf5qe/eva_marie_saint_star_of_on_the_waterfront_and/"
- },
- {
   "date": "2026-10-06T22:38:14.440708+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -22757,5 +22647,137 @@
   "verified": "reliable_reporter",
   "source": "ScreenRant",
   "link": "https://screenrant.com/reacher-neagley-end-era-prime-video-streaming-chart-drop-october-2026/"
+ },
+ {
+  "date": "2026-10-09T22:04:45.929396+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Ace Combat 8 Smashes Franchise Records on Steam",
+  "summary": "Ace Combat 8: Wings of Theve achieves the franchise's biggest launch on Steam following its official release.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/ace-combat-8-steam-launch-record-players"
+ },
+ {
+  "date": "2026-10-09T22:04:45.929396+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Gears of War: E-Day Gets New Accolades Trailer",
+  "summary": "An accolades trailer has been released for Gears of War: E-Day.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x1xw4a/gears_of_war_eday_accolades_trailer/"
+ },
+ {
+  "date": "2026-10-09T22:04:45.929396+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Final Fantasy Resonance Impressions",
+  "summary": "Final Fantasy Resonance successfully combines elements of FF5 and FF6 after rising from the ashes of a closed mobile game.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6"
+ },
+ {
+  "date": "2026-10-09T22:04:45.929396+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Sonic Racing: Crossworlds Year Two Showcase Revealed \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "A Year Two Showcase has been revealed for Sonic Racing: Crossworlds, detailing upcoming content.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x1x385/sonic_racing_crossworlds_year_two_showcase/"
+ },
+ {
+  "date": "2026-10-09T22:04:45.929396+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "Deadlock Update Introduces New Hero",
+  "summary": "Valve has revealed a new hero for Deadlock alongside a game update titled Make Your Move.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x1ww5v/deadlock_make_your_move_new_deadlock_hero/"
+ },
+ {
+  "date": "2026-10-09T22:04:45.929396+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Deadlock Receives Make Your Move Update",
+  "summary": "Deadlock receives a major new update titled Make Your Move on Steam.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x1ww53/make_your_move/"
+ },
+ {
+  "date": "2026-10-09T22:04:45.929396+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Intel and AMD Bring Back DDR4 Support to Combat RAM Price Hikes",
+  "summary": "Intel and AMD are introducing new CPUs that support older, more affordable DDR4 RAM to help consumers bypass recent memory price hikes.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback"
+ },
+ {
+  "date": "2026-10-09T22:04:45.929396+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "AI Startup TypeSafe AI Valued at $7.5B Following Massive Funding Round",
+  "summary": "TypeSafe AI, the maker of the non-text AI model Jev, has been valued at $7.5 billion after raising $870 million led by a16z just weeks after launch.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+ },
+ {
+  "date": "2026-10-09T22:04:45.929396+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "Jet-Powered Harley Screams to 60 MPH on Pure Thrust! \ud83d\ude80\ud83d\udd25",
+  "summary": "A modified Harley-Davidson powered entirely by two jet engines and diesel fuel achieves 60 mph on pure thrust without a traditional drivetrain.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/this-jet-powered-harley-hit-60-mph-on-pure-thrust/"
+ },
+ {
+  "date": "2026-10-09T22:04:45.929396+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Karlovy Vary Film Acquired for World Sales by Diversion",
+  "summary": "Karlovy Vary title 'The Ink-Stained Hand and a Missing Thumb' has been acquired by Diversion for world sales.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/ink-stained-hand-missing-thumb-world-sales-deal-1236906311/"
+ },
+ {
+  "date": "2026-10-09T22:04:45.929396+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Kate Siegel Discusses Her Mysterious 'Carrie' Role and Directorial Debut",
+  "summary": "Kate Siegel discusses her mysterious role and feminine rage in Mike Flanagan's 'Carrie' series, along with her horror directorial debut.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/kate-siegel-mysterious-carrie-role-feminine-rage-directorial-debut-1237151319/"
+ },
+ {
+  "date": "2026-10-09T22:04:45.929396+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "Pakistani Drama Project 'Dancers' Headed to Busan Asian Project Market",
+  "summary": "Pakistani drama project 'Dancers' by Eshah Shakeel is presented at the Busan Asian Project Market.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/busan-asian-project-market-dancers-pakistan-1236906326/"
  }
 ]
