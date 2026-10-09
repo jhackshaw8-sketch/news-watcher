@@ -1,137 +1,5 @@
 [
  {
-  "date": "2026-10-06T10:04:56.932253+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "iOS 27.2 Will Let You Hide Message Suggestions",
-  "summary": "Upcoming iOS 27.2 update will reportedly allow users to hide specific suggested actions within the Messages app.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/06/ios-27-2-switch-off-messages-suggestions/"
- },
- {
-  "date": "2026-10-06T10:04:56.932253+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Evangelion Creator to Direct New Sci-Fi Anime Movie",
-  "summary": "Evangelion creator Hideaki Anno has been officially announced to direct a new Space Battleship Yamato anime movie.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/evangelion-director-will-bring-back-another-sci-fi-anime-classic/"
- },
- {
-  "date": "2026-10-06T10:04:56.932253+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Avengers: Doomsday Merch Teases Original Doctor Doom Costume",
-  "summary": "New merchandise details for Avengers: Doomsday reveal early design plans for Doctor Doom's costume.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-merch-reveals-the-original-plan-for-doctor-dooms-costume/"
- },
- {
-  "date": "2026-10-06T10:04:56.932253+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Lucid Air Gets Infotainment Upgrade Inspired by Gravity \ud83d\ude97\u2728",
-  "summary": "Lucid has released an over-the-air infotainment update for the Air sedan, bringing its interface and features in line with the newer Gravity SUV.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/lucid-air-ota-infotainment-upgrade/"
- },
- {
-  "date": "2026-10-06T10:04:56.932253+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "business",
-  "headline": "Pure Gas Cars Fall Below 50% Global Market Share \ud83d\udcc9\u26fd",
-  "summary": "Pure gasoline-powered cars have dropped below a 50 percent global market share for the first time during the first half of 2026.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810901/gasoline-cars-fall-below-half/"
- },
- {
-  "date": "2026-10-06T10:04:56.932253+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "launch",
-  "headline": "Renault Twingo EV Set to Feature Quirky Glass Roof \ud83d\ude99\u2600\ufe0f",
-  "summary": "Renault's upcoming cheerful Twingo EV will feature an unusual, egg-shaped panoramic glass roof as an affordable option.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810888/renault-twingo-weird-glass-roof/"
- },
- {
-  "date": "2026-10-06T10:04:56.932253+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Dogwoof Secures International Rights for 'Rapinoe' and Oscar Contender 'Hanging By a Wire'",
-  "summary": "Dogwoof has acquired international rights for the TIFF documentary opener 'Rapinoe' and Pakistan's Oscar submission 'Hanging By a Wire'.",
-  "verified": "reliable_reporter",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/dogwoof-boards-rapinoe-hanging-by-a-wire-sales-1237146986/"
- },
- {
-  "date": "2026-10-06T10:04:56.932253+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Star Wars Comics Finally Fill in Crucial Kylo Ren Backstory Gaps",
-  "summary": "Comic writer Charles Soule explains how Marvel's The Fall of Kylo Ren trilogy addresses major narrative gaps regarding Ben Solo's backstory.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/charles-soule-the-fall-of-kylo-ren-answer-burning-questions-marvel-comics/"
- },
- {
-  "date": "2026-10-06T10:04:56.932253+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Solo Leveling x Overwatch Collaboration Date Announced",
-  "summary": "Solo Leveling and Overwatch are collaborating with new hero skins launching on October 6.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/solo-leveling-overwatch-season-5-new-skins/"
- },
- {
-  "date": "2026-10-06T10:04:56.932253+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Batman: Arkham Series Official Return Set For 2027",
-  "summary": "The Batman: Arkham series is officially returning in 2027 within a brand new medium.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/batman-arkham-2027-lego-sets-announced/"
- },
- {
-  "date": "2026-10-06T10:04:56.932253+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Nintendo Releases Statement On Future Zelda Games",
-  "summary": "Nintendo has issued an official statement regarding the future of The Legend of Zelda franchise.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/legend-of-zelda-new-games-future-plans-confirmed-nintendo/"
- },
- {
-  "date": "2026-10-06T10:04:56.932253+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Pok\u00e9mon Winds & Waves Gen 3 Leaks Surface",
-  "summary": "A reliable leak reveals new regional forms and evolutions for Gen 3 Pok\u00e9mon in Winds and Waves.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/pokemon-winds-waves-new-evolutions-gen-3-monsters/"
- },
- {
   "date": "2026-10-06T10:39:34.168410+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -23153,5 +23021,126 @@
   "verified": "reliable_reporter",
   "source": "ScreenRant",
   "link": "https://screenrant.com/biggest-non-marvel-movies-2027-release-dates/"
+ },
+ {
+  "date": "2026-10-09T10:05:46.610349+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Crunchyroll Announces 15 Webtoon Anime Adaptations at NYCC",
+  "summary": "Crunchyroll announced a major partnership at NYCC 2026 to produce anime adaptations of 15 popular webtoons.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/crunchyroll-nycc-announcements-webtoon/"
+ },
+ {
+  "date": "2026-10-09T10:05:46.610349+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "OpenAI Stands Firm on Firing Safety Researchers Over Trust Breach",
+  "summary": "OpenAI defended its decision to fire three AI safety researchers, citing a significant breach of trust and violations of sensitive information policies.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+ },
+ {
+  "date": "2026-10-09T10:05:46.610349+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Meta Bans TikTok Ads in Escalating Rivalry Row",
+  "summary": "Meta has implemented a complete ban on advertisements and marketing campaigns from ByteDance, TikTok's US minority owner.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2281983/meta-bans-tiktok-ads/"
+ },
+ {
+  "date": "2026-10-09T10:05:46.610349+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "\u26a1 VW Unveils ID Tiguan With Up to 373 Miles of Range \ud83d\ude99",
+  "summary": "Volkswagen has announced the new ID Tiguan featuring up to 373 miles of range and multiple battery pack options.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/vw-id-tiguan-launch/"
+ },
+ {
+  "date": "2026-10-09T10:05:46.610349+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "\ud83d\ude97 Farewell ID.4, Hello New VW ID. Tiguan! \ud83d\uded1",
+  "summary": "Volkswagen has officially replaced the ID.4 with the new ID. Tiguan, which features a traditional SUV design and physical interior controls.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811249/volkswagen-id-tiguan-debut-details/"
+ },
+ {
+  "date": "2026-10-09T10:05:46.610349+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "\ud83c\udfd6\ufe0f Classic Mini Turned Into Ultimate \u00a335k Beach Cruiser \u2600\ufe0f",
+  "summary": "Crayford has transformed a classic Mini into the Mojito, a \u00a335,000 open-sided coastal beach cruiser.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811318/crayford-mojito-classic-mini-beach/"
+ },
+ {
+  "date": "2026-10-09T10:05:46.610349+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "\ud83c\udfce\ufe0f 2027 Honda Civic Sport-L Gains Premium Features \u2728",
+  "summary": "Honda has introduced the 2027 Civic Sport-L trim, adding previously hybrid-exclusive features to the non-hybrid lineup.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811294/2027-honda-civic-sport-l/"
+ },
+ {
+  "date": "2026-10-09T10:05:46.610349+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Tom Hardy's New Series Becomes a Free Streaming Hit",
+  "summary": "Tom Hardy's new series replacing Peaky Blinders has become a major viewership hit on free streaming platforms.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/tom-hardy-taboo-free-streaming-success-pluto-tv-october-2026/"
+ },
+ {
+  "date": "2026-10-09T10:05:46.610349+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Xbox Offers 7 Games Free Until October 11",
+  "summary": "Xbox has made seven games completely free to play with challenges and trials until October 11.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/xbox-game-pass-free-weekend-7-free-games/"
+ },
+ {
+  "date": "2026-10-09T10:05:46.610349+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Red Dead Redemption 2: Dead Of Night Announced",
+  "summary": "Red Dead Redemption 2: Dead Of Night has been officially announced for the game's online modes.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/red-dead-redemption-2-dead-of-night-event/"
+ },
+ {
+  "date": "2026-10-09T10:05:46.610349+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Steam Horror Hit Free To Keep Until October 12",
+  "summary": "A highly rated horror game on Steam is currently available to keep forever for free until October 12.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/steam-free-horror-game-pony-island-october-2026/"
  }
 ]
