@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-06T09:05:09.760507+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Tarae: The Unbound Preview Highlights ARPG Potential",
-  "summary": "Eurogamer previews the new top-down ARPG Tarae: The Unbound and its visceral combat mechanics.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/tarae-the-unbound-preview"
- },
- {
-  "date": "2026-10-06T09:05:09.760507+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Infinity Ward Details Call of Duty: Modern Warfare 4 DMZ Mode",
-  "summary": "Infinity Ward details the new DMZ extraction shooter mode for Call of Duty: Modern Warfare 4.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-reveal"
- },
- {
-  "date": "2026-10-06T09:05:09.760507+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Daimler Truck Envisions Autonomous Rigs & Airships for 2070 \ud83d\ude9b\ud83d\udef8",
-  "summary": "Daimler Truck has unveiled four speculative design studies exploring autonomous maintenance, electric freight, airships, and vertical logistics for the year 2070.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810894/daimler-truck-2070-future-transport/"
- },
- {
-  "date": "2026-10-06T09:05:09.760507+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "The Batman 2 Pauses Production",
-  "summary": "Production on The Batman 2 has temporarily paused as director Matt Reeves attends to a family matter.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1wys6my/the_batman_2_pauses_production_as_director_matt/"
- },
- {
   "date": "2026-10-06T09:40:05.922159+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -23098,5 +23054,71 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1x18odl/charlie_cox_shouts_out_save_daredevil_campaign_at/"
+ },
+ {
+  "date": "2026-10-09T09:06:05.732322+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "Apple Expands AI Talent with Huxe Deal",
+  "summary": "Apple has signed a hiring and licensing deal with AI podcast startup Huxe, according to a European Commission filing.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/09/apple-signs-hiring-deal-ai-podcast-startup-huxe/"
+ },
+ {
+  "date": "2026-10-09T09:06:05.732322+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Report: Apple Cuts iPhone 18 Pro Orders",
+  "summary": "Reports indicate that Apple has reduced iPhone 18 Pro production orders due to anticipated soft market demand.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x1gcqk/apple_cuts_iphone_18_pro_orders_due_to_soft/"
+ },
+ {
+  "date": "2026-10-09T09:06:05.732322+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "business",
+  "headline": "Bugatti CEO's Advice for Europe \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "Bugatti CEO Mate Rimac advises European automakers to carve out unique niches rather than trying to out-compete Chinese EV manufacturers on screens and charging speeds.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/bugatti-ceo-proposes-way-for-europe-to-beat-chinese-threat/"
+ },
+ {
+  "date": "2026-10-09T09:06:05.732322+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "UTA and Gold House Form Industry Partnership",
+  "summary": "UTA and Gold House have formed a partnership to connect Asian creatives and investors with Hollywood, launching at the Busan International Film Festival.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/uta-gold-house-partner-asia-hollywood-1236906321/"
+ },
+ {
+  "date": "2026-10-09T09:06:05.732322+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Matlock Season 3 Receives Filming Update",
+  "summary": "Star Beau Bridges has provided a major filming update regarding Matlock Season 3 following its release delay.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/matlock-season-3-filming-update-2027-release/"
+ },
+ {
+  "date": "2026-10-09T09:06:05.732322+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Avatar: Seven Havens Unveils New Earthbender Avatar \ud83d\udcfa",
+  "summary": "Avatar: Seven Havens has officially been unveiled, introducing a new Earthbender Avatar 200 years after Korra with a massive franchise twist.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/avatar-seven-havens-pavi-earthbender-explained/"
  }
 ]
