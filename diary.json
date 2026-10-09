@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-06T02:39:45.631823+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Apple Rumored to Host Multiple Product Launches in October",
-  "summary": "Apple is reportedly planning two separate sets of product launches in October, including a home hub, HomePod mini, Apple TV 4K, and additional devices later in the month.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/05/apple-two-sets-of-product-launches-october/"
- },
- {
-  "date": "2026-10-06T02:39:45.631823+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Apple Opens App Store for iPhone Duo-Ready Apps",
-  "summary": "Apple has invited developers to submit apps optimized for the new iPhone Duo to the App Store.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1wyr18s/apple_invites_developers_to_submit_iphone/"
- },
- {
-  "date": "2026-10-06T02:39:45.631823+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "business",
-  "headline": "Nissan Opens First Overseas Nismo Center in Australia! \ud83c\udfce\ufe0f\ud83c\udde6\ud83c\uddfa",
-  "summary": "Nissan has opened its first Nismo Performance Center outside of Japan in Melbourne, Australia, to cater to classic Skyline, GT-R, and Z owners.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/nismo-opens-shop-in-australia-to-cater-to-classic-skyline-and-gt-r-demands/"
- },
- {
-  "date": "2026-10-06T02:39:45.631823+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Andrew Garfield Reflects on Playing Sam Altman in Artificial",
-  "summary": "Andrew Garfield discussed his initial impression of Sam Altman prior to portraying the OpenAI CEO in Luca Guadagnino's film Artificial at its New York Film Festival premiere.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/andrew-garfield-sam-altman-movie-artificial-nyff-premiere-luca-guadagnino-1236894719/"
- },
- {
-  "date": "2026-10-06T02:39:45.631823+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Skydance Overhauls International Division Post-Merger",
-  "summary": "Skydance is fully reorganizing its international operations following its combination with Warner Bros. Discovery, with executive Kevin MacLellan not moving forward into the top global role.",
-  "verified": "reliable_reporter",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/skydance-reorganize-international-kevin-maclellan-1236899732/"
- },
- {
   "date": "2026-10-06T03:04:08.921185+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -22867,5 +22812,71 @@
   "verified": "official",
   "source": "Variety",
   "link": "https://variety.com/2026/tv/news/law-and-order-svu-season-28-premiere-volition-gang-rape-cornell-7-1236906037/"
+ },
+ {
+  "date": "2026-10-09T02:39:46.526562+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "OLED MacBook Pro Expected to Drive Major Display Growth",
+  "summary": "A new industry report indicates that upcoming OLED MacBook Pros will significantly boost premium notebook display shipments.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/08/oled-macbook-pro-to-help-boost-premium-display-shipments-per-report/"
+ },
+ {
+  "date": "2026-10-09T02:39:46.526562+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "update",
+  "headline": "Apple Releases AT&T Carrier Update for iOS 27.2 Beta",
+  "summary": "Apple has rolled out a new AT&T carrier update for the iPhone 18 Pro Max running the iOS 27.2 beta.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/08/apple-rolls-out-att-carrier-update-for-iphone-18-pro-max-on-ios-27-2-beta/"
+ },
+ {
+  "date": "2026-10-09T02:39:46.526562+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "rumor",
+  "headline": "GTA 6 Age Rating Hints at Direct Inventory Drug Use",
+  "summary": "Recent age rating details for GTA 6 suggest players will have direct inventory access to drug use for Lucia and Jason.",
+  "verified": "unconfirmed",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use"
+ },
+ {
+  "date": "2026-10-09T02:39:46.526562+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Paramount Boss Gives Update on HBO's 'Harry Potter' Series",
+  "summary": "Paramount boss David Ellison addresses the streaming future and plans surrounding HBO's upcoming Harry Potter series.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/hbo-harry-potter-series-streaming-paramount-plus-comments-david-ellison/"
+ },
+ {
+  "date": "2026-10-09T02:39:46.526562+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Superman Gets an Official New Look for 'Man of Tomorrow'",
+  "summary": "David Corenswet has teased a brand-new look for the Man of Steel in the upcoming DC project Man of Tomorrow.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/man-of-tomorrow-new-superman-costume-david-corenswet/"
+ },
+ {
+  "date": "2026-10-09T02:39:46.526562+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Jon Bernthal's 'The Amateur' Headed to HBO Max",
+  "summary": "The spy thriller The Amateur starring Jon Bernthal and Rami Malek is officially heading to HBO Max.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/jon-bernthal-the-amateur-hbo-max-streaming-october-2026/"
  }
 ]
