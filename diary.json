@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-10-06T21:03:15.972134+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Underdog Launches as New Privacy-Focused On-Device AI Assistant",
-  "summary": "Silicon Valley developer Sigil Wen has launched Underdog, a new on-device AI assistant focused on privacy and free everyday tasks.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/"
- },
- {
-  "date": "2026-10-06T21:03:15.972134+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "business",
-  "headline": "Oscar-Winning Legend Eva Marie Saint Passes Away at 102",
-  "summary": "Oscar-winning actress and classic film icon Eva Marie Saint has passed away at the age of 102.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/eva-marie-saint-dead-north-by-northwest-1236903677/"
- },
- {
-  "date": "2026-10-06T21:03:15.972134+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Miley Cyrus Album Suffers Historic Chart Drop",
-  "summary": "Miley Cyrus's album 'Bass Persuades' experienced a historic chart drop, falling out of the Billboard 200 top 10 in its second week after debuting at No. 1.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/music/news/miley-cyrus-biggest-drop-after-number-one-album-debut-1236903472/"
- },
- {
-  "date": "2026-10-06T21:03:15.972134+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Disney Pulls Blockbuster From Theaters Ahead of Digital Release",
-  "summary": "Disney's blockbusting action thriller has been pulled from hundreds of theaters as its digital streaming release approaches.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/spiderman-brand-new-day-theaters-removed-digital-release/"
- },
- {
-  "date": "2026-10-06T21:03:15.972134+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Pan's Labyrinth Team Discusses 3D and Atmos Restoration",
-  "summary": "The restoration team behind 'Pan's Labyrinth' discusses the technical process of converting the acclaimed film into 3D and Dolby Atmos.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1wzcxpn/pans_labyrinth_restoration_team_on_converting_to/"
- },
- {
-  "date": "2026-10-06T21:03:15.972134+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "The Legend of Zelda: The Minish Cap Reportedly Getting 3D Remake",
-  "summary": "The classic Game Boy Advance title 'The Legend of Zelda: The Minish Cap' is reportedly getting a 3D remake.",
-  "verified": "unconfirmed",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/legend-of-zelda-minish-cap-is-getting-a-3d-remake/"
- },
- {
-  "date": "2026-10-06T21:03:15.972134+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "legal",
-  "headline": "FKA twigs Settles NDA Dispute Over Shia LaBeouf Abuse Allegations",
-  "summary": "FKA twigs has settled her NDA dispute with Shia LaBeouf, freeing her to speak publicly about her allegations of abuse.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1wzcrk8/fka_twigs_settles_shia_labeouf_nda_dispute_is/"
- },
- {
-  "date": "2026-10-06T21:03:15.972134+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "other",
-  "headline": "Lorde Wears 'Free Palestine' Jacket and Calls Out Robert Kraft",
-  "summary": "Singer Lorde wore a 'Free Palestine' jacket and called out Robert Kraft following recent tour controversies involving other artists.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1wzc0s4/lorde_calls_out_robert_kraft_in_free_palestine/"
- },
- {
-  "date": "2026-10-06T21:03:15.972134+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Guy Ritchie's Netflix Crime Series Dominates Global Charts",
-  "summary": "Guy Ritchie's new crime series on Netflix continues to dominate global viewership charts with millions of hours viewed.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/guy-ritchie-the-gentlemen-netflix-33-million-hours-streaming-charts-october-2026/"
- },
- {
-  "date": "2026-10-06T21:03:15.972134+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Slow Horses Star's New Thriller Debuts to Strong Reviews",
-  "summary": "A star from the series 'Slow Horses' returns to the big screen with a new crime thriller that debuted to strong Rotten Tomatoes scores.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/a-talent-for-murder-movie-rotten-tomatoes-score/"
- },
- {
-  "date": "2026-10-06T21:03:15.972134+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "The Conjuring: Unspoken Coming to Netflix Next Week",
-  "summary": "Netflix announces that 'The Conjuring: Unspoken' will arrive on the platform next week in a brand-new format.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/conjuring-unspoken-netflix-release-october-2026/"
- },
- {
   "date": "2026-10-06T21:38:02.034860+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -22559,5 +22438,181 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/helluva-boss-season-3-tease-creator/"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Shell Companies Link Apple to New 'HomeView' and 'homeOS' Trademarks",
+  "summary": "Apple was potentially linked to shell companies that filed trademarks for 'HomeView' and 'homeOS' last year.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/09/homeview-trademark/"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "Arc Raiders Launches Big 'Frozen Trail' Update With Free Trial",
+  "summary": "Arc Raiders is getting a four-day free trial alongside its biggest update yet, Frozen Trail.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "AI Coding Agents Hit Human Review Bottleneck",
+  "summary": "A study reveals that while AI coding agents increase code generation, human review bottlenecks absorb the efficiency gains.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Alfa Romeo Junior Review: Good Looks, But Needs More Punch \ud83d\ude97\ud83d\udca8",
+  "summary": "A review of the Alfa Romeo Junior praises its stylish looks but critiques its powertrain performance.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/alfa-romeo-junior-ibrida-review-some-appeal-but-not-the-smart-choice/"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "business",
+  "headline": "Warner Bros. Discovery Executives Secure Massive Payouts in Skydance Deal",
+  "summary": "Former Warner Bros. Discovery executives received massive payouts following the company's multi-billion dollar sale to Paramount under Skydance.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/wbd-payouts-executives-skydance-merger-1237143687/"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Charlie Cox Teases Original Defenders Reunion in 'Daredevil: Born Again'",
+  "summary": "Charlie Cox teases a reunion of the original Defenders team in the final season of Marvel's Daredevil: Born Again.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/daredevil-born-again-season-3-charlie-cox-defenders-netflix-reunion/"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Society of Composers & Lyricists Opens London Chapter",
+  "summary": "The Society of Composers & Lyricists has opened its first international chapter in London at AIR Studios.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/society-of-composers-lyricists-international-london-1237152299/"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "PlayStation Drops Free Spider-Man Download",
+  "summary": "PlayStation has released a new official Spider-Man download for free without requiring a PS Plus subscription.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/playstation-spider-man-free-download-no-ps-plus/"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Showrunner Gail Lerner Fired From NBC Sitcom",
+  "summary": "Gail Lerner announced she was fired from her position as showrunner on the upcoming NBC sitcom 'Newlyweds'.",
+  "verified": "reliable_reporter",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/newlyweds-showrunner-gail-lerner-fired-nbc-1236907069/"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Brendan Fraser Returns For The Mummy 4",
+  "summary": "Brendan Fraser is returning for 'The Mummy 4' with increased creative control as an executive producer.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/video/the-mummy-4-brendan-fraser-returns-on-his-own-terms/"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "legal",
+  "headline": "AI Voice Replication Sparks Outrage",
+  "summary": "The daughter of a late BBC and 'Paddington' star has criticized Royal Mail for allegedly using AI to recreate her father's voice.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x1w7so/daughter_of_dead_bbc_paddington_star_accuses/"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Friday The 13th 2026 Movie Teases Major Franchise Changes",
+  "summary": "The upcoming 2026 Crystal Lake 'Friday the 13th' release is set to rewrite a major franchise kill.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/crystal-lake-friday-the-13th-major-kill-rewrite/"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Landman Season 3 Filming Details Emerge",
+  "summary": "Filming updates for 'Landman' Season 3 confirm that Ainsley's college and cheerleading storyline will continue.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/landman-season-3-ainsley-college-tcu-filming-update/"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Other Mommy Pulls In $3.6M In Previews",
+  "summary": "Universal's chiller 'Other Mommy' brings in $3.6 million in previews as it opens in theaters.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x1vfxj/other_mommy_grabs_36m_in_previews_as_social/"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "update",
+  "headline": "Nintendo Addresses GTA 6 Switch 2 Rumors",
+  "summary": "Nintendo of America's president has officially addressed the potential of 'Grand Theft Auto 6' releasing on the Switch 2.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/gta-6-nintendo-switch-2-third-party-games/"
+ },
+ {
+  "date": "2026-10-09T21:05:03.227945+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "legal",
+  "headline": "Netflix Suffers Blow In Baby Reindeer Lawsuit",
+  "summary": "Netflix has suffered a legal setback in the ongoing 'Baby Reindeer' lawsuit battle involving Fiona Harvey.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x1v1cp/baby_reindeer_battle_netflix_suffers_fiona_harvey/"
  }
 ]
