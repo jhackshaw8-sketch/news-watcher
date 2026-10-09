@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-06T11:05:06.574801+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Apple Fires Back at OpenAI in Ongoing Trade Secret Lawsuit",
-  "summary": "Apple and OpenAI continue exchanging legal filings and arguments in the ongoing trade secret theft lawsuit.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/06/dont-change-the-subject-apple-tells-openai-over-its-lawsuit?utm_source=rss"
- },
- {
-  "date": "2026-10-06T11:05:06.574801+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "CD Projekt Red Details Next Witcher 3 Remaster Patches",
-  "summary": "CD Projekt Red outlines upcoming patches for The Witcher 3 Remastered amid ongoing community division over recent changes.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/cd-projekt-red-witcher-3-bugs-issues-remastered-ps5"
- },
- {
-  "date": "2026-10-06T11:05:06.574801+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "rumor",
-  "headline": "Halo Studios Teases Halo 7 With New Concept Art",
-  "summary": "Halo Studios reveals new concept art for Halo 7, teasing an ancient and terrifying new creature.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/halo/now-that-halo-7-is-over-at-activision-halo-studios-releases-concept-art-for-their-version-of-the-fps-teasing-an-ancient-terrible-creature-guarded-by-a-timelock/"
- },
- {
-  "date": "2026-10-06T11:05:06.574801+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "Amazon Alexa Plus Bug Causes Creepy 'Lalala' Singing Loop",
-  "summary": "An Amazon Alexa Plus bug is causing certain Echo devices to repeatedly sing 'lalala' for minutes on end without user prompting.",
-  "verified": "reliable_reporter",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end"
- },
- {
-  "date": "2026-10-06T11:05:06.574801+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "business",
-  "headline": "\u26a1 Chevy Bolt Faces Production Cuts at Dealerships \ud83d\udcc9",
-  "summary": "Chevrolet is reportedly slashing production plans for the new Chevy Bolt down to just 35,000 units.",
-  "verified": "unconfirmed",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/2027-chevy-bolt-service-notice-water-leak/"
- },
- {
-  "date": "2026-10-06T11:05:06.574801+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "\ud83d\ude90 Renault ESpace Concept Revives the Classic Minivan Icon \u2728",
-  "summary": "Renault has revealed the E-Space concept, rebooting a French icon and potentially bringing minivans back into the spotlight.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/renaults-e-space-concept-reboots-another-french-icon/"
- },
- {
-  "date": "2026-10-06T11:05:06.574801+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "\ud83d\udefb Roush Unveils 2027 Super Duty Package Without Engine Boost \ud83d\udcaa",
-  "summary": "Roush introduces a $21,399 upgrade package for the 2027 Ford Super Duty focusing on suspension and styling rather than power.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/810911/2027-roush-super-duty-package/"
- },
- {
-  "date": "2026-10-06T11:05:06.574801+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "business",
-  "headline": "Disney Announces Theme Park Price Hikes",
-  "summary": "Disney has officially announced price increases across ticket sales, annual passes, and Lightning Lane access for both Disneyland and Disney World.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1wyz0h1/disneyland_and_disney_world_price_increases_for/"
- },
- {
   "date": "2026-10-06T11:38:45.497711+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -23197,5 +23109,170 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/clair-obscur-free-download-game-pass-last-chance/"
+ },
+ {
+  "date": "2026-10-09T11:38:05.466111+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "Apple Acquires AI Podcast and Audio Startup Huxe",
+  "summary": "Apple has acquired the AI audio technology behind Huxe, an iOS app used for summarizing news and generating automated podcasts.",
+  "verified": "reliable_reporter",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/09/huxes-ai-tools-for-creating-podcasts-from-a-prompt-is-bought-by-apple?utm_source=rss"
+ },
+ {
+  "date": "2026-10-09T11:38:05.466111+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Charlie Cox Stars in Upcoming Sega Game",
+  "summary": "Actor Charlie Cox is starring in a new Sega game following his work on Clair Obscur: Expedition 33.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/rpg/after-clair-obscur-expedition-33-daredevil-star-charlie-cox-is-in-a-new-sega-game-but-you-dont-know-what-it-is-it-doesnt-have-a-name-yet/"
+ },
+ {
+  "date": "2026-10-09T11:38:05.466111+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Ghost of Tsushima Anime Set for 2028 and Legends Delayed",
+  "summary": "A Ghost of Tsushima anime is scheduled for 2028 with the original game's actor joining the cast, alongside news that Ghost of Tsushima Legends has been delayed.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/anime-shows/ghost-of-tsushima-anime-arrives-in-2028-as-og-game-actor-joins-cast/"
+ },
+ {
+  "date": "2026-10-09T11:38:05.466111+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Anthropic Launches Free OSS Vulnerability Scanner",
+  "summary": "Anthropic has launched a free vulnerability-finding service called OSS Scanner to help secure open-source software projects.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2282005/anthropic-offers-open-source-software-free-ai-security-checks/"
+ },
+ {
+  "date": "2026-10-09T11:38:05.466111+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Manthey Celebrates 30 Years With Special Track-Ready Porsches \ud83c\udfc1\ud83d\udd25",
+  "summary": "Manthey celebrates its 30th anniversary by revealing limited-run special editions of the 911 GT3 Cup MR 30 and 718 Cayman GT4 RS Clubsport MR 30.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/manthey-celebrates-30-years-special-edition-porsches/"
+ },
+ {
+  "date": "2026-10-09T11:38:05.466111+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Porsche & Manthey Unleash Two Wild Anniversary Race Cars \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "Porsche's motorsport partner Manthey has revealed two wild race cars, featuring a bigger-engined 911 GT3 Cup and the final evolution of the Cayman.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811332/porsche-manthey-911-gt3-cup-cayman/"
+ },
+ {
+  "date": "2026-10-09T11:38:05.466111+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Rare One-Off Ruf Project Dragon Heads to Auction \ud83c\udff7\ufe0f\ud83d\ude97",
+  "summary": "The one-off factory-built Ruf Project Dragon, featuring CTR2 Sport hardware, is heading to auction with an estimated value of $8 million.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811338/ruf-project-dragon-one-off/"
+ },
+ {
+  "date": "2026-10-09T11:38:05.466111+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Symbioz Films Unveils Trailer for Istanbul Real Estate Drama 'Sevda'",
+  "summary": "Symbioz Films has acquired sales rights for the Swiss Turkish drama 'Sevda' set in Istanbul's real estate world and released its trailer.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/symbioz-istanbul-real-drama-sevda-trailer-1237150845/"
+ },
+ {
+  "date": "2026-10-09T11:38:05.466111+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "Top 2026 Movies to Watch This Halloween Season",
+  "summary": "A curated list highlights upcoming 2026 horror and animated movies to watch for Halloween.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/best-2026-movies-to-watch-halloween/"
+ },
+ {
+  "date": "2026-10-09T11:38:05.466111+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Matthew Lillard Reveals Unique Experience Working on 'Carrie'",
+  "summary": "Matthew Lillard and Amber Midthunder discussed unique experiences working on their new project 'Carrie'.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/carrie-series-matthew-lillard-amber-midthunder-interview/"
+ },
+ {
+  "date": "2026-10-09T11:38:05.466111+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Russell T Davies Breaks Silence on Doctor Who AI Controversy",
+  "summary": "Russell T Davies addressed the 'Doctor Who' AI controversy and warned about the future of copyright protection.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/doctor-who-ai-rumors-russell-t-davies-response/"
+ },
+ {
+  "date": "2026-10-09T11:38:05.466111+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "Pablo Larra\u00edn's Supernatural Miniseries 'My Sad Dad' Hits Netflix",
+  "summary": "Pablo Larra\u00edn's new 4-part supernatural miniseries 'My Sad Dad' makes its debut on Netflix.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/netflix-supernatural-thriller-series-my-sad-dead-weekend-binge/"
+ },
+ {
+  "date": "2026-10-09T11:38:05.466111+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "View Conference Announces Star-Studded Animation and VFX Lineup",
+  "summary": "The 27th View Conference announces its upcoming Oct. 12-16 lineup featuring major creators and animation showcases.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/global/global/view-conference-2026-brad-bird-roger-deakins-ai-debate-1236905539/"
+ },
+ {
+  "date": "2026-10-09T11:38:05.466111+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Pok\u00e9mon Winds & Waves Release Date Leaks Online",
+  "summary": "A potential release date for Pok\u00e9mon Winds & Waves has leaked online ahead of any official announcement.",
+  "verified": "unconfirmed",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/pokemon-winds-waves-release-date-leak-november-2027/"
+ },
+ {
+  "date": "2026-10-09T11:38:05.466111+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Ben Affleck's Netflix Thriller Sets Rotten Tomatoes Record",
+  "summary": "Ben Affleck's upcoming Netflix thriller sets a new Rotten Tomatoes milestone based on initial reviews.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/ben-affleck-animals-netflix-movie-rotten-tomatoes-score-director-record/"
  }
 ]
