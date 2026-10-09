@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-06T07:39:32.490033+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "Stunning Classic Delahaye Takes Best of Show! \ud83c\udfc6\ud83d\ude97",
-  "summary": "A stunning classic Delahaye wins Best of Show, showcasing gorgeous vintage automotive design.",
-  "verified": "official",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1wyteu8/best_of_show_delahaye_5760x3763/"
- },
- {
   "date": "2026-10-06T08:05:56.405250+00:00",
   "topic": "Cars",
   "score": 6,
@@ -22911,5 +22900,93 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/lord-of-the-rings-nazgul-king-spring-2027/"
+ },
+ {
+  "date": "2026-10-09T07:41:23.474079+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Avatar: Seven Havens Receives Critical Acclaim in New Review",
+  "summary": "Polygon published a glowing review for Avatar: Seven Havens, praising its mystery, action, and storytelling.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/avatar-seven-havens-review/"
+ },
+ {
+  "date": "2026-10-09T07:41:23.474079+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "Microsoft 365 Family Plans Finally Expand AI Copilot Sharing",
+  "summary": "Microsoft is updating its 365 Family and Premium subscriptions to allow all members to share Copilot and AI usage benefits, rather than limiting them to just the primary account holder.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes"
+ },
+ {
+  "date": "2026-10-09T07:41:23.474079+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Is Honda Planning a New Pickup Using Mitsubishi Underpinnings? \ud83d\udefb\ud83d\udc40",
+  "summary": "Honda is rumored to potentially launch a mid-size body-on-frame pickup truck by utilizing the platform of the Mitsubishi Triton.",
+  "verified": "unconfirmed",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811281/honda-truck-rebadged-mitsubishi-triton/"
+ },
+ {
+  "date": "2026-10-09T07:41:23.474079+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "update",
+  "headline": "Rivian Gets Spooky with New Halloween Ghostbusters Mode! \ud83d\udc7b\ud83c\udf83\ud83d\ude97",
+  "summary": "Rivian is introducing a Halloween-themed mode featuring customized lights, sounds, and displays that owners can trigger via their mobile app.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811283/rivian-evs-get-a-ghostbusters/"
+ },
+ {
+  "date": "2026-10-09T07:41:23.474079+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Fantasy Film 'Starbright' Picks Up International Sales Ahead of Busan Market",
+  "summary": "Cappu Films has acquired international sales rights for the fantasy adventure film 'Starbright,' starring John Rhys-Davies and Diego Boneta.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/john-rhys-davies-fantasy-starbright-cappu-busan-1236906361/"
+ },
+ {
+  "date": "2026-10-09T07:41:23.474079+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Wen Muye's Middle East Smash Hits $342 Million at Box Office",
+  "summary": "Director Wen Muye's 'Once Upon a Time in the Middle East' has become a massive box office smash in China, grossing $342 million.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/once-upon-time-middle-east-director-wen-muye-1236906350/"
+ },
+ {
+  "date": "2026-10-09T07:41:23.474079+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "The Lost Children of Tuam Debuts Official Trailer",
+  "summary": "The official trailer for 'The Lost Children of Tuam' has been released, giving audiences a first look at the project.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x1ehpr/the_lost_children_of_tuam_official_trailer/"
+ },
+ {
+  "date": "2026-10-09T07:41:23.474079+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Korean Sci-Fi Animation 'Pilgrims' Lands Global Distribution",
+  "summary": "EST N8 has secured global distribution rights for the Annecy Korean sci-fi animation 'Pilgrims' directed by Heo Pyoungkang.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x1dvmh/annecy_korean_scifi_animation_pilgrims_from_japan/"
  }
 ]
