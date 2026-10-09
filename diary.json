@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-06T18:04:04.566919+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Books Gets Fresh Design in iOS 27.2",
-  "summary": "iOS 27.2 beta brings several new design updates to the Apple Books app.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/06/ios-27-2-gives-apple-books-new-design-updates-as-iphone-duo-nears/"
- },
- {
-  "date": "2026-10-06T18:04:04.566919+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Issues macOS Release Candidates for Testing",
-  "summary": "Apple has released release candidates for macOS Sequoia 16.8.2 and macOS Tahoe 26.7.2 for testing.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/06/release-candidates-of-macos-tahoe-sequoia-updates-are-out-for-testing?utm_source=rss"
- },
- {
-  "date": "2026-10-06T18:04:04.566919+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "update",
-  "headline": "Apple Releases iOS 27.2 Developer Beta 3",
-  "summary": "Apple has released iOS 27.2 beta 3 to developers, featuring minor changes and future software hints.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/06/ios-27-2-beta-3-heres-everything-new/"
- },
- {
-  "date": "2026-10-06T18:04:04.566919+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "business",
-  "headline": "The Rise of Car Subscriptions: Are We Paying Twice? \ud83d\ude97\ud83d\udcb8",
-  "summary": "Automakers are increasingly pushing subscription models for built-in car features, sparking consumer debate about the future of car ownership.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/features/810921/why-some-cars-charge-monthly-for-features/"
- },
- {
-  "date": "2026-10-06T18:04:04.566919+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Classic Star Trek Cast Member Returns For Sequel Series",
-  "summary": "A classic Star Trek crew member is officially returning for a new Next Generation sequel series.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-trek-next-generation-crusher-sequel-series/"
- },
- {
-  "date": "2026-10-06T18:04:04.566919+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Young Sheldon Cast Rift Confirmed Following Early End",
-  "summary": "The untimely ending of Young Sheldon caused tension among the main cast members.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/young-sheldon-ending-cast-rift-confirmed-details/"
- },
- {
-  "date": "2026-10-06T18:04:04.566919+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Florence Pugh's Netflix Show Reimagines Classic Villain",
-  "summary": "Florence Pugh stars in a new Netflix series that reimagines a classic literature villain.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/netflix-east-of-eden-cathy-book-changes/"
- },
- {
-  "date": "2026-10-06T18:04:04.566919+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Canceled Taylor Sheridan Crime Series Hits Netflix Success",
-  "summary": "A canceled Taylor Sheridan crime series has found a second life as a global hit on Netflix.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/taylor-sheridan-mayor-of-kingstown-netflix-global-streaming-success-october-2026/"
- },
- {
   "date": "2026-10-06T18:43:21.470835+00:00",
   "topic": "Apple News",
   "score": 5,
@@ -22570,5 +22482,159 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/crossed-trailer-the-boys-creator-garth-ennis-adaptation/"
+ },
+ {
+  "date": "2026-10-09T18:05:01.650400+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Original Apple TV 4K Marks Vintage Status Ahead of Rumored Release",
+  "summary": "The original Apple TV 4K is designated as vintage as rumors point to a new model arriving soon.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x1s1x9/first_apple_tv_4k_now_vintage_ahead_of_new_model/"
+ },
+ {
+  "date": "2026-10-09T18:05:01.650400+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "GTA 6 Community Shook By New Leak",
+  "summary": "A massive leak surrounding GTA 6 featuring nude character models has sent the community into a frenzy with new conspiracy theories.",
+  "verified": "unconfirmed",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/gta-6-cyberleek-nude-jason-duvall-internet-archive-video-tank-cheat/"
+ },
+ {
+  "date": "2026-10-09T18:05:01.650400+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Gears of War: E-Day Pulls Strong Numbers on Xbox",
+  "summary": "Gears of War: E-Day has pulled in over 1.7 million Xbox Game Pass players and generated $37 million since its launch.",
+  "verified": "reliable_reporter",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players"
+ },
+ {
+  "date": "2026-10-09T18:05:01.650400+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "New Amazon Kindles Face Early Light Leak Reports",
+  "summary": "Users are reporting a light leak issue on Amazon's new base-model Kindles, particularly noticeable in dark mode.",
+  "verified": "unconfirmed",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak"
+ },
+ {
+  "date": "2026-10-09T18:05:01.650400+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Guillermo del Toro and Alfonso Cuar\u00f3n Heading to Morelia Fest",
+  "summary": "Guillermo del Toro, Diego Luna, and Alfonso Cuar\u00f3n are set to attend the Morelia International Film Festival.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/guillermo-del-toro-alfonso-cuaron-morelia-film-festival-1236902304/"
+ },
+ {
+  "date": "2026-10-09T18:05:01.650400+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "New 'Avatar' Animated Series Features Major Franchise First",
+  "summary": "The new animated series Avatar: Seven Havens introduces a major franchise first.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2282113/avatar-seven-havens-franchise-first-twins/"
+ },
+ {
+  "date": "2026-10-09T18:05:01.650400+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Laika Submits 'Wildwood' Song for Oscar Consideration",
+  "summary": "Laika submits the original song 'The Better Part of Bravery' from 'Wildwood' performed by The Decemberists for Oscar consideration.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/artisans/awards/laika-wildwood-oscars-decemberists-better-part-of-bravery-1236906575/"
+ },
+ {
+  "date": "2026-10-09T18:05:01.650400+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Can 'Street Fighter' Conquer the Box Office?",
+  "summary": "An analysis explores whether the upcoming Street Fighter movie can succeed at the box office where Mortal Kombat struggled.",
+  "verified": "unconfirmed",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2280346/street-fighter-2026-movie-box-office-preview/"
+ },
+ {
+  "date": "2026-10-09T18:05:01.650400+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Third '28 Years Later' Film Pushed to the Back Burner",
+  "summary": "Director Danny Boyle reveals that the third '28 Years Later' film is currently on the back burner due to funding needs.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/danny-boyle-28-years-later-third-back-burner-ai-1236906545/"
+ },
+ {
+  "date": "2026-10-09T18:05:01.650400+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Danny Boyle Gives Official Update on '28 Years Later' Part III",
+  "summary": "Director Danny Boyle provides an official production update regarding the third installment of the '28 Years Later' franchise.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2282505/cillian-murphy-28-years-later-part-3-update-director-danny-boyle/"
+ },
+ {
+  "date": "2026-10-09T18:05:01.650400+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "FX Orders New Crime Pilot From Hiro Murai & Wong Kar Wai",
+  "summary": "FX has ordered a new crime drama pilot starring Havana Rose Liu, created by Hiro Murai and Wong Kar Wai.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/hiro-murai-fx-pilot-havana-rose-liu-starring-1237151135/"
+ },
+ {
+  "date": "2026-10-09T18:05:01.650400+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Sherlock Alum Joins Major Franchise",
+  "summary": "An actor from Sherlock has officially joined a major $421 million franchise with a new twist.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/wallace-and-gromit-voice-history-first-martin-freeman-casting/"
+ },
+ {
+  "date": "2026-10-09T18:05:01.650400+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "New Avatar Series Breaks Major Tradition",
+  "summary": "Paramount+'s upcoming animated series Avatar: Seven Havens is set to break a long-standing franchise tradition.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/avatar-seven-havens-missing-last-airbender-intro-episodes-1-2/"
+ },
+ {
+  "date": "2026-10-09T18:05:01.650400+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "legal",
+  "headline": "FBI Arrests Primary Suspect Behind GTA Leaks",
+  "summary": "The FBI has arrested a primary suspect allegedly linked to the major Rockstar Games and GTA leaks earlier this year.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/fbi-arrest-shinyhunters-suspect-rockstar-hack/"
  }
 ]
