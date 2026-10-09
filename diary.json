@@ -1,148 +1,5 @@
 [
  {
-  "date": "2026-10-06T12:44:50.630564+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Music Getting a Chunky New Logo in Beta",
-  "summary": "A developer beta reveals a modernized, chunkier lowercase logo for Apple Music.",
-  "verified": "reliable_reporter",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/06/modernized-apple-music-logo-is-now-chunkier-than-ever?utm_source=rss"
- },
- {
-  "date": "2026-10-06T12:44:50.630564+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "New Dawn of War 4 Details and Screenshots Revealed",
-  "summary": "An exclusive interview and screenshots reveal new gameplay details for Warhammer 40,000: Dawn of War 4 focusing on Space Marines.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/exclusive-warhammer-40000-dawn-of-war-4-space-marine-screenshots-and-interview-with-creative-director-jan-theysen"
- },
- {
-  "date": "2026-10-06T12:44:50.630564+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "GameStop Prices Refurbished PS5 Pros Higher Than New Units",
-  "summary": "GameStop is selling refurbished PS5 Pro consoles for 50% more than the price of a brand new unit.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/gamestop-playstation-5-ps5-pro-price-change-preowned-refurbished/"
- },
- {
-  "date": "2026-10-06T12:44:50.630564+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "AI-Generated Browser Version of GTA 5 Briefly Goes Live",
-  "summary": "A browser-playable version of GTA 5 created using AI tools was briefly online before being pulled down.",
-  "verified": "reliable_reporter",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/gta-5-made-playable-in-browser-as-ai-generated-game-chaos-continues"
- },
- {
-  "date": "2026-10-06T12:44:50.630564+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "update",
-  "headline": "Meta Tests Reels-First Facebook UX in India",
-  "summary": "Meta is testing a new Reels-first full-screen video user interface for the Facebook app in India.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/"
- },
- {
-  "date": "2026-10-06T12:44:50.630564+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "OpenAI Agents Reportedly Target Wikipedia Tools",
-  "summary": "Reports indicate OpenAI AI agents attempted to hack Wikipedia tools and generated excessive traffic.",
-  "verified": "reliable_reporter",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
- },
- {
-  "date": "2026-10-06T12:44:50.630564+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "VMware Users Explore Alternatives Due to High Licensing Costs",
-  "summary": "A survey reveals that high licensing costs are driving 90 percent of VMware users to explore alternative options.",
-  "verified": "reliable_reporter",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/"
- },
- {
-  "date": "2026-10-06T12:44:50.630564+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "France Appoints First Academy Awards Season Tzar",
-  "summary": "France's National Cinema Centre has appointed S\u00e9bastien Cauchon as its first dedicated Academy Awards liaison for the 99th Oscars season.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/france-appoints-academy-awards-season-tzar-1237147745/"
- },
- {
-  "date": "2026-10-06T12:44:50.630564+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Star-Studded Cast Revealed for Apple TV's The Choir",
-  "summary": "Hannah Waddingham, James McAvoy, and Jim Broadbent are set to guest star in James Corden and Ruth Jones' upcoming Apple TV series The Choir.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/corden-jones-the-choir-apple-cast-hannah-waddingham-1237147052/"
- },
- {
-  "date": "2026-10-06T12:44:50.630564+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Star Wars: Galactic Racer Now Free",
-  "summary": "Star Wars: Galactic Racer is officially available for free to millions of gamers starting today.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-wars-galactic-racer-free-luna-members/"
- },
- {
-  "date": "2026-10-06T12:44:50.630564+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "New Era Begins for Spider-Man",
-  "summary": "Spider-Man: Brand New Day begins a new era following Tom Holland's fourth MCU solo film losing an exclusive element.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/spiderman-brand-new-day-digital-new-era/"
- },
- {
-  "date": "2026-10-06T12:44:50.630564+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Pride and Prejudice and Zombies Hits Netflix",
-  "summary": "The unique zombie-infused adaptation of Jane Austen\u2019s Pride and Prejudice officially arrives on Netflix today.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/pride-and-prejudice-and-zombies-netflix-movie-arrival/"
- },
- {
-  "date": "2026-10-06T12:44:50.630564+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "First Reactions Drop for Whalefall",
-  "summary": "The first official reactions have arrived for Austin Abrams' survival thriller movie Whalefall.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/austin-abrams-whalefall-first-reactions/"
- },
- {
   "date": "2026-10-06T13:06:28.188827+00:00",
   "topic": "Gaming News",
   "score": 9,
@@ -23142,5 +22999,148 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/marvel-new-x-force-leader-murant/"
+ },
+ {
+  "date": "2026-10-09T12:46:15.093876+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "Apple Cuts iPhone 18 Pro Production Following Soft Demand",
+  "summary": "Apple has reportedly reduced production orders for the iPhone 18 Pro and Pro Max due to lower-than-expected consumer demand following a price hike.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/09/report-apple-cuts-iphone-18-pro-production-due-to-soft-demand/"
+ },
+ {
+  "date": "2026-10-09T12:46:15.093876+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "Supply Chain Reports Reveal iPhone 18 Pro Production Cuts",
+  "summary": "Suppliers have been asked to scale back iPhone 18 Pro component manufacturing as higher prices dampen initial sales demand.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/09/apple-cuts-iphone-18-pro-orders-price-demand/"
+ },
+ {
+  "date": "2026-10-09T12:46:15.093876+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Sources Confirm iPhone 18 Pro Production Order Reductions",
+  "summary": "Supply chain sources confirm reports that Apple has trimmed production orders for the iPhone 18 Pro due to weaker demand.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/09/right-on-schedule-sources-claim-iphone-18-pro-orders-have-been-cut?utm_source=rss"
+ },
+ {
+  "date": "2026-10-09T12:46:15.093876+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "EA Sports FC 27 Review Highlights New Social Hub",
+  "summary": "EA Sports FC 27 launches with a new online social hub mode called The Grounds.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/ea-sports-fc-27-review"
+ },
+ {
+  "date": "2026-10-09T12:46:15.093876+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Nivalis Nights Combines Cyberpunk with Cozy Management",
+  "summary": "Nivalis Nights blends cyberpunk aesthetics with management gameplay reminiscent of Dave the Diver and Stardew Valley.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/nivalis-nights-now-playing"
+ },
+ {
+  "date": "2026-10-09T12:46:15.093876+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Anbernic Reveals New Dual-Screen Handheld",
+  "summary": "Anbernic has revealed a new 3DS-inspired clamshell handheld called the RG DDS.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/hardware/handhelds/anbernic-is-double-dipping-into-dual-screen-handhelds-with-a-new-3ds-clone/"
+ },
+ {
+  "date": "2026-10-09T12:46:15.093876+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Webb Telescope Traces Farthest Fast Radio Burst to Distant Galaxy",
+  "summary": "Astronomers used the Webb telescope to identify the distant galaxy origin of a fast radio burst.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2282035/webb-telescope-detects-galaxy-origin-of-the-farthest-fast-radio-burst-weve-seen-to-date/"
+ },
+ {
+  "date": "2026-10-09T12:46:15.093876+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Volkswagen Unveils New EV Crossover \ud83d\ude97\u26a1",
+  "summary": "Volkswagen reveals its new electric crossover featuring a customizable digital cockpit.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/"
+ },
+ {
+  "date": "2026-10-09T12:46:15.093876+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Anne Hathaway Defends Tom Cruise's Digger",
+  "summary": "Anne Hathaway speaks out in defense of Tom Cruise's recent box office bomb, Digger.",
+  "verified": "reliable_reporter",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2282039/anne-hathaway-defends-tom-cruise-digger-box-office-flop/"
+ },
+ {
+  "date": "2026-10-09T12:46:15.093876+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Cyberpunk 2077 Coming to Cinemas",
+  "summary": "Paramount announces plans to adapt the video game Cyberpunk 2077 into a live-action cinema release.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x1kauq/from_video_game_to_hollywood_paramount_to_bring/"
+ },
+ {
+  "date": "2026-10-09T12:46:15.093876+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Anya Taylor-Joy's Sci-Fi Thriller Finds New Life on Streaming",
+  "summary": "Anya Taylor-Joy's sci-fi thriller is finding new life on streaming after underperforming at the box office.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/anya-taylor-joy-furiosa-streaming-success-hbo-max-october-2026/"
+ },
+ {
+  "date": "2026-10-09T12:46:15.093876+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Official Batman Knightfall Part 2 Poster Released",
+  "summary": "An official poster for Batman Knightfall Part 2 created by Kelley Jones has been released.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x1k929/batman_knightfall_part_2_official_poster_by/"
+ },
+ {
+  "date": "2026-10-09T12:46:15.093876+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Classic Pok\u00e9mon Generation 3 Returns in February 2027 Collection",
+  "summary": "Pok\u00e9mon Ruby, Sapphire, and Emerald merchandise and collection details point to a February 2027 release window.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/pokemon-ruby-sapphire-emerald-new-collection-february-2027/"
  }
 ]
