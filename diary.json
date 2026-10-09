@@ -1,148 +1,5 @@
 [
  {
-  "date": "2026-10-06T10:39:34.168410+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Boosts iCloud+ Email Alias Limit",
-  "summary": "Apple has quietly increased the maximum number of iCloud Mail aliases that iCloud+ subscribers can create.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/06/apple-quietly-icloud-plus-email-feature/"
- },
- {
-  "date": "2026-10-06T10:39:34.168410+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "business",
-  "headline": "Halo Studios Details Scrapped Story Plans Following Activision Transition",
-  "summary": "Halo Studios shares details on scrapped narrative plans as the franchise transitions to Activision's oversight.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/halo-studios-teases-new-race-aliens"
- },
- {
-  "date": "2026-10-06T10:39:34.168410+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Valor Mortis Launches Day One on Xbox Game Pass and PS Plus",
-  "summary": "The first-person soulslike Valor Mortis is launching on PS Plus with a free trial and coming to Xbox Game Pass on day one.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/valor-mortis-game-pass-playstation-plus-trial/"
- },
- {
-  "date": "2026-10-06T10:39:34.168410+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Ubisoft Teases Potential Watch Dogs Remake After Six-Year Hiatus",
-  "summary": "Ubisoft acknowledges that the Watch Dogs franchise could potentially be remade in the future despite six years of inactivity.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/action/watch-dogs-will-be-potentially-remade-someday-ubisoft-ceo-says-as-the-series-goes-6-years-without-a-release-an-important-brand-for-the-future/"
- },
- {
-  "date": "2026-10-06T10:39:34.168410+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Industry Expert Discusses Fan Reactions to GTA 6 and Nintendo Legacy",
-  "summary": "Industry experts discuss the monumental clash between GTA 6 and gaming classics, noting fan reactions to upcoming releases.",
-  "verified": "unconfirmed",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-faces-off-against-zelda-ocarina-of-time-remake-expert-says-nintendo-is-the-only-company-in-the-industry-with-a-fanbase-loyal-enough-to-make-that-bet-against-rockstar/"
- },
- {
-  "date": "2026-10-06T10:39:34.168410+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "YMTC Raises Chip Prices and Shifts Production",
-  "summary": "China's YMTC has raised memory chip prices and shifted capacity to higher-margin products, projecting ongoing shortages until 2029.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wyydlf/chinas_ymtc_has_raised_prices_for_its_memory/"
- },
- {
-  "date": "2026-10-06T10:39:34.168410+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "ASOS Suffers Major Security Breach",
-  "summary": "ASOS suffered a security breach involving its Snowflake instance, with threat actors sending direct extortion messages to customers and IT staff.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wyyac8/asos_have_been_hacked_and_a_threat_was_sent_to/"
- },
- {
-  "date": "2026-10-06T10:39:34.168410+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Hi-Dolphin Expands Global Robot Cafe Push",
-  "summary": "Hi-Dolphin is pushing its automated robotic cafes globally, promising coffee preparation in just 58 seconds.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wyxidv/coffee_in_58_seconds_inside_hidolphins_global/"
- },
- {
-  "date": "2026-10-06T10:39:34.168410+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "AMD Expands Taiwan Supply Chain Investment",
-  "summary": "AMD CEO Lisa Su announced plans to expand the company's supply chain investments in Taiwan amid surging chip demand.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wyx972/amd_to_expand_taiwan_supply_chain_investment_as/"
- },
- {
-  "date": "2026-10-06T10:39:34.168410+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Norwegian Financial Firm Cuts 400 Jobs for Agentic AI",
-  "summary": "Norway's largest financial services group is cutting 400 positions as it replaces human workers with agentic AI.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wyx0z0/norways_largest_financial_services_group_cuts_400/"
- },
- {
-  "date": "2026-10-06T10:39:34.168410+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Warner Bros. CEO Bids Farewell Ahead of Merger",
-  "summary": "Warner Bros. CEO David Zaslav bids farewell to employees in a video message ahead of the impending Skydance merger close.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wywvts/ceo_david_zaslav_bids_farewell_to_warner_bros/"
- },
- {
-  "date": "2026-10-06T10:39:34.168410+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "OpenAI Grilled Over Rogue Agents in Australia",
-  "summary": "OpenAI executives faced tough questioning regarding rogue AI agents during an inquiry in Australia.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wyutwx/openai_grilled_over_rogue_agents_by_australian/"
- },
- {
-  "date": "2026-10-06T10:39:34.168410+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Sydney Sweeney's Thriller Sets HBO Max Release Date",
-  "summary": "The Housemaid, starring Sydney Sweeney and Amanda Seyfried, officially sets its HBO Max streaming debut for October 9.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/the-housemaid-streaming-on-hbo-max-october-9-2026/"
- },
- {
   "date": "2026-10-06T11:05:06.574801+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -23142,5 +22999,93 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/steam-free-horror-game-pony-island-october-2026/"
+ },
+ {
+  "date": "2026-10-09T10:41:09.163827+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "PUBG Mobile Releases Pumpkin-Themed Update",
+  "summary": "PUBG MOBILE rolls out a themed Brainrot Royale Pumpkin update with new content.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/everything-to-know-about-the-pubg-mobile-brainrot-royale-pumpkin-themed-update"
+ },
+ {
+  "date": "2026-10-09T10:41:09.163827+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "The Witcher 3 Remastered Gets Graphics Patch",
+  "summary": "The Witcher 3 Remastered receives a quick new patch addressing highly requested graphics fixes.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/the-witcher-3-wild-hunt-remastered-update-patch-notes-bloom-remove/"
+ },
+ {
+  "date": "2026-10-09T10:41:09.163827+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "FF7 Revelation Director Fought For Disc Release",
+  "summary": "Final Fantasy 7 Revelation director Naoki Hamaguchi states he tried his best to push for a full physical disc release.",
+  "verified": "reliable_reporter",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media"
+ },
+ {
+  "date": "2026-10-09T10:41:09.163827+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Sony In Talks For Battlefield Movie Adaptation",
+  "summary": "Sony is reportedly in talks to adapt Battlefield into a movie with Christopher McQuarrie and Michael B. Jordan.",
+  "verified": "reliable_reporter",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan"
+ },
+ {
+  "date": "2026-10-09T10:41:09.163827+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "New WoW Dungeon Sparks Debate Among Fans",
+  "summary": "World of Warcraft: Forever introduces a new dungeon that breaks some traditional MMO conventions.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/world-of-warcraft/new-world-of-warcraft-forever-dungeon-commits-one-of-the-mmos-biggest-no-nos/"
+ },
+ {
+  "date": "2026-10-09T10:41:09.163827+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Cyberpunk 2077 Movie Stirs Casting Interest",
+  "summary": "CD Projekt Red is enthusiastic about a Cyberpunk 2077 movie as actors campaign for roles.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/live-action-movies/cd-projekt-red-boss-is-excited-about-working-with-paramount-on-the-cyberpunk-2077-movie-and-one-star-is-already-trying-to-join-the-cast/"
+ },
+ {
+  "date": "2026-10-09T10:41:09.163827+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "\u26a1 Brabus Drops $50K Fragment Design Electric Moto \ud83c\udfcd\ufe0f",
+  "summary": "Brabus collaborated with Fragment Design to create the Urban E, a strictly limited $50,000 electric motorcycle.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811327/brabus-urban-e-fragment-edition/"
+ },
+ {
+  "date": "2026-10-09T10:41:09.163827+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Major Blockbuster Officially Lands on Apple TV Today!",
+  "summary": "A major blockbuster movie is officially making its streaming debut on Apple TV.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/john-cena-matchbox-the-movie-release-date-apple-tv-october-2026/"
  }
 ]
