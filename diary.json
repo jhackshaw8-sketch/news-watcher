@@ -1,148 +1,5 @@
 [
  {
-  "date": "2026-10-07T21:04:46.297926+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Apple Home Expands With New Second-Party Accessories",
-  "summary": "Apple is expanding its smart home ecosystem with new second-party accessories in partnership with companies like LG and Schneider.",
-  "verified": "reliable_reporter",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/07/apple-home-second-party-partnerships-include-more-than-just-lg?utm_source=rss"
- },
- {
-  "date": "2026-10-07T21:04:46.297926+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple and The King\u2019s Trust Launch Creative Empowerment Initiative",
-  "summary": "Apple and The King\u2019s Trust have launched a new education program to support young creatives in entering the workforce.",
-  "verified": "official",
-  "source": "Apple Newsroom",
-  "link": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/"
- },
- {
-  "date": "2026-10-07T21:04:46.297926+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Leak Teases Broader Lineup of Apple Home Second-Party Accessories",
-  "summary": "A new leak reveals that Apple's upcoming second-party smart home accessories developed with LG may be more extensive than initially expected.",
-  "verified": "unconfirmed",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/07/apples-new-second-party-accessories-for-home-are-bigger-than-we-thought-per-leak/"
- },
- {
-  "date": "2026-10-07T21:04:46.297926+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Nous Research Hits $1.5B Valuation and Launches Enterprise AI Agents",
-  "summary": "AI startup Nous Research secured a $90 million Series B round, achieving a $1.5 billion valuation and launching new enterprise AI agents.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
- },
- {
-  "date": "2026-10-07T21:04:46.297926+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "Mitsubishi's New EV Eclipse Debuts Priced Near $40K \u26a1\ud83d\ude97",
-  "summary": "Mitsubishi's new badge-engineered Eclipse Sportback EV launches with a starting price near $40,000.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/mitsubishi-eclipse-sportback-pricing/"
- },
- {
-  "date": "2026-10-07T21:04:46.297926+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "GuadaLAjara Film Festival Announces Official 2024 Lineup and Dates",
-  "summary": "The GuadaLAjara Film Festival announced its full lineup and dates of Nov. 5-7 for its upcoming event in Los Angeles.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/film/news/guadalajara-film-festival-2026-1236903838/"
- },
- {
-  "date": "2026-10-07T21:04:46.297926+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Aerosmith Announces Comeback Concert Dates at the Hollywood Bowl",
-  "summary": "Aerosmith announced a pair of comeback concerts scheduled for October 29 and November 1 at the Hollywood Bowl.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/aerosmith-comeback-concerts-hollywood-bowl-1237149373/"
- },
- {
-  "date": "2026-10-07T21:04:46.297926+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Newport Beach Film Festival Sets Dates and Announces Actor to Watch Lineup",
-  "summary": "The Newport Beach Film Festival announced its dates of Oct. 15-22 and its upcoming lineup of films and actor spotlights.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/lists/10-actors-to-watch-2026-jaafar-jackson-inde-navarrette/"
- },
- {
-  "date": "2026-10-07T21:04:46.297926+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Hulu Drama 'Conviction' Adds Major Cast Members",
-  "summary": "Hulu's drama series 'Conviction' has added Michael Gaston, F. Murray Abraham, and Peter Friedman to its recurring cast.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/hulu-series-conviction-cast-michael-gaston-f-murray-abraham-1237148794/"
- },
- {
-  "date": "2026-10-07T21:04:46.297926+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Aerosmith Reveals Star-Studded Lineup for Hollywood Bowl Comeback Shows",
-  "summary": "Aerosmith announced a star-packed lineup of guest performers including Slash, Billy Idol, and RUN DMC for their Hollywood Bowl return.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/aerosmith-hollywood-bowl-concert-1237149367/"
- },
- {
-  "date": "2026-10-07T21:04:46.297926+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Skydance Stock Faces Early Struggles in NYSE Debut",
-  "summary": "Skydance shares experienced a downturn in their initial days of trading on the NYSE following a corporate merger.",
-  "verified": "reliable_reporter",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/skydance-stock-strugges-in-first-days-of-trading-1237149245/"
- },
- {
-  "date": "2026-10-07T21:04:46.297926+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Prime Video Debuts New Hit Zombie Streaming Series",
-  "summary": "Prime Video's new zombie series has rapidly climbed streaming charts upon its release.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/i-would-rather-die-prime-video-streaming-success-october-2026/"
- },
- {
-  "date": "2026-10-07T21:04:46.297926+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Star Details Character Reinventions in Mike Flanagan's Carrie Series",
-  "summary": "Star Amber Midthunder explained how Mike Flanagan's upcoming Carrie series will reinvent key characters.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/mike-flanagan-carrie-series-stephen-king-rita-desjardin-reinvention-amber-midthunder/"
- },
- {
   "date": "2026-10-07T21:39:41.550710+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -20348,5 +20205,93 @@
   "verified": "official",
   "source": "Variety Film",
   "link": "https://variety.com/2026/film/awards/project-hail-mary-daniel-pemberton-kpop-demon-hunters-ejae-1236907618/"
+ },
+ {
+  "date": "2026-10-10T21:38:30.467095+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "Arc Raiders 2.0 Update Drives Massive Player Surge",
+  "summary": "The Arc Raiders 2.0 update introduces a new map and grappling hook, driving player counts to a seven-month high.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/arc-raiders-20-update-and-spider-man-grappling-hook-drive-player-count-to-reach-7-month-high"
+ },
+ {
+  "date": "2026-10-10T21:38:30.467095+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Mike Flanagan Joins Henry Cavill's Warhammer 40K Series",
+  "summary": "Prime Video's Warhammer 40K series starring Henry Cavill has tapped horror director Mike Flanagan for adaptation.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/warhammer-40k-tv-series-henry-cavill-mike-flanagan/"
+ },
+ {
+  "date": "2026-10-10T21:38:30.467095+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Quirky GAC Aion V Impresses With Incredible Value \ud83d\ude99\ud83d\udca8",
+  "summary": "A comprehensive review highlights that the quirky GAC Aion V offers exceptional value for money.",
+  "verified": "reliable_reporter",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/gac-aion-v-review-odd-looks-incredible-value/"
+ },
+ {
+  "date": "2026-10-10T21:38:30.467095+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "other",
+  "headline": "Stunning Pagani Zonda Nero Spotlight \u2728\ud83c\udfce\ufe0f",
+  "summary": "A stunning photo of the rare Pagani Zonda Nero is shared for automotive enthusiasts.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x2n65w/pagani_zonda_nero_1561x_1118/"
+ },
+ {
+  "date": "2026-10-10T21:38:30.467095+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "The Witcher 3 Smashes Steam Record With Remastered Upgrade",
+  "summary": "The Witcher 3 sets a new Steam record with over 137,000 concurrent players following its free Remastered upgrade.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/witcher-3-remastered-steam-player-record/"
+ },
+ {
+  "date": "2026-10-10T21:38:30.467095+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Nicolas Cage Clarifies National Treasure 3 Status",
+  "summary": "Nicolas Cage has officially addressed his potential involvement in the long-discussed 'National Treasure 3'.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/national-treasure-3-nicolas-cage-return-clarified/"
+ },
+ {
+  "date": "2026-10-10T21:38:30.467095+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Naruto Anime Confirms Production And First Look",
+  "summary": "The Naruto franchise has officially confirmed production and provided a first look at a brand-new anime project.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/naruto-ninku-new-anime-reveal-nycc/"
+ },
+ {
+  "date": "2026-10-10T21:38:30.467095+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "update",
+  "headline": "Keanu Reeves' Constantine 2 Gets Major Update",
+  "summary": "Keanu Reeves' 'Constantine 2' has received a major and long-awaited production update after 21 years.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/keanu-reeves-constantine-2-dc-update-fans-wish-return/"
  }
 ]
