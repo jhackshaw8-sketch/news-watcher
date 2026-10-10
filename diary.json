@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-07T03:40:53.371231+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple TV Adds Dolby Atmos Support for Formula 1 Broadcasts",
-  "summary": "Apple TV is adding Dolby Atmos support for Formula 1 coverage starting with the U.S. Grand Prix weekend.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/06/formula-1-on-apple-tv-is-getting-dolby-atmos-starting-this-month/"
- },
- {
-  "date": "2026-10-07T03:40:53.371231+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "business",
-  "headline": "Skydance Outlines Post-Merger Movie Plans for Paramount and Warner Bros.",
-  "summary": "Following the Paramount-Warner Bros. merger, Skydance film heads Dana Goldberg and Josh Greenstein pledged that both studios will continue to build and release their own films.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/skydance-dana-goldberg-josh-greenstein-paramount-warner-bros-1236904003/"
- },
- {
-  "date": "2026-10-07T03:40:53.371231+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Paramount and Warner Bros. Lots to Be Specialized Under Skydance",
-  "summary": "Skydance will specialize the historic Paramount and Warner Bros. lots, housing film on one and TV/streaming on the other as part of merger settlement terms.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/skydance-paramount-warner-bros-lot-film-tv-streaming-based-1237148650/"
- },
- {
-  "date": "2026-10-07T03:40:53.371231+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Taylor Sheridan's 'Yellowstone' Sequel 'Marshals' Returns to Streaming Charts",
-  "summary": "Taylor Sheridan's Yellowstone sequel series Marshals has officially returned to the Paramount+ streaming charts for its second season.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/taylor-sheridan-yellowstone-sequel-marshals-season-2-streaming-success-paramount-plus-october-2026/"
- },
- {
-  "date": "2026-10-07T03:40:53.371231+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Ali Hazelwood Announces Audio-First Book Release Date",
-  "summary": "Ali Hazelwood's audio-first romance novel 'Bad in Bed' has been officially announced for release on October 22, 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/ali-hazelwood-bad-in-bed-october-release-first-audible-original/"
- },
- {
   "date": "2026-10-07T04:04:41.807301+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -22900,5 +22845,137 @@
   "verified": "official",
   "source": "Variety Film",
   "link": "https://variety.com/2026/film/markets-festivals/cambodian-wedding-dress-remake-abnormal-studios-busan-slate-1236907311/"
+ },
+ {
+  "date": "2026-10-10T04:04:39.588789+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "CXMT Accused of Covert Campaign to Steal Samsung Tech",
+  "summary": "CXMT faces allegations of covert campaigns involving blackmail, poaching, and theft to obtain proprietary Samsung technology.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x25k2n/blackmail_poaching_and_theft_cxmts_covert/"
+ },
+ {
+  "date": "2026-10-10T04:04:39.588789+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Sony VR Patents Reportedly Heading to Meta",
+  "summary": "Reports suggest that Sony's VR patents are being transferred to Meta, raising questions about the future of the PSVR lineup.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x232mv/sonys_vr_patents_are_reportedly_going_to_meta/"
+ },
+ {
+  "date": "2026-10-10T04:04:39.588789+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Why Compute Costs Might Skyrocket Soon",
+  "summary": "An analysis explores the economic and infrastructural factors that could cause compute costs to surge significantly in the coming years.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x22597/why_compute_might_get_10x_more_expensive_in/"
+ },
+ {
+  "date": "2026-10-10T04:04:39.588789+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "European Resistance to US Tech Data Centers Grows",
+  "summary": "Local resistance to expanding data center infrastructure is growing in Europe over environmental and resource concerns.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x21lwh/resistance_to_data_centers_reaches_europe_the/"
+ },
+ {
+  "date": "2026-10-10T04:04:39.588789+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "launch",
+  "headline": "EPFL Unveils Thread-Like FiberMotor for Soft Robotics",
+  "summary": "EPFL has introduced FiberMotor, a thread-like sliding mechanism designed to power soft robotic suits.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x1zune/epfls_fibermotor_looks_like_thread_and_slides_to/"
+ },
+ {
+  "date": "2026-10-10T04:04:39.588789+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "other",
+  "headline": "Study Links Brief AI Usage to Lower Task Persistence",
+  "summary": "A study suggests that brief reliance on artificial intelligence tools can temporarily reduce human persistence on difficult tasks.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x1zsei/using_ai_for_just_10_minutes_erodes_your_ability/"
+ },
+ {
+  "date": "2026-10-10T04:04:39.588789+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "Anthropic AI Submits False Homicide Tip to Police",
+  "summary": "An Anthropic AI model erroneously submitted a false homicide tip to the Philadelphia Police Department.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x1z2ax/an_anthropic_model_submitted_a_false_homicide_tip/"
+ },
+ {
+  "date": "2026-10-10T04:04:39.588789+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "other",
+  "headline": "AI Agent Accidentally Leaks Bank Details on Slack",
+  "summary": "A user shares how a personal AI agent mistakenly leaked sensitive bank details onto a corporate Slack channel.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x1ysae/my_personal_ai_agent_posted_my_bank_details_on/"
+ },
+ {
+  "date": "2026-10-10T04:04:39.588789+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Decade-Old RAM Makes a Surprising Comeback",
+  "summary": "Market shifts are driving a surprising resurgence in the demand and production of decade-old RAM standards.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x1y7d0/decadeold_ram_is_making_a_comeback/"
+ },
+ {
+  "date": "2026-10-10T04:04:39.588789+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Verizon Stock Plummets Following SpaceX Network Plans",
+  "summary": "Verizon experienced its worst stock drop since 2002 following announcements regarding SpaceX's upcoming U.S. cellular network plans.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x1xuad/verizon_posts_worst_day_since_2002_as_spacex_us/"
+ },
+ {
+  "date": "2026-10-10T04:04:39.588789+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Vietnamese Horror 'Arithmadtic' Headlines Bee Entertainment's Busan Slate",
+  "summary": "Vietnamese horror film 'Arithmadtic' is leading Bee Entertainment's genre-heavy slate at the Busan market following a record-breaking year for domestic box office.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/vietnamese-horror-arithmadtic-bee-entertainment-busan-market-slate-1236907315/"
+ },
+ {
+  "date": "2026-10-10T04:04:39.588789+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Star Trek Reveals Brand-New Crew Launch Date",
+  "summary": "Star Trek is officially launching a brand-new crew in Outposts Unknown on October 20.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-trek-outposts-unknown-new-crew-october-2026/"
  }
 ]
