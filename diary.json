@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-07T12:47:55.373240+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Intel Macs Dropped From New Magic Accessories Compatibility",
-  "summary": "Apple has officially dropped Intel-based Macs from the compatibility lists for the newly updated Magic Mouse and Magic Trackpad.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/07/apple-drops-intel-macs-for-magic-mouse-trackpad/"
- },
- {
-  "date": "2026-10-07T12:47:55.373240+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Proposed EU Tech Tax Faces Internal and US Opposition",
-  "summary": "The European Union's proposed tax hike on Big Tech companies is facing strong resistance both from the United States and from several EU member states.",
-  "verified": "reliable_reporter",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/07/eu-big-tech-tax-hike-faces-opposition-not-just-from-us-but-at-home-too?utm_source=rss"
- },
- {
-  "date": "2026-10-07T12:47:55.373240+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Apple Awaiting Samsung Tech for Bezel-Free iPhone Displays",
-  "summary": "A leak claims that Apple is waiting on Samsung to develop advanced bezel-free OLED display technology for future iPhones.",
-  "verified": "unconfirmed",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/07/apple-samsung-ultimate-bezel-free-iphone-display/"
- },
- {
-  "date": "2026-10-07T12:47:55.373240+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Disney Lorcana's Hyperia City Expansion Hands-On",
-  "summary": "Hands-on impressions reveal new Pixar characters from the Coco franchise coming to the Disney Lorcana TCG Hyperia City expansion.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/disney-lorcana-tcgs-hyperia-city-expansion-first-hands-on-impressions"
- },
- {
-  "date": "2026-10-07T12:47:55.373240+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "AI-Generated Minecraft Clone Launches Inside X With Multiplayer",
-  "summary": "An AI-generated clone of Minecraft has been made playable directly inside X with working multiplayer and crypto sponsorships.",
-  "verified": "reliable_reporter",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/someone-used-ai-to-make-minecraft-playable-inside-twitter-with-working-multiplayer-and-immediately-sold-sponsorships-via-crypto"
- },
- {
-  "date": "2026-10-07T12:47:55.373240+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Doctor Who Announces New Protagonist for February 2027 Return",
-  "summary": "Doctor Who is officially set to introduce a brand new protagonist replacing the Doctor in its February 2027 return.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/doctor-who-stormcage-doctor-replacement-2027/"
- },
- {
-  "date": "2026-10-07T12:47:55.373240+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Percy Jackson TV Series Set to Enter New Era in Two Months",
-  "summary": "The Percy Jackson television series is officially entering a major new era in just two months.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/percy-jackson-and-the-olympians-season-3-book-never-adapted/"
- },
- {
   "date": "2026-10-07T13:09:47.857778+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -22240,5 +22163,137 @@
   "verified": "official",
   "source": "Variety Film",
   "link": "https://variety.com/2026/film/global/under-siege-netflix-second-most-ambitious-series-bows-nov-6-1236906083/"
+ },
+ {
+  "date": "2026-10-10T13:05:44.395545+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Apple Gears Up for Major October Product Launches and Events",
+  "summary": "Apple is preparing for a busy October featuring multiple product debuts and upcoming iPhone launches.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/10/top-stories-apple-welcome-home-launch-october-13/"
+ },
+ {
+  "date": "2026-10-10T13:05:44.395545+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Silent Hill Producer Teases Future Waves of Games",
+  "summary": "The Silent Hill producer stated that future waves of games in the franchise are already being considered.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x2e9v1/silent_hill_producer_says_second_and_third_wave/"
+ },
+ {
+  "date": "2026-10-10T13:05:44.395545+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Modders Enable PS2 Disc Playback on PS5",
+  "summary": "Modders successfully enabled the PS5 to play original PS2 discs, a native feature missing from the console.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x2e601/modders_make_ps5_play_original_ps2_discs_a/"
+ },
+ {
+  "date": "2026-10-10T13:05:44.395545+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Jay and Silent Bob\u2019s Joint Venture Official Trailer Released",
+  "summary": "An official trailer for Jay and Silent Bob\u2019s Joint Venture was released at NYCC 2026.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x2dbpu/jay_and_silent_bobs_joint_venture_official/"
+ },
+ {
+  "date": "2026-10-10T13:05:44.395545+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "ECC: REDLINE Official Gameplay Showcase Drops",
+  "summary": "An official gameplay showcase for ECC: REDLINE has been released.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x2c5qz/ecc_redline_official_gameplay_showcase/"
+ },
+ {
+  "date": "2026-10-10T13:05:44.395545+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "LG Enters the RGB LED TV Market with New 75-Inch Model",
+  "summary": "LG has released its new $3,600 75-inch Micro RGB evo MRGB95B TV as part of the growing 2026 RGB LED TV trend.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review"
+ },
+ {
+  "date": "2026-10-10T13:05:44.395545+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "OpenAI Unveils Dots AI Agent and Promises New Privacy Standards",
+  "summary": "OpenAI announced its new AI agent Dots at DevDay, promising a new privacy standard while taking shots at Meta's Muse.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+ },
+ {
+  "date": "2026-10-10T13:05:44.395545+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Rwanda Makes Historic First Oscar Submission with 'Ben\u2019Imana'",
+  "summary": "Director Marie-Cl\u00e9mentine Dusabejambo discusses her acclaimed film Ben\u2019Imana being selected as Rwanda\u2019s first-ever Oscar submission.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/marie-clementine-dusabejambo-rwanda-oscar-submission-benimana-1237153895/"
+ },
+ {
+  "date": "2026-10-10T13:05:44.395545+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Russell Crowe's Netflix Thriller Ranks Among 2026's Biggest Hits",
+  "summary": "Russell Crowe's latest Netflix thriller is officially certified as one of the biggest streaming hits of 2026.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/netflix-russell-crowe-thriller-unabomber-streaming-success-october-2026/"
+ },
+ {
+  "date": "2026-10-10T13:05:44.395545+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Go Behind the Scenes of the Spinosaurus VFX in 'The End of Oak Street'",
+  "summary": "Warner Bros. released a behind-the-scenes featurette showing the creation of the Spinosaurus sequence for The End of Oak Street.",
+  "verified": "official",
+  "source": "Warner Bros (trailers)",
+  "link": "https://www.youtube.com/watch?v=oyuxrYRGTgs"
+ },
+ {
+  "date": "2026-10-10T13:05:44.395545+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "'Project Hail Mary' Was the Most Challenging Shoot of Greig Fraser's Career",
+  "summary": "Cinematographer Greig Fraser revealed that Phil Lord and Christopher Miller's Project Hail Mary was the most complicated film he has ever shot.",
+  "verified": "reliable_reporter",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/project-hail-mary-dop-greig-fraser-film-most-complicated-1237153911/"
+ },
+ {
+  "date": "2026-10-10T13:05:44.395545+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Lego Announces Marvel and Star Wars Crossover Set",
+  "summary": "Lego announced its first-ever fan-designed crossover set combining Marvel and Star Wars universes at New York Comic Con.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/shopping/news/lego-marvel-star-wars-lego-ideas-set-nycc-1236906728/"
  }
 ]
