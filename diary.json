@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-07T08:05:59.368811+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "3,000-HP Mustang's Wild 228 MPH Blowout \ud83d\udca8\ud83c\udfce\ufe0f",
-  "summary": "A 3,000-horsepower Mustang nicknamed Snot Rocket suffered a terrifying tire blowout at 228 mph after a strong run at FL2K.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/3000-hp-mustang-blows-a-tire-at-228-mph/"
- },
- {
-  "date": "2026-10-07T08:05:59.368811+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "legal",
-  "headline": "Trump Opens Highways To Tax Free Red Diesel \u26fd",
-  "summary": "A new executive order allows highway vehicles to legally use tax-free red diesel through 2026.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811013/trump-red-diesel-highway-order/"
- },
- {
-  "date": "2026-10-07T08:05:59.368811+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Abundantia Entertainment Spins Off AI Division Into Standalone Studio",
-  "summary": "Abundantia Entertainment is spinning off its AI creative division, AiOn, into a standalone studio focused on AI-generated content.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/abundantia-entertainment-ai-creative-arm-studio-1237147643/"
- },
- {
   "date": "2026-10-07T08:41:37.404645+00:00",
   "topic": "Gaming News",
   "score": 8,
@@ -22724,5 +22691,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/star-trek-deep-space-nine-peacemakers-sequel-release/"
+ },
+ {
+  "date": "2026-10-10T08:39:48.359720+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "London Contenders Event Showcases Buzzy Awards-Season Movies",
+  "summary": "Deadline's Contenders Film event in London kicks off, showcasing a dozen buzzy awards-season movies for 2026.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/contenders-film-london-2026-lineup-panelists-1237147102/"
+ },
+ {
+  "date": "2026-10-10T08:39:48.359720+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Acclaimed Sci-Fi Sequel Lands on New Streaming Home",
+  "summary": "Ridley Scott's acclaimed sci-fi sequel has officially landed on a new streaming platform.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/ridley-scott-blade-runner-2049-prime-video-streaming-october-2026/"
  }
 ]
