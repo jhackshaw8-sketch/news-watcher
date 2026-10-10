@@ -1,170 +1,5 @@
 [
  {
-  "date": "2026-10-07T11:05:31.971324+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple TV Adds Dolby Atmos to Formula 1 Broadcasts",
-  "summary": "Apple TV is set to add Dolby Atmos support for Formula 1 broadcasts starting with the US Grand Prix in October 2026.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/07/formula-1-gains-dolby-atmos-starting-with-the-us-grand-prix?utm_source=rss"
- },
- {
-  "date": "2026-10-07T11:05:31.971324+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Kingdom Come 2 Developer Rejects Generative AI",
-  "summary": "Warhorse Studios boss states that using AI to replace developers is a fundamentally flawed idea.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/rpg/kingdom-come-deliverance-2-boss-says-using-ai-to-replace-devs-is-a-fundamentally-flawed-idea-but-admits-it-could-help-us-get-bigger-games-for-the-same-cost/"
- },
- {
-  "date": "2026-10-07T11:05:31.971324+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "Ultrahuman Adds On-Demand Heart Rhythm Scans",
-  "summary": "Ultrahuman introduces on-demand heart rhythm scans for real-time AFib detection on its wearable devices.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2278463/ultrahuman-on-demand-afib-heart-rhythm-scan/"
- },
- {
-  "date": "2026-10-07T11:05:31.971324+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "legal",
-  "headline": "EU Politicians Targeted by Deepfake Porn Report",
-  "summary": "A new report reveals that 50 members of the European Parliament have been targeted by deepfake porn.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wztchw/50_members_of_european_parliament_targeted_by/"
- },
- {
-  "date": "2026-10-07T11:05:31.971324+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Microsoft & NVIDIA Leaders Headline Windows Event",
-  "summary": "Microsoft hosts a major Windows and Surface event featuring appearances from CEO Satya Nadella and NVIDIA CEO Jensen Huang.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2279620/how-to-watch-microsoft-windows-surface-event/"
- },
- {
-  "date": "2026-10-07T11:05:31.971324+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "legal",
-  "headline": "Federal Seizure Claims 90+ Car Fraud Collection",
-  "summary": "A Texas fraudster has forfeited a massive collection of over 90 classic muscle cars and high-end exotics following a federal wire fraud case.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/texas-insurance-fraud-car-collection-forfeit/"
- },
- {
-  "date": "2026-10-07T11:05:31.971324+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Porsche Mission S Concept Debuts! \ud83c\udfce\ufe0f\u26a1",
-  "summary": "Porsche is set to unveil the Mission S supercar concept at the Paris Motor Show as a spiritual successor to the 918 Spyder.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/porsche-mission-s-supercar-picks-up-where-the-918-left-off/"
- },
- {
-  "date": "2026-10-07T11:05:31.971324+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "The Coven Picks Up Worldwide Rights to Australian Slasher 'The Only One'",
-  "summary": "The Coven has acquired worldwide rights to the Australian slasher film The Only One, starring Mel Jarnson and Saphira Moran.",
-  "verified": "reliable_reporter",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/coven-australia-slasher-only-one-mel-jarnson-saphira-moran-1237148871/"
- },
- {
-  "date": "2026-10-07T11:05:31.971324+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "'Mistborn' Movie Script Officially Finished by Brandon Sanderson",
-  "summary": "Author Brandon Sanderson has officially completed and submitted the Mistborn movie screenplay to Apple TV.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/mistborn-movie-script-brandon-sanderson-apple-update/"
- },
- {
-  "date": "2026-10-07T11:05:31.971324+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "launch",
-  "headline": "Ethan Hawke's Neo-Western Series Returns for Season 2 in 7 Days",
-  "summary": "Ethan Hawke's acclaimed FX neo-Western mystery series returns for Season 2 on October 14.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/the-lowdown-season-2-ethan-hawke-fx-return-october-14/"
- },
- {
-  "date": "2026-10-07T11:05:31.971324+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Solo Leveling Netflix Series Announces New Cast Lineup",
-  "summary": "Solo Leveling's new Netflix series officially unveils its star-studded cast lineup.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/solo-leveling-netflix-series-main-cast-confirmed/"
- },
- {
-  "date": "2026-10-07T11:05:31.971324+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "New Sony Patent Explores Real-Time AI Boss Fights",
-  "summary": "A new Sony patent details the potential use of AI to dynamically alter boss fights and enhance NPCs in real time.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/dark-souls/new-sony-patent-proposes-using-ai-to-alter-boss-fights-in-real-time-and-now-im-having-nightmares-about-a-totally-unpredictable-souls-game/"
- },
- {
-  "date": "2026-10-07T11:05:31.971324+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "DC Reveals Massive Redesign for Classic Superman Villain in Absolute Universe",
-  "summary": "DC's Absolute Universe introduces a horrific redesign and immense power upgrade for a classic Superman villain.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/superman-atomic-skull-villain-costume-redesign/"
- },
- {
-  "date": "2026-10-07T11:05:31.971324+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Mike Flanagan's The Exorcist: Martyrs Drops First Teaser Trailer",
-  "summary": "Mike Flanagan's upcoming horror film The Exorcist: Martyrs receives its first teaser trailer.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/horror-movies/mike-flanagans-exorcist-sequel-gets-its-first-teaser-as-horror-legend-calls-it-unsafely-dark/"
- },
- {
-  "date": "2026-10-07T11:05:31.971324+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Canceled HBO Green Lanterns Series Details Finally Revealed",
-  "summary": "An Arrowverse producer reveals details about HBO's originally canceled Green Lanterns series.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/green-lantern-hbo-max-cancelled-show-official-concept-art-reveal/"
- },
- {
   "date": "2026-10-07T11:39:19.545734+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -22493,5 +22328,115 @@
   "verified": "reliable_reporter",
   "source": "ScreenRant",
   "link": "https://screenrant.com/alien-blade-runner-2099-connection-release/"
+ },
+ {
+  "date": "2026-10-10T11:37:58.232021+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Rumor: Apple Store iPhone Duo Purchases Might Feature Personalized Boot Screens",
+  "summary": "Rumors suggest new iPhone Duo buyers at Apple Stores may have the option to personalize their boot-up screen with their name.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/10/iphone-duo-will-greet-some-owners-by-name-on-its-first-boot?utm_source=rss"
+ },
+ {
+  "date": "2026-10-10T11:37:58.232021+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Arc Raiders May Split PvE and PvP Modes",
+  "summary": "The executive producer of Arc Raiders stated the game could eventually be split into separate PvE and PvP modes.",
+  "verified": "reliable_reporter",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer"
+ },
+ {
+  "date": "2026-10-10T11:37:58.232021+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Tesla FSD Renamed to Assisted Driving in Europe \ud83d\ude97\ud83d\udca8",
+  "summary": "Tesla has rebranded its Full Self-Driving software to Assisted Driving in Europe in an effort to secure regulatory approvals.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2283007/tesla-full-self-driving-assisted-driving-europe/"
+ },
+ {
+  "date": "2026-10-10T11:37:58.232021+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "This Mini Coupe Clone Is Actually A Suzuki Swift \ud83d\ude97\u2728",
+  "summary": "An Indonesian Suzuki Swift owner created a unique two-seater replica inspired by the classic Mini Coupe.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/mini-suzuki-swift/"
+ },
+ {
+  "date": "2026-10-10T11:37:58.232021+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Behind the Scenes of Lee Chang-dong's 'Possible Love'",
+  "summary": "Cinematographer Kim Ji-yong discusses the intense planning and weather challenges behind Lee Chang-dong's upcoming film 'Possible Love'.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/festivals/possible-love-dp-chasing-natural-light-lee-chang-dong-1236907392/"
+ },
+ {
+  "date": "2026-10-10T11:37:58.232021+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Building an Inclusive Set for 'Being Heumann'",
+  "summary": "Director Si\u00e2n Heder and producer Kevin Walsh discussed creating an inclusive and accessible production environment for 'Being Heumann' at Deadline's Contenders London.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/sian-heder-being-heumann-inclusive-contenders-london-1237153936/"
+ },
+ {
+  "date": "2026-10-10T11:37:58.232021+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Apple TV's Debut Sci-Fi Series Surges on Streaming",
+  "summary": "Apple TV's very first sci-fi series is experiencing a notable surge in streaming viewership seven years after its debut.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/see-apple-tv-streaming-success-october-2026/"
+ },
+ {
+  "date": "2026-10-10T11:37:58.232021+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Hollywood's Market for Asian Stories Remains a Fight",
+  "summary": "Lionsgate international president Helen Lee-Kim noted at the Busan International Film Festival that bringing Asian stories to Hollywood still requires significant effort.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/hollywood-execs-growing-market-asian-stories-busan-1236907387/"
+ },
+ {
+  "date": "2026-10-10T11:37:58.232021+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Travis Knight Discusses the 16-Year Journey of LAIKA's 'Wildwood'",
+  "summary": "Director Travis Knight revealed at Contenders London that LAIKA's stop-motion fantasy epic 'Wildwood' took 16 years to make.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/wildwood-travis-knight-laika-contenders-london-1237153893/"
+ },
+ {
+  "date": "2026-10-10T11:37:58.232021+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "The Extreme Challenges of Making 'Everest: The Other Side'",
+  "summary": "Oscar-winning directors Elizabeth Chai Vasarhelyi and Jimmy Chin detailed the extreme difficulties of filming their documentary 'Everest: The Other Side'.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/chai-vasarhelyi-chin-talk-everest-other-side-london-1237151027/"
  }
 ]
