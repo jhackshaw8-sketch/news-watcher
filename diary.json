@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-07T08:41:37.404645+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "rumor",
-  "headline": "Xbox Denies Exclusive GTA 6 Streaming Rights Rumor",
-  "summary": "Xbox has denied rumors that it acquired exclusive game-streaming rights for Grand Theft Auto 6.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights"
- },
- {
-  "date": "2026-10-07T08:41:37.404645+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Boston Dynamics Appoints Former Amazon Exec Rohit Prasad as New CEO",
-  "summary": "Boston Dynamics has appointed former Amazon executive Rohit Prasad as its new CEO.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wzqpgs/boston_dynamics_appoints_former_amazon_exec_rohit/"
- },
- {
-  "date": "2026-10-07T08:41:37.404645+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Electric Only: Porsche Confirms No More Gas Engines for Next-Gen 718 Boxster and Cayman \u26a1\ud83c\udfce\ufe0f",
-  "summary": "Porsche has confirmed that the next-generation 718 Boxster and Cayman models will be exclusively electric, with gas-powered versions officially not returning.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811015/porsche-boxster-cayman-gas-return-canceled/"
- },
- {
-  "date": "2026-10-07T08:41:37.404645+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Singapore Film Festival Stands By Opening Film Despite Political Pressure",
-  "summary": "The Singapore International Film Festival is standing by 'The Assassin(s)' as its opening film despite demands from South Korean conservative lawmakers to drop it.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/singapore-film-festival-stands-by-the-assassins-1236904122/"
- },
- {
   "date": "2026-10-07T09:05:17.658251+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -22713,5 +22669,49 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/ridley-scott-blade-runner-2049-prime-video-streaming-october-2026/"
+ },
+ {
+  "date": "2026-10-10T09:03:36.315029+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Cruising the Canyons in a Lotus Elise \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "A stunning Lotus Elise enjoys a relaxing canyon drive on a day off.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x240tz/took_the_day_off_to_unwind_in_the_canyons_lotus/"
+ },
+ {
+  "date": "2026-10-10T09:03:36.315029+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Stunning View of the JAS Tensei \ud83d\ude98\u2728",
+  "summary": "A striking image showcases the JAS Tensei in high resolution.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x2263x/jas_tensei_1784x1004/"
+ },
+ {
+  "date": "2026-10-10T09:03:36.315029+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Tom Holland's Past Superhero Hit Finds New Life on Free Streaming",
+  "summary": "Tom Holland's Spider-Man: Far From Home is finding renewed streaming success as his latest blockbuster breaks box office records.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/spider-man-far-from-home-streaming-hit-tubi-october-2026/"
+ },
+ {
+  "date": "2026-10-10T09:03:36.315029+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Pok\u00e9mon Black & White Officially Return in 2027 Release",
+  "summary": "Pok\u00e9mon Black & White are officially returning with a release slated for 2027 alongside a new collectible.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/pokemon-black-white-new-2027-release/"
  }
 ]
