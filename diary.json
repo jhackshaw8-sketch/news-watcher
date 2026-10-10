@@ -1,192 +1,5 @@
 [
  {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Apple's Smart Home Security Camera Still Expected Next Year",
-  "summary": "Apple's rumored home security camera remains in development for release next year.",
-  "verified": "unconfirmed",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/07/apple-home-security-camera-still-coming-next-year/"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Foldable iPhone Duo Code Hints at Two-Page Document Layout",
-  "summary": "Code findings suggest the upcoming foldable iPhone Duo will feature a two-page document preview layout.",
-  "verified": "unconfirmed",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/07/iphone-duo-document-preview-two-page-layout/"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Dawn of War 4 Promises Massive Single-Player Campaign",
-  "summary": "The developer of Warhammer 40,000: Dawn of War 4 claims the upcoming RTS will feature more single-player launch content than any other game in the genre's history.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-dev-says-its-got-more-single-player-content-than-any-other-rts-ever-at-launch"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Xbox CEO Reports Division Return to Growth After Restructuring",
-  "summary": "Xbox CEO Asha Sharma reports that the gaming division is returning to growth following extensive restructuring and significant layoffs.",
-  "verified": "reliable_reporter",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/xbox-asha-sharma-growth-restructuring-layoffs"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Xbox Clarifies Future Plans for Battle.net Storefront",
-  "summary": "Xbox leadership clarifies that Battle.net will not be pivoting to become a direct competitor to Steam despite recent integration efforts.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/xbox-ceo-says-battle-net-isnt-turning-into-steam-after-the-witcher-3-deal-we-will-do-it-the-right-way/"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Leaked Footage Surfaces From Canceled Perfect Dark Reboot",
-  "summary": "New development footage from Xbox's canceled Perfect Dark reboot has leaked online, showcasing early parkour mechanics and environmental physics.",
-  "verified": "unconfirmed",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/perfect-dark-reboot-footage-leak"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Jaguar Reveals Polarizing Type 01 Electric Grand Tourer \ud83d\ude97\ud83d\udca8",
-  "summary": "Jaguar has revealed its new Type 01 electric grand tourer, carrying over the polarizing design from its recent concept car.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/transportation/1006536/jaguar-type-01-design-specs-price-reveal"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "launch",
-  "headline": "A Closer Look at Jaguar's Controversial Type 01 EV \ud83d\ude99\u2728",
-  "summary": "The new Jaguar Type 01 EV features a controversial design aimed at attracting younger, affluent buyers to the brand.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2279734/jaguars-controversial-type-01-ev-looks-like-a-40s-gangster-car-built-for-the-modern-electric-era/"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Goodman Faces Scrutiny Over Japanese Data Center Project",
-  "summary": "Goodman faces scrutiny over its Japanese data center project following recent setbacks at its Sydney site.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wzstyz/goodmans_japanese_data_center_under_fire/"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "South Korea Calls for Comprehensive Anti-Cyber-Attack Tools",
-  "summary": "The South Korean president has called for the development of advanced tools designed to completely stop cyber-attacks.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wzsckw/south_korean_president_calls_for_creation_of/"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "legal",
-  "headline": "South Africa Publishes New Right to Repair Rules",
-  "summary": "South Africa's Competition Commission has published new Right to Repair guidelines affecting technology and gadgets.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wzs9tw/competition_commission_publishes_new_right_to/"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "Anthropic Reconfigures Its Security Program",
-  "summary": "AI firm Anthropic has restructured its specialized security program.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wzs9mm/anthropic_reconfigures_its_cool_kids_security/"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "Google Messages Reportedly Removing Easy RCS Toggle",
-  "summary": "Google Messages reportedly plans to remove a simple toggle that allowed users to easily turn off RCS messaging.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1wzrivx/hope_you_like_rcs_because_google_messages_plans/"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Box Office Flop Finds New Life and Dominates on Streaming",
-  "summary": "A DC sci-fi superhero film that underperformed at the box office has successfully found a new audience on streaming.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/dc-sci-fi-supergirl-streaming-success-hbo-max-october-2026/"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Inside the Creation of the New Princess Diana Documentary 'Diana Unheard'",
-  "summary": "Producers of the upcoming documentary 'Diana Unheard' discuss using never-before-heard audio of Princess Diana.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/diana-unheard-documentary-princess-never-before-heard-audio-1237148864/"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "business",
-  "headline": "Hogwarts Legacy 2 Shifts Development Under New Skydance Ownership",
-  "summary": "Hogwarts Legacy 2 is officially under new ownership with Skydance, which will impact its ongoing development and eventual release.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/hogwarts-legacy-2-officially-under-new-ownership/"
- },
- {
-  "date": "2026-10-07T10:39:33.132577+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "New Strategy Game 'Game of Thrones: War for Westeros' Announced",
-  "summary": "A new strategy game titled Game of Thrones: War for Westeros is officially announced, featuring Jon Snow and the Night King.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/game-of-thrones-jon-snow-vs-night-king-war-westeros/"
- },
- {
   "date": "2026-10-07T11:05:31.971324+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -22636,5 +22449,49 @@
   "verified": "official",
   "source": "Variety",
   "link": "https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/"
+ },
+ {
+  "date": "2026-10-10T11:03:00.561940+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Konami Eyes Future Silent Hill Projects",
+  "summary": "Konami producer Motoi Okamoto reveals the company is already considering future projects beyond the current wave of Silent Hill games.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto"
+ },
+ {
+  "date": "2026-10-10T11:03:00.561940+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "\ud83d\ude9a Telo MT1 Electric Mini Truck Impresses in Test Drive \ud83d\udd0b",
+  "summary": "A test drive of the Telo MT1 reveals a unique, highly compact electric truck with a cab-over design operating in the heart of tech country.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck"
+ },
+ {
+  "date": "2026-10-10T11:03:00.561940+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Kevin Costner's Dances with Wolves Arrives on Prime Video",
+  "summary": "Kevin Costner's epic Western masterpiece Dances with Wolves is now officially streaming on Prime Video.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/dances-with-wolves-kevin-costner-western-streaming-prime-video-october-2026/"
+ },
+ {
+  "date": "2026-10-10T11:03:00.561940+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Surprise Alien TV Series to Premiere Before Alien: Earth Season 2",
+  "summary": "An unexpected separate Alien TV series is slated to premiere before Alien: Earth season 2 arrives in its 2027 release window.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/alien-blade-runner-2099-connection-release/"
  }
 ]
