@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-07T02:39:57.316028+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "Suzuki's Tiny New Electric Kei Car Goes Global \u26a1\ufe0f\ud83d\ude97",
-  "summary": "Suzuki has released a new sub-$10k small electric Kei car in Japan that is also heading to Europe.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/suzukis-esky-japan/"
- },
- {
-  "date": "2026-10-07T02:39:57.316028+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Harry Potter Dominates Streaming Ahead of HBO Series",
-  "summary": "The first Harry Potter film is performing exceptionally well on two major streaming services ahead of HBO's upcoming series adaptation.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/harry-potter-and-the-philosophers-stone-streaming-success-apple-tv-prime-video-october-2026/"
- },
- {
   "date": "2026-10-07T03:04:47.095986+00:00",
   "topic": "Movies",
   "score": 9,
@@ -22867,5 +22845,49 @@
   "verified": "official",
   "source": "Variety",
   "link": "https://variety.com/2026/tv/markets-festivals/wwii-spy-series-operation-doolittle-busan-market-1236907242/"
+ },
+ {
+  "date": "2026-10-10T03:04:29.371341+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Alejandro Hidalgo to Direct Horror Film 'The Hungry One'",
+  "summary": "Director Alejandro Hidalgo is set to helm the supernatural horror film 'The Hungry One' for Abnormal Studios.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/exorcism-of-god-alejandro-hidalgo-malaysia-horror-hungry-one-1236907302/"
+ },
+ {
+  "date": "2026-10-10T03:04:29.371341+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Disney+ Series 'Percy Jackson' Streams on Netflix",
+  "summary": "Disney+ original series 'Percy Jackson and the Olympians' is temporarily streaming on Netflix.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/disney-plus-series-streaming-netflix-percy-jackson-limited-time-hit/"
+ },
+ {
+  "date": "2026-10-10T03:04:29.371341+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Official Discussion Thread for 'Matchbox The Movie'",
+  "summary": "An official Reddit discussion thread and poll have been posted for the release of 'Matchbox The Movie'.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x23r6e/official_discussion_matchbox_the_movie_spoilers/"
+ },
+ {
+  "date": "2026-10-10T03:04:29.371341+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Official Discussion Thread for 'Animals'",
+  "summary": "An official discussion thread and rating poll are now live for the release of 'Animals'.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x23r5p/official_discussion_animals_2026_spoilers/"
  }
 ]
