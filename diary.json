@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-07T07:40:24.554158+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Porsche Previews New Mid-Engined Hypercar with Mission S Concept \ud83c\udfce\ufe0f\ud83d\udd25",
-  "summary": "Porsche is developing a new mid-engined hypercar, with the Mission S concept set to preview the halo model on October 15.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811005/porsche-confirms-new-mid-engine-supercar/"
- },
- {
-  "date": "2026-10-07T07:40:24.554158+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Tallinn Film Festival Announces Official Selection Lineup",
-  "summary": "Tallinn Black Nights Film Festival has unveiled its official selection and first feature competitions, featuring world premieres like Ray Panthaki's debut.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/tallinn-black-nights-festival-competition-first-feature-1236903474/"
- },
- {
-  "date": "2026-10-07T07:40:24.554158+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Focus Features Acquires Global Rights for 'Outside Man'",
-  "summary": "Focus Features has acquired global rights for the new Ice Cube and Tommy Lee Jones movie 'Outside Man', written and directed by Brian Helgeland.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1wzqcqu/focus_features_takes_global_on_ice_cube_tommy_lee/"
- },
- {
-  "date": "2026-10-07T07:40:24.554158+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "Jed Mercurio Leads Pitch to Regenerate Doctor Who for the BBC",
-  "summary": "Jed Mercurio is spearheading a pitch to produce Doctor Who in a competitive tender launched by the BBC.",
-  "verified": "reliable_reporter",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/doctor-who-bids-revealed-jed-mercurio-bbc-scotland-1237147648/"
- },
- {
-  "date": "2026-10-07T07:40:24.554158+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "ITV Studios Unveils Mipcom Drama Slate Led by Steven Moffat's 'Number 10'",
-  "summary": "ITV Studios has unveiled its Mipcom drama slate featuring five new titles, including Steven Moffat's 'Number 10'.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/global/itv-studios-mipcom-drama-slate-first-woman-1236903527/"
- },
- {
   "date": "2026-10-07T08:05:59.368811+00:00",
   "topic": "Cars",
   "score": 6,
@@ -22713,5 +22658,71 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/jeremy-strong-method-acting-the-social-reckoning-mark-zuckerberg-wunmi-mosaku-interview/"
+ },
+ {
+  "date": "2026-10-10T08:03:37.724936+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "New Research Explores Salty Water for Data Center Cooling",
+  "summary": "Researchers explore using salty and dirty water as a sustainable alternative to cool large data centers.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x29k7j/can_salty_dirty_water_cool_data_centers/"
+ },
+ {
+  "date": "2026-10-10T08:03:37.724936+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Software Proposed to Ease AI Data Center Power Demands",
+  "summary": "Researchers state that software optimizations could alleviate the massive AI power squeeze expected from growing data centers.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x29b6n/software_could_be_the_easiest_fix_for/"
+ },
+ {
+  "date": "2026-10-10T08:03:37.724936+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Reports Claim ICE Uses Palantir Database to Track Protestors",
+  "summary": "Reports indicate that ICE is utilizing a Palantir database to compile dossiers on political protestors.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x2891v/ice_is_reportedly_using_a_palantir_database_to/"
+ },
+ {
+  "date": "2026-10-10T08:03:37.724936+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Autonomous Freight Rail Startup Parallel Systems Secures $100M+ Funding \ud83d\ude86\ud83d\udee4\ufe0f",
+  "summary": "Parallel Systems secures over $100 million in new funding to commercialize its autonomous freight rail technology.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x2821g/parallel_systems_closes_100m_in_new_funding_to/"
+ },
+ {
+  "date": "2026-10-10T08:03:37.724936+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Tulsa King Season 4 Officially Returns Next Week",
+  "summary": "Sylvester Stallone returns in Tulsa King Season 4 on Paramount+ in just one week.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/tulsa-king-season-4-paramount-plus-october-16-2026/"
+ },
+ {
+  "date": "2026-10-10T08:03:37.724936+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Star Trek: Deep Space Nine Returns With New Sequel on Nov 17 \ud83d\ude80",
+  "summary": "Star Trek: Deep Space Nine is officially returning with a new sequel set five years after the Dominion War, scheduled for release on November 17.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-trek-deep-space-nine-peacemakers-sequel-release/"
  }
 ]
