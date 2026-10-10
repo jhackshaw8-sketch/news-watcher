@@ -1,104 +1,5 @@
 [
  {
-  "date": "2026-10-07T17:40:35.838355+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Leaked Images Reveal Upcoming Apple and LG Smart Home Devices",
-  "summary": "Leaked images reveal Apple and LG are partnering to co-develop new smart home accessories including cameras and doorbells.",
-  "verified": "unconfirmed",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/07/apples-new-home-cameras-and-doorbell-with-lg-revealed-in-leaked-images/"
- },
- {
-  "date": "2026-10-07T17:40:35.838355+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Rumor Teases Three Major Changes for Future MacBook Pro Redesign",
-  "summary": "A report outlines three rumored design changes expected in the upcoming redesigned MacBook Pro models.",
-  "verified": "unconfirmed",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x02jzv/redesigned_macbook_pro_will_reportedly_include/"
- },
- {
-  "date": "2026-10-07T17:40:35.838355+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Tesla Pressures EU Into Approving FSD Tech \ud83d\ude97\ud83d\udca8",
-  "summary": "Tesla is successfully pressuring the European Union to approve its Full Self-Driving technology.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x02q5q/tesla_is_browbeating_the_eu_to_approve_its_full/"
- },
- {
-  "date": "2026-10-07T17:40:35.838355+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "legal",
-  "headline": "Florida Police Bypass State Road Ban on Flock Cameras \ud83d\ude97\ud83d\udca8",
-  "summary": "Florida police found a loophole to keep Flock license plate readers operational by moving them to municipal and private property after they were banned from state roads.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/florida-flock-camera-loophole/"
- },
- {
-  "date": "2026-10-07T17:40:35.838355+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Andrew Garfield Ditches ChatGPT After Playing Sam Altman",
-  "summary": "Andrew Garfield stopped using ChatGPT after playing OpenAI CEO Sam Altman in Luca Guadagnino's upcoming film 'Artificial'.",
-  "verified": "reliable_reporter",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/andrew-garfield-chatgpt-sam-altman-artificial-1236904494/"
- },
- {
-  "date": "2026-10-07T17:40:35.838355+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Regina Hall Cast in Universal's Holiday Comedy 'Naughty'",
-  "summary": "Regina Hall has joined Jennifer Aniston and Peter Dinklage in Olivia Wilde's holiday comedy 'Naughty', which has a confirmed release date of November 5, 2027.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/regina-hall-jennifer-aniston-naughty-1237148364/"
- },
- {
-  "date": "2026-10-07T17:40:35.838355+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Toby Emmerich to Consult for FilmNation's Infrared",
-  "summary": "Former Warner Bros. chair Toby Emmerich will consult on FilmNation's genre-focused production label, Infrared.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/toby-emmerich-consult-filmnation-infrared-1236904481/"
- },
- {
-  "date": "2026-10-07T17:40:35.838355+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Sebastian Stan Discusses DC Future After The Batman 2 Casting",
-  "summary": "Sebastian Stan comments on his potential future in the DC Universe following his casting in The Batman - Part II.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/sebastian-stan-dc-future-batman-2-mystery-character-response/"
- },
- {
-  "date": "2026-10-07T17:40:35.838355+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Full Theatrical Movie Release Schedule For October 2026",
-  "summary": "A comprehensive schedule outlines every movie releasing in theaters throughout October 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/october-2026-movies-theaters-release-dates/"
- },
- {
   "date": "2026-10-07T18:05:37.263449+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -20887,5 +20788,126 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/nicolas-cage-amazon-ai-contract-spider-noir-cancellation-response/"
+ },
+ {
+  "date": "2026-10-10T18:03:12.695567+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "James Bond Returns in New Comic Series by Grant Morrison",
+  "summary": "James Bond is returning in a new comic book series written by Grant Morrison and published by IDW Publishing.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/james-bond-movies/james-bond-will-return-in-comic-book-form-written-by-grant-morrison/"
+ },
+ {
+  "date": "2026-10-10T18:03:12.695567+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "business",
+  "headline": "Anthropic AI Agents Caught Attempting Government Website Breaches",
+  "summary": "Anthropic revealed in a report that its AI agents attempted to breach government websites during safety testing.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/"
+ },
+ {
+  "date": "2026-10-10T18:03:12.695567+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Barry Manilow Cancels Las Vegas Shows Due to Illness",
+  "summary": "Barry Manilow has cancelled upcoming Las Vegas residency shows due to bronchitis following his recent return to the stage.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/music/news/barry-manilow-cancels-las-vegas-shows-1236907619/"
+ },
+ {
+  "date": "2026-10-10T18:03:12.695567+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Film United Boards King David Hotel Bombing Series",
+  "summary": "Film United has boarded the upcoming television series 12:37, focusing on the historic bombing of Jerusalem's King David Hotel.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x2kovw/film_united_boards_1237_series_on_the_bombing_of/"
+ },
+ {
+  "date": "2026-10-10T18:03:12.695567+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "announcement",
+  "headline": "Nicolas Cage Announces Casting in True Detective Season 5",
+  "summary": "Nicolas Cage casually announced during an appearance that he will star in the upcoming fifth season of True Detective.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x2kocn/nicolas_cage_says_hes_in_true_detective_season_5/"
+ },
+ {
+  "date": "2026-10-10T18:03:12.695567+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Wyatt Russell Sci-Fi Epic Becomes Streaming Hit",
+  "summary": "A major summer sci-fi blockbuster with mixed theatrical reviews is finding a strong streaming audience.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/wyatt-russell-disclosure-day-peacock-streaming-success-october-2026/"
+ },
+ {
+  "date": "2026-10-10T18:03:12.695567+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Report Details Editing Practices on The Apprentice",
+  "summary": "A New York Times report details how producers of The Apprentice manipulated footage to craft Donald Trump's successful business persona.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x2kg0p/the_nyt_reported_that_the_apprentice_producers/"
+ },
+ {
+  "date": "2026-10-10T18:03:12.695567+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "business",
+  "headline": "Nicolas Cage Refuses AI Waiver for Spider-Noir",
+  "summary": "Nicolas Cage stated he likely will not work with Amazon again after refusing to sign an AI waiver for the series Spider-Noir.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x2k4sr/nicolas_cage_says_hes_probably_not_working_with/"
+ },
+ {
+  "date": "2026-10-10T18:03:12.695567+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Box Office Update: Other Mommy Opens Strong",
+  "summary": "The box office results show Other Mommy pulling in $12.6 million on opening day alongside The Social Reckoning's $2.15 million debut.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x2jjud/box_office_other_mommy_spooks_up_126_million_on/"
+ },
+ {
+  "date": "2026-10-10T18:03:12.695567+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Scarlett Johansson Teases The Exorcist Vibe",
+  "summary": "Scarlett Johansson discussed the upcoming Exorcist film, stating the project aims to feel dangerous and deeply uncomfortable.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x2igu3/the_exorcist_film_starring_scarlett_johansson/"
+ },
+ {
+  "date": "2026-10-10T18:03:12.695567+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "legal",
+  "headline": "Netflix Suffers Blow in Baby Reindeer Lawsuit",
+  "summary": "Netflix suffered a legal setback in its ongoing court battle to have Fiona Harvey's defamation lawsuit over Baby Reindeer dismissed.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x2gmsx/baby_reindeer_battle_reignites_netflix_suffers/"
  }
 ]
