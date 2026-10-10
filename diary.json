@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-07T07:07:13.982991+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "launch",
-  "headline": "Mitsubishi Eclipse Sportback EV Pricing Sparks Debate \ud83d\ude97\u26a1",
-  "summary": "The upcoming 2027 Mitsubishi Eclipse Sportback is priced $8,000 higher than the Nissan Leaf while utilizing shared EV hardware.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811004/2027-mitsubishi-eclipse-sportback-vs/"
- },
- {
-  "date": "2026-10-07T07:07:13.982991+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "launch",
-  "headline": "Apple TV+ Debuts New Fantasy Series 'Small Prophets'",
-  "summary": "Apple TV+ has released Small Prophets, a new fantasy series blending magic with an award-winning sitcom formula.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/small-prophets-review-apple-tv/"
- },
- {
-  "date": "2026-10-07T07:07:13.982991+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Channing Dungey Confirms Role in Skydance Executive Leadership Team",
-  "summary": "Warner Bros. TV Group Chairman Channing Dungey confirmed her role as a member of Skydance's new executive leadership team in a memo to staffers.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/news/warner-bros-channing-dungey-skydance-role-memo-staff-1236903454/"
- },
- {
   "date": "2026-10-07T07:40:24.554158+00:00",
   "topic": "Cars",
   "score": 9,
@@ -22735,5 +22702,16 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/sebastian-stan-fjord-marvel-bucky-barnes-interview/"
+ },
+ {
+  "date": "2026-10-10T07:39:01.434902+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Jeremy Strong's Mark Zuckerberg Transformation Detailed in The Social Reckoning",
+  "summary": "Cast members discuss Jeremy Strong's performance as Mark Zuckerberg and share behind-the-scenes insights for the upcoming film The Social Reckoning.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/jeremy-strong-method-acting-the-social-reckoning-mark-zuckerberg-wunmi-mosaku-interview/"
  }
 ]
