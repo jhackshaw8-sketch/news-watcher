@@ -1,181 +1,5 @@
 [
  {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple Partners With The King's Trust for UK Creative Labs",
-  "summary": "Apple and The King's Trust have expanded their partnership in the UK to launch an education program focused on creative and digital skills for young people.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/07/apple-partners-with-the-kings-trust-on-new-creative-labs-initiative-in-the-uk/"
- },
- {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple Launches Creative Labs Initiative With The King's Trust",
-  "summary": "Apple officially announced a new collaboration with UK charity The King's Trust to help young people build careers in the creative industries through targeted workshops.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/07/apple-creative-labs-kings-trust/"
- },
- {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Sony Sells XR Patents to Meta Amid AR/VR Pullback",
-  "summary": "Sony has sold dozens of its XR and virtual reality hardware patents to Meta in an apparent pullback from the AR/VR hardware market.",
-  "verified": "reliable_reporter",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x08gts/sony_sells_off_dozens_of_xr_patents_to_meta_in/"
- },
- {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "update",
-  "headline": "Tomb Raider: Legacy of Atlantis Drops Modern Hand-Holding",
-  "summary": "The developers of Tomb Raider: Legacy of Atlantis are deliberately cutting back on modern hand-holding mechanics to reward player exploration.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/tomb-raider/tomb-raider-legacy-of-atlantis-devs-are-cutting-back-on-modern-hand-holding-get-on-your-own-get-lost-then-find-your-way-back/"
- },
- {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "FSR 4 Handheld Boost Coming This Year",
-  "summary": "A specialized version of AMD's FSR 4 is reportedly scheduled to release this year to boost gaming performance on handheld devices.",
-  "verified": "reliable_reporter",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x083p3/fsr_4_special_version_to_boost_gaming_performance/"
- },
- {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Teenage Engineering Plans to Stop Making Synthesizers",
-  "summary": "Teenage Engineering plans to stop manufacturing synthesizers, including its iconic OP-1, to focus on other design ventures.",
-  "verified": "reliable_reporter",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths"
- },
- {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "FCC Proposes New Spectrum Auction and Drone Frequency Access",
-  "summary": "The FCC has proposed a new mid-band spectrum auction and is unlocking 800MHz frequencies to support drone operations and direct-to-device services.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2280708/the-fcc-proposes-new-mid-band-spectrum-auction-and-unlocking-800mhz-for-drones/"
- },
- {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "TP-Link Faces Growing US Scrutiny From FCC Ban and State Lawsuits",
-  "summary": "TP-Link is facing escalating US troubles as an FCC router sales ban continues alongside lawsuits from four states.",
-  "verified": "official",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/"
- },
- {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "London Film Festival Opens With Andrew Scott's 'Elsinore'",
-  "summary": "The 70th BFI London Film Festival opened with the European premiere of Elsinore, drawing an emotional response from the audience for lead star Andrew Scott.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/andrew-scott-elsinore-opens-london-film-festival-1236904258/"
- },
- {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Movie Theaters Add New York Times Games to Pre-Show",
-  "summary": "Movie theaters partnering with Screenvision will feature interactive New York Times Games like Wordle in their pre-show experiences starting this fall.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/gaming/news/nyt-games-movie-theaters-screenvision-deal-1236904581/"
- },
- {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Dewayne Perkins Announces Fall YouTube Launch for New Skitcom 'I Swear We're Friends'",
-  "summary": "Dewayne Perkins is launching his new six-episode digital skitcom 'I Swear We're Friends' exclusively on YouTube this fall.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/digital/news/dewayne-perkins-youtube-series-i-swear-were-friends-1236902523/"
- },
- {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Matthew Lillard and Amber Midthunder Break Down the 'Carrie' Season 1 Finale",
-  "summary": "Actors Matthew Lillard and Amber Midthunder discuss the catastrophic Season 1 finale of Prime Video's 'Carrie'.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/carrie-matthew-lillard-amber-midthunder-catastrophic-finale-1237149241/"
- },
- {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "PlayStation Announces New Crunchyroll Anime Hub Launch for PS5 in Spring 2027",
-  "summary": "Sony's PlayStation will launch a dedicated Crunchyroll anime hub on the PS5 home screen in spring 2027.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/gaming/news/playstation-ps5-new-crunchyroll-anime-hub-1236904550/"
- },
- {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "business",
-  "headline": "A24 Elizabeth Holmes Docu Sets Record Alamo Drafthouse Presales Ahead of Release",
-  "summary": "Presales for the A24 Elizabeth Holmes documentary 'You Can See Everything' have broken studio records at Alamo Drafthouse.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/you-can-see-everything-avengers-doomsday-presales-alamo-1237149411/"
- },
- {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Sons of Anarchy Reboot Officially Sets Up New Lead Character to Replace Jax Teller",
-  "summary": "A new 'Sons of Anarchy' reboot is in the works featuring a fresh twist that replaces Jax Teller as the main protagonist.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/sons-of-anarchy-new-series-jax-teller-charlie-hunnam-play-himself/"
- },
- {
-  "date": "2026-10-07T21:39:41.550710+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "'Boston Blue' Showrunners Address Tom Selleck's Potential Spinoff Return",
-  "summary": "Showrunners for the 'Blue Bloods' spinoff 'Boston Blue' address the possibility of Tom Selleck making an appearance in 2026.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/boston-blue-season-2-tom-selleck-frank-return-showrunners-response/"
- },
- {
   "date": "2026-10-07T22:03:54.837475+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -20293,5 +20117,104 @@
   "verified": "reliable_reporter",
   "source": "ScreenRant",
   "link": "https://screenrant.com/keanu-reeves-constantine-2-dc-update-fans-wish-return/"
+ },
+ {
+  "date": "2026-10-10T22:02:38.098829+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Microsoft CEO Calls for AI Emergency Brake",
+  "summary": "Microsoft CEO Satya Nadella called for an emergency brake and a reassessment of trust architecture for AI models.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+ },
+ {
+  "date": "2026-10-10T22:02:38.098829+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Walmart Patents Reveal Dynamic Pricing Tech",
+  "summary": "Newly revealed patents from Walmart outline technology that could enable algorithms to dynamically raise prices.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x2r579/walmarts_patents_reveal_the_technology_that_could/"
+ },
+ {
+  "date": "2026-10-10T22:02:38.098829+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Athena Robot Demonstrates Advanced Baseball Skills",
+  "summary": "A demonstration showed the Athena robot fluidly throwing, catching, and hitting baseballs.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x2pjoc/athena_robot_fluidly_throws_catches_and_hits/"
+ },
+ {
+  "date": "2026-10-10T22:02:38.098829+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Nvidia in Talks to Invest in or Buy Reflection AI",
+  "summary": "Reports indicate that Nvidia is in talks to further invest in or potentially acquire Reflection AI.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x2pdvm/nvidia_in_talks_to_invest_further_in_reflection/"
+ },
+ {
+  "date": "2026-10-10T22:02:38.098829+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Anthropic Discloses Fake Police Tip in Rogue AI Incident",
+  "summary": "Anthropic disclosed a new rogue AI incident involving its model submitting a false homicide tip to a police website.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x2pcqf/anthropic_discloses_fake_tip_to_police_among_new/"
+ },
+ {
+  "date": "2026-10-10T22:02:38.098829+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Xie Miao to Lead U.S.-Set Action Thriller",
+  "summary": "Chinese martial arts star Xie Miao is set to headline a new U.S.-set English-language action crime thriller developed by Stars Collective.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/the-furious-xie-miao-martial-arts-crime-thriller-1236907398/"
+ },
+ {
+  "date": "2026-10-10T22:02:38.098829+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Sci-Fi Masterpiece 'Arrival' Leaving Streaming Soon",
+  "summary": "Denis Villeneuve's critically acclaimed sci-fi film Arrival is officially leaving the Peacock streaming platform.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/denis-villeneuve-sci-fi-arrival-leaving-peacock-november-2026/"
+ },
+ {
+  "date": "2026-10-10T22:02:38.098829+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Lego Announces Star Wars and Marvel Crossover Ideas Challenge",
+  "summary": "Lego has announced an Ideas Challenge allowing fans to design a new set that combines Star Wars and Marvel.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/toys-collectibles/lego-is-combining-star-wars-with-marvel-for-an-all-new-set-and-you-get-to-design-it/"
+ },
+ {
+  "date": "2026-10-10T22:02:38.098829+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Prime Video Fantasy Adaptation Hits Major Filming Milestone",
+  "summary": "Prime Video's upcoming fantasy thriller adaptation has reached a major filming milestone.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/prime-video-sex-criminals-show-filming-wrapped/"
  }
 ]
