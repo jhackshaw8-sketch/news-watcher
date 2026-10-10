@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-07T09:05:17.658251+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Formula 1 on Apple TV Adding Dolby Atmos Support",
-  "summary": "Formula 1 broadcasting on Apple TV will add support for Dolby Atmos audio starting later this month with the U.S. Grand Prix.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/07/formula-1-apple-tv-dolby-atmos-this-month/"
- },
- {
-  "date": "2026-10-07T09:05:17.658251+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "legal",
-  "headline": "Common Sense Media Flags ChatGPT for Teens as an Unacceptable Risk",
-  "summary": "Nonprofit Common Sense Media has labeled OpenAI's ChatGPT for Teens as an unacceptable risk regarding youth safety.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
- },
- {
-  "date": "2026-10-07T09:05:17.658251+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Alfa Romeo Refreshes the Junior SUV with Interior and Wheel Updates \ud83d\ude97\u2728",
-  "summary": "Alfa Romeo is updating the Junior SUV with improved interior trim and new wheels, alongside minor updates to the Stelvio and Giulia.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/alfa-romeos-changing-the-junior-again-but-this-time-the-name-stays/"
- },
- {
-  "date": "2026-10-07T09:05:17.658251+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "Aaron Sorkin Discusses 'The Social Reckoning' Connection to 'The Social Network'",
-  "summary": "Aaron Sorkin clarifies why his upcoming film The Social Reckoning is not a direct sequel to The Social Network.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/the-social-reckoning-facebook-mark-zuckerberg-aaron-sorkin/"
- },
- {
-  "date": "2026-10-07T09:05:17.658251+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "'Lonesome Dove' Officially Returning With New Netflix Adaptation",
-  "summary": "Jeb Stuart teases a brand new Netflix adaptation of the 900-page novel Lonesome Dove that will cover untouched material.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/lonesome-dove-netflix-remake-jeb-stuart-1989-miniseries/"
- },
- {
-  "date": "2026-10-07T09:05:17.658251+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Michelle Yeoh Discusses Blade Runner 2099 at Busan",
-  "summary": "Michelle Yeoh discussed her role in the upcoming Prime Video series Blade Runner 2099 during an appearance at the Busan International Film Festival.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/michelle-yeoh-blade-runner-2099-its-my-time-busan-1237148825/"
- },
- {
   "date": "2026-10-07T09:40:53.450307+00:00",
   "topic": "Cars",
   "score": 8,
@@ -22713,5 +22647,82 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/pokemon-black-white-new-2027-release/"
+ },
+ {
+  "date": "2026-10-10T09:39:24.126483+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Magic: The Gathering Marvel Darkhold Destiny Preorders Live",
+  "summary": "Preorders for Magic: The Gathering's upcoming Marvel: Darkhold Destiny set are now live ahead of its 2027 release.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/magic-the-gathering-marvel-darkhold-destiny-preorders-are-now-live"
+ },
+ {
+  "date": "2026-10-10T09:39:24.126483+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Busan Market Chief Announces Plans for Year-Round ACFM 365 Platform Amid Funding Challenges",
+  "summary": "The Asian Contents & Film Market is planning a year-round platform called ACFM 365, though public funding has stalled.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/busan-market-chief-ellen-kim-year-round-acfm-365-platform-1236907349/"
+ },
+ {
+  "date": "2026-10-10T09:39:24.126483+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Tom Cruise's 'Digger' Getting the IMAX Boot After Just One Week for Nolan's 'The Odyssey'",
+  "summary": "Tom Cruise's movie Digger is losing its IMAX screens after only one week to make room for Christopher Nolan's The Odyssey.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/tom-cruise-digger-removed-from-imax-box-office-disaster/"
+ },
+ {
+  "date": "2026-10-10T09:39:24.126483+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Why Tom Cruise's 'Digger' Final Shot Took 6 Months to Plan Out",
+  "summary": "The director of Tom Cruise's upcoming movie Digger reveals that the final shot took six months to plan out.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/digger-ending-final-shot-meaning-alejandro-g-inarritu-interview/"
+ },
+ {
+  "date": "2026-10-10T09:39:24.126483+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "First Poster Released for 'The Further Mis-Adventures of Cliff Booth'",
+  "summary": "The first poster for 'The Further Mis-Adventures of Cliff Booth' has been shared online.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x28u18/first_poster_for_the_further_misadventures_of/"
+ },
+ {
+  "date": "2026-10-10T09:39:24.126483+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "New Trailer Drops for Found Footage Horror Film 'McCurdy Point'",
+  "summary": "A new trailer has been released for the upcoming found footage horror movie 'McCurdy Point'.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x27tkd/new_trailer_for_found_footage_horror_mccurdy_point/"
+ },
+ {
+  "date": "2026-10-10T09:39:24.126483+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Lord of the Rings: The One Ring Officially Releases September 2027",
+  "summary": "The Lord of the Rings: The One Ring TTRPG is officially scheduled to release in September 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/lord-of-the-rings-one-ring-september-2027/"
  }
 ]
