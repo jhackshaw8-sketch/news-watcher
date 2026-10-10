@@ -1,104 +1,5 @@
 [
  {
-  "date": "2026-10-07T05:39:44.716593+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Game of Thrones Villain Detail Revealed for Upcoming Release",
-  "summary": "An interview reveals new details about an upcoming official Game of Thrones video game release.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1wzmvrr/game_of_thrones_biggest_villain_is_even_more/"
- },
- {
-  "date": "2026-10-07T05:39:44.716593+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Zhang Yimou Gives Update on 'The Three-Body Problem' Script",
-  "summary": "Director Zhang Yimou revealed at the Busan International Film Festival that the script adaptation for 'The Three-Body Problem' is still undergoing polishing after several years.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/zhang-yimou-polishing-three-body-problem-script-1236904060/"
- },
- {
-  "date": "2026-10-07T05:39:44.716593+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Skydance Co-CEO Talks TV Studio Consolidation Plans",
-  "summary": "Skydance Co-CEO addresses the prospect of TV studios merging following the major acquisition, stating they are not looking to reduce output production.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/skydance-tv-studios-merging-warner-bros-cbs-studios-ptvs-1237148403/"
- },
- {
-  "date": "2026-10-07T05:39:44.716593+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Star Trek Announces 2027 Genre Shift and New Lead",
-  "summary": "Star Trek's upcoming 2027 release will feature an official genre shift and a new lead replacing Picard.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-trek-shadow-frontier-genre-switch-picard-replaced/"
- },
- {
-  "date": "2026-10-07T06:04:31.084639+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Lionsgate Officially Announces Saw 11 With New Director",
-  "summary": "Lionsgate has officially announced Saw 11 alongside a director reveal following years of project delays.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1wzlezh/lionsgate_announces_saw_11_after_years_of_delay/"
- },
- {
-  "date": "2026-10-07T06:04:31.084639+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "update",
-  "headline": "Eddie Redmayne and Kore-eda Hirokazu Film Still in Scripting Phase",
-  "summary": "Director Kore-eda Hirokazu provides an update at Busan, stating that his upcoming film starring Eddie Redmayne is still being scripted.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1wzk24m/eddie_redmaynes_koreeda_hirokazu_film_is_still/"
- },
- {
-  "date": "2026-10-07T06:04:31.084639+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "Latest MPA and CARA Movie Age Ratings Revealed",
-  "summary": "The latest official MPA and CARA ratings and reasons have been released for upcoming films including The Cat in the Hat.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1wzjnx8/new_mpacara_ratings_and_reasons_for_the_week_of/"
- },
- {
-  "date": "2026-10-07T06:04:31.084639+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Official Teaser Released for Mike Flanagan's The Exorcist: Martyrs",
-  "summary": "An official teaser has dropped for Mike Flanagan's The Exorcist: Martyrs, starring Scarlett Johansson, ahead of its March 2027 theatrical release.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1wzjmlq/official_teaser_for_mike_flanagans_the_exorcist/"
- },
- {
-  "date": "2026-10-07T06:04:31.084639+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Is Hollywood Production Leaving Los Angeles for Good?",
-  "summary": "An industry observer questions whether film and TV production is leaving Los Angeles due to studio mergers and cost-cutting.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1wzjjzv/is_film_and_tv_production_leaving_los_angeles/"
- },
- {
   "date": "2026-10-07T06:45:36.276071+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -22878,5 +22779,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/final-fantasy-9-roses-of-may-october-2026-psa/"
+ },
+ {
+  "date": "2026-10-10T06:04:42.610914+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "New Tech Tattoos Change Color and Vanish Under Different Lights",
+  "summary": "Scientists have developed new tattoos that can alter their color or vanish entirely depending on the type of light they are exposed to.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x27ck8/scientists_create_tattoos_that_can_change_color/"
+ },
+ {
+  "date": "2026-10-10T06:04:42.610914+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Vietnamese Horror 'Bloodline: The Curse Within' Heads to Busan Market",
+  "summary": "Vietnamese supernatural horror 'Bloodline: The Curse Within' is heading to the Busan market for international sales ahead of its December 25 theatrical release.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/vietnamese-supernatural-horror-bloodline-the-curse-within-busan-market-1236907324/"
  }
 ]
