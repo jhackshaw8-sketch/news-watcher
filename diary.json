@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-07T01:08:17.850527+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Small Prophets Premieres on Apple TV",
-  "summary": "The first two episodes of the acclaimed British comedy series 'Small Prophets' are now available to stream on Apple TV.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/06/acclaimed-british-comedy-series-small-prophets-now-available-on-apple-tv/"
- },
- {
-  "date": "2026-10-07T01:08:17.850527+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "Ford Reveals Rugged 2027 Everest Wolftrak SUV Down Under \ud83d\udc3a\ud83d\ude99",
-  "summary": "Ford has introduced its first Wolftrak-branded SUV, the 2027 Ford Everest Wolftrak for the Australian market, replacing the Wildtrak trim with new colors and standard towing hardware.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/ford-everest-wolftrak/"
- },
- {
-  "date": "2026-10-07T01:08:17.850527+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Eddie Redmayne and Kore-eda Film Still in Scripting Phase",
-  "summary": "Director Kore-eda Hirokazu confirmed at Busan that his upcoming Searchlight Pictures film starring Eddie Redmayne is still currently being scripted.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/eddie-redmayne-kore-eda-hirokazu-film-1236903931/"
- },
- {
-  "date": "2026-10-07T01:08:17.850527+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "HBO Max and Paramount+ Plan to Eventually Combine Streaming Services",
-  "summary": "Skydance CEO David Ellison stated that HBO Max and Paramount+ will eventually merge into a single streaming service following an initial bundling phase.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/hbo-max-paramount-streaming-merger-david-ellison-1237148535/"
- },
- {
-  "date": "2026-10-07T01:08:17.850527+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Skydance Co-Boss Says It Is Too Early to Discuss Barbie 2",
-  "summary": "Newly named Skydance co-CEO Ynon Kreiz stated it is currently too early to discuss a potential greenlight for 'Barbie 2'.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/barbie-2-paramount-warner-bros-merger-status-1237148284/"
- },
- {
-  "date": "2026-10-07T01:08:17.850527+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Nintendo Stealth Drops Special Mario 40th Anniversary Release",
-  "summary": "Nintendo has officially stealth dropped a special release as part of the Super Mario 40th-anniversary celebration.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/super-mario-40th-anniversary-stop-motion-shorts/"
- },
- {
-  "date": "2026-10-07T01:08:17.850527+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "NCIS Season 24 Premieres With DiNozzo's Return",
-  "summary": "CBS has launched NCIS season 24 with an episode featuring DiNozzo's return.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/ncis-season-24-episode-1-review/"
- },
- {
-  "date": "2026-10-07T01:08:17.850527+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "Bosch Legacy Sequel Series Returning Soon",
-  "summary": "Prime Video's Bosch spin-off series is returning soon with more cold cases.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/ballard-season-2-bosch-legacy-sequel-prime-video/"
- },
- {
   "date": "2026-10-07T01:39:46.332863+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -22746,5 +22658,137 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/amanda-the-adventurer-dora-the-ring-replacement-blumhouse-movie-development/"
+ },
+ {
+  "date": "2026-10-10T01:08:48.631575+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Crazy Taxi: World Tour Drops Brazil Trailer",
+  "summary": "An official trailer titled Welcome to Brazil has been released for Crazy Taxi: World Tour.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x214g1/crazy_taxi_world_tour_official_welcome_to_brazil/"
+ },
+ {
+  "date": "2026-10-10T01:08:48.631575+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "FLAK Simulator Gets New Teaser Trailer",
+  "summary": "A teaser trailer has been released for the upcoming indie game FLAK Simulator.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x1zkzx/flak_simulator_teaser_trailer/"
+ },
+ {
+  "date": "2026-10-10T01:08:48.631575+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Medium Rare Showcases Demo Trailer",
+  "summary": "A demo trailer has been released to showcase gameplay for Medium Rare.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x1ytof/medium_rare_demo_trailer/"
+ },
+ {
+  "date": "2026-10-10T01:08:48.631575+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "WRC Is Finally Coming Back To America In 2027! \ud83c\udfce\ufe0f\ud83c\uddfa\ud83c\uddf8",
+  "summary": "The World Rally Championship is officially returning to the United States in August 2027 with gravel stages across Tennessee and Kentucky.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/wrc-coming-back-to-america-2027/"
+ },
+ {
+  "date": "2026-10-10T01:08:48.631575+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Ava DuVernay's '14th' Earns Praise at New York Film Festival",
+  "summary": "Ava DuVernay's powerful documentary sequel '14th' receives a positive review for its impactful historical exploration.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/reviews/14th-review-ava-duvernay-nyff-1236904880/"
+ },
+ {
+  "date": "2026-10-10T01:08:48.631575+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Blumhouse and Craig Zobel Adapt 'Something Is Killing The Children'",
+  "summary": "Director Craig Zobel and Blumhouse are teaming up to adapt the popular comic book series 'Something Is Killing The Children' into a feature film.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/something-is-killing-the-children-movie-craig-zobel-blumhouse-1237153820/"
+ },
+ {
+  "date": "2026-10-10T01:08:48.631575+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "'Family Guy' Holiday Special Tops Streaming Charts",
+  "summary": "A 'Family Guy' 2026 Halloween special has reportedly claimed the top streaming spot over major titles like 'Avengers: Endgame'.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/family-guy-halloween-special-overtakes-avengers-endgame-streaming-success-disney-plus-october-2026/"
+ },
+ {
+  "date": "2026-10-10T01:08:48.631575+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "casting",
+  "headline": "Danny Trejo Addresses Backlash Over Daily Wire Film Role",
+  "summary": "Danny Trejo defends his casting in an upcoming Daily Wire ICE film amid ongoing public backlash.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/danny-trejo-pro-immigrant-backlash-daily-wire-ice-film-1237153821/"
+ },
+ {
+  "date": "2026-10-10T01:08:48.631575+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Ava DuVernay Premieres '14th' at NYFF",
+  "summary": "Ava DuVernay's documentary '14th' closes the New York Film Festival with an impassioned defense of the Constitution.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/14th-review-ava-duvernay-documentary-1237153748/"
+ },
+ {
+  "date": "2026-10-10T01:08:48.631575+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Crunchyroll Announces 15 New Anime Series",
+  "summary": "Crunchyroll has announced a massive partnership to bring 15 anime series follow-ups, starting with Solo Leveling adaptations.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/crunchyroll-new-manhwa-anime-partnership-hayate/"
+ },
+ {
+  "date": "2026-10-10T01:08:48.631575+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Apple TV Cyberpunk Series Faces Unfilmable Quote",
+  "summary": "Apple TV's upcoming cyberpunk adaptation faces the challenge of adapting a notoriously unfilmable sci-fi opening line.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/neuromancer-greatest-sci-fi-opening-line-unfilmable-cyberpunk/"
+ },
+ {
+  "date": "2026-10-10T01:08:48.631575+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Sheriff Country Returns With High Stakes For Season 2",
+  "summary": "Sheriff Country returns to CBS with a plot-heavy season premiere setting up challenges for Morena Baccarin's character.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/sheriff-country-season-2-episode-1-review/"
  }
 ]
