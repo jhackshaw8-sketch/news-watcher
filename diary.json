@@ -1,115 +1,5 @@
 [
  {
-  "date": "2026-10-08T09:06:13.667404+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Cancelled Perfect Dark Gameplay Leaks Online",
-  "summary": "Gameplay footage of the cancelled Xbox Perfect Dark reboot by The Initiative has leaked online.",
-  "verified": "unconfirmed",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak"
- },
- {
-  "date": "2026-10-08T09:06:13.667404+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "BMW iX4 Reborn as New EV \ud83d\ude97\u26a1",
-  "summary": "BMW has introduced the new iX4 as an electric vehicle based on its third Neue Klasse EV design.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2280880/bmw-ix4-is-the-x4-reborn-as-an-ev/"
- },
- {
-  "date": "2026-10-08T09:06:13.667404+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "update",
-  "headline": "OpenAI Rolls Out GPT-6 to All ChatGPT Tiers",
-  "summary": "OpenAI is rolling out GPT-6 to all tiers of ChatGPT with enhanced visual response capabilities.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2280879/gpt-6-coming-all-tiers-chatgpt/"
- },
- {
-  "date": "2026-10-08T09:06:13.667404+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "business",
-  "headline": "Stellantis Faces Potential Strike as Unifor Schedules Vote \u26a0\ufe0f",
-  "summary": "Unifor has scheduled a strike vote for mid-October as negotiations with Stellantis regarding the Brampton Assembly plant continue.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/unifor-stellantis-strike-vote/"
- },
- {
-  "date": "2026-10-08T09:06:13.667404+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "legal",
-  "headline": "Ford Recalls Nearly 42k Trucks Over Faulty Headlights \ud83d\udea8",
-  "summary": "Ford is recalling nearly 42,000 Expedition and Super Duty vehicles due to defective LED headlights requiring dealer inspection.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811154/ford-expedition-super-duty-headlight/"
- },
- {
-  "date": "2026-10-08T09:06:13.667404+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Alfonso Cuar\u00f3n Reflects on 'Gravity' at Busan Masterclass",
-  "summary": "Oscar-winning director Alfonso Cuar\u00f3n and his son Jonas revisited 'Gravity' at a Busan International Film Festival masterclass.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/festivals/alfonso-cuaron-revisits-gravity-son-jonas-busan-1236905332/"
- },
- {
-  "date": "2026-10-08T09:06:13.667404+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Marco Bellocchio\u2019s 'Falcon' Adds Louis Garrel and Secures Sales \ud83d\ude97\ud83c\udfce\ufe0f",
-  "summary": "Marco Bellocchio's financial thriller 'Falcon' has added Louis Garrel, Benedetta Cimatti, and Barbara Ronchi to its cast while securing sales through Rai Cinema.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/marco-bellocchio-falcon-rai-sales-louis-garrel-john-elkann-1237149741/"
- },
- {
-  "date": "2026-10-08T09:06:13.667404+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "business",
-  "headline": "'Avengers: Doomsday' Crosses $100 Million Box Office Milestone Months Before Premiere",
-  "summary": "Marvel's 'Avengers: Doomsday' has already grossed over $100 million at the box office more than two months ahead of its December premiere.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/avengers-doomsday-pre-release-box-office-100-million/"
- },
- {
-  "date": "2026-10-08T09:06:13.667404+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Alternativa Distribution Picks Up Festival Titles Ahead of MIPCOM",
-  "summary": "Newcomer Alternativa Distribution has acquired selected rights to features like 'No Good Men' and 'Four Daughters' ahead of the MIPCOM market.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/alternativa-distribution-mipcom-four-daughters-no-good-men-1237149704/"
- },
- {
-  "date": "2026-10-08T09:06:13.667404+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Doctor Who's Canceled 2026 Christmas Special Plot Revealed",
-  "summary": "Russell T Davies reveals plot details for a canceled 2026 Doctor Who Christmas special that would have altered Ncuti Gatwa's ending.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/doctor-who-2026-christmas-special-plot-fixes-ncuti-gatwa-ending/"
- },
- {
   "date": "2026-10-08T09:41:04.577670+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -19160,5 +19050,60 @@
   "verified": "official",
   "source": "Variety Film",
   "link": "https://variety.com/2026/film/global/todd-haynes-pedro-pascal-donald-trump-thierry-fremaux-1236908024/"
+ },
+ {
+  "date": "2026-10-11T09:40:09.749868+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Krafton Seeks Next Big Battle Royale with PUBG Spin-Off Ded.Net",
+  "summary": "Krafton hopes its new PUBG spin-off project, Ded.Net, can revitalize the battle royale genre with a pulpy gameshow theme and roguelite elements.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale"
+ },
+ {
+  "date": "2026-10-11T09:40:09.749868+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Between Two Lovers Review Explores Family Drama",
+  "summary": "Nanako Hirose's sophomore feature 'Between Two Lovers' is reviewed as a contentious family drama examining an ill-fated throuple.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/reviews/between-two-lovers-review-1236908080/"
+ },
+ {
+  "date": "2026-10-11T09:40:09.749868+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "The Lovely Bones Leaves Streaming Soon",
+  "summary": "Peter Jackson's The Lovely Bones is leaving streaming services soon after a look back at Ryan Gosling's casting history.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/peter-jackson-fantasy-epic-lovely-bones-leaving-peacock-november-2026/"
+ },
+ {
+  "date": "2026-10-11T09:40:09.749868+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "Over the Garden Wall Becomes Streaming Hit",
+  "summary": "Elijah Wood's classic dark fantasy series Over the Garden Wall is seeing a massive surge in streaming viewership ahead of Halloween.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/elijah-wood-over-the-garden-wall-streaming-success-prime-video-october-2026/"
+ },
+ {
+  "date": "2026-10-11T09:40:09.749868+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Doctor Who Confirms October 26 Return Date",
+  "summary": "Doctor Who has officially announced a return date of October 26 for its Battles in Time release.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/doctor-who-circuit-breaker-battles-in-time-october-2026/"
  }
 ]
