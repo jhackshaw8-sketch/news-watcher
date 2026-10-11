@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-08T00:49:52.060388+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Samira and Sett Gameplay Trailer Revealed",
-  "summary": "A new gameplay reveal trailer for Samira and Sett has been released.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x0dbu5/samira_and_sett_gameplay_reveal_trailer/"
- },
- {
-  "date": "2026-10-08T00:49:52.060388+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "legal",
-  "headline": "Rivian R2 Recalled Over Drive Power Loss Risk \u26a1\ud83d\ude97",
-  "summary": "Rivian is recalling the R2 due to a loose connection that could cause a potential loss of drive power.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/rivian-r2-drive-power-recall/"
- },
- {
-  "date": "2026-10-08T00:49:52.060388+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Disney Announces 'Encanto' Musical for New Cruise Ship Debut",
-  "summary": "Disney has announced its newest cruise ship, the Believe, will set sail in December 2027 and feature a brand-new stage adaptation of 'Encanto'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/biz/news/disney-ship-believe-encanto-musical-frozen-1236905011/"
- },
- {
-  "date": "2026-10-08T00:49:52.060388+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "'3 Body Problem' Movie Officially Confirmed With Zhang Yimou",
-  "summary": "Renowned Chinese filmmaker Zhang Yimou is officially moving forward with a movie adaptation of Liu Cixin's sci-fi trilogy 'Remembrance of Earth's Past'.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/3-body-problem-movie-adaptation-zhang-yimou/"
- },
- {
-  "date": "2026-10-08T00:49:52.060388+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "casting",
-  "headline": "'Battlestar Galactica' Stars Reunite in Mike Flanagan's New Project",
-  "summary": "Mike Flanagan's new Stephen King adaptation features a surprise reunion of 'Battlestar Galactica' stars 17 years after the sci-fi series ended.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/mike-flanagan-carrie-battlestar-galactica-reunion/"
- },
- {
   "date": "2026-10-08T01:08:34.388829+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -19666,5 +19611,82 @@
   "verified": "official",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/blade-runner-2099-trailer-hunter-schafer-michelle-yeoh-nycc-1237154128/"
+ },
+ {
+  "date": "2026-10-11T01:07:46.889877+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Wing Commander III Re-Release Restores Original Video Footage",
+  "summary": "A remastered re-release of Wing Commander III is in development utilizing newly digitized video footage from original archives.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x2v4jm/rerelease_of_wing_commander_iii_coming_out_with/"
+ },
+ {
+  "date": "2026-10-11T01:07:46.889877+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "EA Faces Bondholder Battle Over Leveraged Buyout",
+  "summary": "Electronic Arts faces a significant bondholder battle regarding its proposed leveraged buyout.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x2v3y0/electronic_arts_leveraged_buyout_faces_a/"
+ },
+ {
+  "date": "2026-10-11T01:07:46.889877+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Windrose: Ashlands Official Reveal Trailer Dropped",
+  "summary": "A new reveal trailer has been released for Windrose: Ashlands, showcasing upcoming gameplay and features.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x2th5o/windrose_ashlands_reveal_trailer/"
+ },
+ {
+  "date": "2026-10-11T01:07:46.889877+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "'The First Taste of Loneliness' Review: A Moving Family Portrait",
+  "summary": "Variety published a positive review of Gu You's heartfelt family drama 'The First Taste of Loneliness'.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/reviews/the-first-taste-of-loneliness-review-1236907801/"
+ },
+ {
+  "date": "2026-10-11T01:07:46.889877+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Philippines Revamps International Film Co-Production Fund",
+  "summary": "The Philippines revamped its International Co-Production Fund with new majority and minority tracks unveiled at the Busan Market.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/philippines-revamps-coproduction-fund-minority-majority-tracks-1236907874/"
+ },
+ {
+  "date": "2026-10-11T01:07:46.889877+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "'SNL UK' Breaks One of Saturday Night Live's Oldest Rules",
+  "summary": "SNL UK is breaking traditional Saturday Night Live rules by allowing profanity in its sketches.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/snl-uk-saturday-night-live-swearing-censorship/"
+ },
+ {
+  "date": "2026-10-11T01:07:46.889877+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Dungeon Crawler Carl Card Game Officially Launches Next Month",
+  "summary": "The Dungeon Crawler Carl card game adaptation officially arrives next month with a new expansion.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/dungeon-crawler-carl-crawler-chaos-release-date-psa/"
  }
 ]
