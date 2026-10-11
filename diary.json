@@ -1,148 +1,5 @@
 [
  {
-  "date": "2026-10-08T10:06:37.473153+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Call of Cthulhu Tabletop Game Changes Lovecraftian God Name",
-  "summary": "Chaosium officially changed the name of a Lovecraftian god for the upcoming tabletop game Call of Cthulhu: Old Ones.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/call-of-cthulhu-shub-niggurath-name-change-lovecraft/"
- },
- {
-  "date": "2026-10-08T10:06:37.473153+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "AirTrunk Triples Japan Data Center Investment to $30B",
-  "summary": "Australia's AirTrunk plans to triple its data center investment in Japan to up to $30 billion.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x0mmoi/australias_airtrunk_to_triple_japan_data_center/"
- },
- {
-  "date": "2026-10-08T10:06:37.473153+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Spain's Aragon Becomes a $70 Billion Data Center Hub",
-  "summary": "Fast-track permits have transformed Spain's Aragon region into a massive $70 billion data center magnet.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x0mm1r/fasttrack_permits_turn_spains_aragon_into_a_70/"
- },
- {
-  "date": "2026-10-08T10:06:37.473153+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Manus Raises Over $500M Following Meta Exit",
-  "summary": "Manus successfully raises over $500 million in funding following its exit from Meta.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x0mlpv/manus_raises_more_than_500_million_after_meta_exit/"
- },
- {
-  "date": "2026-10-08T10:06:37.473153+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "NVIDIA Launches DGX Station for Windows with 748GB Unified Memory",
-  "summary": "NVIDIA introduces the DGX Station for Windows, bringing massive 748GB unified memory to desktop workstations.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x0ml6x/nvidia_dgx_station_for_windows_brings_748gb/"
- },
- {
-  "date": "2026-10-08T10:06:37.473153+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Finland Orders Google to Halt Data Center Work Over Environmental Reviews",
-  "summary": "Finland orders Google to halt ongoing data center construction due to missing environmental reviews.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x0m6en/finland_orders_google_to_halt_data_centre_work/"
- },
- {
-  "date": "2026-10-08T10:06:37.473153+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Jeremy Clarkson is Selling Iconic Grand Tour Classics! \ud83c\udfce\ufe0f\ud83c\uddec\ud83c\udde7",
-  "summary": "Jeremy Clarkson is auctioning off three classic cars featured in the final episode of The Grand Tour.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/jeremy-clarkson-selling-classic-cars-the-grand-tour/"
- },
- {
-  "date": "2026-10-08T10:06:37.473153+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "business",
-  "headline": "Jeep Becomes Official 4x4 of Moab in New Partnership Deal! \ud83d\ude99\ud83c\udfdc\ufe0f",
-  "summary": "Moab has partnered with Jeep in a two-year deal involving $250,000 in cash and five loaned vehicles.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811166/jeep-named-official-4x4-moab/"
- },
- {
-  "date": "2026-10-08T10:06:37.473153+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Wim Wenders Boards Peter Lindbergh Doc",
-  "summary": "Wim Wenders has joined the Peter Lindbergh documentary 'Truth:Beauty' as an executive producer.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/wim-wenders-peter-lindbergh-documentary-truthbeauty-1236905380/"
- },
- {
-  "date": "2026-10-08T10:06:37.473153+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Russell Crowe's Netflix Thriller Hits 40M Views",
-  "summary": "Russell Crowe's psychological thriller on Netflix has surpassed 40 million views despite receiving poor reviews.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/unabomber-russell-crowe-mindhunter-replacement-streaming-success-netflix-october-2026/"
- },
- {
-  "date": "2026-10-08T10:06:37.473153+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Bringing Tim Blake Nelson's Thriller to Screen",
-  "summary": "Tim Blake Nelson, Amanda Seyfried, and Scoot McNairy discuss the 12-year journey to bring their new crime thriller to the screen.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/amanda-seyfried-the-life-and-deaths-of-wilson-shedd-tim-blake-nelson-interview/"
- },
- {
-  "date": "2026-10-08T10:06:37.473153+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Nintendo Officially Teases Zelda: Majora's Mask Return",
-  "summary": "Nintendo has officially teased a potential return or remake of The Legend of Zelda: Majora's Mask.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/legend-of-zelda-majoras-mask-remake-teased/"
- },
- {
-  "date": "2026-10-08T10:06:37.473153+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Crunchyroll Confirms New Centralized PS5 Hub and Era",
-  "summary": "Crunchyroll has officially confirmed a new centralized PS5-integrated hub for anime premieres and game-inspired content.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/crunchyroll-officially-confirms-the-beginning-of-a-brand-new-era/"
- },
- {
   "date": "2026-10-08T10:40:48.089880+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -19094,5 +18951,60 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/halloween-game-jamie-lee-curtis-laurie-strode-replacement/"
+ },
+ {
+  "date": "2026-10-11T10:39:19.633624+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "VFX Veteran Discusses AI's Role in Future Film Production",
+  "summary": "VFX veteran Hong Jae Cheol discussed how AI-native studios can create original IP while traditional studios maintain advantages in established franchises.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/ai-native-studios-create-original-ip-vfx-veteran-busan-1236908092/"
+ },
+ {
+  "date": "2026-10-11T10:39:19.633624+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Acclaimed Horror Hit Becomes a Must-Watch on Hulu",
+  "summary": "Demi Moore's acclaimed body horror thriller starring 'Landman' talent has become a major must-watch hit on Hulu.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/demi-moore-the-substance-streaming-hit-hulu-october-2026/"
+ },
+ {
+  "date": "2026-10-11T10:39:19.633624+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Director Kim Sung-soo Discusses Embracing AI in Filmmaking",
+  "summary": "Korean director Kim Sung-soo shared how his perspective on AI shifted from destruction to a useful tool for visualizing imagination at the Busan International Film Festival.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/12-12-the-day-director-kim-sung-soo-ai-craft-1236908089/"
+ },
+ {
+  "date": "2026-10-11T10:39:19.633624+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Keanu Reeves' Stop-Motion Samurai Film 'Hidari' Seeks New Partner",
+  "summary": "The Keanu Reeves-voiced stop-motion samurai film 'Hidari' is seeking a new financial partner after U.S. funding talks stalled over rights demands.",
+  "verified": "reliable_reporter",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/keanu-reeves-hidari-new-partner-us-talks-stall-1236908055/"
+ },
+ {
+  "date": "2026-10-11T10:39:19.633624+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "legal",
+  "headline": "Netflix Fails to Dismiss Baby Reindeer Lawsuit",
+  "summary": "Netflix continues to struggle to dismiss the ongoing lawsuit related to its hit series Baby Reindeer.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x34pfh/netflix_still_trying_failing_to_make_its_baby/"
  }
 ]
