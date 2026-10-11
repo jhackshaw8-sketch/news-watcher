@@ -1,137 +1,5 @@
 [
  {
-  "date": "2026-10-08T19:07:04.277665+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "business",
-  "headline": "Apple Names Steve Smith as New M&A Chief in Leadership Resuffle",
-  "summary": "Apple leadership changes see Steve Smith take over as the new M&A chief while Adrian Perica moves to the services business.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/08/apple-acquisitions-new-lead/"
- },
- {
-  "date": "2026-10-08T19:07:04.277665+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple Gains Market Share Despite PC Industry RAM Shortages",
-  "summary": "Despite rising RAM prices impacting the wider PC market, Apple managed to gain a percentage point in market share year-over-year.",
-  "verified": "reliable_reporter",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/08/theres-a-hidden-upside-to-the-rampocalypse-for-apple?utm_source=rss"
- },
- {
-  "date": "2026-10-08T19:07:04.277665+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "LEGO Unveils New Marvel Skyline Set Packed With Easter Eggs",
-  "summary": "LEGO has unveiled a new Marvel city skyline building set packed with Easter eggs from across the franchise.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2281558/lego-marvel-universe-city-skyline-set/"
- },
- {
-  "date": "2026-10-08T19:07:04.277665+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "update",
-  "headline": "Eric Stonestreet Officially Returning For Dexter: Resurrection Season 2",
-  "summary": "Eric Stonestreet is officially returning as a fan-favorite killer for the second season of Dexter: Resurrection.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/dexter-resurrection-season-2-eric-stonestreet-returning/"
- },
- {
-  "date": "2026-10-08T19:07:04.277665+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Cyberpunk 2077 Live-Action Movie Officially Announced At Paramount",
-  "summary": "A live-action movie adaptation of the hit video game Cyberpunk 2077 is officially in development at Paramount.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/cyperpunk-2077-live-action-movie-paramount/"
- },
- {
-  "date": "2026-10-08T19:07:04.277665+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Hulu Reveals First Look and Release Date for Dan Fogelman's The Land",
-  "summary": "Hulu provides a first look and release date for Dan Fogelman's new series The Land starring Christopher Meloni.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/the-land-hulu-release-date-first-look-christopher-meloni/"
- },
- {
-  "date": "2026-10-08T19:07:04.277665+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "New Battlestar Galactica Adaptation Announced",
-  "summary": "Battlestar Galactica: Scattered Hopes is an official adaptation introducing a brand-new crew to the universe.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/battlestar-galactica-scattered-hopes-new-crew/"
- },
- {
-  "date": "2026-10-08T19:07:04.277665+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "Marvel NYCC 2026 Panel Announcements",
-  "summary": "Live coverage of announcements from the Marvel TV and animation panel at New York Comic Con 2026.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/news/live/marvel-nycc-2026-live-coverage-everything-announced/"
- },
- {
-  "date": "2026-10-08T19:07:04.277665+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Kennedy Center to Tap New Artistic Programming Head",
-  "summary": "The Kennedy Center plans to appoint a former rock band manager to manage its artistic programming.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x0yq1g/kennedy_center_to_tap_former_rock_band_manager_to/"
- },
- {
-  "date": "2026-10-08T19:07:04.277665+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Cyberpunk 2077 Movie in Development at Paramount",
-  "summary": "A Cyberpunk 2077 movie adaptation is officially in the works at Paramount.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x0yk6j/cyberpunk_2077_movie_in_the_works_at_paramount/"
- },
- {
-  "date": "2026-10-08T19:07:04.277665+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Lanterns Finale Breaks Records Amid Season 2 Wait",
-  "summary": "DC's Lanterns breaks viewership records for its season finale while awaiting news of a season 2 renewal.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/lanterns-dcu-season-1-finale-hbo-record-season-2-fate-concerns/"
- },
- {
-  "date": "2026-10-08T19:07:04.277665+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Jennifer Coolidge Returns for The Watcher Season 2",
-  "summary": "Jennifer Coolidge is officially set to return for the second season of Netflix's 'The Watcher'.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x0y7y3/jennifer_coolidge_returns_for_season_2_of_the/"
- },
- {
   "date": "2026-10-08T19:39:40.609760+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -16465,5 +16333,49 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/artemis-fowl-harry-potter-replacement-disney-plus-tv-development-confirmed/"
+ },
+ {
+  "date": "2026-10-11T19:38:15.110482+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "iOS 27.2 Brings New Design Updates to Apple Books",
+  "summary": "iOS 27.2 introduces fresh design updates for the Apple Books app.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/06/ios-27-2-gives-apple-books-new-design-updates-as-iphone-duo-nears/"
+ },
+ {
+  "date": "2026-10-11T19:38:15.110482+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "Apple Releases iOS 27.2 Beta 3 to Developers",
+  "summary": "Apple has released iOS 27.2 beta 3 to developers, bringing new changes and feature hints.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/06/ios-27-2-beta-3-heres-everything-new/"
+ },
+ {
+  "date": "2026-10-11T19:38:15.110482+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Fiat Revives The Multipla As A Wild 3-in-1 Concept! \ud83d\ude90\u2728",
+  "summary": "Fiat has revealed the Multiplay concept, a modular vehicle combining elements of a minivan, SUV, and truck.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811485/fiat-multiplay-concept-reveal/"
+ },
+ {
+  "date": "2026-10-11T19:38:15.110482+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Russell Crowe Thriller Dominates Netflix Charts",
+  "summary": "Russell Crowe's thriller continues to dominate the Netflix streaming charts after pulling in 16.4 million views at launch.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/russell-crowe-unabomber-netflix-streaming-hit-october-2026/"
  }
 ]
