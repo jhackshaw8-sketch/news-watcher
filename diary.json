@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-08T04:05:11.049095+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Muramasa: The Demon Blade Returns With a Major 2027 Remake",
-  "summary": "Vanillaware has announced Muramasa: Revenant Blades, a stunning remake of the action-RPG Muramasa: The Demon Blade, coming in 2027 for PS5, Switch, and PC.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/muramasa-revenant-blades-2027-remake-remaster-vanillaware-marvelous/"
- },
- {
-  "date": "2026-10-08T04:05:11.049095+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Danny and Oxide Pang's 'The Mage' Heads to Busan Market",
-  "summary": "Danny and Oxide Pang's supernatural crime thriller 'The Mage', starring Josie Ho, is making its Busan market debut with Abnormal Studios.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/pang-brothers-josie-ho-thriller-mage-busan-market-debut-1236905233/"
- },
- {
   "date": "2026-10-08T04:41:12.470067+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -19512,5 +19490,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/alexander-skarsgard-wicker-movie-special-4dx-screening-release-date/"
+ },
+ {
+  "date": "2026-10-11T04:40:39.290639+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "MacBook Pro Entry-Level Overhaul Expected Sooner",
+  "summary": "Reports indicate that Apple's upcoming entry-level MacBook Pro may receive a major redesign sooner than anticipated.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/10/m7-macbook-pro-redesign-next-spring/"
+ },
+ {
+  "date": "2026-10-11T04:40:39.290639+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Samsung Cuts Smartphone Production by 30 Percent",
+  "summary": "Samsung is reportedly cutting its smartphone production by 30 percent in response to declining profitability.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x2yj7m/samsung_is_cutting_smartphone_production_by_30/"
  }
 ]
