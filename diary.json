@@ -1,115 +1,5 @@
 [
  {
-  "date": "2026-10-08T02:05:08.410184+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Ex-Halo Director Urges Activision to Revive Franchise",
-  "summary": "A former Halo lead suggests how Activision could revive the legendary franchise and hire laid-off Bungie staff.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/halo-lead-activision-revive-hire-bungie-developers"
- },
- {
-  "date": "2026-10-08T02:05:08.410184+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Xbox CEO Denies Buyout Rumors and Pledges Turnaround",
-  "summary": "Xbox CEO Asha Sharma firmly denies buyout rumors and vows to turn the console maker's fortunes around.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console"
- },
- {
-  "date": "2026-10-08T02:05:08.410184+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "rumor",
-  "headline": "GTA 6 Weather Systems Feature Hurricanes and Extreme Scale",
-  "summary": "GTA 6 reportedly re-engineers weather systems to feature hurricanes, rainbows, and unprecedented scale.",
-  "verified": "unconfirmed",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain"
- },
- {
-  "date": "2026-10-08T02:05:08.410184+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "Sunken Treasure: Stolen C7 Corvette Recovered From River After Years Underwater \ud83c\udf0a\ud83c\udfce\ufe0f",
-  "summary": "A stolen C7 Chevrolet Corvette was recovered after spending years submerged at the bottom of a river with surprisingly intact exterior condition.",
-  "verified": "reliable_reporter",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/stolen-c7-chevy-corvette-recovered-underwater/"
- },
- {
-  "date": "2026-10-08T02:38:40.796516+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Deadlock Surges on Steam Despite Still Being Unreleased",
-  "summary": "Valve's unreleased MOBA Deadlock surged in player counts on Steam following a recent update despite not being fully out yet.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/deadlock-update-steam-most-played-games"
- },
- {
-  "date": "2026-10-08T02:38:40.796516+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Blizzard Surveys Hint at Possible New Classes for World of Warcraft",
-  "summary": "Blizzard has reportedly surveyed World of Warcraft: Forever players about potential never-before-seen classes for the upcoming MMO.",
-  "verified": "unconfirmed",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey"
- },
- {
-  "date": "2026-10-08T02:38:40.796516+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Microsoft Debuts New AI Hardware and Windows Updates",
-  "summary": "Microsoft held an event debuting new AI-focused hardware and significant updates to Windows.",
-  "verified": "official",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
- },
- {
-  "date": "2026-10-08T02:38:40.796516+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "legal",
-  "headline": "Microsoft's Design Tactics Face Scrutiny Over Browser Choice",
-  "summary": "Reports highlight how Microsoft's design tactics continue to undermine user browser choice.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x0fewx/over_the_edge_20_microsofts_design_tactics_still/"
- },
- {
-  "date": "2026-10-08T02:38:40.796516+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Michael Johnston Teases New Queer Project",
-  "summary": "Actor Michael Johnston teases an upcoming queer project featuring a steamy on-screen moment.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/michael-johnston-teases-incredible-queer-project-1237149628/"
- },
- {
-  "date": "2026-10-08T02:38:40.796516+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Skydance Bosses Tackle Warner Bros. Slate and Barbie 2",
-  "summary": "Skydance film bosses Dana Goldberg and Josh Greenstein face a major to-do list managing Warner Bros. theatrical slates, including securing Barbie 2.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/skydance-warner-bros-films-in-works-1237149497/"
- },
- {
   "date": "2026-10-08T03:04:41.768577+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -19501,5 +19391,93 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/game-of-thrones-house-of-the-dragon-end-era-hbo-max/"
+ },
+ {
+  "date": "2026-10-11T02:40:40.616594+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Rumored Apple and ADT Partnership Tied to Smart Home Hub",
+  "summary": "Apple may announce a partnership with ADT alongside the introduction of an all-new smart home hub.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/10/rumored-apple-adt-partnership/"
+ },
+ {
+  "date": "2026-10-11T02:40:40.616594+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "update",
+  "headline": "Nadella: Assume All AI Models Are Compromised",
+  "summary": "Microsoft CEO Satya Nadella advises assuming that all current AI models are compromised regarding security.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x2vx1d/satya_nadella_says_we_should_assume_all_ai_models/"
+ },
+ {
+  "date": "2026-10-11T02:40:40.616594+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Tesla\u2019s FSD Becomes Assisted Driving in Europe \ud83d\ude97\ud83d\udca8",
+  "summary": "Tesla's Full Self-Driving branding is officially changed to Assisted Driving in Europe due to regulatory pressures.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x2vukh/teslas_full_selfdriving_becomes_assisted_driving/"
+ },
+ {
+  "date": "2026-10-11T02:40:40.616594+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "AI Fights Back Against Cybercriminals",
+  "summary": "New AI applications are increasingly being deployed to waste cybercriminals' time and disrupt their operations.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x2vu2u/ai_is_getting_really_good_at_messing_with/"
+ },
+ {
+  "date": "2026-10-11T02:40:40.616594+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "Chromium Browsers Face New Typosquatting Risk",
+  "summary": "Researchers discover a typosquatting vulnerability in Chromium browsers facilitated by specific character combinations.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x2twuq/two_characters_open_up_a_world_of_typosquatting/"
+ },
+ {
+  "date": "2026-10-11T02:40:40.616594+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Report Blames Feds for Risky Lab Equipment Sale",
+  "summary": "A government report reveals that federal agencies sold sensitive lab equipment that posed a security risk.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x2tcpp/feds_sold_lab_equipment_that_exposed_us_to_severe/"
+ },
+ {
+  "date": "2026-10-11T02:40:40.616594+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Star Trek: Starfleet Academy Season 2 Confirms Return of Controversial Cadets",
+  "summary": "Executive producers at NYCC confirmed that Star Trek: Starfleet Academy season 2 will bring back a controversial group of cadets.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-trek-starfleetacademy-season-2-nova-squadron/"
+ },
+ {
+  "date": "2026-10-11T02:40:40.616594+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Marvel Details New Avengers Powerhouse Set to Debut This November",
+  "summary": "Details emerge about David Colton, the newly designated most powerful member of the Avengers joining the roster this November.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/avengers-new-strongest-hero-miracleman/"
  }
 ]
