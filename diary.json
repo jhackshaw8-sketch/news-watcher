@@ -1,225 +1,5 @@
 [
  {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Gurman: Upcoming Touch-Screen MacBook Pro Won't Be Considerably Thinner",
-  "summary": "Reporter Mark Gurman has revised his previous claims, stating the upcoming OLED touch-screen MacBook Pro will not feature a significantly thinner chassis.",
-  "verified": "reliable_reporter",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/08/touch-screen-macbook-pro-may-be-lighter-but-it-wont-be-much-thinner?utm_source=rss"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Total War: Shogun 2 - Complete Edition Headed to macOS in 2027",
-  "summary": "Total War: Shogun 2 - Complete Edition with all DLC and graphical improvements is officially scheduled to launch for macOS in early 2027.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/08/total-war-shogun-2---complete-edition-is-coming-to-macos?utm_source=rss"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Australian Regulator Advises Workers on GTA 6 Time Off",
-  "summary": "Australia's workplace regulator has humorously released a graphic advising workers on taking time off when GTA 6 launches.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/australian-government-time-off-gta-6"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Blizzard Overhauls WoW: Forever Skyborne Race Designs",
-  "summary": "Blizzard is altering the appearance of World of Warcraft: Forever's Skyborne race based on player feedback.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/world-of-warcraft-forever-skyborne-character-model"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "MTG Warhammer 40K Commander Decks Getting Reprints",
-  "summary": "Wizards of the Coast has officially confirmed a small reprint run for MTG Warhammer 40K Commander Decks.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/magic-the-gathering-warhammer-40k-commander-decks-reprint-confirmed"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Google and Unity Launch Generative AI Game Platforms",
-  "summary": "Google and Unity have announced new generative AI game-making tools, showcasing them with a platform called Playground.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/google-playground-unity-spark-gen-ai-game-creators"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Next Gears of War Will Release Faster Than Its Predecessor",
-  "summary": "The Coalition boss reassures fans that the next Gears of War game will not take another seven-year gap to develop.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/gears-of-war/next-gears-of-war-game-wont-take-nearly-as-long-the-coalition-boss-promises-after-7-year-wait-between-gears-5-and-e-day/"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "CBS News Reports on GTA 6 Vice City Realism",
-  "summary": "CBS News highlighted the striking real-world accuracy of Vice City's locations compared to actual Miami spots in GTA 6.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/cbs-news-amazed-accuracy-gta-6"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Star Wars: Galactic Racer Developers Talk Burnout Inspiration",
-  "summary": "The developers of Star Wars: Galactic Racer discuss capturing the distinct arcade magic of the classic Burnout series.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/star-wars-galactic-racer-devs-interview-game-feel-burnout-board-game"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Superman Suit Tweaked for Greater Functionality",
-  "summary": "Actor David Corenswet reveals that Superman's suit has been re-engineered to be slightly more functional for Man of Tomorrow.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/dc-movies/supermans-suit-is-being-tweaked-for-man-of-tomorrow-they-re-engineered-it-to-be-slightly-more-functional/"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Unity CEO Comments on AI Game Generation Tools",
-  "summary": "The Unity CEO states that utilizing their upcoming AI to reproduce games does not automatically make the user an auteur.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/asking-the-ai-to-reproduce-a-game-that-has-already-been-made-does-not-make-you-kojima-says-unity-ceo-launching-an-ai-you-can-use-to-reproduce-games/"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Blood of Dawnwalker Human Form Difficulty Is Intentional",
-  "summary": "Developers of The Blood of Dawnwalker confirm that playing in human form during the day is intentionally challenging.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/blood-of-dawnwalker-harder-as-human-easier-as-vampire"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Ace Combat 8 PC Bundling Sparks Player Backlash",
-  "summary": "Ace Combat 8 players on PC are frustrated that the bundled Belkan War re-release is tied to the main game instead of being standalone.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-steam-community-reaction"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Mexican Lawmakers Push for Digital Game Ownership Rights",
-  "summary": "Mexican lawmakers have introduced a new consumer rights initiative advocating for digital video game ownership.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/mexican-lawmakers-join-fight-digital-games-ownership"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Gears of War: E-Day Intended Difficulty Revealed as Hardcore",
-  "summary": "The creative director at The Coalition reveals that Hardcore is the intended campaign difficulty for Gears of War: E-Day.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/gears-of-war-eday-difficulty-hardcore"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Why Skyrim Never Got a Spin-off Explained by Bethesda Veteran",
-  "summary": "A Bethesda veteran explains that The Elder Scrolls Online is a key reason Skyrim never received a New Vegas-style spin-off.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/the-elder-scrolls-online-skyrim-spin-off-fallout-new-vegas-bethesda"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Hande Er\u00e7el Cast in Nader Saeivar's Drama 'Diaspora'",
-  "summary": "Turkish star Hande Er\u00e7el will headline Iranian director Nader Saeivar's upcoming Berlin-set drama Diaspora, scheduled to shoot in early 2027.",
-  "verified": "reliable_reporter",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/hande-ercel-nader-saeivar-germany-diaspora-1237149799/"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "London Film Festival Highlights Local Talent",
-  "summary": "The 2026 London Film Festival features the home premiere of the Camden Film Festival-winning documentary Dependence.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/grace-harper-brighouse-dependence-lff-1237149782/"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Mistborn RPG Set for Fall 2026 Release",
-  "summary": "Brandon Sanderson's Mistborn is officially returning with new RPG sourcebooks and guides releasing in Fall 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/brandon-sanderson-mistborn-new-book-cosmere-handbook/"
- },
- {
-  "date": "2026-10-08T11:39:58.272425+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Predicting the 2026 Grammy Album of the Year Race",
-  "summary": "Predictions for the upcoming Grammy Awards suggest Olivia Rodrigo and Olivia Dean are frontrunners for Album of the Year.",
-  "verified": "unconfirmed",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x0nh8h/olivia_vs_olivia_predicting_the_grammys_album_of/"
- },
- {
   "date": "2026-10-08T12:06:20.572617+00:00",
   "topic": "Gaming News",
   "score": 7,
@@ -18885,5 +18665,60 @@
   "verified": "official",
   "source": "Carscoops",
   "link": "https://www.carscoops.com/2026/10/ford-bronco-restomod-auction-mecum/"
+ },
+ {
+  "date": "2026-10-11T12:04:27.592702+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Squadron 42 Opens Steam Wishlist Ahead of 2027 Release",
+  "summary": "Squadron 42 is now available for wishlist on Steam alongside a targeted Q2 2027 release window.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release"
+ },
+ {
+  "date": "2026-10-11T12:04:27.592702+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Divisive 2026 Adaptation Now Streaming on Prime Video",
+  "summary": "A divisive book adaptation officially makes its streaming debut on Prime Video following a successful theatrical run.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/margot-robbie-wuthering-heights-streaming-prime-video-october-2026/"
+ },
+ {
+  "date": "2026-10-11T12:04:27.592702+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Pedro Pascal's The Wild Robot Dominates Streaming",
+  "summary": "Pedro Pascal's animated hit The Wild Robot is dominating streaming charts two years after its theatrical release.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/the-wild-robot-pedro-pascal-streaming-peacock-october-2026/"
+ },
+ {
+  "date": "2026-10-11T12:04:27.592702+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Final Trailer Drops for R-Rated Godzilla Minus Zero IMAX Release",
+  "summary": "The final trailer has been released for the upcoming R-rated sci-fi movie Godzilla Minus Zero before its IMAX premiere.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/godzilla-minus-zero-trailer-king-ghidorah/"
+ },
+ {
+  "date": "2026-10-11T12:04:27.592702+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Final Fantasy VI Mini Melody Collectibles Launching January 2027",
+  "summary": "Final Fantasy VI Mini Melody TV collectibles with interactive retro designs are officially scheduled to release in January 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/final-fantasy-6-mini-melody-collection-january-2027/"
  }
 ]
