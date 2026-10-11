@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-08T01:08:34.388829+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "iFixit: Apple Watch Series 12 and Ultra 4 Still Hard to Repair",
-  "summary": "iFixit teardown reveals that the Apple Watch Series 12 and Ultra 4 remain very difficult to repair.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x0djh1/ifixit_finds_the_apple_watch_series_12_and_ultra/"
- },
- {
-  "date": "2026-10-08T01:08:34.388829+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Fresh V8 Power for the Mercedes GLE \ud83d\ude99\ud83d\udca8",
-  "summary": "The aging Mercedes GLE stays competitive with updated technology and a new V8 engine option.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/reviews/811112/2027-mercedes-gle-first-drive-review/"
- },
- {
-  "date": "2026-10-08T01:08:34.388829+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "The 2027 Mercedes GLS Shines with New V8 & Tech \u2728\ud83d\ude98",
-  "summary": "The 2027 Mercedes GLS arrives with a refined V8 engine and a heavily updated, technology-packed interior.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/reviews/811104/2027-mercedes-gls-first-drive-review/"
- },
- {
   "date": "2026-10-08T01:39:42.861403+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -19688,5 +19655,71 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/dungeon-crawler-carl-crawler-chaos-release-date-psa/"
+ },
+ {
+  "date": "2026-10-11T01:39:23.079685+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Universal's Blumhouse 2026 Slate Wraps With Low Audience Scores",
+  "summary": "Universal's latest Blumhouse horror release concludes the studio's 2026 film slate with a disappointing Rotten Tomatoes audience score.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/universal-other-mommy-rotten-tomatoes-audience-score-blumhouse-streak/"
+ },
+ {
+  "date": "2026-10-11T01:39:23.079685+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "\u2018Ray Gunn\u2019 Wows Critics in Early Reviews",
+  "summary": "Early reviews indicate that 'Ray Gunn' is impressing critics on Rotten Tomatoes.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x2v9k7/ray_gunn_wows_rotten_tomatoes_critics_in_early/"
+ },
+ {
+  "date": "2026-10-11T01:39:23.079685+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "'9-1-1' Star Oliver Stark Suffers Broken Ankle During Stunt",
+  "summary": "'9-1-1' star Oliver Stark suffered a broken ankle following a stunt gone wrong on set.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x2ugqd/911_star_oliver_stark_suffers_broken_ankle_during/"
+ },
+ {
+  "date": "2026-10-11T01:39:23.079685+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Absolute Batman Series Shifts to 2D Animation",
+  "summary": "The upcoming Absolute Batman animated series has shifted from 3D to 2D animation, with early footage shown at NYCC.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x2q5m9/absolute_batman_series_will_now_be_2d_animated/"
+ },
+ {
+  "date": "2026-10-11T01:39:23.079685+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Ella Langley Cancels Tulsa Show Over Security Threat",
+  "summary": "Country music artist Ella Langley had to cancel her scheduled Tulsa show due to a security threat.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x2pkoc/us_country_music_star_ella_langley_cancels_tulsa/"
+ },
+ {
+  "date": "2026-10-11T01:39:23.079685+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "business",
+  "headline": "Nicolas Cage Doubts Future Amazon Work Over AI Waiver",
+  "summary": "Nicolas Cage revealed he is unlikely to work with Amazon again after refusing to sign an AI waiver for 'Spider-Noir'.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x2pgra/nicolas_cage_says_hes_probably_not_working_with/"
  }
 ]
