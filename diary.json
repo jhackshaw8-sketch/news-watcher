@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-08T06:06:00.484591+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "launch",
-  "headline": "Nissan's New Global Truck Hits Mexico! \ud83d\udefb\ud83d\udca8",
-  "summary": "Nissan's Chinese-built truck, marketed as the Frontier Pro and Navara Pro, is going on sale in Mexico and other markets with combustion and plug-in hybrid options.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811125/nissan-chinese-truck-export-markets/"
- },
- {
-  "date": "2026-10-08T06:06:00.484591+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Porsche Confirms New Mid-Engine Hypercar! \ud83c\udfce\ufe0f\ud83d\udd25",
-  "summary": "Porsche has officially confirmed a new mid-engine hypercar that could serve as a gas-powered successor to the iconic 918 Spyder.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/features/810284/porsche-flat-eight-supercar-price-horsepower-details/"
- },
- {
-  "date": "2026-10-08T06:06:00.484591+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "James Gunn Defends Clayface Movie Development",
-  "summary": "DC Studios head James Gunn defended the decision to develop a Clayface movie against online criticism regarding original IP and audience demands.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/james-gunn-responds-to-clayface-criticism-dc-studios-1236905240/"
- },
- {
   "date": "2026-10-08T06:47:19.903038+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -19435,5 +19402,16 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/zelda-ocarina-remake-character-design-changes/"
+ },
+ {
+  "date": "2026-10-11T06:46:05.415460+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Sci-Fi Thriller 'Overstake' Embraces Generative AI for Busan Market Sales",
+  "summary": "Sci-fi thriller 'Overstake' is using generative AI for setting rebuilds and has been picked up by Cappu Films for worldwide sales at the Busan market.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/sci-fi-thriller-overstake-generative-ai-rebuild-busan-market-1236907993/"
  }
 ]
