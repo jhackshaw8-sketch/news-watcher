@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-10-08T13:42:04.154602+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "New MacBook Pro Leak Teases Big Upgrades for Pros",
-  "summary": "A recent leak indicates potential positive updates for professional users regarding the upcoming redesigned MacBook Pro.",
-  "verified": "unconfirmed",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/08/new-macbook-pro-leak-could-be-very-good-news-for-pro-users/"
- },
- {
-  "date": "2026-10-08T13:42:04.154602+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Apple Expected to Reveal Three New Products on October 13",
-  "summary": "Reports indicate Apple is still on track to announce three new products during a planned event on October 13.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/08/new-apple-product-still-expected-october-13/"
- },
- {
-  "date": "2026-10-08T13:42:04.154602+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Star Wars: Galactic Racer Started As A Board Game",
-  "summary": "Star Wars: Galactic Racer was originally prototyped as a board game covered in Post-It notes before becoming a critically acclaimed racing video game.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/star-wars-galactic-racer-board-game-post-it-prototype"
- },
- {
-  "date": "2026-10-08T13:42:04.154602+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Google Launches Offline AI Meeting Note-Taker App",
-  "summary": "Google has released AI Edge Foresight, a new local-first, offline meeting note-taker competing with Granola.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/"
- },
- {
-  "date": "2026-10-08T13:42:04.154602+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Manus Secures Over $500M in New Funding",
-  "summary": "China's Manus has raised over $500 million in its first funding round since splitting from Meta, backed by major investors including Tencent.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"
- },
- {
-  "date": "2026-10-08T13:42:04.154602+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "DOC NYC 2026 Festival Lineup Announced",
-  "summary": "DOC NYC announces its 2026 festival lineup featuring opening film 'The Hummingbird Paints Fragrant Songs'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/festivals/doc-nyc-2026-lineup-1236904728/"
- },
- {
-  "date": "2026-10-08T13:42:04.154602+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Netflix Officially Expands 'Bridgerton' Universe With New Series",
-  "summary": "Netflix officially announces a new Bridgerton spin-off series focusing on Lady Violet's early life and romance.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/bridgerton-lady-violet-spinoff-netflix-shondaland/"
- },
- {
-  "date": "2026-10-08T13:42:04.154602+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Major Marvel Television Reveals From NYCC 2026",
-  "summary": "Marvel Television reveals major announcements and moments during its NYCC 2026 panel.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2281004/marvel-television-nycc-2026-live-updates/"
- },
- {
-  "date": "2026-10-08T13:42:04.154602+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Josh Hartnett Stars In New Netflix Sea Monster Horror Miniseries",
-  "summary": "Netflix adds a new horror miniseries starring Josh Hartnett about a town terrorized by a sea monster.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2279038/josh-hartnett-sea-monster-miniseries-below-streaming-netflix/"
- },
- {
-  "date": "2026-10-08T13:42:04.154602+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Mike Flanagan's 'Carrie' Keeps Key Stephen King Book Detail",
-  "summary": "Mike Flanagan's upcoming adaptation of Stephen King's Carrie includes a specific book detail left out of previous versions.",
-  "verified": "reliable_reporter",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2276833/mike-flanagan-carrie-stephen-king-book-detail-previous-missed/"
- },
- {
-  "date": "2026-10-08T13:42:04.154602+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "New Netflix Horror Series Debuts to Strong Reviews",
-  "summary": "Netflix's new Stephen King meets Lovecraft horror series has launched with a solid Rotten Tomatoes score.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/netflix-below-rotten-tomatoes-score-debut/"
- },
- {
   "date": "2026-10-08T14:07:05.787397+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -18247,5 +18126,71 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/wildwood-movie-review/"
+ },
+ {
+  "date": "2026-10-11T14:03:48.778362+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Mimic Busters Introduces Creative Hide-and-Seek Multiplayer",
+  "summary": "Mimic Busters is a new multiplayer party and hide-and-seek game featuring custom 3D model disguises.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x38jg2/mimic_busters_tape_corps_multiplayer_hide_and/"
+ },
+ {
+  "date": "2026-10-11T14:03:48.778362+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Relaxing Incremental Game Digging in the Desert Announced",
+  "summary": "Digging in the Desert is a relaxing incremental game where players drive a tiny island through an endless desert.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x38g15/digging_in_the_desert_desertdigginginc_drive_a/"
+ },
+ {
+  "date": "2026-10-11T14:03:48.778362+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Travis Knight Discusses Wildwood's 16-Year Journey",
+  "summary": "Director Travis Knight reflects on the 16-year production journey of Laika's stop-motion animated feature 'Wildwood' at its London premiere.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/wildwood-director-animation-16-year-journey-london-premiere-1236908166/"
+ },
+ {
+  "date": "2026-10-11T14:03:48.778362+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "The Terminal List Returns to Prime Video",
+  "summary": "Chris Pratt's series 'The Terminal List' is officially returning to Prime Video this week after a four-year hiatus.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/chris-pratt-reacher-replacement-the-terminal-list-release-date-prime-video-october-2026/"
+ },
+ {
+  "date": "2026-10-11T14:03:48.778362+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Dexter: Resurrection Season 2 Tease",
+  "summary": "A returning star discusses breaking a 20-year tradition in the upcoming second season of Dexter: Resurrection.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/dexter-resurrection-season-2-eric-stonestreet-return-tease/"
+ },
+ {
+  "date": "2026-10-11T14:03:48.778362+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Star Trek: Starfleet Academy Sets 2027 Final Season",
+  "summary": "Star Trek: Starfleet Academy has officially confirmed a 2027 premiere date and details for its final season.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-trek-starfleet-academy-season-2-explained/"
  }
 ]
