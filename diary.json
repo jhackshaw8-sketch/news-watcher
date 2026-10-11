@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-08T03:04:41.768577+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Witcher 3 Remastered Lighting Divides Fans",
-  "summary": "The recent free Witcher 3 Remastered Edition update has boosted player counts on Steam, but its new lighting changes have divided community opinions.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting"
- },
- {
-  "date": "2026-10-08T03:04:41.768577+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Microsoft Introduces New Laptop USB-C Port Design",
-  "summary": "Microsoft has introduced a newly designed USB-C port for its laptops with unique functional improvements.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x0g1eh/microsoft_just_invented_the_ultimate_laptop_usbc/"
- },
- {
-  "date": "2026-10-08T03:04:41.768577+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Sebastian Stan Teases Heartbreaking Tone in 'Avengers: Doomsday'",
-  "summary": "Sebastian Stan shared that he has not yet seen 'Avengers: Doomsday' but expects the film to be heartbreaking.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/sebastian-stan-avengers-doomsday-pretty-heartbreaking-1236905173/"
- },
- {
-  "date": "2026-10-08T03:04:41.768577+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Tom Cruise Faces New Challenges in Upcoming Film 'Digger'",
-  "summary": "Tom Cruise is set to take on a rare type of character in his upcoming movie 'Digger' where he cannot save the day.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/tom-cruise-digger-role-not-hero-mission-impossible-top-gun/"
- },
- {
-  "date": "2026-10-08T03:04:41.768577+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Samuel L. Jackson Confirms Next MCU Appearance as Nick Fury",
-  "summary": "Samuel L. Jackson has confirmed his next MCU appearance as Nick Fury in a project other than 'Avengers: Doomsday'.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2280814/samuel-l-jackson-next-marvel-movie-nick-fury-avengers-secret-wars/"
- },
- {
   "date": "2026-10-08T03:41:02.654490+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -19479,5 +19424,38 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/avengers-new-strongest-hero-miracleman/"
+ },
+ {
+  "date": "2026-10-11T03:05:04.557346+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Supermassive Games Hit With Major Layoffs Affecting Over 70 Staff",
+  "summary": "Supermassive Games is facing significant restructuring with over 70 developers departing amid recent layoffs.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/supermassive-games-layoffs-70"
+ },
+ {
+  "date": "2026-10-11T03:05:04.557346+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Rohan Campbell Teases Upcoming Directorial Debut",
+  "summary": "Actor Rohan Campbell is planning to make his directorial debut next summer with a personal story and is currently awaiting a greenlight.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/rohan-campbell-teases-directorial-debut-plans-1237154173/"
+ },
+ {
+  "date": "2026-10-11T03:05:04.557346+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "update",
+  "headline": "Marvel Updates Robert Downey Jr.'s Doctor Doom Name",
+  "summary": "Marvel officially updates Robert Downey Jr.'s Doctor Doom name details ahead of Avengers: Doomsday.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/marvel-renames-robert-downey-jr-doctor-doom-avengers-doomsday/"
  }
 ]
