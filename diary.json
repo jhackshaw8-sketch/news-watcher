@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-10-08T23:04:55.364619+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Apple Announces Special October 13 Media Event for New Products",
-  "summary": "Apple marketing chief Greg Joswiak announced a special media hands-on event in New York City for October 13 to introduce new products.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/08/apple-october-13-launch/"
- },
- {
-  "date": "2026-10-08T23:04:55.364619+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Saleen Reopens S1 Deposits, But the Wait Continues \ud83c\udfce\ufe0f\u23f3",
-  "summary": "Saleen is once again accepting refundable deposits for its S1 sports car, though a firm delivery date remains unannounced.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/saleen-s1-deposits-still-no-delivery-date/"
- },
- {
-  "date": "2026-10-08T23:04:55.364619+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Jaguar Teases Type 01-Styled SUV as Its Next Move \ud83d\ude99\u2728",
-  "summary": "Jaguar has hinted that its upcoming second model will likely be an SUV featuring the design language seen on the Type 01 concept.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811245/jaguar-next-model-crossover-design/"
- },
- {
-  "date": "2026-10-08T23:04:55.364619+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Ben Affleck's 'Animals' Reviewed: A Kidnap Thriller Stretched Too Thin",
-  "summary": "A review of Netflix's kidnap thriller 'Animals' starring Ben Affleck and Kerry Washington notes that the film struggles by being stretched too thin.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/animals-review-ben-affleck-kerry-washington-netflix-1237149370/"
- },
- {
-  "date": "2026-10-08T23:04:55.364619+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "business",
-  "headline": "Tom Cruise's Latest Film Projected to Lose a Massive $250 Million",
-  "summary": "Tom Cruise's new movie is projected to suffer historic box-office losses reaching the quarter-billion-dollar mark.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/tom-cruise-digger-box-office-loss-250-million/"
- },
- {
-  "date": "2026-10-08T23:04:55.364619+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Ben Affleck Campaigned for LA Mayor as His 'Animals' Character",
-  "summary": "Ben Affleck playfully campaigned for mayor in Los Angeles as his fictional character from the Netflix film 'Animals' to urge people not to vote for him.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/ben-affleck-campaigned-mayor-la-animals-character-1237150628/"
- },
- {
-  "date": "2026-10-08T23:04:55.364619+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Review: Ben Affleck's 'Animals' Struggles with Its Political Ambitions",
-  "summary": "A review of Ben Affleck's Netflix thriller 'Animals' criticizes the film for attempting to get political but ultimately pulling its punches.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/animals-netflix-ben-affleck-review/"
- },
- {
-  "date": "2026-10-08T23:04:55.364619+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Marvel Surprises NYCC With VisionQuest Premiere",
-  "summary": "Marvel surprised New York Comic Con attendees with an early screening of VisionQuest ahead of its October 14 Disney+ premiere.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/news/marvel-visionquest-surprise-premieres-nycc-first-reactions-1236906093/"
- },
- {
-  "date": "2026-10-08T23:04:55.364619+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Blacky The Metal Arm Cat Announced at Busan",
-  "summary": "Hong Kong's Point Five Creations is presenting its new animated feature Blacky The Metal Arm Cat at the Busan ACFM.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/another-world-blacky-the-metal-arm-cat-point-five-creations-1237148928/"
- },
- {
-  "date": "2026-10-08T23:04:55.364619+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Mockingbird Launches Slate at Busan ACFM",
-  "summary": "Vietnam's Mockingbird Pictures is launching three new titles, including horror and comedy drama projects, at the Busan ACFM.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/vietnam-tuan-tran-mockingbird-happiest-cell-busan-1237148960/"
- },
- {
-  "date": "2026-10-08T23:04:55.364619+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Ben Affleck's Animals Debuts on Netflix",
-  "summary": "Ben Affleck returns to the thriller genre with Netflix's Animals, which received a lukewarm critical reception.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/animals-movie-review/"
- },
- {
   "date": "2026-10-08T23:38:30.364997+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -15101,5 +14980,60 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/pokemon-heart-soul-johto-kanto-fan-game/"
+ },
+ {
+  "date": "2026-10-11T23:38:29.472999+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "\ud83d\ude97 Modern Connected Cars Collecting and Sharing Consumer Data \ud83d\udcca",
+  "summary": "A research study reveals that modern connected cars are widely collecting and sharing consumer data with third-party advertisers.",
+  "verified": "reliable_reporter",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2281212/new-car-sharing-data-third-party-companies-study-northeastern-university/"
+ },
+ {
+  "date": "2026-10-11T23:38:29.472999+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Demon Hunters Expands to Dutch Theaters",
+  "summary": "The India-Taiwan action-comedy 'Demon Hunters' is expanding its theatrical footprint with an upcoming release in the Netherlands.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/demon-hunters-india-taiwan-action-comedy-netherlands-release-1236908532/"
+ },
+ {
+  "date": "2026-10-11T23:38:29.472999+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Corpse Bride Haunts HBO Max Streaming Charts for Halloween",
+  "summary": "Tim Burton's 'Corpse Bride' is currently trending on HBO Max as a popular Halloween streaming choice over two decades after its debut.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/tim-burton-corpse-bride-hbo-max-streaming-hit-october-2026/"
+ },
+ {
+  "date": "2026-10-11T23:38:29.472999+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Tiger Stripes Producer Backs Taiwanese Drama Uncle",
+  "summary": "The Cannes-winning producer of 'Tiger Stripes' is backing the Taiwanese coming-of-age drama 'Uncle' at the Busan Asian Project Market.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/tiger-stripes-producer-uncle-busan-asian-project-market-1236908528/"
+ },
+ {
+  "date": "2026-10-11T23:38:29.472999+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Wildwood Nabs Perfect Rotten Tomatoes Score in Early Reviews",
+  "summary": "The animated film 'Wildwood' has earned a rare and perfect critical score on Rotten Tomatoes in early review roundups.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x3mljq/wildwood_nabs_perfect_rotten_tomatoes_critics/"
  }
 ]
