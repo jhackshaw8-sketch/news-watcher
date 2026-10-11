@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-08T05:05:05.115733+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Doha Film Festival Unveils Competition Lineup Highlighting Middle Eastern Cinema",
-  "summary": "The Doha Film Festival has announced its 15-title competition lineup, emphasizing Middle East premieres and female filmmakers.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/festivals/doha-film-festival-female-filmmakers-and-middle-east-1236904400/"
- },
- {
-  "date": "2026-10-08T05:05:05.115733+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Doha Film Festival Announces 2026 International Feature Competition Lineup",
-  "summary": "Qatar\u2019s Doha Film Festival revealed the International Feature Film Competition lineup for its second edition happening this November.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/doha-film-festival-2026-international-feature-competition-1237149486/"
- },
- {
-  "date": "2026-10-08T05:05:05.115733+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "ConcernedApe Gives New Development Update on Haunted Chocolatier",
-  "summary": "Developer ConcernedApe has provided an official development update regarding the upcoming Stardew Valley semi-sequel, Haunted Chocolatier.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/stardew-valley-dev-haunted-chocolatier-official-update/"
- },
- {
-  "date": "2026-10-08T05:05:05.115733+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Star Trek's Kelvin Timeline Officially Returning for 60th Anniversary",
-  "summary": "Star Trek's alternate Kelvin timeline is officially making a return as part of a new 60th anniversary celebration release.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-trek-2009-kelvin-timeline-return-rediscovered/"
- },
- {
   "date": "2026-10-08T05:39:42.554642+00:00",
   "topic": "Tech News",
   "score": 8,
@@ -19479,5 +19435,38 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/red-dead-redemption-2-free-download-october-2026/"
+ },
+ {
+  "date": "2026-10-11T05:39:12.228708+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Rumored MacBook Pro Redesign Slated for 2027",
+  "summary": "Rumors suggest that the entry-level MacBook Pro could receive a major design overhaul as early as the first half of 2027.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x2zzes/macbook_pro_overhaul_entrylevel_model_to_gain_new/"
+ },
+ {
+  "date": "2026-10-11T05:39:12.228708+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "CD Projekt Red Details Upcoming Witcher 3 Remastered Fixes",
+  "summary": "CD Projekt Red has announced upcoming patches and fixes for The Witcher 3 Remastered, though community opinions on the changes remain divided.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/cd-projekt-red-witcher-3-bugs-issues-remastered-ps5"
+ },
+ {
+  "date": "2026-10-11T05:39:12.228708+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Shane Gillis Hosts Saturday Night Live",
+  "summary": "Shane Gillis hosts Saturday Night Live for the third time alongside musical guest Rosal\u00eda.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/saturday-night-live-shane-gillis-grace-reiter-1237154186/"
  }
 ]
