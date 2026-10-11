@@ -1,137 +1,5 @@
 [
  {
-  "date": "2026-10-08T10:40:48.089880+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "launch",
-  "headline": "New iPhone 18 Pro, Apple Watch, and AirPods Hit Stores Worldwide",
-  "summary": "The new iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5 have officially arrived in stores worldwide.",
-  "verified": "official",
-  "source": "Apple Newsroom",
-  "link": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/"
- },
- {
-  "date": "2026-10-08T10:40:48.089880+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Showcases iPhone 18 Pro Camera With New Photography Exhibition",
-  "summary": "Apple announced a new photography exhibition titled 'What Holds Us' to showcase the advanced camera capabilities of the iPhone 18 Pro.",
-  "verified": "official",
-  "source": "Apple Newsroom",
-  "link": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/"
- },
- {
-  "date": "2026-10-08T10:40:48.089880+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "business",
-  "headline": "Apple TV Shatters Records With 29 Wins at the Primetime Emmy Awards",
-  "summary": "Apple TV broke records at the 78th Primetime Emmy Awards, winning 29 awards overall and making Widow's Bay the most decorated freshman comedy.",
-  "verified": "official",
-  "source": "Apple Newsroom",
-  "link": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/"
- },
- {
-  "date": "2026-10-08T10:40:48.089880+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Minecraft Switch 2 Upgrade Free for Digital Owners",
-  "summary": "Minecraft is getting a Switch 2 edition upgrade that is free exclusively for digital owners.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/minecraft-nintendo-switch-2-upgrade-digital-only/"
- },
- {
-  "date": "2026-10-08T10:40:48.089880+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "other",
-  "headline": "Why Doctor Doom Is Hard to Beat",
-  "summary": "Director Joe Russo explains the formidable nature of Doctor Doom in Avengers: Doomsday.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/marvel-movies/joe-russo-explains-why-doctor-doom-is-very-difficult-to-beat-in-avengers-doomsday/"
- },
- {
-  "date": "2026-10-08T10:40:48.089880+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "P.T. Native PC Port 1.0 Released With Modern Features",
-  "summary": "A fan-made native PC port of P.T. 1.0 has been released with modern graphical features like ray tracing and DLSS 4.5.",
-  "verified": "reliable_reporter",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x033vr/pt_native_pc_port_10_is_out_now_with_dlss_45/"
- },
- {
-  "date": "2026-10-08T10:40:48.089880+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Blizzard Adds 2004 SD Toggle to WoW",
-  "summary": "Blizzard is adding a nostalgic SD toggle to World of Warcraft to ease controversial visual updates.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/world-of-warcraft/to-make-world-of-warcraft-forevers-controversial-skyborne-less-jarring-to-look-at-blizzard-is-going-back-to-2004/"
- },
- {
-  "date": "2026-10-08T10:40:48.089880+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "other",
-  "headline": "Samuel L. Jackson Confirms Avengers Return",
-  "summary": "Samuel L. Jackson confirms his return as Nick Fury in Avengers: Secret Wars despite lack of details from Marvel.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/marvel-movies/samuel-l-jackson-says-hes-in-avengers-secret-wars-but-marvel-hasnt-told-him-anything-else/"
- },
- {
-  "date": "2026-10-08T10:40:48.089880+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "rumor",
-  "headline": "Rockstar Discusses GTA 6 Mission Freedom and Storytelling",
-  "summary": "Rockstar co-president Rob Nelson discusses how GTA 6 strikes a balance between player freedom and structured storytelling.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-missions-rockstar-has-made-a-very-conscious-effort-to-open-things-up/"
- },
- {
-  "date": "2026-10-08T10:40:48.089880+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "update",
-  "headline": "Honda Delays CR-V Redesign and Shifts Civic Production \ud83d\ude97\ud83d\udca8",
-  "summary": "Honda has reportedly delayed the redesigned CR-V to spring 2027 and shifted next-generation Civic sedan production out of Indiana, altering its North American supply plans.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811170/honda-cr-v-redesign-delayed/"
- },
- {
-  "date": "2026-10-08T10:40:48.089880+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "business",
-  "headline": "How Jeff Bezos Inspired Ferrari's First EV \u26a1\ud83c\udfce\ufe0f",
-  "summary": "A 2016 chat between Jeff Bezos and Ferrari Chairman John Elkann reportedly provided the initial push that inspired Ferrari to develop its upcoming Luce EV.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811150/jeff-bezos-motivate-ferrari-ev/"
- },
- {
-  "date": "2026-10-08T10:40:48.089880+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "The Witcher: No Man's Land Officially Arriving Fall 2026 \ud83c\udfae\u2694\ufe0f",
-  "summary": "Netflix has officially announced that a brand-new Witcher project titled No Man's Land is arriving in Fall 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/witcher-no-mans-land-fall-2026-psa/"
- },
- {
   "date": "2026-10-08T11:05:16.642256+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -19006,5 +18874,126 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1x34pfh/netflix_still_trying_failing_to_make_its_baby/"
+ },
+ {
+  "date": "2026-10-11T11:03:36.228858+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "legal",
+  "headline": "Super Micro Contractor Pleads Guilty in Nvidia Chip Diversion Case",
+  "summary": "A Super Micro contractor has pleaded guilty in a scheme to illegally divert AI servers containing Nvidia chips to China.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x34kx8/super_micro_contractor_pleads_guilty_in_scheme_to/"
+ },
+ {
+  "date": "2026-10-11T11:03:36.228858+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Satya Nadella: Companies Should Have Trust Issues With AI",
+  "summary": "Microsoft CEO Satya Nadella advises companies to maintain a healthy level of skepticism and trust issues regarding AI adoption.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x3425n/satya_nadella_says_a_companys_relationship_with/"
+ },
+ {
+  "date": "2026-10-11T11:03:36.228858+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Worldwide PC Shipments Plummet Over 20 Percent",
+  "summary": "Global PC shipments have reportedly seen a significant drop of over 20%.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x33jsr/worldwide_pc_shipments_have_plummeted_by_over_20/"
+ },
+ {
+  "date": "2026-10-11T11:03:36.228858+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Nicolas Cage Refuses Future Amazon Work Over AI Dispute",
+  "summary": "Nicolas Cage states he will no longer work with Amazon following a dispute related to AI technology.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x32ouq/nicolas_cage_says_he_wont_work_with_amazon_again/"
+ },
+ {
+  "date": "2026-10-11T11:03:36.228858+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Scientists Advance Toward Self-Correcting Quantum Computers",
+  "summary": "Researchers have made a notable advancement toward developing error-correcting quantum computers.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x32jwt/scientists_move_a_step_toward_quantum_computers/"
+ },
+ {
+  "date": "2026-10-11T11:03:36.228858+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "other",
+  "headline": "Optogenetics Wins Nobel Prize for Brain Mapping Breakthroughs",
+  "summary": "Optogenetics wins the Nobel prize, highlighting significant neuroscience and technological innovations in brain mapping.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x322od/optogenetics_wins_the_nobel_one_neuroscience/"
+ },
+ {
+  "date": "2026-10-11T11:03:36.228858+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Samsung and SK Hynix Record Earnings Boost South Korea AI Spending",
+  "summary": "Record earnings from Samsung and SK Hynix are driving increased national spending in South Korea toward AI and youth programs.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x31s2d/samsung_sk_hynix_record_earnings_fuel_south_korea/"
+ },
+ {
+  "date": "2026-10-11T11:03:36.228858+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Inside Nvidia's Unique Culture and Stock-Heavy Perks Strategy",
+  "summary": "An inside look reveals how Nvidia scaled to a multi-trillion-dollar valuation while utilizing different employee perks like stock discounts instead of free lunches.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x31qo1/nvidia_built_a_5_trillion_company_while_making/"
+ },
+ {
+  "date": "2026-10-11T11:03:36.228858+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Cowboys & Aliens Finds New Life on Streaming",
+  "summary": "Daniel Craig's Cowboys & Aliens has surprisingly become a major streaming success.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/daniel-craig-sci-fi-western-cowboys-and-aliens-netflix-streaming-october-2026/"
+ },
+ {
+  "date": "2026-10-11T11:03:36.228858+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Tulsa King Season 5 Moves Production to New York",
+  "summary": "Taylor Sheridan's Tulsa King is relocating its story and production to New York for Season 5.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/tulsa-king-season-5-taylor-sheridan-thriller-location-change/"
+ },
+ {
+  "date": "2026-10-11T11:03:36.228858+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Chrono Trigger Collectibles Launching February 2027",
+  "summary": "Chrono Trigger collectibles including Frog, Robo, and Nu plushies are officially scheduled to launch in February 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/chrono-trigger-february-2027-return-new-collection/"
  }
 ]
