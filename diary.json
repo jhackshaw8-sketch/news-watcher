@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-08T03:41:02.654490+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Mixtape Sweeps 2026 AGDAs With Game of the Year Win",
-  "summary": "Developer Beethoven & Dinosaur won three awards at the 2026 Australian Game Developer Awards, including Game of the Year for Mixtape.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/mixtape-wins-game-of-the-year-at-the-2026-australian-game-developer-awards"
- },
- {
-  "date": "2026-10-08T03:41:02.654490+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Jesse Eisenberg Praises Julianne Moore in 'The Debut'",
-  "summary": "Jesse Eisenberg praised Julianne Moore's performance at the New York Film Festival premiere of his latest directorial feature, 'The Debut'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/the-debut-jesse-eisenberg-julianne-moores-oscar-frontrunner-nyff-1236905218/"
- },
- {
-  "date": "2026-10-08T03:41:02.654490+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Legendary Indian Star Nana Patekar Passes Away at 75",
-  "summary": "Renowned Indian Hindi and Marathi cinema star Nana Patekar has passed away at the age of 75 due to cardiac arrest.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/obituaries-people-news/nana-patekar-dead-parinda-krantiveer-1236905203/"
- },
- {
   "date": "2026-10-08T04:05:11.049095+00:00",
   "topic": "Gaming News",
   "score": 9,
@@ -19457,5 +19424,60 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/marvel-renames-robert-downey-jr-doctor-doom-avengers-doomsday/"
+ },
+ {
+  "date": "2026-10-11T03:41:22.300900+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Slamdance Drama 'Banr' Heads to Busan Market",
+  "summary": "The Slamdance Alzheimer's drama 'Banr' has secured worldwide sales through Cappu Films and is heading to the Busan market.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/slamdance-alzheimers-drama-banr-busan-market-1236907932/"
+ },
+ {
+  "date": "2026-10-11T03:41:22.300900+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Pakistani Thriller 'Wakhri' Secures International Distribution",
+  "summary": "The award-winning Pakistani thriller 'Wakhri' is rolling out its theatrical and broadcast releases across France, the U.K., Australia, and Brazil.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/pakistani-film-wakhri-france-uk-australia-brazil-release-1236907928/"
+ },
+ {
+  "date": "2026-10-11T03:41:22.300900+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Netflix Sci-Fi Hit Returns for Season 2 in Two Weeks",
+  "summary": "Netflix's critically acclaimed sci-fi cyberpunk series is returning for its second season in just two weeks.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/cyberpunk-edgerunners-season-2-netflix-best-sci-fi-series/"
+ },
+ {
+  "date": "2026-10-11T03:41:22.300900+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "legal",
+  "headline": "DOJ Investigates Networks Over TV Pool Suspension",
+  "summary": "The DOJ has launched an investigation into TV networks for suspending a pool amidst Trump's ban on CNN.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x2x9iq/doj_launches_investigation_of_networks_for/"
+ },
+ {
+  "date": "2026-10-11T03:41:22.300900+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "legal",
+  "headline": "Accuser Admits Claims Against Jay-Z Were False",
+  "summary": "The woman who previously accused Jay-Z of raping her when she was 13 has now stated that her claims were false.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x2woil/woman_who_accused_jayz_of_raping_her_aged_13_says/"
  }
 ]
