@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-10-08T22:05:22.202154+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Activision Rumored to Consider Halo Franchise Reboot",
-  "summary": "Reports suggest that Activision may be considering a reboot of the Halo series with a team at Sledgehammer Games.",
-  "verified": "unconfirmed",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot"
- },
- {
-  "date": "2026-10-08T22:05:22.202154+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Star Wars: Galactic Racer Reviewed",
-  "summary": "A critical review of Star Wars: Galactic Racer examining its arcade driving mechanics and nuance.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/star-wars-galactic-racer-review"
- },
- {
-  "date": "2026-10-08T22:05:22.202154+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Spider-Man Season 2 Confirms Venom and New Release Date",
-  "summary": "Season 2 of Your Friendly Neighborhood Spider-Man confirms the arrival of Venom and reveals a new release date alongside a suit update.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/marvel-tv-shows/your-friendly-neighborhood-spider-man-season-2-confirms-venom-and-a-new-release-date/"
- },
- {
-  "date": "2026-10-08T22:05:22.202154+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Witcher 3 Remastered PC Patch Fixes Lighting Concerns",
-  "summary": "CD Projekt Red has released a new PC patch for The Witcher 3 Remastered to fix divisive lighting changes and other issues.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc"
- },
- {
-  "date": "2026-10-08T22:05:22.202154+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Anthropic Launches Free AI Security Scans for Open-Source Projects",
-  "summary": "Anthropic is offering free periodic AI-powered security scans to help open-source projects detect vulnerabilities using its strongest models.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
- },
- {
-  "date": "2026-10-08T22:05:22.202154+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "IDC Reports 20 Percent Drop in Worldwide PC Shipments for Q3",
-  "summary": "IDC reports that worldwide PC shipments dropped by 20 percent year-over-year in the third quarter due to worsening macroeconomic conditions.",
-  "verified": "reliable_reporter",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2281788/idc-worldwide-pc-shipments-in-q3-fell-20-percent-from-last-year/"
- },
- {
-  "date": "2026-10-08T22:05:22.202154+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "SpaceX Announces Plans to Become a Major Mobile Carrier with Starlink",
-  "summary": "SpaceX has acquired low-band spectrum licenses and announced plans to launch Starlink Mobile to become a major US cellular carrier pending FCC approval.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier"
- },
- {
-  "date": "2026-10-08T22:05:22.202154+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "update",
-  "headline": "Tesla's Emergency Drive-Away Lets You Flee Superchargers Fast \u26a1\ud83d\ude97",
-  "summary": "Tesla introduces a new Emergency Drive Away feature allowing owners to escape from Superchargers while plugged in, despite the risk of heavy damage.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/tesla-supercharger-emergency-drive-away-feature/"
- },
- {
-  "date": "2026-10-08T22:05:22.202154+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "Stunning High-Res Shot of a Classic DeLorean \ud83d\udcf8\u2728",
-  "summary": "A high-resolution photo showcasing a classic DeLorean shared on Reddit.",
-  "verified": "unconfirmed",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x13taj/delorean_6000x4000/"
- },
- {
-  "date": "2026-10-08T22:05:22.202154+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "David Corenswet Stars in Potential Oscar Contender Mr. Irrelevant",
-  "summary": "David Corenswet stars in the upcoming Paramount film Mr. Irrelevant, which is being positioned as a potential Oscar contender.",
-  "verified": "reliable_reporter",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/awards/david-corenswet-superman-mr-irrelevant-oscars-nfl-screening-1236905819/"
- },
- {
-  "date": "2026-10-08T22:05:22.202154+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "First Official Reactions Drop for Marvel's VisionQuest",
-  "summary": "The first official reactions have been released for Marvel Studios' upcoming Disney+ series VisionQuest.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/visionquest-mcu-show-first-reactions/"
- },
- {
   "date": "2026-10-08T22:39:37.392598+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -15288,5 +15167,126 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/clayface-batman-gotham-details-dcu-james-watkins/"
+ },
+ {
+  "date": "2026-10-11T22:39:26.402980+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "What's Free and What's Locked in xAI's Grok",
+  "summary": "An overview details the limitations of the free tier for SpaceX and xAI's Grok chatbot heading toward 2026.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2281213/spacexai-grok-free-features-2026/"
+ },
+ {
+  "date": "2026-10-11T22:39:26.402980+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Opel STX Concept Keeps the Estate Alive With Ferrari-Inspired Flair \ud83d\ude97\u2728",
+  "summary": "Opel has revealed the STX Concept, showcasing a sleek estate design with styling cues reminiscent of classic Ferrari models.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/opel-is-keeping-the-estate-alive-with-its-stx-concept/"
+ },
+ {
+  "date": "2026-10-11T22:39:26.402980+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Ike Barinholtz Talks Playing Elon Musk in 'Artificial'",
+  "summary": "Actor Ike Barinholtz discusses balancing a menacing yet ridiculous portrayal of Elon Musk in Luca Guadagnino's AI film Artificial.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/artificial-ike-barinholtz-menacing-elon-musk-performance-1237154451/"
+ },
+ {
+  "date": "2026-10-11T22:39:26.402980+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Classic Stephen King Adaptation Hits HBO Max Milestone",
+  "summary": "Despite Stephen King's famous dislike of the film, a classic horror adaptation is dominating HBO Max's streaming charts for Halloween.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/stephen-king-the-shining-streaming-hit-hbo-max-october-2026/"
+ },
+ {
+  "date": "2026-10-11T22:39:26.402980+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Assessing Paramount's 'Avatar' Strategy",
+  "summary": "An analysis of Paramount's handling of the Avatar: The Last Airbender franchise highlights recent New York Comic-Con announcements.",
+  "verified": "reliable_reporter",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2283323/paramount-best-worst-thing-happen-avatar-the-last-airbender/"
+ },
+ {
+  "date": "2026-10-11T22:39:26.402980+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Netflix Crime Thriller Returns With New Season",
+  "summary": "Netflix's hit crime thriller series is officially returning with a brand-new season after a three-year hiatus.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/lupin-season-4-netflix-october-release-date/"
+ },
+ {
+  "date": "2026-10-11T22:39:26.402980+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "rumor",
+  "headline": "'WEIRD' Sequel Written But Seeking a Studio",
+  "summary": "Weird Al Yankovic reveals a written sequel to his biopic 'WEIRD' with Daniel Radcliffe attached, though it is currently seeking a studio.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x3jeen/weird_al_yankovic_reveals_a_sequel_to_his_biopic/"
+ },
+ {
+  "date": "2026-10-11T22:39:26.402980+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Remembering Actor Vladimir Baranov",
+  "summary": "Vladimir Baranov, known for playing Nicholas II in Russian Ark, has passed away at the age of 70.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x3hwuz/vladimir_baranov_who_played_nicholas_ii_in/"
+ },
+ {
+  "date": "2026-10-11T22:39:26.402980+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "update",
+  "headline": "Alex Gibney Discusses Hurdles Facing 'Musk' Documentary",
+  "summary": "Director Alex Gibney confirms Universal hesitated on overseas release plans for his 'Musk' documentary and discusses attempts to interview Elon Musk.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x3f09e/musk_director_alex_gibney_confirms_universal/"
+ },
+ {
+  "date": "2026-10-11T22:39:26.402980+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Revisiting 'The Ghost and the Darkness' at 30",
+  "summary": "A retrospective look at the historical adventure thriller The Ghost and the Darkness on its 30th anniversary.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x3eb6w/the_ghost_and_the_darkness_at_30_revisiting_the/"
+ },
+ {
+  "date": "2026-10-11T22:39:26.402980+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Luca Guadagnino's 'Artificial' Debuts With Strong Reviews",
+  "summary": "Luca Guadagnino's Artificial opens to strong critical reception, pulling an impressive early score on Rotten Tomatoes and Metacritic.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x3dukm/luca_guadagninos_artificial_review_thread/"
  }
 ]
