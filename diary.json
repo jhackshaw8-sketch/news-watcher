@@ -14672,5 +14672,104 @@
   "verified": "official",
   "source": "r/movies",
   "link": "https://www.reddit.com/r/movies/comments/1x407uh/the_mosquito_bowl_official_trailer_netflix/"
+ },
+ {
+  "date": "2026-10-12T17:05:23.617753+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Apple Plans Special October Event to Showcase New Macs and iPad Mini",
+  "summary": "Apple is planning a two-day product showcase in Los Angeles at the end of October to debut new Macs and an iPad Mini.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/12/new-macs-and-ipad-mini-in-los-angeles/"
+ },
+ {
+  "date": "2026-10-12T17:05:23.617753+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Meta Launches New Muse Wonder AI Models to Compete with Industry Leaders",
+  "summary": "Meta has launched two new AI models, Muse Wonder and Muse Wonder Full, aiming to compete with the top models in the industry.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+ },
+ {
+  "date": "2026-10-12T17:05:23.617753+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Elon Musk Donates Over $276 Million to Republican Midterm Efforts",
+  "summary": "Elon Musk has donated over $276 million to Republican midterm efforts, making him a top political donor.",
+  "verified": "reliable_reporter",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations"
+ },
+ {
+  "date": "2026-10-12T17:05:23.617753+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Stunning Audi A6 C8 Spotlight \ud83d\ude97\u2728",
+  "summary": "A high-resolution image showcasing the sleek design of the Audi A6 C8 is shared by a community member.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x47fgc/audi_a6_c8_2846x3788/"
+ },
+ {
+  "date": "2026-10-12T17:05:23.617753+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Universal Launches Fourth Film Composers Initiative",
+  "summary": "Universal has launched its fourth film composers initiative to discover and support rising musical talent across its studios.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/artisans/news/universal-fourth-film-composers-initiative-2026-1236909047/"
+ },
+ {
+  "date": "2026-10-12T17:05:23.617753+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "TMNT Returning in 2027 with New Prequel Series",
+  "summary": "Teenage Mutant Ninja Turtles is officially returning to a classic era in 2027 with a newly announced five-part prequel series.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/teenage-mutant-ninja-turtles-the-first-ronin/"
+ },
+ {
+  "date": "2026-10-12T17:05:23.617753+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Zelda: Majora's Mask Available as Free Download Now",
+  "summary": "The Legend of Zelda: Majora's Mask is officially available as a free download to claim right now for fans.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/legend-of-zelda-majoras-mask-free-download-claim-now/"
+ },
+ {
+  "date": "2026-10-12T17:05:23.617753+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "other",
+  "headline": "Nathan Fielder's Elizabeth Holmes Doc Reviewed",
+  "summary": "Nathan Fielder's bizarre new documentary about Elizabeth Holmes defies traditional expectations and explanations.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/you-can-see-everything-movie-review/"
+ },
+ {
+  "date": "2026-10-12T17:05:23.617753+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Next MCU Series Officially Releasing Early on Disney+",
+  "summary": "Marvel's next MCU live-action series is officially scheduled to release early on Disney+ ahead of its original window.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/visionquest-season-1-early-release-disney-plus-marvel-confirm/"
  }
 ]
