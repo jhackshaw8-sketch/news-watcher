@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-09T02:39:46.526562+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "OLED MacBook Pro Expected to Drive Major Display Growth",
-  "summary": "A new industry report indicates that upcoming OLED MacBook Pros will significantly boost premium notebook display shipments.",
-  "verified": "unconfirmed",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/08/oled-macbook-pro-to-help-boost-premium-display-shipments-per-report/"
- },
- {
-  "date": "2026-10-09T02:39:46.526562+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "update",
-  "headline": "Apple Releases AT&T Carrier Update for iOS 27.2 Beta",
-  "summary": "Apple has rolled out a new AT&T carrier update for the iPhone 18 Pro Max running the iOS 27.2 beta.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/08/apple-rolls-out-att-carrier-update-for-iphone-18-pro-max-on-ios-27-2-beta/"
- },
- {
-  "date": "2026-10-09T02:39:46.526562+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "rumor",
-  "headline": "GTA 6 Age Rating Hints at Direct Inventory Drug Use",
-  "summary": "Recent age rating details for GTA 6 suggest players will have direct inventory access to drug use for Lucia and Jason.",
-  "verified": "unconfirmed",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use"
- },
- {
-  "date": "2026-10-09T02:39:46.526562+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Paramount Boss Gives Update on HBO's 'Harry Potter' Series",
-  "summary": "Paramount boss David Ellison addresses the streaming future and plans surrounding HBO's upcoming Harry Potter series.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/hbo-harry-potter-series-streaming-paramount-plus-comments-david-ellison/"
- },
- {
-  "date": "2026-10-09T02:39:46.526562+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Superman Gets an Official New Look for 'Man of Tomorrow'",
-  "summary": "David Corenswet has teased a brand-new look for the Man of Steel in the upcoming DC project Man of Tomorrow.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/man-of-tomorrow-new-superman-costume-david-corenswet/"
- },
- {
-  "date": "2026-10-09T02:39:46.526562+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Jon Bernthal's 'The Amateur' Headed to HBO Max",
-  "summary": "The spy thriller The Amateur starring Jon Bernthal and Rami Malek is officially heading to HBO Max.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/jon-bernthal-the-amateur-hbo-max-streaming-october-2026/"
- },
- {
   "date": "2026-10-09T03:04:51.506401+00:00",
   "topic": "Movies",
   "score": 6,
@@ -14771,5 +14705,60 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/midnight-fantastic-four-galactus-debut-design/"
+ },
+ {
+  "date": "2026-10-12T02:42:43.908500+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Apple Plans Special In-Store iPhone Duo Demos",
+  "summary": "Apple is reportedly planning large iPhone Duo demo experiences at select retail stores.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x3q0xj/apple_planning_huge_iphone_duo_demo_experiences/"
+ },
+ {
+  "date": "2026-10-12T02:42:43.908500+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Pat McAfee Adds Super Bowl LXI Alternate Telecast to ESPN Lineup",
+  "summary": "Pat McAfee is expanding his ESPN role to include an alternate Field Pass telecast for Super Bowl LXI.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/pat-mcafee-espn-super-bowl-lxi-mnf-1237154517/"
+ },
+ {
+  "date": "2026-10-12T02:42:43.908500+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "business",
+  "headline": "Asian Producers Alliance Launched at Busan's ACFM",
+  "summary": "Five independent producer organizations from across Asia launched the Asian Producers Alliance at the Busan market.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/asian-producers-alliance-busan-acfm-korea-indonesia-1237154518/"
+ },
+ {
+  "date": "2026-10-12T02:42:43.908500+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Netflix Legal Drama to End with Season 5",
+  "summary": "Netflix's legal drama will officially conclude after its upcoming fifth season.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/the-lincoln-lawyer-netflix-better-suits-final-season/"
+ },
+ {
+  "date": "2026-10-12T02:42:43.908500+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Upcoming Book Franchise TCG and TTRPG Releases Announced for 2026",
+  "summary": "Various TCG and TTRPG adaptations based on major book franchises are slated for release throughout 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/book-tcg-and-ttrpg-releasing-2026/"
  }
 ]
