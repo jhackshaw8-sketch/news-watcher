@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-09T09:41:24.805688+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Capcom Evolves RE Engine for AI Generation",
-  "summary": "Capcom is evolving its in-house RE Engine to integrate AI tools for development, testing, and bug checking.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project"
- },
- {
-  "date": "2026-10-09T09:41:24.805688+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "update",
-  "headline": "Metro Redux Next-Gen Update Arriving This Month",
-  "summary": "Metro Redux is receiving a free next-gen update this October as the franchise surpasses 50 million sales.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039"
- },
- {
-  "date": "2026-10-09T09:41:24.805688+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Horror 'Motherwitch' Secures North American Distribution Deal",
-  "summary": "Dark Star Pictures has acquired North American rights for the Cyprus-set horror film 'Motherwitch' ahead of its Sitges premiere.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/sitges-cypriot-horror-motherwitch-north-america-1237150808/"
- },
- {
-  "date": "2026-10-09T09:41:24.805688+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "'Avengers: Doomsday' Announces Massive Theatrical Takeover Event",
-  "summary": "'Avengers: Doomsday' has officially announced a massive Doctor Doom themed takeover event six weeks ahead of its December theatrical release.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/avengers-doomsday-dunkin-menu-doctor-doom-munchkins-collectibles/"
- },
- {
-  "date": "2026-10-09T09:41:24.805688+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "rumor",
-  "headline": "GTA 6 Free DLC Leak Surfaces Ahead of Rumored November Launch",
-  "summary": "A leaked report suggests a free Grand Theft Auto 6 DLC will launch around November 19.",
-  "verified": "unconfirmed",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/gta-6-official-free-dlc-leaked/"
- },
- {
-  "date": "2026-10-09T09:41:24.805688+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Steam Offers Three 10/10 Masterpieces for Free Until October 12",
-  "summary": "Steam has officially made three highly-rated masterpieces completely free to play until October 12.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/steam-3-free-games-10-rated-masterpieces-october-2026/"
- },
- {
-  "date": "2026-10-09T09:41:24.805688+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Nintendo Officially Unveils The Legend of Zelda: Echoes of Hyrule",
-  "summary": "Nintendo has officially unveiled The Legend of Zelda: Echoes of Hyrule as an upcoming release.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/legend-of-zelda-echoes-of-hyrule-release-confirmed/"
- },
- {
-  "date": "2026-10-09T09:41:24.805688+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "10 Biggest Non-Marvel Movies Coming in 2027 and Their Release Dates",
-  "summary": "A compiled list reveals ten major non-Marvel movie releases and their scheduled dates for 2027.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/biggest-non-marvel-movies-2027-release-dates/"
- },
- {
   "date": "2026-10-09T10:05:46.610349+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -14265,5 +14177,148 @@
   "verified": "official",
   "source": "Variety",
   "link": "https://variety.com/2026/tv/global/jackson-brothers-jackie-jermaine-tito-marlon-documentary-1236908190/"
+ },
+ {
+  "date": "2026-10-12T09:45:42.561114+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "New GTA 6 Leak Sparks Skepticism and Crypto Scams",
+  "summary": "A new leaked GTA 6 video allegedly showing protagonist Lucia has sparked skepticism and community discussion about a possible crypto scam.",
+  "verified": "unconfirmed",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/latest-leaked-gta-6-video-shows-lucia-fully-naked-sparks-fan-skepticism"
+ },
+ {
+  "date": "2026-10-12T09:45:42.561114+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Blood of Dawnwalker Actor Highlights Human Performance Over AI",
+  "summary": "The lead actor of The Blood of Dawnwalker highlights the irreplaceable value of human performances over AI-generated voice lines.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover"
+ },
+ {
+  "date": "2026-10-12T09:45:42.561114+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Gunner, HEAT, PC! Drops New 2026 Trailer",
+  "summary": "A new 2026 trailer has been released for the military simulator game Gunner, HEAT, PC!",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x3wsm9/gunner_heat_pc_2026_trailer/"
+ },
+ {
+  "date": "2026-10-12T09:45:42.561114+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Haunted Chocolatier Will Be More of an Action RPG",
+  "summary": "Stardew Valley creator Eric Barone reveals that his upcoming game, Haunted Chocolatier, is more of an action RPG than a farming sim.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley"
+ },
+ {
+  "date": "2026-10-12T09:45:42.561114+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Microsoft President: AI Is Less Regulated Than Milk",
+  "summary": "Microsoft's president has publicly criticized the lack of government regulation surrounding artificial intelligence, comparing it unfavorably to common grocery items like milk.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2283487/microsoft-president-ai-less-regulated-than-a-carton-of-milk/"
+ },
+ {
+  "date": "2026-10-12T09:45:42.561114+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Is Citro\u00ebn Bringing Back the Iconic 2CV Fourgonette Van? \ud83d\ude90\u2728",
+  "summary": "Citro\u00ebn is considering reviving its classic 2CV-inspired Fourgonette van for modern roads.",
+  "verified": "unconfirmed",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/citroen-already-brought-back-the-2cv-now-its-fourgonette-van-could-get-the-same-treatment/"
+ },
+ {
+  "date": "2026-10-12T09:45:42.561114+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "update",
+  "headline": "Audi's Flagship A8 May Live On With a New Platform Shift \ud83d\ude97\ud83d\udca8",
+  "summary": "Audi and Porsche are reportedly weighing a Leipzig-built flagship sedan on a shared Panamera platform for around 2030.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811572/next-audi-a8-may-share/"
+ },
+ {
+  "date": "2026-10-12T09:45:42.561114+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Cannes-Winning Quijote Films Launches Scripted Series Division",
+  "summary": "Cannes-winning producer Quijote Films is expanding into scripted series with a new in-house development division based in Chile and Los Angeles.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/cannes-winning-quijote-films-launches-scripted-series-arm-1236907725/"
+ },
+ {
+  "date": "2026-10-12T09:45:42.561114+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "'Gnome Alone' Sequel 'Game Of Gnomes' Announced for AFM Launch",
+  "summary": "SC Films International has started production on the animated sequel 'Game Of Gnomes', with director Peter Lepeniotis returning.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/gnome-alone-sequel-game-of-gnomes-launching-afm-1237154639/"
+ },
+ {
+  "date": "2026-10-12T09:45:42.561114+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Analyst Values Skydance at $29 Billion Amid Debt Concerns",
+  "summary": "Media analyst Evan Shapiro has valued the newly combined Skydance at $29 billion due to significant assumed debt.",
+  "verified": "reliable_reporter",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/skydance-value-29b-evan-shapiro-media-universe-map-1237148876/"
+ },
+ {
+  "date": "2026-10-12T09:45:42.561114+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "'Mayor of Kingstown' Lands on Netflix With Four Seasons",
+  "summary": "Taylor Sheridan's crime thriller series 'Mayor of Kingstown' has officially made its debut on Netflix with four seasons.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/mayor-of-kingstown-netflix-streaming-october-2026/"
+ },
+ {
+  "date": "2026-10-12T09:45:42.561114+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Dan Levy Slams Shane Gillis' SNL Monologue",
+  "summary": "Actor Dan Levy publicly criticized Shane Gillis' recent Saturday Night Live monologue, calling for more men to speak out against its content.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/dan-levy-slams-shane-gillis-snl-monologue-more-men-stand-up-1236908799/"
+ },
+ {
+  "date": "2026-10-12T09:45:42.561114+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Bethesda Shares Fallout 5 Release Update",
+  "summary": "Bethesda has shared an update regarding the official release timeline and future of the highly anticipated Fallout 5.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/fallout-5-official-release-date-update-gamers-react/"
  }
 ]
