@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-09T06:06:33.568091+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "South Asian Filmmakers Vie for $150K Grants at Tasveer Film Market",
-  "summary": "South Asian filmmakers will compete for $150,000 in grants at the upcoming Tasveer Film Market with industry leaders like Netflix attending.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/south-asian-filmmakers-tasveer-film-market-1236906336/"
- },
- {
-  "date": "2026-10-09T06:06:33.568091+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Game of Thrones and Succession Stars Adapt Shows for Microdrama Platform Snips",
-  "summary": "Actors like Sarah Snook and Maisie Williams are adapting their past series into microdramas for the vertical video platform Snips.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/snips-microdramas-succession-game-of-thrones-stars-adapted-1237150762/"
- },
- {
-  "date": "2026-10-09T06:06:33.568091+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "AI-Produced Sci-Fi Series to Premiere Pilots at Mipcom",
-  "summary": "AI-produced sci-fi series 'Space Nation' and 'Kira' are set to premiere pilot episodes at Mipcom in Cannes.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/global/ai-space-nation-kira-mipcom-1236905523/"
- },
- {
   "date": "2026-10-09T06:47:49.460255+00:00",
   "topic": "Gaming News",
   "score": 8,
@@ -14474,5 +14441,38 @@
   "verified": "official",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/john-oliver-skydance-bosses-1237154555/"
+ },
+ {
+  "date": "2026-10-12T06:07:49.430783+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "New Indie Game We Will Die For You Announced",
+  "summary": "Solo developer Joe announced We Will Die For You, an indie game where players control a white blood cell fighting disease and upgrading across generations.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x3swzw/we_will_die_for_you_announcement_trailer/"
+ },
+ {
+  "date": "2026-10-12T06:07:49.430783+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Prime Video picks up Princess Diana documentary series with unheard audio",
+  "summary": "Prime Video has acquired the UK and Ireland rights to a Princess Diana documentary series featuring unheard audio.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/princess-diana-unheard-audio-series-prime-video-1237151052/"
+ },
+ {
+  "date": "2026-10-12T06:07:49.430783+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "business",
+  "headline": "Studiocanal boards pan-Asian survival thriller kiDnap Game",
+  "summary": "Studiocanal has boarded the pan-Asian survival thriller series kiDnap Game, which is set to be presented to buyers at Mipcom.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/global/studiocanal-boards-pan-asian-survival-thriller-kidnap-game-1236908460/"
  }
 ]
