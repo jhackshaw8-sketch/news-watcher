@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-09T03:04:51.506401+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Netflix\u2019s \u2018East of Eden\u2019 Cast Open Up About Iconic Roles",
-  "summary": "Cast members Hoon Lee, Joseph Zada, and Joe Anders share their experience and initial fear of taking on iconic roles in Netflix's upcoming 'East of Eden' adaptation.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/east-of-eden-netflix-hoon-lee-joseph-zada-joe-anders-interview/"
- },
- {
   "date": "2026-10-09T03:41:38.403294+00:00",
   "topic": "Tech News",
   "score": 5,
@@ -14760,5 +14749,16 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/book-tcg-and-ttrpg-releasing-2026/"
+ },
+ {
+  "date": "2026-10-12T03:06:01.547886+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Mass Effect Geth Dreadnought Replica Officially Releasing March 2027",
+  "summary": "The Mass Effect Geth Dreadnought Replica has been officially scheduled for release in March 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/mass-effect-dreadnought-geth-replica-march-2027/"
  }
 ]
