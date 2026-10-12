@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-09T08:41:54.962883+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "SpaceX Plans Big Push Into Mobile Carrier Market",
-  "summary": "SpaceX has announced plans to expand its telecommunications business by acquiring low-band spectrum to become a major mobile carrier.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2281967/spacex-major-mobile-carrier-low-band-spectrum-acquisition/"
- },
- {
-  "date": "2026-10-09T08:41:54.962883+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Fired OpenAI Safety Researchers Speak Out in Open Letter",
-  "summary": "Three recently fired OpenAI safety researchers have published an open letter disputing their dismissals and warning of a chilling effect on internal safety discussions.",
-  "verified": "reliable_reporter",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2281966/fired-openai-safety-researchers-dispute-their-dismissals-in-open-letter/"
- },
- {
-  "date": "2026-10-09T08:41:54.962883+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "update",
-  "headline": "Military Duty for the Ineos Grenadier! \ud83e\ude96\ud83d\ude99",
-  "summary": "Italy and Austria have adopted the Ineos Grenadier for their military fleets, while the UK continues competitive trials.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811292/ineos-grenadier-lands-first-military/"
- },
- {
-  "date": "2026-10-09T08:41:54.962883+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Jeremy Allen White Discusses Real-World Impact in Aaron Sorkin's The Social Reckoning",
-  "summary": "Jeremy Allen White and Mikey Madison discuss working with Aaron Sorkin on The Social Reckoning and address the harmful real-world impacts of social media algorithms.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/jeremy-allen-white-mikey-madison-the-social-reckoning-facebook-interview/"
- },
- {
-  "date": "2026-10-09T08:41:54.962883+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Icelandic Drama 'Elma' Sets October Premiere Date",
-  "summary": "The Icelandic crime thriller series 'Elma' is scheduled to premiere domestically on S\u00edminn on October 15.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/iceland-drama-elma-siminn-ncu-mipcom-1237150792/"
- },
- {
-  "date": "2026-10-09T08:41:54.962883+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Network 5 Profits Fall Sharply Amid Streaming Push",
-  "summary": "UK television network 5 reported a 64% drop in pre-tax profit down to \u00a311.93 million amid streaming investments.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/skydance-5-profit-drops-streaming-investment-1237146522/"
- },
- {
-  "date": "2026-10-09T08:41:54.962883+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "legal",
-  "headline": "Michael Ovitz Ordered to Finish Deposition",
-  "summary": "Michael Ovitz has been ordered to complete his deposition in the Julia Ormond case following a walkout.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x1c43i/michael_ovitz_ordered_to_complete_deposition_in/"
- },
- {
-  "date": "2026-10-09T08:41:54.962883+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "Charlie Cox Shouts Out 'Save Daredevil' Campaign",
-  "summary": "Charlie Cox acknowledged the 'Save Daredevil' campaign at NYCC following Disney+'s cancellation of 'Born Again'.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x18odl/charlie_cox_shouts_out_save_daredevil_campaign_at/"
- },
- {
   "date": "2026-10-09T09:06:05.732322+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -14309,5 +14221,60 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/811515/new-smart-city-car-revealed/"
+ },
+ {
+  "date": "2026-10-12T08:45:46.198172+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Apple HomeView Rumored to Launch Without App Store Support",
+  "summary": "Reports indicate the upcoming Apple HomeView device will lack an App Store and lock out third-party developers at launch.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x3w4st/apple_homeview_reportedly_has_no_app_store_and/"
+ },
+ {
+  "date": "2026-10-12T08:45:46.198172+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Modern Warfare 4 DMZ mode gets an early release",
+  "summary": "Infinity Ward has announced an early release for the DMZ mode in Call of Duty: Modern Warfare 4, though they have dismissed hopes for a dedicated PvE mode.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve"
+ },
+ {
+  "date": "2026-10-12T08:45:46.198172+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "New college football simulation game trailer drops",
+  "summary": "Brick and Banner: College Football Dynasty is a deep simulation game featuring live play-calling, team recruiting, and division progression.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x3jbt1/brick_and_banner_college_football_dynasty_brick/"
+ },
+ {
+  "date": "2026-10-12T08:45:46.198172+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Alpine Unveils Stunning Retro-Futuristic A310 Vision Concept \ud83d\ude97\u26a1",
+  "summary": "Alpine has revealed the stunning A310 Vision Concept, which utilizes the same upcoming all-electric platform as the new A110.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2026/10/alpine-looks-to-its-past-for-stunning-a310-vision-concept/"
+ },
+ {
+  "date": "2026-10-12T08:45:46.198172+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Alpine's New Retro-Futuristic Concept is a Absolute Head-Turner \ud83c\udfce\ufe0f\u2728",
+  "summary": "Renault's Alpine brand has showcased a gorgeous retro-futuristic concept car that draws heavy inspiration from its past.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811544/alpine-a310-vision-concept-debut/"
  }
 ]
