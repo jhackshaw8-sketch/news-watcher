@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-09T09:06:05.732322+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "business",
-  "headline": "Apple Expands AI Talent with Huxe Deal",
-  "summary": "Apple has signed a hiring and licensing deal with AI podcast startup Huxe, according to a European Commission filing.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/09/apple-signs-hiring-deal-ai-podcast-startup-huxe/"
- },
- {
-  "date": "2026-10-09T09:06:05.732322+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Report: Apple Cuts iPhone 18 Pro Orders",
-  "summary": "Reports indicate that Apple has reduced iPhone 18 Pro production orders due to anticipated soft market demand.",
-  "verified": "unconfirmed",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x1gcqk/apple_cuts_iphone_18_pro_orders_due_to_soft/"
- },
- {
-  "date": "2026-10-09T09:06:05.732322+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "business",
-  "headline": "Bugatti CEO's Advice for Europe \ud83c\udfce\ufe0f\ud83d\udca8",
-  "summary": "Bugatti CEO Mate Rimac advises European automakers to carve out unique niches rather than trying to out-compete Chinese EV manufacturers on screens and charging speeds.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/bugatti-ceo-proposes-way-for-europe-to-beat-chinese-threat/"
- },
- {
-  "date": "2026-10-09T09:06:05.732322+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "UTA and Gold House Form Industry Partnership",
-  "summary": "UTA and Gold House have formed a partnership to connect Asian creatives and investors with Hollywood, launching at the Busan International Film Festival.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/uta-gold-house-partner-asia-hollywood-1236906321/"
- },
- {
-  "date": "2026-10-09T09:06:05.732322+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Matlock Season 3 Receives Filming Update",
-  "summary": "Star Beau Bridges has provided a major filming update regarding Matlock Season 3 following its release delay.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/matlock-season-3-filming-update-2027-release/"
- },
- {
-  "date": "2026-10-09T09:06:05.732322+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Avatar: Seven Havens Unveils New Earthbender Avatar \ud83d\udcfa",
-  "summary": "Avatar: Seven Havens has officially been unveiled, introducing a new Earthbender Avatar 200 years after Korra with a massive franchise twist.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/avatar-seven-havens-pavi-earthbender-explained/"
- },
- {
   "date": "2026-10-09T09:41:24.805688+00:00",
   "topic": "Gaming News",
   "score": 7,
@@ -14276,5 +14210,60 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/811544/alpine-a310-vision-concept-debut/"
+ },
+ {
+  "date": "2026-10-12T09:07:55.131287+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Citro\u00ebn Revives the Iconic 2CV Van as a Retro Concept \ud83d\ude90\u2728",
+  "summary": "Citro\u00ebn has revealed the 2CV Fourgonnette Concept, giving the iconic classic work van a modern twist without confirming a production version.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811558/citroen-2-cv-fourgonnette-concept/"
+ },
+ {
+  "date": "2026-10-12T09:07:55.131287+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Leonine CEO Backs Skydance and Paramount Merger",
+  "summary": "Leonine Studios CEO Fred Kogel discusses the impact of the Skydance and Paramount merger on the German film and TV landscape.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/germany-leonine-skydance-1236908744/"
+ },
+ {
+  "date": "2026-10-12T09:07:55.131287+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "legal",
+  "headline": "Russell Brand Rape Trial Gets Underway in London",
+  "summary": "Russell Brand's criminal trial involving multiple charges of rape and sexual assault has officially commenced in London.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/russell-brand-rape-trial-underway-1237151175/"
+ },
+ {
+  "date": "2026-10-12T09:07:55.131287+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Paramount+ Removes Ridley Scott-Backed Sci-Fi Epic",
+  "summary": "Paramount+ is officially removing Ridley Scott's executive-produced sci-fi epic Blade Runner 2049 from its streaming library.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/ridley-scott-sci-fi-epic-blade-runner-2049-leaving-paramount-plus-november-2026/"
+ },
+ {
+  "date": "2026-10-12T09:07:55.131287+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Jackson Brothers Documentary Announced for MIPCOM",
+  "summary": "A new feature-length documentary about the Jackson 5 brothers Jackie, Jermaine, Tito, and Marlon is set to launch at MIPCOM.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/global/jackson-brothers-jackie-jermaine-tito-marlon-documentary-1236908190/"
  }
 ]
