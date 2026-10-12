@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-09T07:08:54.868874+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "'Haunted Hotel' Season 2 Review",
-  "summary": "Collider reviews Netflix's 'Haunted Hotel' Season 2, praising its dark comedy, inventive scares, and emotional depth.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/haunted-hotel-season-2-netflix-review/"
- },
- {
-  "date": "2026-10-09T07:08:54.868874+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "The Lord Of The Rings: Nazgul King Officially Releasing Spring 2027",
-  "summary": "The Lord of the Rings: Nazgul King project has been officially scheduled for a Spring 2027 release window.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/lord-of-the-rings-nazgul-king-spring-2027/"
- },
- {
   "date": "2026-10-09T07:41:23.474079+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -14441,5 +14419,49 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/811514/porsche-sales-fall-16-911/"
+ },
+ {
+  "date": "2026-10-12T07:14:14.121828+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Beta Film Lands Major Deals for New Dramas",
+  "summary": "Beta Film secures major international broadcast deals for its upcoming female-led dramas Queen Silvia and La Vida Barcelona ahead of Cannes.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/global/beta-film-queen-silvia-la-vida-barcelona-1236908698/"
+ },
+ {
+  "date": "2026-10-12T07:14:14.121828+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "New Blade Runner RPG Sets Up 2099 Series",
+  "summary": "A new Blade Runner RPG titled Replicant Rebellion has been released to set up the events of the upcoming Blade Runner 2099 series.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/blade-runner-replicant-rebellion-before-2099-show/"
+ },
+ {
+  "date": "2026-10-12T07:14:14.121828+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Ed Sheeran Announces New Tour Opening Acts",
+  "summary": "Ed Sheeran officially announces new opening acts for his upcoming tour following a recent controversy involving Macklemore.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x3smdl/ed_sheeran_announces_new_tour_opening_acts_after/"
+ },
+ {
+  "date": "2026-10-12T07:14:14.121828+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "business",
+  "headline": "Spanish Production Headed to Mipcom 2026",
+  "summary": "Audiovisual from Spain is bringing around 50 companies and institutions to Mipcom to showcase Spanish film, TV, and animation industries.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/global/spanish-production-mipcom-rights-ip-services-partnerships-1236907351/"
  }
 ]
