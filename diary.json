@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-09T01:41:03.106158+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Jensen Ackles Star in New Crime Thriller Series",
-  "summary": "Jensen Ackles has been announced to star in a new crime thriller series tailored for fans of his previous work.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/jensen-ackles-new-crime-thriller-rules-of-prey-tracker-replacement/"
- },
- {
-  "date": "2026-10-09T01:41:03.106158+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Major Gaming Shake-Up Unites Batman and TMNT",
-  "summary": "Warner Bros. and Paramount have merged their gaming divisions, uniting major franchises like Batman and TMNT under one roof.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/batman-tmnt-mortal-kombat-warner-bros-paramount-games-merger/"
- },
- {
-  "date": "2026-10-09T01:41:03.106158+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Yellowstone Sequel Marshals Becomes Massive Streaming Hit",
-  "summary": "Taylor Sheridan's Yellowstone sequel series Marshals debuted as the top scripted show on TV with 8 million viewers.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/taylor-sheridan-marshals-season-2-ratings-success-cbs-october-2026/"
- },
- {
-  "date": "2026-10-09T01:41:03.106158+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Charlie Cox Shouts Out Save Daredevil Campaign at NYCC",
-  "summary": "Charlie Cox acknowledged the 'Save Daredevil' fan campaign at NYCC following the recent cancellation news of the Disney+ series.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/charlie-cox-save-daredevil-campaign-1237150712/"
- },
- {
-  "date": "2026-10-09T01:41:03.106158+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Black Clover Season 2 Episode 2 Release Date Announced",
-  "summary": "Black Clover Season 2, Episode 2 has officially announced its release date and time for streaming platforms this weekend.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/black-clover-season-2-episode-2-release-date-time/"
- },
- {
-  "date": "2026-10-09T01:41:03.106158+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "DC Announces New Green Lantern Series Featuring Hal Jordan",
-  "summary": "DC officially announces a new Green Lantern comic series titled The Dying Of The Light, featuring the return of Hal Jordan.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/hal-jordan-return-dying-light-green-lantern-dc/"
- },
- {
-  "date": "2026-10-09T01:41:03.106158+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Nathan Fillion Headlines New HBO Detective Series",
-  "summary": "Nathan Fillion stars in a new 8-part HBO detective series featuring a critically praised ensemble cast.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/hbo-max-lanterns-detective-sci-fi-series-cast-best/"
- },
- {
-  "date": "2026-10-09T01:41:03.106158+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "DC Reveals Radical New Character Design for Classic Hero After 54 Years",
-  "summary": "DC has revealed a radical new character design for a classic superhero in its latest title after 54 years.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/etrigan-demon-jason-blood-redesign/"
- },
- {
   "date": "2026-10-09T02:05:44.570438+00:00",
   "topic": "Gaming News",
   "score": 8,
@@ -14859,5 +14771,60 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/marshals-season-2-episode-2-recap/"
+ },
+ {
+  "date": "2026-10-12T01:42:22.169806+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "iFixit Reveals Apple Watch Series 12 and Ultra 4 Repairability",
+  "summary": "iFixit published its teardown of the Apple Watch Series 12 and Ultra 4, revealing mixed repairability results.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/06/ifixit-tears-down-apple-watch-series-12-and-ultra-4-finds-mixed-repairability-results/"
+ },
+ {
+  "date": "2026-10-12T01:42:22.169806+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Busan Film Festival Welcomes Tamil Drama 'Selvi'",
+  "summary": "Tamil filmmaker Sailesh Rathnakumar's debut feature 'Selvi', starring Anjali Patil, is set to premiere in the Busan International Film Festival\u2019s Vision\u2013Asia section.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/festivals/busan-selvi-turns-nurse-working-hours-endurance-test-1236908624/"
+ },
+ {
+  "date": "2026-10-12T01:42:22.169806+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Parallax Films Acquires New Titles From Leading Chinese Women Directors",
+  "summary": "Sales agent Parallax Films has picked up new titles from prominent Chinese female directors Shao Yihui, Yang Lina, and Yin Lichuan for the Asian Contents & Film Market in Busan.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/chinese-women-directors-parallax-films-slate-busan-market-1236908619/"
+ },
+ {
+  "date": "2026-10-12T01:42:22.169806+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Dragon Ball Super: Beerus Premiere Crashes Crunchyroll",
+  "summary": "The premiere of Dragon Ball Super: Beerus on Crunchyroll temporarily crashed the streaming service due to overwhelming viewer demand.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/dragon-ball-super-beerus-broken-crunchyroll/"
+ },
+ {
+  "date": "2026-10-12T01:42:22.169806+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Krysten Ritter Talks Dexter: Resurrection Season 2 at NYCC 2026",
+  "summary": "Krysten Ritter discussed her return for Dexter: Resurrection season 2 and her past work during an interview at NYCC 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/video/dexter-resurrection-season-2-krysten-ritter-nycc-2026-interview/"
  }
 ]
