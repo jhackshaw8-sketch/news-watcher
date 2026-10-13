@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-10T23:02:46.802729+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "GTA 5 Made Playable in Browser via AI",
-  "summary": "GTA 5 has been made playable in a browser using AI-generated tools.",
-  "verified": "reliable_reporter",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x2rdt0/gta_5_made_playable_in_browser_as_aigenerated/"
- },
- {
-  "date": "2026-10-10T23:02:46.802729+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "New Naruto Projects Announced for the Decade",
-  "summary": "New Naruto manga, crossover anime, and projects were announced at NYCC as part of Project Rasengan.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/naruto-roadmap-project-rasengan/"
- },
- {
-  "date": "2026-10-10T23:02:46.802729+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "WOIM Sets October Release Date",
-  "summary": "Indie game WOIM announces its official release date for October 21st.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x2lpwl/woim_releases_october_21st_world_earthworm_day/"
- },
- {
-  "date": "2026-10-10T23:02:46.802729+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Glen Schofield on AAA Development and Retirement",
-  "summary": "Glen Schofield discusses his retirement, Callisto Protocol, and the state of AAA gaming in a new interview.",
-  "verified": "reliable_reporter",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x2koal/a_creative_idea_can_save_more_money_than_ai_can/"
- },
- {
-  "date": "2026-10-10T23:02:46.802729+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Loothold Official Announcement Trailer",
-  "summary": "An official announcement trailer has been released for the upcoming game Loothold.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x2j3ab/loothold_official_announcement_trailer/"
- },
- {
-  "date": "2026-10-10T23:02:46.802729+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Squadron 42 Releases New Wishlist Trailer",
-  "summary": "A new official wishlist trailer has been released for Squadron 42.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x2ibuf/squadron_42_official_wishlist_trailer/"
- },
- {
-  "date": "2026-10-10T23:02:46.802729+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Saving Private Ryan Leaves Peacock Soon",
-  "summary": "Steven Spielberg's Saving Private Ryan officially confirms its upcoming streaming departure date from Peacock.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/steven-spielberg-ww2-movie-saving-private-ryan-leaving-peacock-november-2026/"
- },
- {
-  "date": "2026-10-10T23:02:46.802729+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Netflix's New Thriller Series Lands Official Audience Verdict",
-  "summary": "A new Stephen King-esque thriller series on Netflix secures its official audience reception scores.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/below-netflix-stephen-king-comparisons-rotten-tomatoes-audience-score/"
- },
- {
   "date": "2026-10-10T23:36:51.738594+00:00",
   "topic": "Movies",
   "score": 6,
@@ -18390,5 +18302,137 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/netflix-wayne-action-series-perfect-binge-watch/"
+ },
+ {
+  "date": "2026-10-13T23:12:43.705038+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "Apple Gains Ground in China Smartphone Market Despite Q3 Decline",
+  "summary": "IDC report shows Apple gained market share in China during Q3 2026 despite an overall decline in smartphone shipments.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/13/idc-apple-gains-ground-as-chinas-smartphone-shipments-plunge-15-4-in-q3-2026/"
+ },
+ {
+  "date": "2026-10-13T23:12:43.705038+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "iOS 27 Brings Two Powerful New Features to Apple Home",
+  "summary": "Apple is introducing two powerful new features to the Apple Home app in iOS 27 ahead of new product launches.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/08/heres-everything-new-for-apples-home-app-in-ios-27/"
+ },
+ {
+  "date": "2026-10-13T23:12:43.705038+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Cerebras CEO Predicts Ubiquitous Personal AI Assistants",
+  "summary": "Cerebras CEO Andrew Feldman predicts widespread adoption of personal AI assistants running on local and cloud hardware.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
+ },
+ {
+  "date": "2026-10-13T23:12:43.705038+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Industrial Next Aims for Rapid Task-Switching in Factory Robots",
+  "summary": "Startup Industrial Next is developing technology to allow factory robots to switch tasks in minutes rather than weeks.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+ },
+ {
+  "date": "2026-10-13T23:12:43.705038+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Once Upon a Time in Harlem Gains Oscar Momentum",
+  "summary": "Documentary 'Once Upon a Time in Harlem' gains further Oscar momentum with five Critics Choice Documentary Award nominations following an extensive festival run.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/once-upon-a-time-in-harlem-david-liani-greaves-podcast-1237156136/"
+ },
+ {
+  "date": "2026-10-13T23:12:43.705038+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Clayface to Push DCU Limits With R-Rated Body Horror",
+  "summary": "The upcoming DCU film 'Clayface' will feature R-rated violence, visceral practical effects, and body horror according to stars Tom Rhys Harries and Naomi Ackie.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/clayface-r-rated-violence-body-horror-tom-rhys-harries-naomi-ackie/"
+ },
+ {
+  "date": "2026-10-13T23:12:43.705038+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Project Hail Mary Behind-the-Scenes Secrets Revealed",
+  "summary": "An emotional goodbye scene in 'Project Hail Mary' was inspired by improvisation and unique character design changes.",
+  "verified": "reliable_reporter",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2283787/project-hail-mary-goodbye-scene-inspiration-rocky-markings/"
+ },
+ {
+  "date": "2026-10-13T23:12:43.705038+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Paramount to Take Over and Reopen Pacific Palisades Bay Theater",
+  "summary": "Paramount Pictures and Rick Caruso are taking over the Bay Theater in Pacific Palisades, reopening the five-screen venue before the end of the year.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/bay-theater-palisades-to-reopen-paramount-1237156207/"
+ },
+ {
+  "date": "2026-10-13T23:12:43.705038+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Mike Flanagan Eyes Spielberg Franchise Reboots",
+  "summary": "Filmmaker Mike Flanagan has expressed interest in rebooting two Steven Spielberg classics to improve upon their flawed sequels with his horror sensibilities.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/mike-flanagan-reboot-hopes-steven-spielberg-jaws-jurassic-park/"
+ },
+ {
+  "date": "2026-10-13T23:12:43.705038+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Dexter: Resurrection Season 2 Premieres October 30",
+  "summary": "A star from 'Dexter: Resurrection' confirms a major storyline shift for Harrison Morgan in the upcoming second season premiering on October 30.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/dexter-resurrection-season-2-harrison-new-version-jack-alcott/"
+ },
+ {
+  "date": "2026-10-13T23:12:43.705038+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "The Blood of Dawnwalker Available for Free Download",
+  "summary": "Fans of The Blood of Dawnwalker can now download the new release for free without any catches.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/blood-of-dawnwalker-free-download-millions-spotify/"
+ },
+ {
+  "date": "2026-10-13T23:12:43.705038+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Jessica Rothe Breaks Down New Horror-Thriller River at NYCC 2026",
+  "summary": "Jessica Rothe discusses her role in the upcoming horror-thriller River during an interview at NYCC 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/video/river-horror-movie-jessica-rothe-nycc-2026-interview/"
  }
 ]
