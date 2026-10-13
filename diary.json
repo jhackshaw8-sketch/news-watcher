@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-10T05:38:50.550914+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Kopernicus: Incremental Suffering Releases New Demo Trailer",
-  "summary": "A demo trailer has been released for Kopernicus: Incremental Suffering.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x25o3u/kopernicus_incremental_suffering_demo_trailer/"
- },
- {
-  "date": "2026-10-10T05:38:50.550914+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "The Walking Dead: Aftermath Mobile Game Announced",
-  "summary": "The Walking Dead: Aftermath mobile game officially brings back Rick Grimes and Daryl Dixon.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/the-walking-dead-aftermath-season-1-characters-return/"
- },
- {
-  "date": "2026-10-10T05:38:50.550914+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Final Fantasy 9: Roses of May Releases This Month",
-  "summary": "A brand-new Final Fantasy 9 project titled Roses of May is officially releasing this month.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/final-fantasy-9-roses-of-may-october-2026-psa/"
- },
- {
   "date": "2026-10-10T06:04:42.610914+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -13715,5 +13682,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/brandon-sanderson-stormlight-tidebreakers-sequel-2027/"
+ },
+ {
+  "date": "2026-10-13T05:42:49.063390+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Apple Partners With The King's Trust for UK Creative Labs Initiative",
+  "summary": "Apple and The King's Trust are expanding their partnership to launch a new education program offering creative and digital skills workshops for young people in the UK.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/07/apple-partners-with-the-kings-trust-on-new-creative-labs-initiative-in-the-uk/"
+ },
+ {
+  "date": "2026-10-13T05:42:49.063390+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Star Trek: The Next Generation Game Launching Next Month",
+  "summary": "A brand-new Star Trek: The Next Generation game is officially launching next month to test superfan knowledge.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-trek-next-generation-november-2026-trivia/"
  }
 ]
