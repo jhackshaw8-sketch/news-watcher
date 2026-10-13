@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-10T00:50:26.917831+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Anthropic Restricts Internet Access for AI Evaluations",
-  "summary": "Anthropic disabled live internet access for its internal AI evaluations after finding it could not reliably control its AI agents.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
- },
- {
-  "date": "2026-10-10T00:50:26.917831+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Danny Trejo Responds to Backlash Over Daily Wire Film Role",
-  "summary": "Danny Trejo released a statement clarifying that he is pro-immigrant and not pro-ICE after facing backlash for starring in a Daily Wire film.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/danny-trejo-daily-wire-pawn-shop-not-pro-ice-1236907272/"
- },
- {
-  "date": "2026-10-10T00:50:26.917831+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Blumhouse Announces 'Amanda the Adventurer' Movie Adaptation",
-  "summary": "Blumhouse has announced that Matthew 'MatPat' Patrick is developing a feature film adaptation of the indie horror video game 'Amanda the Adventurer'.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/matthew-matpat-patrick-adapting-amanda-the-adventurer-blumhouse-1237153794/"
- },
- {
-  "date": "2026-10-10T00:50:26.917831+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Stunt Performer Spotlight Ahead of 'Other Mommy' Release",
-  "summary": "Stunt performer Molly Miller discusses her journey into the industry ahead of the theatrical release of 'Other Mommy' on October 9.",
-  "verified": "official",
-  "source": "Universal Pictures (trailers)",
-  "link": "https://www.youtube.com/watch?v=cT4PltL58Ts"
- },
- {
-  "date": "2026-10-10T00:50:26.917831+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Magic: The Gathering Announces Marvel Set and 'Avengers: Doomsday' Crossover",
-  "summary": "Magic: The Gathering has revealed its Marvel-themed 'Darkhold Destiny' set alongside a theater-only card giveaway for 'Avengers: Doomsday'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/gaming/news/magic-the-gathering-marvel-darkhold-destiny-doomsday-cards-1236906955/"
- },
- {
-  "date": "2026-10-10T00:50:26.917831+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Blumhouse Announces Movie Adaptation for Viral Horror Game Franchise \ud83c\udfac",
-  "summary": "Blumhouse is developing a movie adaptation of a viral horror video game franchise described as Dora the Explorer meets The Ring.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/amanda-the-adventurer-dora-the-ring-replacement-blumhouse-movie-development/"
- },
- {
   "date": "2026-10-10T01:08:48.631575+00:00",
   "topic": "Gaming News",
   "score": 8,
@@ -13858,5 +13792,82 @@
   "verified": "official",
   "source": "r/movies",
   "link": "https://www.reddit.com/r/movies/comments/1x48zdl/official_poster_for_greta_gerwigs_narnia_the/"
+ },
+ {
+  "date": "2026-10-13T00:54:05.402749+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Star Wars: Zero Company Developer Rehires Furloughed Staff",
+  "summary": "Star Wars: Zero Company developer Bit Reactor is working to bring back previously furloughed staff members ahead of the game's launch.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff"
+ },
+ {
+  "date": "2026-10-13T00:54:05.402749+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Sydney Sweeney Thriller Dominates HBO Max Streaming Charts",
+  "summary": "Sydney Sweeney's thriller The Housemaid becomes HBO Max's biggest streaming hit following its box office success.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2284837/sydney-sweeney-thriller-the-housemaid-streaming-hbo-max-october-2026/"
+ },
+ {
+  "date": "2026-10-13T00:54:05.402749+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Classic Stephen King Fantasy Epic Becomes a Streaming Hit",
+  "summary": "Frank Darabont's epic Stephen King adaptation emerges as a free streaming sensation.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/stephen-king-fantasy-epic-the-green-mile-free-streaming-success-tubi-october-2026/"
+ },
+ {
+  "date": "2026-10-13T00:54:05.402749+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "update",
+  "headline": "VisionQuest Star Confirms Young Avengers MCU Connection",
+  "summary": "Actor Ruaridh Mollica confirms his VisionQuest role connects to the Young Avengers in the MCU.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/visionquest-tommy-shepard-young-avengers-ruairidh-mollica-wanda-vision/"
+ },
+ {
+  "date": "2026-10-13T00:54:05.402749+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "High Potential Lands Super Bowl LXI Slot for February 2027",
+  "summary": "ABC announced that 'High Potential' will air immediately following Super Bowl LXI on Sunday, February 14, 2027.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/high-potential-post-super-bowl-lxi-slot-abc-1236909633/"
+ },
+ {
+  "date": "2026-10-13T00:54:05.402749+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "update",
+  "headline": "High Potential Eyes Special Episode Arc for Super Bowl Lead-Out",
+  "summary": "ABC is planning a special multi-part episode arc for 'High Potential' to air after its Super Bowl LXI broadcast.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/high-potential-post-super-bowl-slot-2027-2-part-abc-disney-1237155102/"
+ },
+ {
+  "date": "2026-10-13T00:54:05.402749+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "legal",
+  "headline": "Antitrust Experts Doubt DOJ Case Over White House TV Pool",
+  "summary": "Antitrust experts express doubt that Donald Trump's DOJ has a strong case in investigating major networks over the White House TV pool suspension.",
+  "verified": "reliable_reporter",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/doj-tv-press-pool-boycott-may-not-get-far-1237155017/"
  }
 ]
