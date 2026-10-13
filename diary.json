@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-10T09:39:24.126483+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Magic: The Gathering Marvel Darkhold Destiny Preorders Live",
-  "summary": "Preorders for Magic: The Gathering's upcoming Marvel: Darkhold Destiny set are now live ahead of its 2027 release.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/magic-the-gathering-marvel-darkhold-destiny-preorders-are-now-live"
- },
- {
-  "date": "2026-10-10T09:39:24.126483+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Busan Market Chief Announces Plans for Year-Round ACFM 365 Platform Amid Funding Challenges",
-  "summary": "The Asian Contents & Film Market is planning a year-round platform called ACFM 365, though public funding has stalled.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/busan-market-chief-ellen-kim-year-round-acfm-365-platform-1236907349/"
- },
- {
-  "date": "2026-10-10T09:39:24.126483+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Tom Cruise's 'Digger' Getting the IMAX Boot After Just One Week for Nolan's 'The Odyssey'",
-  "summary": "Tom Cruise's movie Digger is losing its IMAX screens after only one week to make room for Christopher Nolan's The Odyssey.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/tom-cruise-digger-removed-from-imax-box-office-disaster/"
- },
- {
-  "date": "2026-10-10T09:39:24.126483+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Why Tom Cruise's 'Digger' Final Shot Took 6 Months to Plan Out",
-  "summary": "The director of Tom Cruise's upcoming movie Digger reveals that the final shot took six months to plan out.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/digger-ending-final-shot-meaning-alejandro-g-inarritu-interview/"
- },
- {
-  "date": "2026-10-10T09:39:24.126483+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "First Poster Released for 'The Further Mis-Adventures of Cliff Booth'",
-  "summary": "The first poster for 'The Further Mis-Adventures of Cliff Booth' has been shared online.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x28u18/first_poster_for_the_further_misadventures_of/"
- },
- {
-  "date": "2026-10-10T09:39:24.126483+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "New Trailer Drops for Found Footage Horror Film 'McCurdy Point'",
-  "summary": "A new trailer has been released for the upcoming found footage horror movie 'McCurdy Point'.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x27tkd/new_trailer_for_found_footage_horror_mccurdy_point/"
- },
- {
-  "date": "2026-10-10T09:39:24.126483+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Lord of the Rings: The One Ring Officially Releases September 2027",
-  "summary": "The Lord of the Rings: The One Ring TTRPG is officially scheduled to release in September 2027.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/lord-of-the-rings-one-ring-september-2027/"
- },
- {
   "date": "2026-10-10T10:03:39.867526+00:00",
   "topic": "Gaming News",
   "score": 9,
@@ -14012,5 +13935,104 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/daveed-diggs-blindspotting-streaming-netflix-release-date-october-2026/"
+ },
+ {
+  "date": "2026-10-13T09:43:03.719123+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "update",
+  "headline": "WhatsApp Updates Video Player with Liquid Glass Design",
+  "summary": "WhatsApp has updated its video player interface to adopt the Liquid Glass design aesthetic.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/07/whatsapp-expands-the-liquid-glass-design-to-its-video-player/"
+ },
+ {
+  "date": "2026-10-13T09:43:03.719123+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Ace Combat 8 Receives Stellar Launch Review",
+  "summary": "Ace Combat 8: Wings of Theve features a thrill-packed campaign that takes the long-running franchise to new heights.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review"
+ },
+ {
+  "date": "2026-10-13T09:43:03.719123+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Abu Dhabi Integrates Ultrahuman Smart Ring Tech into Public Health App",
+  "summary": "The Abu Dhabi government is partnering with Ultrahuman to integrate smart ring health data into its public health application.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2284956/ultrahuman-abu-dhabi-partnership/"
+ },
+ {
+  "date": "2026-10-13T09:43:03.719123+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Marion Cotillard to Lead Marrakech Film Festival Jury",
+  "summary": "Marion Cotillard has been announced as the jury president for the 23rd Marrakech Film Festival.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/festivals/marion-cotillard-marrakech-film-festival-jury-president-1236909854/"
+ },
+ {
+  "date": "2026-10-13T09:43:03.719123+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Marion Cotillard Unveiled as Marrakech Festival Jury President",
+  "summary": "Oscar-winner Marion Cotillard is officially set to preside over the 23rd Marrakech International Film Festival jury.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/marion-cotillard-2026-marrakech-festival-jury-president-1237155441/"
+ },
+ {
+  "date": "2026-10-13T09:43:03.719123+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Rockstar Shares Red Dead Redemption 3 Update",
+  "summary": "Rockstar Games has shared updates regarding the potential future of Red Dead Redemption 3 as development shifts focus following GTA VI.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/red-dead-redemption-3-release-window-update/"
+ },
+ {
+  "date": "2026-10-13T09:43:03.719123+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "IvyBears Expands With Animated Feature Project",
+  "summary": "The YouTube breakout brand 'IvyBears' is heading to Cannes and spawning an animated feature film project.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/global/ivybears-series-feature-animation-ai-mipcom-moontrail-1236908753/"
+ },
+ {
+  "date": "2026-10-13T09:43:03.719123+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Jon Snow Returns in Game of Thrones Legends Event",
+  "summary": "Jon Snow and other Stark heroes officially return in the latest Game of Thrones: Legends event this October.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/game-of-thrones-jon-snow-hand-of-king-psa/"
+ },
+ {
+  "date": "2026-10-13T09:43:03.719123+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Bethesda Drops Fallout 5 Teaser and Production Details",
+  "summary": "Bethesda has provided an official gameplay teaser and confirmed production details for Fallout 5.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/fallout-5-official-gameplay-update-creation-engine/"
  }
 ]
