@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-10T08:03:37.724936+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "New Research Explores Salty Water for Data Center Cooling",
-  "summary": "Researchers explore using salty and dirty water as a sustainable alternative to cool large data centers.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x29k7j/can_salty_dirty_water_cool_data_centers/"
- },
- {
-  "date": "2026-10-10T08:03:37.724936+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Software Proposed to Ease AI Data Center Power Demands",
-  "summary": "Researchers state that software optimizations could alleviate the massive AI power squeeze expected from growing data centers.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x29b6n/software_could_be_the_easiest_fix_for/"
- },
- {
-  "date": "2026-10-10T08:03:37.724936+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Reports Claim ICE Uses Palantir Database to Track Protestors",
-  "summary": "Reports indicate that ICE is utilizing a Palantir database to compile dossiers on political protestors.",
-  "verified": "unconfirmed",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x2891v/ice_is_reportedly_using_a_palantir_database_to/"
- },
- {
-  "date": "2026-10-10T08:03:37.724936+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Autonomous Freight Rail Startup Parallel Systems Secures $100M+ Funding \ud83d\ude86\ud83d\udee4\ufe0f",
-  "summary": "Parallel Systems secures over $100 million in new funding to commercialize its autonomous freight rail technology.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x2821g/parallel_systems_closes_100m_in_new_funding_to/"
- },
- {
-  "date": "2026-10-10T08:03:37.724936+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Tulsa King Season 4 Officially Returns Next Week",
-  "summary": "Sylvester Stallone returns in Tulsa King Season 4 on Paramount+ in just one week.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/tulsa-king-season-4-paramount-plus-october-16-2026/"
- },
- {
-  "date": "2026-10-10T08:03:37.724936+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Star Trek: Deep Space Nine Returns With New Sequel on Nov 17 \ud83d\ude80",
-  "summary": "Star Trek: Deep Space Nine is officially returning with a new sequel set five years after the Dominion War, scheduled for release on November 17.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-trek-deep-space-nine-peacemakers-sequel-release/"
- },
- {
   "date": "2026-10-10T08:39:48.359720+00:00",
   "topic": "Movies",
   "score": 6,
@@ -13979,5 +13913,93 @@
   "verified": "official",
   "source": "Variety Film",
   "link": "https://variety.com/2026/artisans/global/god-of-war-mandalorian-grogu-cinema-gaming-view-1236909776/"
+ },
+ {
+  "date": "2026-10-13T08:07:47.524595+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "PlayStation 5 Digital Edition Midnight Black Announced for Japan",
+  "summary": "Sony has announced the PlayStation 5 Digital Edition Midnight Black, releasing exclusively in Japan on November 19.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x4qtvo/playstation_5_digital_edition_midnight_black/"
+ },
+ {
+  "date": "2026-10-13T08:07:47.524595+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Castlevania: Belmont's Curse Debuts to Positive Reviews",
+  "summary": "Castlevania: Belmont's Curse has launched on PC with a strong 86 average on OpenCritic.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x4qopk/castlevania_belmonts_curse_review_thread/"
+ },
+ {
+  "date": "2026-10-13T08:07:47.524595+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Gaming Event Criticized After Dropping Sponsor",
+  "summary": "A games event faces criticism following its decision to drop a sponsor over alleged political ties.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x4kuki/games_event_criticised_after_dumping_sponsor_over/"
+ },
+ {
+  "date": "2026-10-13T08:07:47.524595+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Graveyard Grift Receives Official Announcement Trailer",
+  "summary": "An official announcement trailer has been released for the newly revealed title Graveyard Grift.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x4igys/graveyard_grift_announcement_trailer/"
+ },
+ {
+  "date": "2026-10-13T08:07:47.524595+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "launch",
+  "headline": "Electric Moke Mk2 Gets 106-Mile Range Upgrade \ud83c\udfd6\ufe0f\u26a1",
+  "summary": "The Electric Moke Mk2 has been updated with a 23.5-kWh battery, offering a 106-mile range and a 50 mph top speed while retaining its classic beach-car design.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811726/electric-moke-mk2-range-specs/"
+ },
+ {
+  "date": "2026-10-13T08:07:47.524595+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Tommy & Tuppence Stars Tease Season 2 Hopes After Finale",
+  "summary": "Stars Josh Dylan and Antonia Thomas discuss the finale cliffhanger of Tommy & Tuppence and share their hopes for a potential Season 2.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/tommy-and-tuppence-finale-josh-dylan-antonia-thomas/"
+ },
+ {
+  "date": "2026-10-13T08:07:47.524595+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "U.K. Entertainment Industry Launches Whistleblowing Portal for Abuse and Harassment",
+  "summary": "A new whistleblowing portal has launched in the U.K. for entertainment industry workers to report abuse and harassment.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/global/whistleblowing-service-launches-in-uk-for-film-tv-workers-1236909610/"
+ },
+ {
+  "date": "2026-10-13T08:07:47.524595+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Nintendo Switch 2 Officially Drops Free Download For Acclaimed JRPG",
+  "summary": "A free download for a highly rated JRPG masterpiece has officially dropped on the Nintendo Switch 2.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/nintendo-switch-2-free-download-metaphor-refantazio/"
  }
 ]
