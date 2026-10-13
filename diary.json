@@ -1,115 +1,5 @@
 [
  {
-  "date": "2026-10-10T11:37:58.232021+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Rumor: Apple Store iPhone Duo Purchases Might Feature Personalized Boot Screens",
-  "summary": "Rumors suggest new iPhone Duo buyers at Apple Stores may have the option to personalize their boot-up screen with their name.",
-  "verified": "unconfirmed",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/10/iphone-duo-will-greet-some-owners-by-name-on-its-first-boot?utm_source=rss"
- },
- {
-  "date": "2026-10-10T11:37:58.232021+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Arc Raiders May Split PvE and PvP Modes",
-  "summary": "The executive producer of Arc Raiders stated the game could eventually be split into separate PvE and PvP modes.",
-  "verified": "reliable_reporter",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer"
- },
- {
-  "date": "2026-10-10T11:37:58.232021+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Tesla FSD Renamed to Assisted Driving in Europe \ud83d\ude97\ud83d\udca8",
-  "summary": "Tesla has rebranded its Full Self-Driving software to Assisted Driving in Europe in an effort to secure regulatory approvals.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2283007/tesla-full-self-driving-assisted-driving-europe/"
- },
- {
-  "date": "2026-10-10T11:37:58.232021+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "This Mini Coupe Clone Is Actually A Suzuki Swift \ud83d\ude97\u2728",
-  "summary": "An Indonesian Suzuki Swift owner created a unique two-seater replica inspired by the classic Mini Coupe.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/mini-suzuki-swift/"
- },
- {
-  "date": "2026-10-10T11:37:58.232021+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Behind the Scenes of Lee Chang-dong's 'Possible Love'",
-  "summary": "Cinematographer Kim Ji-yong discusses the intense planning and weather challenges behind Lee Chang-dong's upcoming film 'Possible Love'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/festivals/possible-love-dp-chasing-natural-light-lee-chang-dong-1236907392/"
- },
- {
-  "date": "2026-10-10T11:37:58.232021+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Building an Inclusive Set for 'Being Heumann'",
-  "summary": "Director Si\u00e2n Heder and producer Kevin Walsh discussed creating an inclusive and accessible production environment for 'Being Heumann' at Deadline's Contenders London.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/sian-heder-being-heumann-inclusive-contenders-london-1237153936/"
- },
- {
-  "date": "2026-10-10T11:37:58.232021+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple TV's Debut Sci-Fi Series Surges on Streaming",
-  "summary": "Apple TV's very first sci-fi series is experiencing a notable surge in streaming viewership seven years after its debut.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/see-apple-tv-streaming-success-october-2026/"
- },
- {
-  "date": "2026-10-10T11:37:58.232021+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Hollywood's Market for Asian Stories Remains a Fight",
-  "summary": "Lionsgate international president Helen Lee-Kim noted at the Busan International Film Festival that bringing Asian stories to Hollywood still requires significant effort.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/hollywood-execs-growing-market-asian-stories-busan-1236907387/"
- },
- {
-  "date": "2026-10-10T11:37:58.232021+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "Travis Knight Discusses the 16-Year Journey of LAIKA's 'Wildwood'",
-  "summary": "Director Travis Knight revealed at Contenders London that LAIKA's stop-motion fantasy epic 'Wildwood' took 16 years to make.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/wildwood-travis-knight-laika-contenders-london-1237153893/"
- },
- {
-  "date": "2026-10-10T11:37:58.232021+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "The Extreme Challenges of Making 'Everest: The Other Side'",
-  "summary": "Oscar-winning directors Elizabeth Chai Vasarhelyi and Jimmy Chin detailed the extreme difficulties of filming their documentary 'Everest: The Other Side'.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/chai-vasarhelyi-chin-talk-everest-other-side-london-1237151027/"
- },
- {
   "date": "2026-10-10T12:03:33.913564+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -14507,5 +14397,71 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/visionquest-speed-young-avengers-mcu-tease/"
+ },
+ {
+  "date": "2026-10-13T11:42:23.649274+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Sony Announces Midnight Black PS5 to Launch Alongside GTA 6 in Japan",
+  "summary": "Sony announced a Japan-exclusive Midnight Black PS5 model to launch on the same day as GTA 6.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/hardware/sony-announces-cheaper-midnight-black-ps5-to-launch-alongside-gta-6-its-just-a-shame-we-wont-be-able-to-buy-it/"
+ },
+ {
+  "date": "2026-10-13T11:42:23.649274+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "God of War Laufey Collector's Edition Releases Without the Game",
+  "summary": "The God of War Laufey Collector's Edition is releasing without a physical or digital copy of the game included.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/god-of-war/the-god-of-war-laufey-collectors-edition-is-the-latest-to-release-without-the-game-itself-and-thats-going-down-just-as-well-as-youd-expect-following-sonys-call-to-ditch-playstation-discs/"
+ },
+ {
+  "date": "2026-10-13T11:42:23.649274+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Movistar Plus & Skydance Extend Partnership for Joint Label",
+  "summary": "Movistar Plus and Skydance extended their strategic alliance to launch a joint label for local originals in Spain.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/movistar-plus-skydance-deal-extension-1237155508/"
+ },
+ {
+  "date": "2026-10-13T11:42:23.649274+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Pok\u00e9mon Masters EX Announces Ruby & Sapphire Era for Fall 2026",
+  "summary": "Pok\u00e9mon Masters EX is officially returning to the Ruby and Sapphire era in Fall 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/pokemon-ruby-sapphire-era-masters-ex/"
+ },
+ {
+  "date": "2026-10-13T11:42:23.649274+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Netflix Secures Exclusive Streaming Rights for FIFA World Cup 2030 in Spain",
+  "summary": "Netflix has secured the exclusive rights to stream every FIFA World Cup 2030 game live in Spain and Andorra.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/netflix-exclusive-fifa-world-cup-2030-spain-1237155504/"
+ },
+ {
+  "date": "2026-10-13T11:42:23.649274+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Star Trek Officially Concludes a Decade-Long Era",
+  "summary": "The Star Trek franchise is officially concluding a decade-long era as its future direction shifts.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-trek-starfleet-academy-season-2-end-streaming-era/"
  }
 ]
