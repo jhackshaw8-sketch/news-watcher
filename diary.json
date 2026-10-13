@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-10T06:04:42.610914+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "launch",
-  "headline": "New Tech Tattoos Change Color and Vanish Under Different Lights",
-  "summary": "Scientists have developed new tattoos that can alter their color or vanish entirely depending on the type of light they are exposed to.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x27ck8/scientists_create_tattoos_that_can_change_color/"
- },
- {
-  "date": "2026-10-10T06:04:42.610914+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Vietnamese Horror 'Bloodline: The Curse Within' Heads to Busan Market",
-  "summary": "Vietnamese supernatural horror 'Bloodline: The Curse Within' is heading to the Busan market for international sales ahead of its December 25 theatrical release.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/vietnamese-supernatural-horror-bloodline-the-curse-within-busan-market-1236907324/"
- },
- {
   "date": "2026-10-10T06:45:11.788536+00:00",
   "topic": "Movies",
   "score": 5,
@@ -13704,5 +13682,49 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/star-trek-next-generation-november-2026-trivia/"
+ },
+ {
+  "date": "2026-10-13T06:07:31.670678+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Jeep Reveals Mismatched 2027 Wrangler Switchback \ud83d\ude99\u2728",
+  "summary": "Jeep has revealed the 2027 Wrangler Switchback as the final Twelve 4 Twelve build, featuring mismatched panels, Gecko accents, and a special package option.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811702/2027-jeep-wrangler-switchback-twelve/"
+ },
+ {
+  "date": "2026-10-13T06:07:31.670678+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Thomas Benski Launches Lumina Media for Global Talent",
+  "summary": "Entrepreneur Thomas Benski is establishing Lumina Media as a new global home for talent spanning gaming and film.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/thomas-benski-lumina-media-omar-sy-benedict-cumberbatch-1237147921/"
+ },
+ {
+  "date": "2026-10-13T06:07:31.670678+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Danny Trejo's Son Makes Claims About Actor's Involvement in ICE Film",
+  "summary": "Danny Trejo's son claims the actor was unaware of Ben Shapiro until well into filming an ICE-related project.",
+  "verified": "unconfirmed",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x4ocow/danny_trejos_son_claims_actor_never_heard_of_ben/"
+ },
+ {
+  "date": "2026-10-13T06:07:31.670678+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "'Invincible' Officially Announces Winter 2026 Return Date",
+  "summary": "The animated series 'Invincible' has officially announced its return window for Winter 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/invincible-winter-2026-new-vs-release/"
  }
 ]
