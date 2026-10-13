@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-10T21:38:30.467095+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "update",
-  "headline": "Arc Raiders 2.0 Update Drives Massive Player Surge",
-  "summary": "The Arc Raiders 2.0 update introduces a new map and grappling hook, driving player counts to a seven-month high.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/arc-raiders-20-update-and-spider-man-grappling-hook-drive-player-count-to-reach-7-month-high"
- },
- {
-  "date": "2026-10-10T21:38:30.467095+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Mike Flanagan Joins Henry Cavill's Warhammer 40K Series",
-  "summary": "Prime Video's Warhammer 40K series starring Henry Cavill has tapped horror director Mike Flanagan for adaptation.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/warhammer-40k-tv-series-henry-cavill-mike-flanagan/"
- },
- {
-  "date": "2026-10-10T21:38:30.467095+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Quirky GAC Aion V Impresses With Incredible Value \ud83d\ude99\ud83d\udca8",
-  "summary": "A comprehensive review highlights that the quirky GAC Aion V offers exceptional value for money.",
-  "verified": "reliable_reporter",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/gac-aion-v-review-odd-looks-incredible-value/"
- },
- {
-  "date": "2026-10-10T21:38:30.467095+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "other",
-  "headline": "Stunning Pagani Zonda Nero Spotlight \u2728\ud83c\udfce\ufe0f",
-  "summary": "A stunning photo of the rare Pagani Zonda Nero is shared for automotive enthusiasts.",
-  "verified": "official",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x2n65w/pagani_zonda_nero_1561x_1118/"
- },
- {
-  "date": "2026-10-10T21:38:30.467095+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "The Witcher 3 Smashes Steam Record With Remastered Upgrade",
-  "summary": "The Witcher 3 sets a new Steam record with over 137,000 concurrent players following its free Remastered upgrade.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/witcher-3-remastered-steam-player-record/"
- },
- {
-  "date": "2026-10-10T21:38:30.467095+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Nicolas Cage Clarifies National Treasure 3 Status",
-  "summary": "Nicolas Cage has officially addressed his potential involvement in the long-discussed 'National Treasure 3'.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/national-treasure-3-nicolas-cage-return-clarified/"
- },
- {
-  "date": "2026-10-10T21:38:30.467095+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "New Naruto Anime Confirms Production And First Look",
-  "summary": "The Naruto franchise has officially confirmed production and provided a first look at a brand-new anime project.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/naruto-ninku-new-anime-reveal-nycc/"
- },
- {
-  "date": "2026-10-10T21:38:30.467095+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "Keanu Reeves' Constantine 2 Gets Major Update",
-  "summary": "Keanu Reeves' 'Constantine 2' has received a major and long-awaited production update after 21 years.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/keanu-reeves-constantine-2-dc-update-fans-wish-return/"
- },
- {
   "date": "2026-10-10T22:02:38.098829+00:00",
   "topic": "Tech News",
   "score": 8,
@@ -18324,5 +18236,115 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/michael-fassbender-hope-digital-release-october-2026-must-watch/"
+ },
+ {
+  "date": "2026-10-13T21:52:30.622997+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Apple Confirms HomeView Ships Without a Power Adapter",
+  "summary": "Apple has confirmed that the newly released wall-mounted HomeView does not include a power adapter in the box and published a support document for compatible chargers.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/13/psa-wall-mounted-homeview-may-not-work-if-you-buy-the-wrong-power-adapter/"
+ },
+ {
+  "date": "2026-10-13T21:52:30.622997+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "HomePod mini 2 Gains Support as Default Speaker for Select Macs",
+  "summary": "The new HomePod mini 2 now supports being set as the default speaker for select Mac models.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/13/homepod-mini-2-default-mac-speaker/"
+ },
+ {
+  "date": "2026-10-13T21:52:30.622997+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "USB-C Adoption on HomeView Expected to Spark New Ecosystem of Accessories",
+  "summary": "The adoption of USB-C connections for the Apple HomeView and its audio base is expected to open up new opportunities for third-party accessory makers.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/13/apple-homeview-accessories-will-expand-what-is-possible-with-the-home-hub?utm_source=rss"
+ },
+ {
+  "date": "2026-10-13T21:52:30.622997+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Dave the Diver and Subnautica 2 Announce Crossover",
+  "summary": "Mintrocket announced a crossover collaboration between Dave the Diver and Subnautica 2 at the Triple-i Showcase.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover"
+ },
+ {
+  "date": "2026-10-13T21:52:30.622997+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "OpenAI Discovers Hidden Recording Device in Offices Using AI",
+  "summary": "OpenAI discovered a sophisticated recording device hidden in its offices and used its own AI models to identify it.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/"
+ },
+ {
+  "date": "2026-10-13T21:52:30.622997+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "update",
+  "headline": "Stunning 2023 Audi R8 V10 Showcase \ud83c\udfce\ufe0f\u2728",
+  "summary": "A stunning high-resolution look at the powerful 2023 Audi R8 V10.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x57adn/2023_audi_r8_v10_1080x1440/"
+ },
+ {
+  "date": "2026-10-13T21:52:30.622997+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Sony Comedy 'Narcs' Rounds Out Its Cast",
+  "summary": "Callan Farris, Lexi Minetree, and Josh Macqueen have joined the cast of Sony Pictures' upcoming coming-of-age comedy Narcs.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/narcs-movie-cast-callan-farris-lexi-minetree-josh-macqueen-1237156170/"
+ },
+ {
+  "date": "2026-10-13T21:52:30.622997+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Dr. Stone Sequel Anime Officially Confirmed in Production",
+  "summary": "A brand-new official sequel anime has been confirmed to be in production for Dr. Stone.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/dr-stone-new-sequel-anime-terraforming-shonen-jump/"
+ },
+ {
+  "date": "2026-10-13T21:52:30.622997+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Stephen King-Approved Horror Series Sets Netflix Release",
+  "summary": "A horror series praised by Stephen King has set its official Netflix debut date ahead of its final season.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/from-series-netflix-premiere-date/"
+ },
+ {
+  "date": "2026-10-13T21:52:30.622997+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Carrie Coon Shares New Development Update on Ghostbusters",
+  "summary": "Carrie Coon provides an exclusive development update regarding the upcoming Ghostbusters projects.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/ghostbusters-5-new-update-carrie-coon/"
  }
 ]
