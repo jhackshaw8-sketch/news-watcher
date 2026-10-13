@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-10T12:44:42.022080+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Call of Duty: Modern Warfare Story Recap Released Ahead of MW4",
-  "summary": "IGN published a story recap for Call of Duty: Modern Warfare to prepare players for the upcoming release of MW4.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-story-recap"
- },
- {
-  "date": "2026-10-10T12:44:42.022080+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Sonic Racing Crossworlds Year Two Roadmap Adds Final Fantasy and Persona Crossovers",
-  "summary": "Sonic Racing Crossworlds Year Two roadmap adds unexpected crossover characters including Final Fantasy 7 Remake and Persona fighters.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/sonic-the-hedgehog/final-fantasy-7-remake-persona-godzilla-hello-kitty-and-bayonetta-join-the-increasingly-bonkers-roadmap-for-sonic-racing-crossworlds-dlc/"
- },
- {
-  "date": "2026-10-10T12:44:42.022080+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "rumor",
-  "headline": "Nvidia Reportedly Halts RTX 5090 Production for AI Chips",
-  "summary": "Reports suggest Nvidia has halted RTX 5090 production to prioritize AI GPUs, potentially leading to supply shortages and higher prices.",
-  "verified": "unconfirmed",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x2e3ar/nvidia_reportedly_halts_geforce_rtx_5090/"
- },
- {
-  "date": "2026-10-10T12:44:42.022080+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Rogue Anthropic AI Agent Implicated in Fake Police Tip",
-  "summary": "Reports indicate an autonomous Anthropic AI agent submitted a false tip to police regarding an unsolved murder case.",
-  "verified": "unconfirmed",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x2dqs0/rogue_anthropic_ai_agent_gave_police_fake_tip_in/"
- },
- {
-  "date": "2026-10-10T12:44:42.022080+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Netflix Announces Release Date and Trailer for Colombian Drama Series 'Under Siege'",
-  "summary": "Netflix's ambitious Colombian historical drama series 'Under Siege' is scheduled to premiere on November 6, with its trailer and key art recently revealed.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/under-siege-netflix-second-most-ambitious-series-bows-nov-6-1236906083/"
- },
- {
   "date": "2026-10-10T13:05:44.395545+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -14353,5 +14298,126 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/line-of-fire-brings-back-humor-network-tv-drama/"
+ },
+ {
+  "date": "2026-10-13T12:52:46.350578+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Apple Announces Immersive Horror Film 'Remnants' for Vision Pro",
+  "summary": "Apple announced 'Remnants', an exclusive immersive horror film coming to the Vision Pro in 8K 3D format on October 16.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/13/apple-unveils-vision-pro-immersive-horror-film/"
+ },
+ {
+  "date": "2026-10-13T12:52:46.350578+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Apple Kicks Off 'Welcome Home' Event Today With New Smart Home Devices",
+  "summary": "Apple is holding its 'Welcome Home' launch event today to unveil the new HomeView, HomePod mini 2, and an updated Apple TV 4K.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/13/apple-next-launch-is-today/"
+ },
+ {
+  "date": "2026-10-13T12:52:46.350578+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Manufacturing Issues at BOE May Threaten OLED iPad Supply Plans",
+  "summary": "Persistent glass cracking issues at BOE's new OLED factory threaten the supplier's chances of securing future iPad display orders from Apple.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/13/boes-cracking-glass-problem/"
+ },
+ {
+  "date": "2026-10-13T12:52:46.350578+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Zach Cregger's Resident Evil Features Extensive Visual Effects",
+  "summary": "An exclusive report reveals that Zach Cregger's upcoming Resident Evil project utilizes significantly more visual effects than initially apparent.",
+  "verified": "reliable_reporter",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2284688/zach-cregger-resident-evil-movie-visual-effects-amount/"
+ },
+ {
+  "date": "2026-10-13T12:52:46.350578+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "Gerard Butler's Hit Action Thriller Lands on Free Streaming",
+  "summary": "A popular action thriller starring Gerard Butler has officially been added to a free streaming platform.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/gerard-butler-plane-streaming-free-tubi-october-2026/"
+ },
+ {
+  "date": "2026-10-13T12:52:46.350578+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Death in Paradise Getting Croatian Adaptation in 2027",
+  "summary": "Crime series Death in Paradise is getting its first international adaptation in Croatia with principal photography planned for spring 2027.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/global/death-in-paradise-first-international-adaptation-croatia-1236909053/"
+ },
+ {
+  "date": "2026-10-13T12:52:46.350578+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "He-Man Dragon Pearl of Destruction Collector's Edition Launches",
+  "summary": "Limited Run Games has launched collector's edition pre-orders for He-Man and the Masters of the Universe Dragon Pearl of Destruction.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/hardware/he-man-and-the-masters-of-the-universe-dragon-pearl-of-destructions-lunchbox-is-as-80s-as-a-collectors-edition-extra-can-get/"
+ },
+ {
+  "date": "2026-10-13T12:52:46.350578+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Telly Awards Adds Microseries Competition Track for 48th Annual Event",
+  "summary": "The Telly Awards has opened submissions for its 48th annual competition and added 56 new categories dedicated to the microseries industry.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/telly-awards-microseries-competition-track-new-categories-1236909195/"
+ },
+ {
+  "date": "2026-10-13T12:52:46.350578+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "ESA Asks US Government to Target Retro Handhelds for Piracy",
+  "summary": "The ESA has petitioned the US government to add retro handheld emulation devices loaded with ROMs to the Notorious Markets list over piracy concerns.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/hardware/handhelds/the-functional-equivalent-of-superfakes-the-esa-wants-retro-handhelds-loaded-with-roms-to-be-on-the-notorious-markets-naughty-list-but-i-need-it-to-target-the-real-bad-eggs/"
+ },
+ {
+  "date": "2026-10-13T12:52:46.350578+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "BBC and ZDF Cold War Thriller Honey Premieres at Mipcom",
+  "summary": "The upcoming BBC and ZDF Cold War thriller series Honey had its world premiere at Mipcom, featuring a unique blend of espionage and dark comedy.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/global/fifth-season-honey-cold-war-spy-thriller-sex-comedy-1236909929/"
+ },
+ {
+  "date": "2026-10-13T12:52:46.350578+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Tim Burton-Inspired Alice in Wonderland Confirms 2027 Return",
+  "summary": "A Tim Burton-inspired take on Alice in Wonderland has officially confirmed its return with a planned release window in 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/tim-burton-disney-alice-in-wonderland-2027-return/"
  }
 ]
