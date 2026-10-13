@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-10T11:03:00.561940+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Konami Eyes Future Silent Hill Projects",
-  "summary": "Konami producer Motoi Okamoto reveals the company is already considering future projects beyond the current wave of Silent Hill games.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto"
- },
- {
-  "date": "2026-10-10T11:03:00.561940+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "launch",
-  "headline": "\ud83d\ude9a Telo MT1 Electric Mini Truck Impresses in Test Drive \ud83d\udd0b",
-  "summary": "A test drive of the Telo MT1 reveals a unique, highly compact electric truck with a cab-over design operating in the heart of tech country.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck"
- },
- {
-  "date": "2026-10-10T11:03:00.561940+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Kevin Costner's Dances with Wolves Arrives on Prime Video",
-  "summary": "Kevin Costner's epic Western masterpiece Dances with Wolves is now officially streaming on Prime Video.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/dances-with-wolves-kevin-costner-western-streaming-prime-video-october-2026/"
- },
- {
-  "date": "2026-10-10T11:03:00.561940+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Surprise Alien TV Series to Premiere Before Alien: Earth Season 2",
-  "summary": "An unexpected separate Alien TV series is slated to premiere before Alien: Earth season 2 arrives in its 2027 release window.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/alien-blade-runner-2099-connection-release/"
- },
- {
   "date": "2026-10-10T11:37:58.232021+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -14298,5 +14254,258 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1x4shre/jk_rowling_to_be_subject_of_bbc_documentary/"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Castlevania: Belmont's Curse Marks a Triumphant Series Return",
+  "summary": "Konami's classic series returns with Castlevania: Belmont's Curse, developed by Evil Empire for major platforms to glowing reviews.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/castlevania-belmonts-curse-review-roundup/"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "First Street Fighter Reactions Split Critics Down the Middle",
+  "summary": "First critical reactions to Street Fighter are mixed, with reviewers split on whether the game is a good time or falls flat.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/live-action-movies/first-reactions-to-street-fighter-movie-are-mixed-with-some-critics-calling-it-a-silly-fun-and-fearless-good-time-but-others-say-it-falls-flat/"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "business",
+  "headline": "Character.AI Files for Bankruptcy and Sells Assets to Disney",
+  "summary": "Character.AI has filed for bankruptcy and is selling part of its assets to Disney following mounting safety scrutiny and lawsuits.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "Porsche's Electric Sports Cars Go Mid-Engine \ud83d\udd0b\u26a1",
+  "summary": "Porsche's upcoming electric Boxster and Cayman will feature a mid-engine battery layout placed behind the seats to mimic traditional sports car dynamics.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811750/porsche-electric-718-batteries-instead-engine/"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "The Wolf of Wall Street Streaming Success Explored",
+  "summary": "Collider looks back at the streaming success of Martin Scorsese's The Wolf of Wall Street.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/wolf-of-wall-street-margot-robbie-streaming-paramount-plus-october-2026/"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Sony Pictures Honors Steel Magnolias and Dolly Parton",
+  "summary": "Sony Pictures shares a tribute trailer highlighting the legacy of Steel Magnolias and Dolly Parton.",
+  "verified": "official",
+  "source": "Sony Pictures (trailers)",
+  "link": "https://www.youtube.com/shorts/Se-WUyOWHWY"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Mortal Kombat II Behind-the-Scenes Featurette Released",
+  "summary": "Warner Bros. releases a behind-the-scenes featurette for Mortal Kombat II, exploring the franchise legacy ahead of its 2026 release.",
+  "verified": "official",
+  "source": "Warner Bros (trailers)",
+  "link": "https://www.youtube.com/watch?v=zspj96ju_08"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Quentin Tarantino's Cult Horror Classic Hits Free Streaming",
+  "summary": "Quentin Tarantino's supernatural Western cult classic is now officially available to stream for free.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/quentin-tarantino-from-dusk-til-dawn-streaming-free-pluto-tv-october-2026/"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Sony Pictures Pays Tribute to Tim Curry",
+  "summary": "Sony Pictures shares a tribute to the late performer Tim Curry featuring footage from Annie.",
+  "verified": "official",
+  "source": "Sony Pictures (trailers)",
+  "link": "https://www.youtube.com/shorts/tTVxDivSfaU"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Interview With the Vampire 4K Clip Highlights Iconic Scene",
+  "summary": "Warner Bros. releases a 4K clip from Interview with the Vampire to celebrate its upcoming physical release.",
+  "verified": "official",
+  "source": "Warner Bros (trailers)",
+  "link": "https://www.youtube.com/watch?v=uKiVjl642nc"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Kate and Rooney Mara Open Up About Their First Movie Together",
+  "summary": "Kate and Rooney Mara discuss working together for the first time and collaborating with Werner Herzog.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/bucking-fastard-rooney-mara-kate-mara-interview/"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "casting",
+  "headline": "WWE Stars Drew McIntyre and Pat McAfee Cast in Disney's Hexed",
+  "summary": "WWE stars Drew McIntyre and Pat McAfee are reportedly cast as voice actors in Disney's upcoming animated film Hexed.",
+  "verified": "unconfirmed",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x4rxum/wwe_star_drew_mcintyre_and_pat_mcafee_have_been/"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "The Social Reckoning Trailer Teases Aaron Sorkin's Sequel",
+  "summary": "Sony Pictures drops a new 4K trailer for The Social Reckoning, an Aaron Sorkin-penned companion piece to The Social Network.",
+  "verified": "official",
+  "source": "Sony Pictures (trailers)",
+  "link": "https://www.youtube.com/watch?v=MfHEZw7Xw_c"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "New Creepy Clip Released From Zach Cregger's Weapons",
+  "summary": "A new clip from Zach Cregger's upcoming horror-thriller Weapons highlights a tense encounter in the woods.",
+  "verified": "official",
+  "source": "Warner Bros (trailers)",
+  "link": "https://www.youtube.com/shorts/TnyZRM9XMz0"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Zach Cregger's Resident Evil Gets IMAX Release Date",
+  "summary": "Sony Pictures releases promotional material for the new Resident Evil movie directed by Zach Cregger, set for an IMAX release.",
+  "verified": "official",
+  "source": "Sony Pictures (trailers)",
+  "link": "https://www.youtube.com/shorts/lb-haH8xTwE"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "The End of Oak Street Clip Shows Titanoboa Attack",
+  "summary": "Warner Bros. shares a bizarre clip from The End of Oak Street featuring a Titanoboa attack.",
+  "verified": "official",
+  "source": "Warner Bros (trailers)",
+  "link": "https://www.youtube.com/watch?v=YeOZwM-jurA"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Jim Caviezel Stars in Action-Thriller Ghost Soldier Trailer",
+  "summary": "Jim Caviezel stars as a quiet man defending his community in the official trailer for Ghost Soldier.",
+  "verified": "official",
+  "source": "Sony Pictures (trailers)",
+  "link": "https://www.youtube.com/watch?v=l0pTZqZWs-c"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Weapons Movie Clip Dives Deeper Into the Mystery",
+  "summary": "Another creepy clip from Zach Cregger's Weapons reveals more plot details about the missing children mystery.",
+  "verified": "official",
+  "source": "Warner Bros (trailers)",
+  "link": "https://www.youtube.com/watch?v=IralkImYBaA"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Insidious: Out of the Further Hits Theaters with Special Event",
+  "summary": "Sony Pictures promotes the theatrical release of Insidious: Out of the Further with a special immersive fan event video.",
+  "verified": "official",
+  "source": "Sony Pictures (trailers)",
+  "link": "https://www.youtube.com/shorts/ZXTuaE1z-1w"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Willy Wonka Classic Chocolate River Scene Shared",
+  "summary": "Warner Bros. shares a classic clip of the infamous chocolate river boat ride from Willy Wonka & the Chocolate Factory.",
+  "verified": "official",
+  "source": "Warner Bros (trailers)",
+  "link": "https://www.youtube.com/watch?v=oadOcORlwxw"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Lin Shaye Recaps the Franchise for Insidious: Out of the Further",
+  "summary": "Lin Shaye hosts a recap video to get audiences caught up before the release of Insidious: Out of the Further.",
+  "verified": "official",
+  "source": "Sony Pictures (trailers)",
+  "link": "https://www.youtube.com/watch?v=c07G-PQfH98"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Jensen Ackles Returns to Tracker for Season 4",
+  "summary": "Jensen Ackles officially returns to reprise his role as Russell Shaw in CBS's Tracker season 4.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/tracker-season-4-jensen-ackles-russell-shaw-return-official-reveal/"
+ },
+ {
+  "date": "2026-10-13T11:07:45.350042+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "MCU Young Avengers Teases Pay Off This Month",
+  "summary": "The MCU is finally paying off its Young Avengers teases with new content releasing this month.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/visionquest-speed-young-avengers-mcu-tease/"
  }
 ]
