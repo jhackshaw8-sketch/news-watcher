@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-10-10T14:03:00.007144+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "launch",
-  "headline": "New Apple TV 4K Expected on Tuesday",
-  "summary": "A new Apple TV 4K is expected to be announced at Apple's upcoming October 13 launch event.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/10/new-apple-tv-4k-is-coming-tuesday/"
- },
- {
-  "date": "2026-10-10T14:03:00.007144+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Skydance and Warner Bros. Discovery Mega-Merger Analyzed",
-  "summary": "A deep dive into the massive merger involving Skydance and Warner Bros. Discovery led by David Ellison.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure"
- },
- {
-  "date": "2026-10-10T14:03:00.007144+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "Top AI Agents for Text Messaging Reviewed",
-  "summary": "A curated list highlights the top AI agents currently capable of operating directly within text message interfaces.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
- },
- {
-  "date": "2026-10-10T14:03:00.007144+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Brad Bird Explains Why 'Ray Gunn' Found a Home Outside Pixar",
-  "summary": "Brad Bird discusses why he brought his animated film 'Ray Gunn' to Skydance rather than Pixar to target older audiences.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/brad-bird-ray-gunn-skydance-pixar-1236907403/"
- },
- {
-  "date": "2026-10-10T14:03:00.007144+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Directors Dive Into 'La Bola Negra' Themes at Contenders London",
-  "summary": "Directors Javier Calvo and Javier Ambrossi discuss the generational trauma and inspiration behind their film 'La Bola Negra' at Deadline's Contenders London.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/la-bola-negra-generational-trauma-contenders-london-1237151053/"
- },
- {
-  "date": "2026-10-10T14:03:00.007144+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Review: Brad Bird's 'Ray Gunn' is a Dazzling Sci-Fi Marvel",
-  "summary": "A glowing review praises Brad Bird's animated passion project 'Ray Gunn' as a heartfelt and visually dazzling sci-fi noir.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2269086/ray-gunn-review/"
- },
- {
-  "date": "2026-10-10T14:03:00.007144+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Variety Reviews Brad Bird's Animated Feature 'Ray Gunn'",
-  "summary": "Variety publishes a review for Brad Bird's retro-futurist noir animated feature 'Ray Gunn'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/reviews/ray-gunn-review-1236907330/"
- },
- {
-  "date": "2026-10-10T14:03:00.007144+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "First Reviews Praise Brad Bird's Sci-Fi Noir 'Ray Gunn'",
-  "summary": "Reviews from the London Film Festival praise Brad Bird's 'Ray Gunn' for its star-studded voice cast and sci-fi noir mashup style.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/ray-gunn-review-brad-bird-sam-rockwell-scarlett-johansson-1237152314/"
- },
- {
-  "date": "2026-10-10T14:03:00.007144+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Migali World Premiere Announced for MIPJunior",
-  "summary": "The animated spider princess tale 'Migali' is set to make its world premiere at MIPJunior on Oct. 10.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/markets-festivals/spider-princess-migali-mipcom-animated-series-1236905328/"
- },
- {
-  "date": "2026-10-10T14:03:00.007144+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Carrie 2026 TV Show Promises True Modernization",
-  "summary": "Mike Flanagan's upcoming 2026 TV adaptation of Carrie aims to properly modernize the classic story where the 2013 remake fell short.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/carrie-series-modern-update-2013-movie-failure/"
- },
- {
-  "date": "2026-10-10T14:03:00.007144+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Miss Peregrine's Home For Peculiar Children 15th Anniversary Edition Revealed",
-  "summary": "Miss Peregrine's Home For Peculiar Children is celebrating its 15th anniversary with a deluxe edition featuring new artwork.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/miss-peregrines-home-for-peculiar-children-deluxe-release-exclusive-artwork/"
- },
- {
   "date": "2026-10-10T14:38:26.433740+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -14650,5 +14529,71 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/playstation-plus-gta-5-leaving-november-2026/"
+ },
+ {
+  "date": "2026-10-13T14:10:51.469254+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "GTA 6 PC Release Rumored for Early 2027",
+  "summary": "A new report from GamesBeat suggests that GTA 6 will see a PC release in Q1 2027.",
+  "verified": "unconfirmed",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/gta-6s-pc-release-date-is-set-for-q1-2027-per-a-new-report"
+ },
+ {
+  "date": "2026-10-13T14:10:51.469254+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Sony Unveils Midnight Black PS5 Exclusive to Japan",
+  "summary": "Sony has revealed a sleek Midnight Black PlayStation 5 console exclusive to the Japanese market.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/playstation-5-midnight-black-japan-exclusive-console-controller-revealed/"
+ },
+ {
+  "date": "2026-10-13T14:10:51.469254+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Dan Houser Reflects on Max Payne 3",
+  "summary": "Dan Houser reflects on Max Payne 3 and admits he considers the Rockstar title to be a failure in some regards.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x4wr7r/i_got_that_completely_wrong_dan_houser_considers/"
+ },
+ {
+  "date": "2026-10-13T14:10:51.469254+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Skyrim Gets Massive Surprise DLC Drop on PS5",
+  "summary": "Skyrim has received a surprise, massive DLC drop on the PlayStation 5.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x4vfzq/skyrim_gets_surprise_dlc_drop_on_ps5_its_biggest/"
+ },
+ {
+  "date": "2026-10-13T14:10:51.469254+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "Ace Combat 8 and Zero Receive New Update Info",
+  "summary": "A new update and community post details information regarding Ace Combat 8 and Ace Combat Zero.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x4ufxc/ace_combat_8_wings_of_theve_about_ace_combat_zero/"
+ },
+ {
+  "date": "2026-10-13T14:10:51.469254+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Liminoid Launches Early Access Trailer",
+  "summary": "A new early access release trailer has been launched for the game Liminoid.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x4ps35/liminoid_early_access_release_trailer/"
  }
 ]
