@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-10T03:40:43.844435+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "ARC Raiders Rolls Out Frozen Trail 2.0 Update",
-  "summary": "ARC Raiders has released its Frozen Trail 2.0 update.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x253ja/frozen_trail_20_update_arc_raiders/"
- },
- {
-  "date": "2026-10-10T03:40:43.844435+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Eternal Tombs Outlines Demo and Launch Timeline",
-  "summary": "Eternal Tombs has shared its latest development progress, demo release details, Next Fest plans, and launch timeline.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x24pli/eternal_tombs_development_demo_release_next_fest/"
- },
- {
-  "date": "2026-10-10T03:40:43.844435+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Musk Slams Ambani Over Starlink India Delays",
-  "summary": "Elon Musk has criticized Indian billionaire Mukesh Ambani over regulatory delays affecting Starlink's launch in India.",
-  "verified": "reliable_reporter",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/"
- },
- {
-  "date": "2026-10-10T03:40:43.844435+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Cambodian Remake of 'Wedding Dress' Heads to Busan Market",
-  "summary": "Abnormal Studios is leading its Busan market slate with a Cambodian remake of the South Korean drama Wedding Dress.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/cambodian-wedding-dress-remake-abnormal-studios-busan-slate-1236907311/"
- },
- {
   "date": "2026-10-10T04:04:39.588789+00:00",
   "topic": "Tech News",
   "score": 8,
@@ -13671,5 +13627,27 @@
   "verified": "reliable_reporter",
   "source": "Deadline Film",
   "link": "https://deadline.com/2026/10/danny-trejo-son-never-heard-ben-shapiro-ice-film-1237155300/"
+ },
+ {
+  "date": "2026-10-13T03:44:12.639835+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Danny Trejo Unknowingly Signed Onto Daily Wire Film, Son Says",
+  "summary": "Danny Trejo's son reveals the actor was unaware of Ben Shapiro's involvement when signing onto the Daily Wire film 'Pawn Shop'.",
+  "verified": "reliable_reporter",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/danny-trejo-ben-shapiro-pro-ice-daily-wire-film-1236909708/"
+ },
+ {
+  "date": "2026-10-13T03:44:12.639835+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Vietnamese Sequel 'Sister Sister 3' Secures Major International Distribution Deals",
+  "summary": "The Vietnamese franchise sequel 'Sister Sister 3' has been picked up for international distribution by 3388 Films.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/markets-festivals/vietnamese-franchise-sequel-sister-sister-3-3388-films-1236909706/"
  }
 ]
