@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-10T09:03:36.315029+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Cruising the Canyons in a Lotus Elise \ud83c\udfce\ufe0f\ud83d\udca8",
-  "summary": "A stunning Lotus Elise enjoys a relaxing canyon drive on a day off.",
-  "verified": "reliable_reporter",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x240tz/took_the_day_off_to_unwind_in_the_canyons_lotus/"
- },
- {
-  "date": "2026-10-10T09:03:36.315029+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Stunning View of the JAS Tensei \ud83d\ude98\u2728",
-  "summary": "A striking image showcases the JAS Tensei in high resolution.",
-  "verified": "reliable_reporter",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x2263x/jas_tensei_1784x1004/"
- },
- {
-  "date": "2026-10-10T09:03:36.315029+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Tom Holland's Past Superhero Hit Finds New Life on Free Streaming",
-  "summary": "Tom Holland's Spider-Man: Far From Home is finding renewed streaming success as his latest blockbuster breaks box office records.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/spider-man-far-from-home-streaming-hit-tubi-october-2026/"
- },
- {
-  "date": "2026-10-10T09:03:36.315029+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Pok\u00e9mon Black & White Officially Return in 2027 Release",
-  "summary": "Pok\u00e9mon Black & White are officially returning with a release slated for 2027 alongside a new collectible.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/pokemon-black-white-new-2027-release/"
- },
- {
   "date": "2026-10-10T09:39:24.126483+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -14001,5 +13957,60 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/811730/new-jeep-renegade-teaser-europe/"
+ },
+ {
+  "date": "2026-10-13T09:06:56.264980+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Critical Role Partners with Hololive for Canon Daggerheart Campaign",
+  "summary": "Critical Role is partnering with Hololive for Shattered Legends, a new Daggerheart campaign featuring VTuber stars that will be canon for Exandria.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/critical-role-shattered-legends-vtubers-hololive-daggerheart/"
+ },
+ {
+  "date": "2026-10-13T09:06:56.264980+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "X Bundles Premium, Grok, and Cursor Into New Subscription",
+  "summary": "X has introduced a new monthly subscription bundle that includes X Premium, Grok, Grok Bot, and Cursor.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2284943/x-subscription-bundles-premium-grok-cursor/"
+ },
+ {
+  "date": "2026-10-13T09:06:56.264980+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "A Rare Masterpiece: The First Maserati 5000 GT Frua Resurfaces After 30 Years \u2728\ud83d\ude97",
+  "summary": "A rare Maserati 5000 GT Frua has resurfaced and received Classiche certification following a meticulous four-year restoration.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811736/first-maserati-5000-gt-frua/"
+ },
+ {
+  "date": "2026-10-13T09:06:56.264980+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "First Look Revealed for Horror Adaptation of 'The Divine Comedy'",
+  "summary": "Skincrawl Studios has released a first look at Patricio Valladares\u2019 horror adaptation of Dante\u2019s 'The Divine Comedy' following the completion of principal photography.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/patricio-valladares-the-divine-comedy-skincrawl-studios-1236909263/"
+ },
+ {
+  "date": "2026-10-13T09:06:56.264980+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "Critically Acclaimed Hidden Gem Series Headed to Netflix",
+  "summary": "A critically acclaimed series starring a cast member from 'The Boys' with a 100% Rotten Tomatoes score is heading to Netflix this October.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/daveed-diggs-blindspotting-streaming-netflix-release-date-october-2026/"
  }
 ]
