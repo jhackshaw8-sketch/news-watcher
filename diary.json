@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-10T23:36:51.738594+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "New Project 'All\u2019s Well That Ends Well' Heads to Busan Market",
-  "summary": "Director Choi Hyunyoung's subway disaster drama 'All\u2019s Well That Ends Well' is presented at the Busan Asian Project Market.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/subway-tragedy-drama-busan-asian-project-market-1236907802/"
- },
- {
-  "date": "2026-10-10T23:36:51.738594+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "'In a Violent Nature: Part 2' Officially Sets Release Date",
-  "summary": "Shudder announced the official release date for 'In a Violent Nature: Part 2' during its New York Comic Con panel.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/in-a-violent-nature-part-2-release-date-february-2027/"
- },
- {
-  "date": "2026-10-10T23:36:51.738594+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "'9-1-1' Officially Returns This Week for New Season",
-  "summary": "ABC's procedural hit '9-1-1' returns this week with what is slated to be its most ambitious season yet.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/9-1-1-abc-season-10-october-premiere-date/"
- },
- {
-  "date": "2026-10-10T23:36:51.738594+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Hulu Announces New 2027 Series Ahead of Major Fall 2026 Release",
-  "summary": "Hulu announces an upcoming series set for 2027 tied to one of its major Fall 2026 releases.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/remarried-empress-anime-adaptation-hulu/"
- },
- {
-  "date": "2026-10-10T23:36:51.738594+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "Pok\u00e9mon Officially Unveils Incredible Gyarados Redesign",
-  "summary": "The Pok\u00e9mon franchise has officially revealed a brand-new redesign for the iconic Gyarados.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/pokemon-shiny-gyarados-design-bear-walker-skateboard/"
- },
- {
-  "date": "2026-10-10T23:36:51.738594+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "How Street Fighter's 2026 Movie Must Fix Past Mistakes",
-  "summary": "An editorial breaks down how the upcoming 2026 Street Fighter movie can avoid the mistakes made by the 1994 original.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/street-fighter-2026-movie-1994-ryu-ken-guile-mistake/"
- },
- {
   "date": "2026-10-11T00:04:33.780968+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -18434,5 +18368,126 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/video/river-horror-movie-jessica-rothe-nycc-2026-interview/"
+ },
+ {
+  "date": "2026-10-13T23:47:42.888446+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "More Apple Announcements Expected Later This Month",
+  "summary": "Rumors suggest Apple may hold another event on October 27 with more product announcements on the horizon.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/13/apple-october-upcoming-products/"
+ },
+ {
+  "date": "2026-10-13T23:47:42.888446+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Website Clues Hint at Siri AI Coming to the Full-Sized HomePod",
+  "summary": "Image alt text on Apple's website hints that the full-sized HomePod may soon receive Siri AI features.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/13/full-sized-homepod-siri-ai-alt-text/"
+ },
+ {
+  "date": "2026-10-13T23:47:42.888446+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Peak Leaked for PS5 by ESRB Rating",
+  "summary": "The co-op adventure game Peak has been leaked for the PS5 via an ESRB rating.",
+  "verified": "unconfirmed",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/peak-has-been-leaked-for-ps5-by-the-esrb"
+ },
+ {
+  "date": "2026-10-13T23:47:42.888446+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "Shroud of the Avatar Reaches Zero Bugs Using AI",
+  "summary": "Ultima creator Richard Garriott claims that Shroud of the Avatar finally has zero bugs after eight years thanks to AI integration.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/rpg/after-8-years-ultima-creator-says-his-mmo-shroud-of-the-avatar-finally-has-zero-bugs-thanks-to-ai/"
+ },
+ {
+  "date": "2026-10-13T23:47:42.888446+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Science Corp Implants Vision-Restoring Chip in First Patient",
+  "summary": "Science Corporation successfully implanted its vision-restoring chip in its first patient with Stargardt disease, marking a major milestone in neural tech.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
+ },
+ {
+  "date": "2026-10-13T23:47:42.888446+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "FTC Accuses Martin Shkreli of Violating Lifetime Pharma Ban",
+  "summary": "The FTC alleges that Martin Shkreli violated his lifetime pharmaceutical industry ban by livestreaming about biotech stocks.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/"
+ },
+ {
+  "date": "2026-10-13T23:47:42.888446+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Zach Braff Stars in Uneasy Crime Drama 'Clean Hands'",
+  "summary": "Variety reviews the new fact-based crime drama 'Clean Hands' starring Zach Braff.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/reviews/clean-hands-review-1236910791/"
+ },
+ {
+  "date": "2026-10-13T23:47:42.888446+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Russell T. Davies Confirms Permanent Exit From Doctor Who",
+  "summary": "Russell T. Davies confirms he will not return for the upcoming Doctor Who reboot.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/doctor-who-reboot-russell-t-davies-not-returning/"
+ },
+ {
+  "date": "2026-10-13T23:47:42.888446+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "rumor",
+  "headline": "How 'IT: Welcome to Derry' Can Elevate Its Horror Formula",
+  "summary": "An opinion piece explores potential character team-ups in future seasons of 'IT: Welcome to Derry'.",
+  "verified": "unconfirmed",
+  "source": "Collider",
+  "link": "https://collider.com/it-welcome-to-derry-horror-hbo-max/"
+ },
+ {
+  "date": "2026-10-13T23:47:42.888446+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "legal",
+  "headline": "Golden Globes Face Ongoing Legal Battle Ahead of 84th Ceremony",
+  "summary": "The Golden Globes are facing an ongoing legal battle and infringement lawsuit in court dockets months before the 84th annual ceremony.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/golden-globes-legal-battle-trademark-1237156199/"
+ },
+ {
+  "date": "2026-10-13T23:47:42.888446+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Ridley Scott's Prometheus Universe Expands With Prime Video Stealth Sequel Next Month",
+  "summary": "Prime Video is set to release a cyberpunk show next month that acts as a stealth sequel expanding Ridley Scott's Prometheus universe.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/prometheus-blade-runner-2099-stealth-sequel/"
  }
 ]
