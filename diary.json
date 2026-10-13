@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-10T03:04:29.371341+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Alejandro Hidalgo to Direct Horror Film 'The Hungry One'",
-  "summary": "Director Alejandro Hidalgo is set to helm the supernatural horror film 'The Hungry One' for Abnormal Studios.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/exorcism-of-god-alejandro-hidalgo-malaysia-horror-hungry-one-1236907302/"
- },
- {
-  "date": "2026-10-10T03:04:29.371341+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Disney+ Series 'Percy Jackson' Streams on Netflix",
-  "summary": "Disney+ original series 'Percy Jackson and the Olympians' is temporarily streaming on Netflix.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/disney-plus-series-streaming-netflix-percy-jackson-limited-time-hit/"
- },
- {
-  "date": "2026-10-10T03:04:29.371341+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Official Discussion Thread for 'Matchbox The Movie'",
-  "summary": "An official Reddit discussion thread and poll have been posted for the release of 'Matchbox The Movie'.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x23r6e/official_discussion_matchbox_the_movie_spoilers/"
- },
- {
-  "date": "2026-10-10T03:04:29.371341+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Official Discussion Thread for 'Animals'",
-  "summary": "An official discussion thread and rating poll are now live for the release of 'Animals'.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x23r5p/official_discussion_animals_2026_spoilers/"
- },
- {
   "date": "2026-10-10T03:40:43.844435+00:00",
   "topic": "Gaming News",
   "score": 7,
@@ -13693,5 +13649,27 @@
   "verified": "official",
   "source": "9to5Mac",
   "link": "https://9to5mac.com/2026/10/07/spotify-starts-rolling-out-audiobooks-to-more-than-180-markets/"
+ },
+ {
+  "date": "2026-10-13T03:06:28.465395+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Robert Pattinson Gives Production Update On The Batman Part II",
+  "summary": "Robert Pattinson provided a brief update on 'The Batman Part II' after production was temporarily paused.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/robert-pattinson-update-the-batman-part-ii-pause-1237155306/"
+ },
+ {
+  "date": "2026-10-13T03:06:28.465395+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Danny Trejo's Son Defends Actor Over Daily Wire Film Backlash",
+  "summary": "Danny Trejo's son claims the actor was unaware of Ben Shapiro's background until well into filming their new project.",
+  "verified": "reliable_reporter",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/danny-trejo-son-never-heard-ben-shapiro-ice-film-1237155300/"
  }
 ]
