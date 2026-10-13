@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-10T06:45:11.788536+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Sebastian Stan Reflects on Post-Marvel Career",
-  "summary": "Sebastian Stan reflects on his 15-year Marvel journey and discusses his career trajectory and new film projects in a recent interview.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/sebastian-stan-fjord-marvel-bucky-barnes-interview/"
- },
- {
   "date": "2026-10-10T07:39:01.434902+00:00",
   "topic": "Movies",
   "score": 6,
@@ -13726,5 +13715,49 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/invincible-winter-2026-new-vs-release/"
+ },
+ {
+  "date": "2026-10-13T06:52:42.020311+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Chinese Cars in Norway Stored Sensitive Military Data \ud83d\ude97\ud83d\udd12",
+  "summary": "Chinese cars in Norway were found to have stored military exercise footage and access codes, raising security concerns.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x4p21n/chinese_cars_in_norway_stored_military_exercise/"
+ },
+ {
+  "date": "2026-10-13T06:52:42.020311+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "CXMT Claims Major Memory Breakthrough",
+  "summary": "China's CXMT has claimed a significant memory technology breakthrough that puts it ahead of competitors like Samsung and Hynix.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x4oxij/chinas_cxmt_claims_memory_breakthrough_ahead_of/"
+ },
+ {
+  "date": "2026-10-13T06:52:42.020311+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "UK Ministers Explore Compulsory AI Safety Reporting",
+  "summary": "UK ministers are exploring the implementation of compulsory AI safety reporting for major developers.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x4oq4b/uk_ministers_explore_compulsory_ai_safety/"
+ },
+ {
+  "date": "2026-10-13T06:52:42.020311+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Cheaper Electric Microbus Coming? VW Plans Big Fixes for Next ID. Buzz \ud83d\ude90\u26a1",
+  "summary": "Volkswagen plans to lower the price of the next-generation ID. Buzz by moving it to a new platform.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811704/next-gen-vw-id-buzz-confirmed/"
  }
 ]
