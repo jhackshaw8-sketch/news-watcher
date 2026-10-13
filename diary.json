@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-10T10:03:39.867526+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "New Halo Release Officially Arriving in Two Weeks",
-  "summary": "A new Halo release is officially scheduled to launch in just two weeks.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/halo-novel-release-date/"
- },
- {
-  "date": "2026-10-10T10:03:39.867526+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "launch",
-  "headline": "New Tech Enables Light-Controlled Tattoos",
-  "summary": "New Scientist reports on a novel technology allowing tattoos to be toggled on and off using light.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x2bgvy/tattoos_could_be_turned_on_and_off_with_light_new/"
- },
- {
-  "date": "2026-10-10T10:03:39.867526+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "other",
-  "headline": "Nikon Competition Winner Found to Be AI Generated",
-  "summary": "The winner of Nikon's Small World In Motion competition was revealed to be AI generated.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x2a0u2/winner_of_nikons_small_world_in_motion/"
- },
- {
-  "date": "2026-10-10T10:03:39.867526+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "business",
-  "headline": "Samsung Mobile Suffers $2.2B Loss Due to Memory Costs",
-  "summary": "Rising memory costs have resulted in Samsung's mobile division suffering a massive $2.2 billion loss this quarter.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x29ugj/rising_memory_costs_push_samsung_mobile_division/"
- },
- {
-  "date": "2026-10-10T10:03:39.867526+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "other",
-  "headline": "AI Photos Complicate Airbnb Bookings",
-  "summary": "An analysis highlights how AI-generated photos are complicating the Airbnb booking process and what users should look out for.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x29tah/ai_photos_are_making_it_harder_to_know_what_youre/"
- },
- {
-  "date": "2026-10-10T10:03:39.867526+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Brad Bird Gives Update on Passion Project 'Ray Gunn'",
-  "summary": "Director Brad Bird discussed his long-gestating passion project 'Ray Gunn' and his approach to optimistic futures at Deadline's Contenders London.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/brad-bird-ray-gunn-scarlett-johansson-sam-rockwell-1237153907/"
- },
- {
-  "date": "2026-10-10T10:03:39.867526+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "'Evil Dead Burn' Unleashed on Streaming",
-  "summary": "The horror film Evil Dead Burn is generating renewed interest and making waves following its official streaming release.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/evil-dead-burn-streaming-hit-hbo-max-october-2026/"
- },
- {
-  "date": "2026-10-10T10:03:39.867526+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Russell Crowe's 'The Pope's Exorcist' Returns to Streaming",
-  "summary": "Russell Crowe's supernatural horror film The Pope\u2019s Exorcist has officially returned to streaming just in time for the Halloween season.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/russell-crowe-horror-popes-exorcist-prime-video-october-2026/"
- },
- {
   "date": "2026-10-10T10:38:21.072322+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -14034,5 +13946,137 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/fallout-5-official-gameplay-update-creation-engine/"
+ },
+ {
+  "date": "2026-10-13T10:07:26.651936+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Epic Games Shifts Focus to AI as Disney Shooter Reportedly Delays",
+  "summary": "Epic Games CEO Tim Sweeney announces a major pivot toward AI acceleration as reports surface of a Disney shooter delay.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/epic-games-undergoes-huge-pivot-for-maximum-ai-acceleration-amid-reports-of-disney-shooter-delay-due-to-the-controversial-tech/"
+ },
+ {
+  "date": "2026-10-13T10:07:26.651936+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "GM Defense Unveils Driverless Silverado 3500HD Military Truck \ud83d\ude9a\ud83e\udd16",
+  "summary": "GM Defense has unveiled a driverless logistics truck based on the Chevrolet Silverado 3500HD, slated for military trials in 2027.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811745/gm-defense-silverado-military-ugv/"
+ },
+ {
+  "date": "2026-10-13T10:07:26.651936+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Raindance Launches U.K.'s First Major Vertical Film Festival and Market",
+  "summary": "Raindance is launching the U.K.'s first major vertical film festival and financing market to tap into the growing short-form vertical media boom.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/tv/global/raindance-to-launch-uk-first-vertical-media-festival-market-1236909834/"
+ },
+ {
+  "date": "2026-10-13T10:07:26.651936+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Spider-Man: Brand New Day Global Home Premiere Party Begins",
+  "summary": "Sony Pictures celebrates the global home premiere of Spider-Man: Brand New Day with a new trailer and watch-at-home availability.",
+  "verified": "official",
+  "source": "Sony Pictures (trailers)",
+  "link": "https://www.youtube.com/watch?v=CPzqXzpH-p8"
+ },
+ {
+  "date": "2026-10-13T10:07:26.651936+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Official Trailer Released for Aaron Eckhart Thriller Model Citizen",
+  "summary": "Warner Bros. has released the official trailer for Model Citizen, starring Aaron Eckhart as an amnesiac former police officer.",
+  "verified": "official",
+  "source": "Warner Bros (trailers)",
+  "link": "https://www.youtube.com/shorts/aYQCWyiKWIw"
+ },
+ {
+  "date": "2026-10-13T10:07:26.651936+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Sony Releases First 10 Minutes of Insidious: Out of the Further",
+  "summary": "Sony Pictures has released an extended 10-minute preview of Insidious: Out of the Further for home viewing.",
+  "verified": "official",
+  "source": "Sony Pictures (trailers)",
+  "link": "https://www.youtube.com/watch?v=GSOcspZfk0w"
+ },
+ {
+  "date": "2026-10-13T10:07:26.651936+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Watch the Full Official Trailer for Model Citizen",
+  "summary": "Warner Bros. Entertainment dropped the official trailer for Model Citizen, featuring Aaron Eckhart in a tense surveillance thriller.",
+  "verified": "official",
+  "source": "Warner Bros (trailers)",
+  "link": "https://www.youtube.com/watch?v=VczwWXoMKL0"
+ },
+ {
+  "date": "2026-10-13T10:07:26.651936+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Universal Spotlight on Forgotten Island Animator Genevieve Tsai",
+  "summary": "Universal Pictures features story artist Genevieve Tsai discussing her work on the theatrically released animated film Forgotten Island.",
+  "verified": "official",
+  "source": "Universal Pictures (trailers)",
+  "link": "https://www.youtube.com/watch?v=4UbZtYgEM0c"
+ },
+ {
+  "date": "2026-10-13T10:07:26.651936+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Extended Preview Drops for Spider-Man: Brand New Day Home Release",
+  "summary": "An extended preview for Spider-Man: Brand New Day has been released as the blockbuster becomes available to stream at home.",
+  "verified": "official",
+  "source": "Sony Pictures (trailers)",
+  "link": "https://www.youtube.com/watch?v=ITv7MbH9mTc"
+ },
+ {
+  "date": "2026-10-13T10:07:26.651936+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "BBC Announces Two-Part Documentary Focusing on J.K. Rowling",
+  "summary": "The BBC has commissioned a two-part documentary exploring the life, career, and contested cultural legacy of author J.K. Rowling.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/j-k-rowling-bbc-documentary-1237155450/"
+ },
+ {
+  "date": "2026-10-13T10:07:26.651936+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Final Fantasy: Till My Dawn Tears Flow Officially Releases October 14",
+  "summary": "A brand-new Final Fantasy release titled Till My Dawn Tears Flow is officially scheduled to launch on October 14.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/final-fantasy-14-till-my-dawn-tears-flow-october-2026/"
+ },
+ {
+  "date": "2026-10-13T10:07:26.651936+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "rumor",
+  "headline": "GTA 6 File Size Claimed to Be Leaked Online",
+  "summary": "The file size for Grand Theft Auto 6 has reportedly been leaked online by a gameplay leaker.",
+  "verified": "unconfirmed",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/gta-6-file-size-confirmed-by-gameplay-leaker/"
  }
 ]
