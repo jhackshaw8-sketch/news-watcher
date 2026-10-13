@@ -1,137 +1,5 @@
 [
  {
-  "date": "2026-10-10T01:08:48.631575+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Crazy Taxi: World Tour Drops Brazil Trailer",
-  "summary": "An official trailer titled Welcome to Brazil has been released for Crazy Taxi: World Tour.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x214g1/crazy_taxi_world_tour_official_welcome_to_brazil/"
- },
- {
-  "date": "2026-10-10T01:08:48.631575+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "FLAK Simulator Gets New Teaser Trailer",
-  "summary": "A teaser trailer has been released for the upcoming indie game FLAK Simulator.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x1zkzx/flak_simulator_teaser_trailer/"
- },
- {
-  "date": "2026-10-10T01:08:48.631575+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Medium Rare Showcases Demo Trailer",
-  "summary": "A demo trailer has been released to showcase gameplay for Medium Rare.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x1ytof/medium_rare_demo_trailer/"
- },
- {
-  "date": "2026-10-10T01:08:48.631575+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "WRC Is Finally Coming Back To America In 2027! \ud83c\udfce\ufe0f\ud83c\uddfa\ud83c\uddf8",
-  "summary": "The World Rally Championship is officially returning to the United States in August 2027 with gravel stages across Tennessee and Kentucky.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/wrc-coming-back-to-america-2027/"
- },
- {
-  "date": "2026-10-10T01:08:48.631575+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Ava DuVernay's '14th' Earns Praise at New York Film Festival",
-  "summary": "Ava DuVernay's powerful documentary sequel '14th' receives a positive review for its impactful historical exploration.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/reviews/14th-review-ava-duvernay-nyff-1236904880/"
- },
- {
-  "date": "2026-10-10T01:08:48.631575+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Blumhouse and Craig Zobel Adapt 'Something Is Killing The Children'",
-  "summary": "Director Craig Zobel and Blumhouse are teaming up to adapt the popular comic book series 'Something Is Killing The Children' into a feature film.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/something-is-killing-the-children-movie-craig-zobel-blumhouse-1237153820/"
- },
- {
-  "date": "2026-10-10T01:08:48.631575+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "'Family Guy' Holiday Special Tops Streaming Charts",
-  "summary": "A 'Family Guy' 2026 Halloween special has reportedly claimed the top streaming spot over major titles like 'Avengers: Endgame'.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/family-guy-halloween-special-overtakes-avengers-endgame-streaming-success-disney-plus-october-2026/"
- },
- {
-  "date": "2026-10-10T01:08:48.631575+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "casting",
-  "headline": "Danny Trejo Addresses Backlash Over Daily Wire Film Role",
-  "summary": "Danny Trejo defends his casting in an upcoming Daily Wire ICE film amid ongoing public backlash.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/danny-trejo-pro-immigrant-backlash-daily-wire-ice-film-1237153821/"
- },
- {
-  "date": "2026-10-10T01:08:48.631575+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Ava DuVernay Premieres '14th' at NYFF",
-  "summary": "Ava DuVernay's documentary '14th' closes the New York Film Festival with an impassioned defense of the Constitution.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/14th-review-ava-duvernay-documentary-1237153748/"
- },
- {
-  "date": "2026-10-10T01:08:48.631575+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Crunchyroll Announces 15 New Anime Series",
-  "summary": "Crunchyroll has announced a massive partnership to bring 15 anime series follow-ups, starting with Solo Leveling adaptations.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/crunchyroll-new-manhwa-anime-partnership-hayate/"
- },
- {
-  "date": "2026-10-10T01:08:48.631575+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Apple TV Cyberpunk Series Faces Unfilmable Quote",
-  "summary": "Apple TV's upcoming cyberpunk adaptation faces the challenge of adapting a notoriously unfilmable sci-fi opening line.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/neuromancer-greatest-sci-fi-opening-line-unfilmable-cyberpunk/"
- },
- {
-  "date": "2026-10-10T01:08:48.631575+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Sheriff Country Returns With High Stakes For Season 2",
-  "summary": "Sheriff Country returns to CBS with a plot-heavy season premiere setting up challenges for Morena Baccarin's character.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/sheriff-country-season-2-episode-1-review/"
- },
- {
   "date": "2026-10-10T01:40:25.123509+00:00",
   "topic": "Gaming News",
   "score": 8,
@@ -13869,5 +13737,71 @@
   "verified": "reliable_reporter",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/doj-tv-press-pool-boycott-may-not-get-far-1237155017/"
+ },
+ {
+  "date": "2026-10-13T01:12:27.752829+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Apple and Epic Clash in Latest App Store Court Filing",
+  "summary": "Apple and Epic Games are clashing over document production in their latest legal filing regarding App Store regulations.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x4j8zc/apple_and_epic_clash_over_document_production_in/"
+ },
+ {
+  "date": "2026-10-13T01:12:27.752829+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "legal",
+  "headline": "Volkswagen Recalls Over 22k ID.4 EVs Over Battery Fire Risks \u26a1\ud83d\udd25",
+  "summary": "Volkswagen has issued a recall for over 22,000 ID.4 electric vehicles due to an unresolved battery fire risk.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811614/volkswagen-id-4-recall-imposes/"
+ },
+ {
+  "date": "2026-10-13T01:12:27.752829+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Ridley Scott's Sci-Fi Spectacle Surges on Streaming",
+  "summary": "Ridley Scott's high-budget sci-fi sequel is experiencing a surge in streaming viewership ahead of the franchise's next installment.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/ridley-scott-alien-romulus-streaming-success-hulu-october-2026/"
+ },
+ {
+  "date": "2026-10-13T01:12:27.752829+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Netflix Thriller Returns With New Episodes This Week",
+  "summary": "Netflix's political thriller series returns with new episodes this week.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/the-diplomat-season-4-netflix-thriller-october-15-release/"
+ },
+ {
+  "date": "2026-10-13T01:12:27.752829+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Marvel Officially Unveils Thor's Latest Replacement",
+  "summary": "Marvel officially unveils a new replacement character taking on the mantle of Thor.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/marvel-thor-replacement-jane-foster-fighting-souls/"
+ },
+ {
+  "date": "2026-10-13T01:12:27.752829+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "High Potential Season 3 Confirms Early ABC Release Date",
+  "summary": "ABC announces an unexpected early release date for the third season of High Potential.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/high-potential-season-3-abc-early-release/"
  }
 ]
