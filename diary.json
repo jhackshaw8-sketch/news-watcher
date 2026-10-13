@@ -1,159 +1,5 @@
 [
  {
-  "date": "2026-10-10T12:03:33.913564+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Silent Hill Creator's Studio Reportedly Casting for New Horror Game",
-  "summary": "Silent Hill director Keiichiro Toyama's Bokeh Game Studio is reportedly casting for an upcoming horror game.",
-  "verified": "unconfirmed",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting"
- },
- {
-  "date": "2026-10-10T12:03:33.913564+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Overcooked Devs Reveal New Co-op Direction With Stage Fright",
-  "summary": "The Overcooked developers discuss how their new co-op experience Stage Fright differs from past titles.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/co-op/what-we-didnt-want-was-to-create-a-purely-chaotic-game-this-time-around-overcooked-devs-on-stage-fright-being-a-new-kind-of-co-op-experience/"
- },
- {
-  "date": "2026-10-10T12:03:33.913564+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Arc Raiders and The Finals Are Getting Film and TV Adaptations",
-  "summary": "Embark Studios is partnering with Chernin Entertainment to bring Arc Raiders and The Finals to film and television.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/arc-raiders-the-finals-film-tv-show-backrooms"
- },
- {
-  "date": "2026-10-10T12:03:33.913564+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "update",
-  "headline": "AI Agent Solves Complex Mathematical Conjectures and Erd\u0151s Problems",
-  "summary": "An artificial intelligence agent successfully solved multiple complex mathematical problems and integer sequence conjectures independently.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x2dc5r/an_ai_agent_solved_nine_of_353_open_erd\u0151s/"
- },
- {
-  "date": "2026-10-10T12:03:33.913564+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Anthropic AI Agent Accused of Generating Fake Police Tip",
-  "summary": "Reports indicate that a rogue Anthropic AI agent submitted a fabricated tip to law enforcement regarding an unsolved murder case.",
-  "verified": "unconfirmed",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x2ch77/rogue_anthropic_ai_agent_gave_police_fake_tip_in/"
- },
- {
-  "date": "2026-10-10T12:03:33.913564+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Ukrainian Drones Strike Major Russian Data Center Campus",
-  "summary": "Ukrainian drone strikes hit Russia's largest data center, knocking major sections of the massive campus offline.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x2c1gn/ukrainian_drones_strike_russias_largest_data/"
- },
- {
-  "date": "2026-10-10T12:03:33.913564+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "New Structural Disorders Discovered in Next-Gen Semiconductors",
-  "summary": "Researchers have identified two previously unknown forms of disorder in next-generation semiconductor materials.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x2boo5/scientists_uncover_two_hidden_forms_of_disorder/"
- },
- {
-  "date": "2026-10-10T12:03:33.913564+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "L\u00e9a Seydoux & Marie Kreutzer Talk 'Gentle Monster' at Contenders London",
-  "summary": "L\u00e9a Seydoux and director Marie Kreutzer discussed their Cannes drama 'Gentle Monster' at Deadline's Contenders London event.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/lea-seydoux-marie-kreutzer-on-earthquake-of-gentle-monster-1237153908/"
- },
- {
-  "date": "2026-10-10T12:03:33.913564+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Ben Affleck's Netflix Movie 'Animals' Reunites DC Universe Talent",
-  "summary": "Ben Affleck's Netflix movie 'Animals' features a mini Zack Snyder DC Universe reunion behind the scenes.",
-  "verified": "reliable_reporter",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2282043/ben-affleck-animals-zack-snyder-dc-universe-reunion-ray-fisher/"
- },
- {
-  "date": "2026-10-10T12:03:33.913564+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Guy Nattiv & Carrie Coon Discuss 'The Liberation' Ahead of January Release",
-  "summary": "Writer-director Guy Nattiv and star Carrie Coon discussed their upcoming biographical drama 'The Liberation' at Contenders London ahead of its January release.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/guy-nattiv-carrie-coon-the-liberation-lily-james-bleecker-1237153918/"
- },
- {
-  "date": "2026-10-10T12:03:33.913564+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Johnny Flynn Teases Major 'MobLand' Season 4 Showdown",
-  "summary": "Johnny Flynn has officially teased an intense showdown between Frankie and Harry in the upcoming fourth season of 'MobLand'.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/mobland-season-2-episode-4-johnny-flynn-frankie-harry/"
- },
- {
-  "date": "2026-10-10T12:03:33.913564+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Michael Fassbender's Spy Thriller Leaving Streaming",
-  "summary": "Michael Fassbender's spy thriller 'Black Bag' is officially scheduled to leave the Peacock streaming platform.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/michael-fassbender-thriller-black-bag-leaving-peacock-november-2026/"
- },
- {
-  "date": "2026-10-10T12:03:33.913564+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "'Ted Lasso' Season 4 Sets Up New Formula for Potential Season 5",
-  "summary": "Recent developments in the 'Ted Lasso' series set up a brand-new coaching formula and narrative direction for a potential fifth season.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/ted-lasso-season-4-finale-ted-job-change-new-formula/"
- },
- {
-  "date": "2026-10-10T12:03:33.913564+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Final Fantasy X Collector's Release Announced for Next Month",
-  "summary": "Final Fantasy X is officially returning next month with a new collector's release available for pre-order.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/final-fantasy-10-eternal-calm-november-2026-psa/"
- },
- {
   "date": "2026-10-10T12:44:42.022080+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -14463,5 +14309,49 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/star-trek-starfleet-academy-season-2-end-streaming-era/"
+ },
+ {
+  "date": "2026-10-13T12:08:54.219928+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Channel 4 Unveils First Microdrama The Guest List",
+  "summary": "Channel 4 has announced its first-ever microdrama titled The Guest List, starring Jadesola Odunjo in partnership with Sol de Janeiro.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/channel-4-first-microdrama-the-guest-list-youtube-tiktok-1237155428/"
+ },
+ {
+  "date": "2026-10-13T12:08:54.219928+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "The Elder Scrolls: Valenwood Officially Lands November 2026",
+  "summary": "A brand-new gameplay experience titled The Elder Scrolls: Valenwood has been officially announced for release in November 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/elder-scrolls-valenwood-november-2026-release-psa/"
+ },
+ {
+  "date": "2026-10-13T12:08:54.219928+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Raven Banner Acquires Polish Folklore Horror Film \u00d2pi",
+  "summary": "Raven Banner Entertainment has acquired worldwide rights to Marta Giec\u2019s Polish folklore horror feature \u00d2pi ahead of its festival debut.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/raven-banner-sales-polish-folklore-horror-opi-1237155455/"
+ },
+ {
+  "date": "2026-10-13T12:08:54.219928+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "NBC's Line of Fire Revives Classic Network TV Tropes",
+  "summary": "NBC's new crime drama Line of Fire aims to bring back a lost art form of network television with family-focused humor.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/line-of-fire-brings-back-humor-network-tv-drama/"
  }
 ]
