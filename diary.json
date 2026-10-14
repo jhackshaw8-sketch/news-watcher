@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-11T14:03:48.778362+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Mimic Busters Introduces Creative Hide-and-Seek Multiplayer",
-  "summary": "Mimic Busters is a new multiplayer party and hide-and-seek game featuring custom 3D model disguises.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x38jg2/mimic_busters_tape_corps_multiplayer_hide_and/"
- },
- {
-  "date": "2026-10-11T14:03:48.778362+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Relaxing Incremental Game Digging in the Desert Announced",
-  "summary": "Digging in the Desert is a relaxing incremental game where players drive a tiny island through an endless desert.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x38g15/digging_in_the_desert_desertdigginginc_drive_a/"
- },
- {
-  "date": "2026-10-11T14:03:48.778362+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Travis Knight Discusses Wildwood's 16-Year Journey",
-  "summary": "Director Travis Knight reflects on the 16-year production journey of Laika's stop-motion animated feature 'Wildwood' at its London premiere.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/wildwood-director-animation-16-year-journey-london-premiere-1236908166/"
- },
- {
-  "date": "2026-10-11T14:03:48.778362+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "launch",
-  "headline": "The Terminal List Returns to Prime Video",
-  "summary": "Chris Pratt's series 'The Terminal List' is officially returning to Prime Video this week after a four-year hiatus.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/chris-pratt-reacher-replacement-the-terminal-list-release-date-prime-video-october-2026/"
- },
- {
-  "date": "2026-10-11T14:03:48.778362+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Dexter: Resurrection Season 2 Tease",
-  "summary": "A returning star discusses breaking a 20-year tradition in the upcoming second season of Dexter: Resurrection.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/dexter-resurrection-season-2-eric-stonestreet-return-tease/"
- },
- {
-  "date": "2026-10-11T14:03:48.778362+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Star Trek: Starfleet Academy Sets 2027 Final Season",
-  "summary": "Star Trek: Starfleet Academy has officially confirmed a 2027 premiere date and details for its final season.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-trek-starfleet-academy-season-2-explained/"
- },
- {
   "date": "2026-10-11T14:39:27.191656+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -19534,5 +19468,159 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/resident-evil-leon-return-switch-2-collection/"
+ },
+ {
+  "date": "2026-10-14T14:23:16.636649+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Apple Introduces the HomePod Mini 2 With New Features",
+  "summary": "Apple has officially introduced the HomePod mini 2 alongside a roundup of its new features and changes.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/14/homepod-mini-2-all-the-new-features/"
+ },
+ {
+  "date": "2026-10-14T14:23:16.636649+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Drops Repair Support for Last 12-Inch MacBook and Older iPad",
+  "summary": "Apple has added the final 12-inch MacBook, sixth-generation iPad, and several Beats X colorways to its vintage and obsolete products list.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/14/apples-kills-support-for-last-12-inch-macbook-and-more?utm_source=rss"
+ },
+ {
+  "date": "2026-10-14T14:23:16.636649+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "rumor",
+  "headline": "Rockstar Reveals Official GTA 6 Development Secrets",
+  "summary": "Rockstar has provided a rare official update addressing the lengthy development cycle and internal challenges behind GTA 6.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/gta-6-bloomberg-jason-rockstar-development/"
+ },
+ {
+  "date": "2026-10-14T14:23:16.636649+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Ex-Disco Elysium Devs Launch Co-Op Studio",
+  "summary": "Former Disco Elysium developers have formed a new player- and developer-owned studio to create their next RPG.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/summer-eternal-studio-structure-player-non-profit"
+ },
+ {
+  "date": "2026-10-14T14:23:16.636649+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Rockstar Promises Shorter Waits After GTA 6",
+  "summary": "Rockstar Games leadership has assured fans that future titles following GTA 6 will have much shorter development cycles.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/gta-6-rockstar-8-years-grand-theft-auto-7/"
+ },
+ {
+  "date": "2026-10-14T14:23:16.636649+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Arc Raiders Playtesters Criticize PvE Mode",
+  "summary": "Players participating in the latest Arc Raiders testing period have criticized the PvE mode for lacking tension.",
+  "verified": "unconfirmed",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-pve-mode-called-bland-and-hollow-by-players-who-say-its-ruined-the-tension-but-others-say-its-the-game-they-always-wanted/"
+ },
+ {
+  "date": "2026-10-14T14:23:16.636649+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "LG Sound Suite Update Adds Google Cast and DTS:X",
+  "summary": "LG has updated its Sound Suite home theater system to include DTS:X and Google Cast support.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2286441/lg-adds-dtsx-and-google-cast-to-its-sound-suite-home-theater-system/"
+ },
+ {
+  "date": "2026-10-14T14:23:16.636649+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "WhatsApp Introduces Account-Free Call Joining",
+  "summary": "WhatsApp is adding a guest option to allow users to join calls without needing an account.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2286108/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/"
+ },
+ {
+  "date": "2026-10-14T14:23:16.636649+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Writing in style: Lamborghini's Miura tribute pen \ud83d\udd8b\ufe0f\ud83c\udfce\ufe0f",
+  "summary": "Lamborghini celebrates 60 years of the Miura with a special tribute pen featuring a working headlight.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2286454/montegrappa-lamborghini-miura-tribute-pen/"
+ },
+ {
+  "date": "2026-10-14T14:23:16.636649+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "other",
+  "headline": "Catching rays with this clean Mazda Miata \u2600\ufe0f\ud83d\ude97",
+  "summary": "A high-resolution photograph of a Mazda Miata enjoying the sunshine, shared by a community member.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x5sgu2/sunshine_mazda_miata_4787_x_3191/"
+ },
+ {
+  "date": "2026-10-14T14:23:16.636649+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Busan Vision Awards Winners Announced",
+  "summary": "Sakhya Byamba\u2019s \u201cZogsool\u201d won four prizes at the Busan International Film Festival\u2019s Vision Awards.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/festivals/zogsool-full-moon-busan-vision-awards-2026-1236911303/"
+ },
+ {
+  "date": "2026-10-14T14:23:16.636649+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Keegan-Michael Key to Narrate Einstein IMAX Film",
+  "summary": "Keegan-Michael Key will narrate an IMAX space-time adventure film about Albert Einstein scheduled for 2027.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/keegan-michael-key-einsteins-incredible-universe-release-date-2027/"
+ },
+ {
+  "date": "2026-10-14T14:23:16.636649+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "update",
+  "headline": "Production Begins on 'Pumping Black' Thriller",
+  "summary": "Production has begun in the French Alps on the thriller 'Pumping Black' starring Jonathan Bailey and Natalie Portman, with several new additions to the cast.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/jonathan-bailey-natalie-portman-pumping-black-starts-shoot-1236911027/"
+ },
+ {
+  "date": "2026-10-14T14:23:16.636649+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "The Handmaid's Tale Sets November Release with New Images",
+  "summary": "The Handmaid's Tale is receiving a special new release this November accompanied by exclusive first-look images.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/the-handmaids-tale-the-testaments-folio-society-exclusive-images/"
  }
 ]
