@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-11T05:39:12.228708+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Rumored MacBook Pro Redesign Slated for 2027",
-  "summary": "Rumors suggest that the entry-level MacBook Pro could receive a major design overhaul as early as the first half of 2027.",
-  "verified": "unconfirmed",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x2zzes/macbook_pro_overhaul_entrylevel_model_to_gain_new/"
- },
- {
-  "date": "2026-10-11T05:39:12.228708+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "CD Projekt Red Details Upcoming Witcher 3 Remastered Fixes",
-  "summary": "CD Projekt Red has announced upcoming patches and fixes for The Witcher 3 Remastered, though community opinions on the changes remain divided.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/cd-projekt-red-witcher-3-bugs-issues-remastered-ps5"
- },
- {
-  "date": "2026-10-11T05:39:12.228708+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Shane Gillis Hosts Saturday Night Live",
-  "summary": "Shane Gillis hosts Saturday Night Live for the third time alongside musical guest Rosal\u00eda.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/saturday-night-live-shane-gillis-grace-reiter-1237154186/"
- },
- {
   "date": "2026-10-11T06:05:05.491036+00:00",
   "topic": "Events",
   "score": 6,
@@ -18610,5 +18577,60 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/star-trek-next-generation-sequel-shadow-frontier-horror/"
+ },
+ {
+  "date": "2026-10-14T05:54:19.348306+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Rumors Point to Upcoming Apple Smart Home Event and OLED MacBooks",
+  "summary": "Podcast discussion covers upcoming Apple product announcements, potential smart home accessories with LG, OLED MacBook Pro details, and macOS Full Disk Access changes.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/08/happy-hour-611/"
+ },
+ {
+  "date": "2026-10-14T05:54:19.348306+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Apple and Defendants Trade Blame in Trade Secret Lawsuit Delays",
+  "summary": "Apple, Jon Prosser, and Michael Ramacciotti are trading blame in a joint status report regarding delays and pending document requests in an ongoing trade secret lawsuit.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/08/apple-prosser-and-ramacciotti-trade-blame-over-delays-in-trade-secret-lawsuit/"
+ },
+ {
+  "date": "2026-10-14T05:54:19.348306+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "DC's Clayface First Reactions Drop For R-Rated Batman Movie",
+  "summary": "First reactions have officially been released for DC Studios' R-rated Batman horror movie, Clayface.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/clayface-dc-movie-first-reactions/"
+ },
+ {
+  "date": "2026-10-14T05:54:19.348306+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Peacock's Crystal Lake Series Earns Strong Early Reviews",
+  "summary": "Peacock's upcoming Friday the 13th prequel series, Crystal Lake, starring Linda Cardellini, has received positive early reviews.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x5hxpl/crystal_lake_review_peacocks_linda/"
+ },
+ {
+  "date": "2026-10-14T05:54:19.348306+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Foundation Official December 2026 Return Date Confirmed",
+  "summary": "Foundation has been officially confirmed to return with new episodes in December 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/foundation-december-2026-galactic-frontier-plans-confirmed/"
  }
 ]
