@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-11T07:39:08.788907+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Korean and Italian Producers Sign Co-Production Pact at Busan Market",
-  "summary": "The Producers Guild of Korea and Italy's CNA Cinema e Audiovisivo have signed a co-production pact at the Busan Market to foster industry collaboration.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/korea-italy-producer-groups-coproduction-pact-busan-1236908007/"
- },
- {
   "date": "2026-10-11T08:04:28.278182+00:00",
   "topic": "Movies",
   "score": 6,
@@ -18687,5 +18676,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/judge-dredd-fifty-year-anniversary-celebration-2027/"
+ },
+ {
+  "date": "2026-10-14T07:58:57.983535+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Apple HomeView Repair Fees Revealed",
+  "summary": "Details regarding Apple's repair fees for HomeView have been revealed.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x5l4iw/apples_homeview_repair_fees_revealed/"
+ },
+ {
+  "date": "2026-10-14T07:58:57.983535+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Todd Haynes Shares New Details on Pedro Pascal's 'De Noche'",
+  "summary": "Director Todd Haynes shared insights about his upcoming Pedro Pascal-starring romantic noir drama 'De Noche' at the Lumi\u00e8re Film Festival.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/todd-haynes-pedro-pascal-de-noche-christine-vachon-1236910991/"
  }
 ]
