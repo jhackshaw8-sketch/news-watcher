@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-10-11T11:03:36.228858+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "legal",
-  "headline": "Super Micro Contractor Pleads Guilty in Nvidia Chip Diversion Case",
-  "summary": "A Super Micro contractor has pleaded guilty in a scheme to illegally divert AI servers containing Nvidia chips to China.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x34kx8/super_micro_contractor_pleads_guilty_in_scheme_to/"
- },
- {
-  "date": "2026-10-11T11:03:36.228858+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Satya Nadella: Companies Should Have Trust Issues With AI",
-  "summary": "Microsoft CEO Satya Nadella advises companies to maintain a healthy level of skepticism and trust issues regarding AI adoption.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x3425n/satya_nadella_says_a_companys_relationship_with/"
- },
- {
-  "date": "2026-10-11T11:03:36.228858+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "Worldwide PC Shipments Plummet Over 20 Percent",
-  "summary": "Global PC shipments have reportedly seen a significant drop of over 20%.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x33jsr/worldwide_pc_shipments_have_plummeted_by_over_20/"
- },
- {
-  "date": "2026-10-11T11:03:36.228858+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Nicolas Cage Refuses Future Amazon Work Over AI Dispute",
-  "summary": "Nicolas Cage states he will no longer work with Amazon following a dispute related to AI technology.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x32ouq/nicolas_cage_says_he_wont_work_with_amazon_again/"
- },
- {
-  "date": "2026-10-11T11:03:36.228858+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Scientists Advance Toward Self-Correcting Quantum Computers",
-  "summary": "Researchers have made a notable advancement toward developing error-correcting quantum computers.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x32jwt/scientists_move_a_step_toward_quantum_computers/"
- },
- {
-  "date": "2026-10-11T11:03:36.228858+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "other",
-  "headline": "Optogenetics Wins Nobel Prize for Brain Mapping Breakthroughs",
-  "summary": "Optogenetics wins the Nobel prize, highlighting significant neuroscience and technological innovations in brain mapping.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x322od/optogenetics_wins_the_nobel_one_neuroscience/"
- },
- {
-  "date": "2026-10-11T11:03:36.228858+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Samsung and SK Hynix Record Earnings Boost South Korea AI Spending",
-  "summary": "Record earnings from Samsung and SK Hynix are driving increased national spending in South Korea toward AI and youth programs.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x31s2d/samsung_sk_hynix_record_earnings_fuel_south_korea/"
- },
- {
-  "date": "2026-10-11T11:03:36.228858+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Inside Nvidia's Unique Culture and Stock-Heavy Perks Strategy",
-  "summary": "An inside look reveals how Nvidia scaled to a multi-trillion-dollar valuation while utilizing different employee perks like stock discounts instead of free lunches.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x31qo1/nvidia_built_a_5_trillion_company_while_making/"
- },
- {
-  "date": "2026-10-11T11:03:36.228858+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Cowboys & Aliens Finds New Life on Streaming",
-  "summary": "Daniel Craig's Cowboys & Aliens has surprisingly become a major streaming success.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/daniel-craig-sci-fi-western-cowboys-and-aliens-netflix-streaming-october-2026/"
- },
- {
-  "date": "2026-10-11T11:03:36.228858+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Tulsa King Season 5 Moves Production to New York",
-  "summary": "Taylor Sheridan's Tulsa King is relocating its story and production to New York for Season 5.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/tulsa-king-season-5-taylor-sheridan-thriller-location-change/"
- },
- {
-  "date": "2026-10-11T11:03:36.228858+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Chrono Trigger Collectibles Launching February 2027",
-  "summary": "Chrono Trigger collectibles including Frog, Robo, and Nu plushies are officially scheduled to launch in February 2027.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/chrono-trigger-february-2027-return-new-collection/"
- },
- {
   "date": "2026-10-11T11:38:13.366825+00:00",
   "topic": "Gaming News",
   "score": 5,
@@ -19094,5 +18973,181 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/playstation-5-midnight-console-release-japan/"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Apple Watch Sleep Apnea Feature Goes Live in China",
+  "summary": "Apple has officially launched sleep apnea notification features for the Apple Watch in mainland China.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/14/apple-watch-sleep-apnea-notifications-china/"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "New Siri Remote Precision Finding Feature Has iPhone Compatibility Limits",
+  "summary": "The new Siri Remote's Precision Finding feature unexpectedly lacks compatibility with iPhone 15 and iPhone 16 models.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/14/precision-finding-on-the-new-siri-remote-comes-with-an-unexpected-catch?utm_source=rss"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Apple Reportedly Planning Major Production Push for iPhone 18",
+  "summary": "Reports indicate Apple is anticipating high consumer demand for the future iPhone 18 and is planning significant production volumes.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x5odl5/apple_expects_strong_iphone_18_demand_plans_major/"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "HomeView Smart Hub Introduces Customizable Faces and Interactive Artwork",
+  "summary": "Apple's new HomeView smart home hub features customizable watch-like faces including Snoopy, personal photos, and interactive artwork.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/14/homeviews-faces-include-snoopy-and-more/"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "HomeView Out-of-Warranty Repairs Cost Almost as Much as a Replacement",
+  "summary": "Out-of-warranty repair costs for the HomeView device are set at $279, which amounts to nearly the cost of a full replacement.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/14/getting-a-homeview-repaired-could-cost-93-of-just-replacing-it?utm_source=rss"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Rockstar Discusses Anti-Crunch Approach for GTA 6",
+  "summary": "Rockstar executive Jennifer Kolbe discusses avoiding crunch during the development of GTA 6 following lessons learned from Red Dead Redemption 2.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-vowed-gta-6-wouldnt-be-finished-by-crunching-after-red-dead-redemption-2s-tough-development-says-publishing-lead-i-think-we-did-things-differently-and-im-proud-of-that/"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Palworld Developers Prioritize Passion Over Quick Cash",
+  "summary": "The developers of Palworld state that rapid monetization is not their primary mission, focusing instead on creative passion projects.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/survival/palworld-picks-spin-offs-over-a-fortnite-style-metaverse-because-maximizing-revenue-as-quickly-as-possible-isnt-what-drives-our-creative-decisions-says-pocketpair-lead/"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Tesla Roadster Nears Long-Awaited Production Debut \ud83d\ude97\ud83d\udca8",
+  "summary": "The long-delayed Tesla Roadster is reportedly nearing its production-ready debut nearly a decade after its initial surprise announcement.",
+  "verified": "unconfirmed",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Scimplify Secures $25M to Expand AI-Driven Materials Supply Chain",
+  "summary": "Chemical supply chain platform Scimplify has raised $25 million to expand in the US and use AI to challenge China's grip on critical materials.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Fairphone Launches Repairable Fairbuds 2 With Improved Battery Life",
+  "summary": "Fairphone has launched the Fairbuds 2, featuring a repairable design, improved audio, and nearly double the battery life of the previous generation.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "\u2693 Ineos Grenadier Helmsman Debuts With Nautical Styling \ud83d\ude99",
+  "summary": "The Ineos Grenadier Helmsman has debuted with nautical-inspired styling, featuring deep blue paint, contrast roof options, and unique trim for 2027.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811915/grenadier-helmsman-special-edition/"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "\ud83d\udc0d Stunning Dodge Viper ACR Gallery \ud83c\udfc1",
+  "summary": "A high-resolution image post showcasing the iconic Dodge Viper ACR.",
+  "verified": "unconfirmed",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x5ls7e/dodge_viper_acr_4096x3332/"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "\ud83c\udfce\ufe0f Ultimate Lineup of Porsche Halo Supercars \u2728",
+  "summary": "A showcase featuring legendary Porsche halo cars including the 959, 911 GT1, Carrera GT, and 918 Spyder.",
+  "verified": "unconfirmed",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x5iha2/porsche_959_porsche_911_gt1_porsche_carrera_gt/"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "First Street Fighter (2026) Early Reactions Are Here",
+  "summary": "Early critic reactions for the upcoming 2026 Street Fighter movie have officially arrived.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2286315/street-fighter-2026-movie-reactions/"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Sebastian Stan's 'Fjord' Scores Big in Limited Release",
+  "summary": "Sebastian Stan's new thriller Fjord officially scores the weekend's highest per-theater average in just four theaters.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/sebastian-stan-fjord-box-office-31k-per-theater-average/"
+ },
+ {
+  "date": "2026-10-14T11:20:18.799014+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Chase Infiniti Discusses Preparation for 'The Julia Set'",
+  "summary": "Cast member Chase Infiniti shares the surprising advice that prepared her for her role in 'The Julia Set'.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/chase-infiniti-the-julia-set-interview/"
  }
 ]
