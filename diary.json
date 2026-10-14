@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-11T22:03:58.328962+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Crossy Road Rush Heading to Apple Arcade",
-  "summary": "Crossy Road Rush is announced as an upcoming Apple Arcade exclusive launching on November 5.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/06/new-crossy-road-game-announced-as-an-apple-arcade-exclusive/"
- },
- {
-  "date": "2026-10-11T22:03:58.328962+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "launch",
-  "headline": "Stunning DS F3VER Concept Previews Bold Future Design \ud83d\ude97\u2728",
-  "summary": "DS Automobiles has revealed the striking F3VER concept car, showcasing the brand's future design direction.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/the-future-of-ds-looks-very-bright-thanks-to-the-f3ver-concept/"
- },
- {
-  "date": "2026-10-11T22:03:58.328962+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Robert Pattinson Discusses Playing Chris Hansen in 'Primetime'",
-  "summary": "Robert Pattinson revealed he approached his role as Chris Hansen in 'Primetime' as a fan, despite Hansen's criticism of the film.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/robert-pattinson-fan-chris-hansen-primetime-1237154442/"
- },
- {
-  "date": "2026-10-11T22:03:58.328962+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Guy Ritchie's 'MobLand' Dominates Streaming After 100 Days",
-  "summary": "Guy Ritchie's MobLand continues to dominate Paramount+ as a streaming smash after 100 days.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/guy-ritchie-mobland-streaming-hit-paramount-plus-october-2026/"
- },
- {
-  "date": "2026-10-11T22:03:58.328962+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "'The Rookie' Season 9 and Spin-Off Get Official Release Date",
-  "summary": "ABC officially sets the release date for 'The Rookie' Season 9 and its new spin-off 'The Rookie: North' for January 2027.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/the-rookie-season-9-release-date-january-2027/"
- },
- {
-  "date": "2026-10-11T22:03:58.328962+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Star Wars Jedi 3 Release Date Leaks Online",
-  "summary": "A potential release date leak has emerged for the upcoming Star Wars Jedi 3 game ahead of its official reveal.",
-  "verified": "unconfirmed",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-wars-jedi-3-release-window-leaks-2027/"
- },
- {
-  "date": "2026-10-11T22:03:58.328962+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "First Official Batman Details Confirmed for James Gunn's DCU",
-  "summary": "New details regarding Batman's role in James Gunn's upcoming DC Universe franchise have been officially confirmed.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/clayface-batman-gotham-details-dcu-james-watkins/"
- },
- {
   "date": "2026-10-11T22:39:26.402980+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -21833,5 +21756,137 @@
   "verified": "reliable_reporter",
   "source": "ScreenRant",
   "link": "https://screenrant.com/naruto-shadow-rising-masashi-kishimoto-new-manga-explained/"
+ },
+ {
+  "date": "2026-10-14T22:15:36.497923+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "update",
+  "headline": "Onvis Releases New Matter Over Thread Outdoor Smart Plug",
+  "summary": "Onvis has launched a new outdoor smart plug featuring Matter over Thread, energy monitoring, and IP65 weather resistance.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/09/homekit-weekly-onvis-releases-a-matter-over-thread-outdoor-smart-plug-with-energy-monitoring/"
+ },
+ {
+  "date": "2026-10-14T22:15:36.497923+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Original Apple TV 4K Marked as Vintage by Apple",
+  "summary": "Apple has officially added the original 2017 Apple TV 4K to its vintage products list as a new model approaches.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/09/apple-marks-first-apple-tv-4k-vintage-with-new-model-imminent/"
+ },
+ {
+  "date": "2026-10-14T22:15:36.497923+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Wardogs Confirms Loadouts Are on the Way",
+  "summary": "The CEO of Wardogs has confirmed loadouts are coming to the game, though developers want players to keep experimenting with new builds.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/fps/wardogs-is-getting-loadouts-ceo-confirms-but-the-devs-want-you-to-keep-trying-different-weapons-rather-than-settling-on-one-setup/"
+ },
+ {
+  "date": "2026-10-14T22:15:36.497923+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "CedarDB Unveils Dual-Engine Database for AI Agents",
+  "summary": "CedarDB is introducing a unified database engine capable of handling both transactions and analytics to support agentic AI workloads.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/"
+ },
+ {
+  "date": "2026-10-14T22:15:36.497923+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "AI Data Center Costs Spark Economic Debate",
+  "summary": "An analysis highlighting the massive economic and labor costs required to fund upcoming AI data center infrastructure.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x64jxu/paying_for_ais_data_centers_would_take_250/"
+ },
+ {
+  "date": "2026-10-14T22:15:36.497923+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "AI Infrastructure Spending Outpaces Revenue Forecasts",
+  "summary": "Forecasts show that tech industry spending on AI infrastructure is rapidly outpacing expected revenue growth.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x64c19/the_ai_math_isnt_mathing_as_infrastructure/"
+ },
+ {
+  "date": "2026-10-14T22:15:36.497923+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Microsoft Docs Warned AI Was Creating a Web 'Doom Loop'",
+  "summary": "Internal Microsoft documents warned that AI-driven content generation could trigger a web-devaluing 'doom loop'.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x645cy/microsoft_docs_warned_its_ai_was_starting_a_doom/"
+ },
+ {
+  "date": "2026-10-14T22:15:36.497923+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "legal",
+  "headline": "Analyzing the Security Risks of the EU KIDS Act",
+  "summary": "An examination of the security and privacy risks introduced by the EU KIDS Act's age verification mandates.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x5y0tb/proof_of_age_leap_of_faith_the_eu_kids_acts/"
+ },
+ {
+  "date": "2026-10-14T22:15:36.497923+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Review: 'Beach Fictions' Delivers Enchanting Time-Tweaking Romance",
+  "summary": "Variety publishes a glowing review for the time-tweaking Korean romance film 'Beach Fictions'.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/reviews/beach-fictions-review-1236912043/"
+ },
+ {
+  "date": "2026-10-14T22:15:36.497923+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Kelsey Grammer to Headline New NBC EMT Drama Pops",
+  "summary": "Kelsey Grammer is set to star in and executive produce Pops, a new EMT drama in development at NBC.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/kelsey-grammer-pops-nbc-emt-drama-1237157594/"
+ },
+ {
+  "date": "2026-10-14T22:15:36.497923+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Netflix Drops New Psychological Thriller The Trap",
+  "summary": "Netflix's new 6-part psychological thriller The Trap is now streaming globally as an easy one-night binge.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/netflix-the-trap-thriller-series-must-watch/"
+ },
+ {
+  "date": "2026-10-14T22:15:36.497923+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "YouTube Music Introduces Labels for AI-Generated Songs",
+  "summary": "YouTube Music is rolling out new labels to identify songs created primarily using generative AI for vocals or composition.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/youtube-music-ai-labels-1237157619/"
  }
 ]
