@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-11T10:39:19.633624+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "VFX Veteran Discusses AI's Role in Future Film Production",
-  "summary": "VFX veteran Hong Jae Cheol discussed how AI-native studios can create original IP while traditional studios maintain advantages in established franchises.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/ai-native-studios-create-original-ip-vfx-veteran-busan-1236908092/"
- },
- {
-  "date": "2026-10-11T10:39:19.633624+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Acclaimed Horror Hit Becomes a Must-Watch on Hulu",
-  "summary": "Demi Moore's acclaimed body horror thriller starring 'Landman' talent has become a major must-watch hit on Hulu.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/demi-moore-the-substance-streaming-hit-hulu-october-2026/"
- },
- {
-  "date": "2026-10-11T10:39:19.633624+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Director Kim Sung-soo Discusses Embracing AI in Filmmaking",
-  "summary": "Korean director Kim Sung-soo shared how his perspective on AI shifted from destruction to a useful tool for visualizing imagination at the Busan International Film Festival.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/12-12-the-day-director-kim-sung-soo-ai-craft-1236908089/"
- },
- {
-  "date": "2026-10-11T10:39:19.633624+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Keanu Reeves' Stop-Motion Samurai Film 'Hidari' Seeks New Partner",
-  "summary": "The Keanu Reeves-voiced stop-motion samurai film 'Hidari' is seeking a new financial partner after U.S. funding talks stalled over rights demands.",
-  "verified": "reliable_reporter",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/keanu-reeves-hidari-new-partner-us-talks-stall-1236908055/"
- },
- {
-  "date": "2026-10-11T10:39:19.633624+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "legal",
-  "headline": "Netflix Fails to Dismiss Baby Reindeer Lawsuit",
-  "summary": "Netflix continues to struggle to dismiss the ongoing lawsuit related to its hit series Baby Reindeer.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x34pfh/netflix_still_trying_failing_to_make_its_baby/"
- },
- {
   "date": "2026-10-11T11:03:36.228858+00:00",
   "topic": "Tech News",
   "score": 9,
@@ -19017,5 +18962,137 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/dark-souls-soul-of-cinder-2027/"
+ },
+ {
+  "date": "2026-10-14T10:57:00.172616+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Call of Duty: Modern Warfare 4 Release and Preload Times Confirmed",
+  "summary": "Activision has officially announced global release and preload times for the upcoming Call of Duty: Modern Warfare 4.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/cod-modern-warfare-4-pre-load-release-times"
+ },
+ {
+  "date": "2026-10-14T10:57:00.172616+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Bungie Boss Greets Modders Working on Destiny 1 PC Port",
+  "summary": "Modders working on a PC port for the original Destiny have seemingly received a nod of acknowledgment from the head of Bungie.",
+  "verified": "unconfirmed",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/destiny-1-project-golden-age-pc-revival-bungie-nod"
+ },
+ {
+  "date": "2026-10-14T10:57:00.172616+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Take-Two CEO Discusses Reactions to GTA 6 Delays",
+  "summary": "Take-Two CEO reflects on the surprising reactions to GTA 6's timeline adjustments during development.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/grand-theft-auto/please-tell-me-youre-kidding-gta-6s-two-delays-flabbergasted-take-two-ceo-strauss-zelnick-but-he-was-reasonable-with-rockstar/"
+ },
+ {
+  "date": "2026-10-14T10:57:00.172616+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Ubisoft Lays Off 70 Staff and Shuts Down Studio RedLynx",
+  "summary": "Ubisoft has laid off 70 employees from the Skull and Bones developer and completely shut down Trials studio RedLynx.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/ubisoft-cuts-70-staff-from-skull-and-bones-dev-shuts-down-trials-studio-redlynx"
+ },
+ {
+  "date": "2026-10-14T10:57:00.172616+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "GTA 6 Suffered Years of Delays Due to Scaled-Back Project Americas Scope",
+  "summary": "Reports indicate that GTA 6 faced multi-year delays after Rockstar temporarily scaled back its massive 'Project Americas' scope.",
+  "verified": "unconfirmed",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-was-delayed-for-years-after-rockstar-scaled-back-project-americas-which-would-have-been-set-across-north-and-south-america/"
+ },
+ {
+  "date": "2026-10-14T10:57:00.172616+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Rockstar Assures Fans GTA 7 Won't Take 13 Years to Make",
+  "summary": "Rockstar suggests that fans will not have to endure another 13-year wait between major franchise entries after GTA 6.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-took-13-years-but-gta-7-wont-rockstar-says-the-tools-and-the-team-weve-built-during-this-project-will-allow-us-to-do-things-more-quickly-in-the-future/"
+ },
+ {
+  "date": "2026-10-14T10:57:00.172616+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "World of Warcraft: Forever Aims to Crack Down on Suspicious Gold",
+  "summary": "World of Warcraft: Forever implements new measures to aggressively combat suspicious gold trading and exploits.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-aims-to-aggressively-shut-down-the-flow-of-suspicious-gold-but-blizzard-warns-there-may-be-false-positives-at-first/"
+ },
+ {
+  "date": "2026-10-14T10:57:00.172616+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "Tesla Sets The Date For The Long-Awaited Roadster Reveal! \ud83c\udfce\ufe0f\u26a1",
+  "summary": "Tesla has announced plans to finally livestream the long-awaited new Roadster's reveal on October 15 after nine years in development.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811909/new-tesla-roadster-livestream/"
+ },
+ {
+  "date": "2026-10-14T10:57:00.172616+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Berlinale 2027 Retrospective to Honor Fritz Lang's Metropolis",
+  "summary": "The Berlinale announced its 2027 retrospective will focus on cinematic futures and rebellion, marking the 100th anniversary of Fritz Lang\u2019s Metropolis.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/berlinale-2027-retrospective-future-metropolis-1237156601/"
+ },
+ {
+  "date": "2026-10-14T10:57:00.172616+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Sydney Sweeney Hits Dominate Global Streaming Charts",
+  "summary": "Sydney Sweeney stars in multiple streaming hits as Anyone But You enters Netflix's global Top 10 and projects perform well.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/anyone-but-you-netflix-streaming-success-october-2026/"
+ },
+ {
+  "date": "2026-10-14T10:57:00.172616+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "New Legend of Zelda Wilds-Era Release Date Officially Confirmed",
+  "summary": "Nintendo has officially confirmed the release date and pre-order details for a new Wilds-era Legend of Zelda title.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/legend-of-zelda-tears-of-the-kingdom-statue-pre-order-date/"
+ },
+ {
+  "date": "2026-10-14T10:57:00.172616+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Sony Officially Unveils New PlayStation Console Releasing This Year",
+  "summary": "Sony has officially revealed a brand-new PlayStation console set to launch later this year with a major catch.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/playstation-5-midnight-console-release-japan/"
  }
 ]
