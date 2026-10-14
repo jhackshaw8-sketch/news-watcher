@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-11T02:04:34.033810+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Infinity Ward Details MW4 DMZ Mode",
-  "summary": "Infinity Ward has detailed the new DMZ extraction shooter mode for Call of Duty: Modern Warfare 4, positioning it as a major pillar for the franchise.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-reveal"
- },
- {
-  "date": "2026-10-11T02:04:34.033810+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Nintendo Switch 2 Hardware Redesign Revealed",
-  "summary": "Nintendo has officially unveiled a hardware redesign and special editions for its upcoming hardware.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/nintendo-switch-2-hardware-redesign-ditto-controller/"
- },
- {
-  "date": "2026-10-11T02:04:34.033810+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "The End Of An Era For Game Of Thrones On Max",
-  "summary": "The streaming era for the Game of Thrones franchise on HBO Max is shifting into a new phase.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/game-of-thrones-house-of-the-dragon-end-era-hbo-max/"
- },
- {
   "date": "2026-10-11T02:40:40.616594+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -18522,5 +18489,16 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/stephen-king-carrie-prime-video-number-one-streaming-hit-october-2026/"
+ },
+ {
+  "date": "2026-10-14T02:14:40.215856+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "How Ultron Returned in Marvel's VisionQuest Explained",
+  "summary": "The Marvel series VisionQuest explains how Ultron survived the events of Avengers: Age of Ultron.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2284996/how-ultron-alive-marvel-visionquest-avengers-retcon-explained/"
  }
 ]
