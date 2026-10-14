@@ -1,115 +1,5 @@
 [
  {
-  "date": "2026-10-11T17:38:29.366293+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Tim Cook Returns to China for Continued Engagement",
-  "summary": "Apple executive chair Tim Cook visits China for the third time in 2026 to strengthen political and business relations.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/11/tim-cook-visits-china-for-the-third-time-in-2026?utm_source=rss"
- },
- {
-  "date": "2026-10-11T17:38:29.366293+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Rumor Claims HomePod mini 2 Launching October 30",
-  "summary": "A new report suggests the HomePod mini 2 could be released on October 30 with several hardware upgrades.",
-  "verified": "unconfirmed",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x3e3vs/report_homepod_mini_2_to_release_on_october_30/"
- },
- {
-  "date": "2026-10-11T17:38:29.366293+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "Marvel T\u014dkon: Fighting Souls Details Year 1 DLC Roster",
-  "summary": "Marvel T\u014dkon: Fighting Souls has revealed its Year 1 DLC roadmap, featuring characters like Phoenix Cyclops and Venom.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops"
- },
- {
-  "date": "2026-10-11T17:38:29.366293+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Escape the Backrooms Announces After Party Update",
-  "summary": "Escape the Backrooms is receiving a party-themed update this December titled After Party, which adds three new levels.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/escape-the-backrooms-after-party-update-new-levels-december"
- },
- {
-  "date": "2026-10-11T17:38:29.366293+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "launch",
-  "headline": "Opel STX Concept Previews The Electric Wagon of Tomorrow \u26a1\ud83d\ude99",
-  "summary": "The Opel STX Concept showcases the brand's vision for a sleek and aerodynamic electric wagon of the future.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811442/opel-stx-concept-preview/"
- },
- {
-  "date": "2026-10-11T17:38:29.366293+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "other",
-  "headline": "Stunning Silver Porsche GT3 RS in High Resolution \ud83d\udcf8\ud83c\udfce\ufe0f",
-  "summary": "A high-resolution image showcasing a sleek silver Porsche GT3 RS.",
-  "verified": "reliable_reporter",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1wz5tpv/silver_gt3rs_3270x4906/"
- },
- {
-  "date": "2026-10-11T17:38:29.366293+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "Jimmy Stewart's Daughter Praises KJ Apa's Biopic Performance",
-  "summary": "Jimmy Stewart's daughter has praised KJ Apa's performance in the upcoming biopic 'Jimmy', which is set for a theatrical release on November 6.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/jimmy-stewart-daughter-praises-kj-apa-jimmy-biopic-1236908245/"
- },
- {
-  "date": "2026-10-11T17:38:29.366293+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "R.L. Stine's The Babysitter Getting Tubi Movie Adaptation in 2027",
-  "summary": "Tubi has announced a live-action feature adaptation of R.L. Stine's 'The Babysitter' book series, scheduled to premiere in 2027.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/r-l-stine-the-babysitter-tubi-adaptation-2027-1237154365/"
- },
- {
-  "date": "2026-10-11T17:38:29.366293+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Legal Thriller Series Takes Over Netflix Ahead of New Season",
-  "summary": "A legal thriller rivaling CBS's 'The Lincoln Lawyer' is officially taking over Netflix ahead of its new season.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/matlock-netflix-streaming-success-october-2026/"
- },
- {
-  "date": "2026-10-11T17:38:29.366293+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Catherine Zeta-Jones Teases Wednesday Season 3",
-  "summary": "Catherine Zeta-Jones teases a phenomenal return for Netflix's Wednesday Season 3.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/wednesday-season-3-return-catherine-zeta-jones-tease/"
- },
- {
   "date": "2026-10-11T18:03:27.484367+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -20810,5 +20700,181 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1x5vda2/nick_cannons_relationships_advice_podcast_is/"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "Apple Confirms Siri AI Will Skip Original HomePod mini",
+  "summary": "Apple has confirmed that advanced Siri AI features will not be brought to the first-generation HomePod mini.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/14/no-siri-ai-is-not-coming-to-the-original-homepod-mini/"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "First-Gen HomePod mini Excluded From Siri AI Upgrade",
+  "summary": "Reports clarify that the original HomePod mini lacks the hardware required for new Siri AI capabilities.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/14/no-siri-ai-is-not-coming-to-the-first-generation-homepod-mini?utm_source=rss"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "business",
+  "headline": "Apple Showcase Highlights iPad Pro in Fashion Design",
+  "summary": "Apple highlights designer B\u00fcnyamin Ayd\u0131n's latest fashion collection created using iPad Pro and iPhone.",
+  "verified": "official",
+  "source": "Apple Newsroom",
+  "link": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Discussion: Original HomePod mini Misses Out on Siri AI",
+  "summary": "Reddit users discuss the official confirmation that original HomePod mini units will not receive Siri AI.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x5xyj8/apple_confirms_siri_ai_is_not_coming_to_the/"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Gears of War: E-Day Review Roundup",
+  "summary": "Reviews for Gears of War: E-Day highlight its successful blend of classic franchise combat and forward-looking design.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/gears-of-war-eday-review"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "GTA 6 Rumored to Feature Realistic Sweat Mechanics",
+  "summary": "Reports suggest GTA 6 features a detailed sweat system where protagonists Jason and Lucia react dynamically to activities like dancing.",
+  "verified": "unconfirmed",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/grand-theft-auto/as-if-you-needed-another-reminder-of-why-gta-6-took-so-long-it-has-a-realistic-sweat-system-that-makes-jason-and-lucia-perspire-based-on-how-hard-they-dance/"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Psychological Horror Game Jiaohun Announced",
+  "summary": "Developer 12AM Blackout revealed Jiaohun, a new Y2K-era psychological horror game set in 1999 China.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/horror-game-jiaohun-has-secrets-demons-and-pagers-ign-fall-fan-fest-2026"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "PlayStation Plus October 2026 Lineup Revealed",
+  "summary": "Sony has confirmed the October 2026 PlayStation Plus Game Catalog lineup, headlined by Mafia: The Old Country.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/playstation-plus-game-catalog-october-2026-lineup-confirmed"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "Gears of War: E-Day Mod Brings Halo and Warhammer Skins",
+  "summary": "A new mod for Gears of War: E-Day introduces crossover skins from popular franchises like Halo and Warhammer 40,000.",
+  "verified": "reliable_reporter",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/halo-warhammer-gears-of-war-e-day-mod"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Dune Immersive Experience Coming to Los Angeles Next Month",
+  "summary": "Warner Bros. and Legendary are launching a Dune immersive experience in Los Angeles featuring real props and sandworms.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/dune-immersive-experience-los-angleles-buy-tickets-1236912185/"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "Adam Scott's Horror Film Lands on Hulu",
+  "summary": "Damien McCarthy's horror film starring Adam Scott has officially been added to Hulu's streaming library.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2286801/adam-scott-hokum-horror-movie-streaming-hulu/"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Greta Gerwig's Narnia Movie Unveils First Trailer",
+  "summary": "Greta Gerwig's Narnia adaptation begins a new era at Netflix with a behind-the-scenes look at the first trailer.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/narnia-the-magicians-nephew-trailer-behind-the-scenes-greta-gerwig-imax-netflix/"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "First Reactions Call DC's Clayface Spin-Off Freakishly Awesome",
+  "summary": "First reactions describe DC's upcoming Clayface spin-off as a freakishly awesome mix of Joker and The Substance.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/dc-batman-spin-off-clayface-first-reactions/"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Avatar: Seven Havens Creators Outline Multi-Season Plan At NYCC",
+  "summary": "At NYCC, the cast and creators of Avatar: Seven Havens discussed the new generation of characters and outlined a multi-season plan for the show.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/video/avatar-seven-havens-cast-creators-nycc-2026-interview/"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "DC Drops New Clayface Special Ahead Of Upcoming Movie Release",
+  "summary": "A new special comic featuring the Batman villain Clayface has been released by DC just days ahead of the upcoming movie.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/clayface-special-edition-details/"
+ },
+ {
+  "date": "2026-10-14T17:56:10.978704+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Crystal Lake Prequel Series Highlights Pamela Voorhees's Dark Influence",
+  "summary": "Linda Cardellini portrays Pamela Voorhees in the upcoming Friday the 13th prequel series Crystal Lake, showcasing where Jason learned his methods.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/crystal-lake-spinoff-friday-the-13th-image-linda-cardellini-pamela-voorhees/"
  }
 ]
