@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-11T09:04:16.793814+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Gears of War: E-Day Studio Boosts Xbox Series S Performance",
-  "summary": "Developer The Coalition has discovered a new performance optimization method for Gears of War: E-Day on the Xbox Series S that other games could also utilize.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd"
- },
- {
-  "date": "2026-10-11T09:04:16.793814+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Globo and Endemol Shine Brasil Partner for Global IP",
-  "summary": "Globo and Endemol Shine Brasil have partnered to develop and produce global non-scripted entertainment IP from Brazil.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/globo-endemol-shine-brasil-entertainment-brand-ip-alliance-1236907789/"
- },
- {
-  "date": "2026-10-11T09:04:16.793814+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Asian Independent Producers Form New Cross-Border Alliance",
-  "summary": "Independent producers from five Asian territories have launched the Asian Producers Alliance at Busan to boost cross-border co-productions.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/squid-game-producer-asian-producers-alliance-busan-1236908051/"
- },
- {
-  "date": "2026-10-11T09:04:16.793814+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Jason Statham's Mutiny Becomes Streaming Hit",
-  "summary": "Jason Statham's action thriller Mutiny is finding a new audience as a streaming hit following a disappointing theatrical run.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/jason-statham-mutiny-vod-streaming-release-october-2026/"
- },
- {
-  "date": "2026-10-11T09:04:16.793814+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Todd Haynes Teases Pedro Pascal Starrer 'De Noche' at Lumi\u00e8re Fest",
-  "summary": "Todd Haynes, Zhang Ziyi, and other stars opened the Lumi\u00e8re Festival, where Haynes teased his upcoming film De Noche starring Pedro Pascal.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/todd-haynes-pedro-pascal-donald-trump-thierry-fremaux-1236908024/"
- },
- {
   "date": "2026-10-11T09:40:09.749868+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -18874,5 +18819,49 @@
   "verified": "official",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/rohit-jain-tiger-tv-1237156538/"
+ },
+ {
+  "date": "2026-10-14T09:27:08.839652+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Planet Zoo 2 Review Highlights",
+  "summary": "Eurogamer reviews Planet Zoo 2, highlighting its beautiful visuals and engaging management gameplay.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/planet-zoo-2-now-playing"
+ },
+ {
+  "date": "2026-10-14T09:27:08.839652+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "legal",
+  "headline": "Russell Brand Rape Trial Begins in London",
+  "summary": "The prosecution has opened its case against Russell Brand in a rape trial at London's Southwark Crown Court that is expected to continue into December.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/russell-brand-trial-prosecution-case-1237155753/"
+ },
+ {
+  "date": "2026-10-14T09:27:08.839652+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Russell T. Davies Teases Doctor Who Production Timeline",
+  "summary": "Outgoing 'Doctor Who' showrunner Russell T. Davies has criticized recent comments about AI-generated episodes and teased that production will start next summer.",
+  "verified": "reliable_reporter",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/global/russell-t-davies-bbc-boss-ai-doctor-who-comment-clumsy-1236911048/"
+ },
+ {
+  "date": "2026-10-14T09:27:08.839652+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "business",
+  "headline": "Reese Witherspoon Buys Back Hello Sunshine",
+  "summary": "Reese Witherspoon and Mediawan have partnered to buy back Hello Sunshine from Candle Media.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x5lq82/reese_witherspoon_and_mediawan_partner_to_buy/"
  }
 ]
