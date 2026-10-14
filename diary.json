@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-11T04:40:39.290639+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "MacBook Pro Entry-Level Overhaul Expected Sooner",
-  "summary": "Reports indicate that Apple's upcoming entry-level MacBook Pro may receive a major redesign sooner than anticipated.",
-  "verified": "reliable_reporter",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/10/m7-macbook-pro-redesign-next-spring/"
- },
- {
-  "date": "2026-10-11T04:40:39.290639+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Samsung Cuts Smartphone Production by 30 Percent",
-  "summary": "Samsung is reportedly cutting its smartphone production by 30 percent in response to declining profitability.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x2yj7m/samsung_is_cutting_smartphone_production_by_30/"
- },
- {
   "date": "2026-10-11T05:04:38.778108+00:00",
   "topic": "Movies",
   "score": 6,
@@ -18500,5 +18478,16 @@
   "verified": "official",
   "source": "Deadline Film",
   "link": "https://deadline.com/gallery/clayface-red-carpet-premiere-photos-dc-studios/"
+ },
+ {
+  "date": "2026-10-14T04:56:50.623569+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "A Knight of the Seven Kingdoms TCG Officially Set for Winter 2026 Release \ud83d\udde1\ufe0f\ud83c\udccf",
+  "summary": "A Knight of the Seven Kingdoms is officially getting a trading card game scheduled to release in Winter 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/knight-of-seven-kingdoms-genre-change-winter-2026/"
  }
 ]
