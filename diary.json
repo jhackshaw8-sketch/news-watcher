@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-11T09:40:09.749868+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Krafton Seeks Next Big Battle Royale with PUBG Spin-Off Ded.Net",
-  "summary": "Krafton hopes its new PUBG spin-off project, Ded.Net, can revitalize the battle royale genre with a pulpy gameshow theme and roguelite elements.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale"
- },
- {
-  "date": "2026-10-11T09:40:09.749868+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Between Two Lovers Review Explores Family Drama",
-  "summary": "Nanako Hirose's sophomore feature 'Between Two Lovers' is reviewed as a contentious family drama examining an ill-fated throuple.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/reviews/between-two-lovers-review-1236908080/"
- },
- {
-  "date": "2026-10-11T09:40:09.749868+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "The Lovely Bones Leaves Streaming Soon",
-  "summary": "Peter Jackson's The Lovely Bones is leaving streaming services soon after a look back at Ryan Gosling's casting history.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/peter-jackson-fantasy-epic-lovely-bones-leaving-peacock-november-2026/"
- },
- {
-  "date": "2026-10-11T09:40:09.749868+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "launch",
-  "headline": "Over the Garden Wall Becomes Streaming Hit",
-  "summary": "Elijah Wood's classic dark fantasy series Over the Garden Wall is seeing a massive surge in streaming viewership ahead of Halloween.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/elijah-wood-over-the-garden-wall-streaming-success-prime-video-october-2026/"
- },
- {
-  "date": "2026-10-11T09:40:09.749868+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Doctor Who Confirms October 26 Return Date",
-  "summary": "Doctor Who has officially announced a return date of October 26 for its Battles in Time release.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/doctor-who-circuit-breaker-battles-in-time-october-2026/"
- },
- {
   "date": "2026-10-11T10:04:11.514824+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -18863,5 +18808,170 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1x5lq82/reese_witherspoon_and_mediawan_partner_to_buy/"
+ },
+ {
+  "date": "2026-10-14T09:58:42.116101+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "The Witcher 3 Remastered Switch 2 Patch Officially Confirmed",
+  "summary": "CD Projekt Red has officially confirmed that a patch for The Witcher 3 Remastered on the Switch 2 is on the way.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/the-witcher-3-remastered-nintendo-switch-2-patch-update/"
+ },
+ {
+  "date": "2026-10-14T09:58:42.116101+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Retailer Zavvi Enters Administration and Halts Orders",
+  "summary": "Former game-seller Zavvi has entered administration for a second time, halting all trading and order fulfillments.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/zavvi-administration-2026-orders"
+ },
+ {
+  "date": "2026-10-14T09:58:42.116101+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "other",
+  "headline": "James Gunn Teases Future Appearances for Batman Villain Clayface",
+  "summary": "DC Studios boss James Gunn confirms that the upcoming Clayface movie will not be the final appearance of the Batman villain.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/dc-movies/dc-boss-james-gunn-says-the-clayface-movie-wont-be-the-last-we-see-of-the-shapeshifting-batman-villain/"
+ },
+ {
+  "date": "2026-10-14T09:58:42.116101+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Escape Academy 2 Launches This November With Co-Op and Game Pass",
+  "summary": "Escape Academy 2 is officially launching on November 5 with split-screen co-op, Game Pass availability, and a new no-timer mode.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x5msge/escape_academy_2_launches_november_5_with/"
+ },
+ {
+  "date": "2026-10-14T09:58:42.116101+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "business",
+  "headline": "Ubisoft Plans to Shut Down RedLynx and Cut Singapore Staff",
+  "summary": "Ubisoft is reportedly planning to shut down Trials developer RedLynx and lay off 70 staff members at Ubisoft Singapore.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x5miag/ubisoft_is_planning_to_shut_down_trials_studio/"
+ },
+ {
+  "date": "2026-10-14T09:58:42.116101+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Qualcomm Wins Arm Lawsuit, Awarded $2 in Damages",
+  "summary": "A jury ruled that Arm breached its agreement with Qualcomm and interfered with its business, awarding Qualcomm $2 in damages.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2286281/arm-must-pay-qualcomm-2-license-breach-lawsuit/"
+ },
+ {
+  "date": "2026-10-14T09:58:42.116101+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Audi's Stealthy Electric Wagon Spotted Testing! \u26a1\ud83d\ude99",
+  "summary": "A heavily camouflaged prototype of Audi's upcoming electric wagon has been spotted testing.",
+  "verified": "unconfirmed",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2286282/audi-sport-ev-scoop/"
+ },
+ {
+  "date": "2026-10-14T09:58:42.116101+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "launch",
+  "headline": "Brabus Confirms Spicy New Smart #2 Project! \ud83d\udca8\u2728",
+  "summary": "Brabus is officially planning a sporty new version of the Smart #2, continuing their tradition with the ForTwo.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811895/new-brabus-smart-two/"
+ },
+ {
+  "date": "2026-10-14T09:58:42.116101+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Alfa Romeo Giulietta Set to Return as a Crossover! \ud83c\uddee\ud83c\uddf9\ud83d\ude97",
+  "summary": "The upcoming Alfa Romeo Giulietta is expected to transform into a crossover inspired by the Cuorerosso concept.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811892/2028-alfa-romeo-giulietta-details/"
+ },
+ {
+  "date": "2026-10-14T09:58:42.116101+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Joanna Hogg to Lead El Gouna Film Festival Jury",
+  "summary": "British auteur Joanna Hogg will preside over the jury at the upcoming El Gouna Film Festival.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/festivals/joanna-hogg-el-gouna-film-festival-jury-president-1236911025/"
+ },
+ {
+  "date": "2026-10-14T09:58:42.116101+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Disney's Marvel and Star Wars Game Takes AI Direction",
+  "summary": "Epic Games reportedly plans to use AI-generated assets for an upcoming Disney game featuring Marvel and Star Wars characters.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/epic-games-disney-marvel-star-wars-game-ai-development/"
+ },
+ {
+  "date": "2026-10-14T09:58:42.116101+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Skyrim DLC Officially Released for PS5",
+  "summary": "Bethesda has officially released a new Skyrim DLC for the PS5, featuring new expansions and questlines.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/skyrim-new-dlc-official-creations-bethesda/"
+ },
+ {
+  "date": "2026-10-14T09:58:42.116101+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "update",
+  "headline": "Rockstar Games Announces Official GTA 6 Release Date Update",
+  "summary": "Rockstar Games has provided a brand-new official release date update for Grand Theft Auto 6.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/gta-6-rockstar-games-official-update-release-date/"
+ },
+ {
+  "date": "2026-10-14T09:58:42.116101+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Nintendo Switch Online Adds Three GBA Classics",
+  "summary": "Nintendo has stealth-dropped three classic Game Boy Advance titles onto the Nintendo Switch Online service.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/nintendo-switch-online-3-new-game-boy-advance-games-october-2026/"
+ },
+ {
+  "date": "2026-10-14T09:58:42.116101+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Hit Comedic Detective Series Gets U.S. Remake",
+  "summary": "A comedic detective series blending Sherlock Holmes with sitcom elements is moving forward with an unrequested U.S. remake.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/ludwig-us-remake-bad-idea-abc/"
  }
 ]
