@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-11T08:04:28.278182+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Lee Yun Chan Returns to Features with Busan Title 'To Be Ordinary'",
-  "summary": "Taiwanese director Lee Yun Chan returns to feature filmmaking after two decades with the Busan competition title 'To Be Ordinary.'",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/festivals/busan-competition-to-be-ordinary-lee-yun-chan-comeback-1236908013/"
- },
- {
   "date": "2026-10-11T08:40:28.011300+00:00",
   "topic": "Movies",
   "score": 8,
@@ -18698,5 +18687,38 @@
   "verified": "official",
   "source": "Variety Film",
   "link": "https://variety.com/2026/film/global/todd-haynes-pedro-pascal-de-noche-christine-vachon-1236910991/"
+ },
+ {
+  "date": "2026-10-14T08:25:48.223792+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Valve Index Approaches Sunset",
+  "summary": "The Valve Index VR headset appears to be reaching the end of its lifecycle as it gets phased out on the Steam store.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x5les1/valve_index_sunset/"
+ },
+ {
+  "date": "2026-10-14T08:25:48.223792+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "BMW Revives V8 Power with the New M760! \ud83c\udfce\ufe0f\ud83d\udd25",
+  "summary": "BMW is reviving the V8-powered 7 Series with the introduction of the new M760.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811878/2027-bmw-m760-revealed/"
+ },
+ {
+  "date": "2026-10-14T08:25:48.223792+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "update",
+  "headline": "2027 Toyota Camry Lineup Sees a $700 Price Increase \ud83d\udcb5\ud83d\udcc8",
+  "summary": "Toyota has increased the prices across the entire 2027 Camry lineup by $700 while keeping the powertrain and features unchanged.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811881/2027-toyota-camry-prices-rise/"
  }
 ]
