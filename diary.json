@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-11T11:38:13.366825+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Hands-on with Switch Sports Resort and mouse controls",
-  "summary": "A preview discusses hands-on time with Switch Sports Resort and features utilizing rumored Switch 2 mouse controls.",
-  "verified": "reliable_reporter",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/nintendo-switch-sports-resort-gamescom-preview"
- },
- {
-  "date": "2026-10-11T11:38:13.366825+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "rumor",
-  "headline": "GTA 6 leaker threatens full game build release",
-  "summary": "A GTA 6 leaker threatens to release a full build of the game while making new demands.",
-  "verified": "unconfirmed",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaker-threatens-to-release-a-build-of-the-entire-game-start-to-finish-but-gives-take-two-a-way-out-physical-disks-and-a-public-apology/"
- },
- {
-  "date": "2026-10-11T11:38:13.366825+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Classic 1969 Ford Bronco Restomod Shines \u2728\ud83d\ude99",
-  "summary": "A beautifully restored and understated 1969 Ford Bronco restomod is heading to auction, showcasing classic styling with modern touches.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/ford-bronco-restomod-auction-mecum/"
- },
- {
   "date": "2026-10-11T12:04:27.592702+00:00",
   "topic": "Gaming News",
   "score": 8,
@@ -19149,5 +19116,148 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/chase-infiniti-the-julia-set-interview/"
+ },
+ {
+  "date": "2026-10-14T11:56:03.005473+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Apple Announces HomeView Device Features and Pricing",
+  "summary": "Apple has announced HomeView, showcasing its key use-case, features, pricing, and release date in a new launch video.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/14/apples-frenetic-homeview-video-showed-the-one-use-case-for-this-device/"
+ },
+ {
+  "date": "2026-10-14T11:56:03.005473+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "New DarkSword Spyware Variant Discovered Affecting Unpatched iPhones",
+  "summary": "Researchers at iVerify have uncovered a new DarkSword spyware variant targeting unpatched iPhones.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/"
+ },
+ {
+  "date": "2026-10-14T11:56:03.005473+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Battlefield 6 Faces AI Backlash Over Flawed Skins",
+  "summary": "Fans accuse Battlefield 6 of using AI-generated art after spotting design flaws and spelling errors in new battle pass skins.",
+  "verified": "unconfirmed",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/battlefield-6-skins-generative-ai-accusations"
+ },
+ {
+  "date": "2026-10-14T11:56:03.005473+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "business",
+  "headline": "Rockstar Reveals GTA 6's Original Codename and Development Hurdles",
+  "summary": "Rockstar reveals GTA 6 was originally codenamed Project Americas and discusses past hurdles including crunch, leaks, and delays.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks"
+ },
+ {
+  "date": "2026-10-14T11:56:03.005473+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Massive PS5 Pirate Store Reappears Instantly After Takedown",
+  "summary": "A massive PS5 pirate store offering over 1,600 games was taken down, only to be immediately replaced by a clone.",
+  "verified": "unconfirmed",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/unofficial-ps5-pirate-store-with-over-1-600-games-taken-down-before-being-immediately-replaced-by-a-clone-with-pandoras-box-open-following-recent-jailbreak/"
+ },
+ {
+  "date": "2026-10-14T11:56:03.005473+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Rockstar Promises Shorter Development Cycles After GTA 6",
+  "summary": "Rockstar assures fans that future releases following GTA 6 will not suffer the same eight-year development gap.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/gta-6-developer-rockstar-insists-its-next-game-wont-take-another-8-years-to-make"
+ },
+ {
+  "date": "2026-10-14T11:56:03.005473+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Testing the 2026 Hyundai Elantra N: 286 HP of Front-Wheel Drive Fun! \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "Detailed review and specs of the 2026 Hyundai Elantra N with an 8-speed DCT, highlighting its 276-hp engine and impressive performance capabilities.",
+  "verified": "official",
+  "source": "TheTopher",
+  "link": "https://www.youtube.com/watch?v=HSREywU7N9o"
+ },
+ {
+  "date": "2026-10-14T11:56:03.005473+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Guy Ritchie Enters the Streaming Wars With MobLand",
+  "summary": "Guy Ritchie's upcoming project MobLand is compared to Taylor Sheridan's streaming dominance.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/mobland-guy-ritchie-taylor-sheridan-female-characters/"
+ },
+ {
+  "date": "2026-10-14T11:56:03.005473+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Ghost Month Paranormal Novel Headed to Television",
+  "summary": "Simon Wroe\u2019s paranormal fantasy novel Ghost Month is officially getting a television adaptation.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/simon-wroe-ghost-month-paranormal-fantasy-book/"
+ },
+ {
+  "date": "2026-10-14T11:56:03.005473+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Denzel Washington's The Equalizer Lands on Netflix",
+  "summary": "Denzel Washington's $192 million action hit The Equalizer has officially arrived on Netflix.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/denzel-washington-the-equalizer-netflix-streaming-october-2026/"
+ },
+ {
+  "date": "2026-10-14T11:56:03.005473+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Dungeon Crawler Carl Drops Teaser Ahead of 2026 Release",
+  "summary": "Dungeon Crawler Carl has dropped a free teaser ahead of its November 2026 return.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/dungeon-crawler-carl-rpg-free-sample-download-now/"
+ },
+ {
+  "date": "2026-10-14T11:56:03.005473+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Red Dead Redemption 2 Free Rewards Available Until November 4",
+  "summary": "Red Dead Redemption 2 offers free rewards and online bonuses available until November 4.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/red-dead-redemption-2-online-free-download-november-4/"
+ },
+ {
+  "date": "2026-10-14T11:56:03.005473+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Hogwarts Legacy Next-Gen Remaster Officially Coming November 5",
+  "summary": "An official Hogwarts Legacy next-gen remaster is coming on November 5 with enhanced lighting and details.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/hogwarts-legacy-next-gen-remaster-dlss5-november-2026/"
  }
 ]
