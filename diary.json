@@ -1,104 +1,5 @@
 [
  {
-  "date": "2026-10-11T18:03:27.484367+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "macOS 27.2 Public Beta 2 Now Available",
-  "summary": "Apple has released the macOS 27.2 public beta 2 to testers, bringing new features and improvements.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/06/macos-27-2-public-beta-2-now-available-heres-whats-coming/"
- },
- {
-  "date": "2026-10-11T18:03:27.484367+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "update",
-  "headline": "iOS 27.2 Public Beta 2 Brings New iPhone Health App",
-  "summary": "Apple has rolled out the second iOS 27.2 public beta, featuring a redesigned Health app for the iPhone.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/06/apple-releases-second-ios-27-2-public-beta-with-new-iphone-health-app/"
- },
- {
-  "date": "2026-10-11T18:03:27.484367+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "launch",
-  "headline": "Peugeot's RCZ Vision Electric Coupe Concept Charges Up in 10 Minutes \u26a1\ud83d\ude97",
-  "summary": "Peugeot has revealed the RCZ Vision, a sleek electric coupe concept featuring solid-state battery technology, steer-by-wire, and 10-minute charging capabilities on the STLA One platform.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/peugeots-rcz-vision-is-a-slinky-electric-coupe-that-only-takes-10-minutes-to-charge/"
- },
- {
-  "date": "2026-10-11T18:03:27.484367+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Robert Pattinson Premieres A24 Thriller 'Primetime' in London",
-  "summary": "Robert Pattinson discussed his attraction to the psychological thriller 'Primetime' at its London Film Festival premiere.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/festivals/robert-pattinson-primetime-london-film-festival-premiere-1236907553/"
- },
- {
-  "date": "2026-10-11T18:03:27.484367+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Globo and BBC Strike Deal for Teen Thriller 'Blood Red'",
-  "summary": "Globo announced a major deal with the BBC for the teen thriller 'Blood Red' during its Mipcom Showcase.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/global/globo-bbc-deal-blood-red-mipcom-showcase-to-love-is-to-care-1236908256/"
- },
- {
-  "date": "2026-10-11T18:03:27.484367+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Dhar Mann Unveils Details for New L.A. Creator City Campus",
-  "summary": "Dhar Mann detailed his upcoming Creator City studio campus in Los Angeles during a keynote session at MIPCOM.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/dhar-mann-creator-city-la-brands-creators-1237154291/"
- },
- {
-  "date": "2026-10-11T18:03:27.484367+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "North American Box Office Surpasses $8 Billion Milestone Early",
-  "summary": "The domestic box office surpassed $8 billion significantly earlier than the previous year, signaling strong theatrical recovery.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/box-office-domestic-8-billion-milestone-1237154358/"
- },
- {
-  "date": "2026-10-11T18:03:27.484367+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "Grand Theft Auto 5 Canon Ending Officially Confirmed",
-  "summary": "Grand Theft Auto 5 has received official confirmation regarding which of its multiple endings is considered canonical.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/gta-5-canon-ending-confirmed-gta-6/"
- },
- {
-  "date": "2026-10-11T18:03:27.484367+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Glen Powell's Hit R-Rated Thriller Enters a New Era",
-  "summary": "Glen Powell's R-rated thriller enters a new era and breaks records as it moves into its next chapter.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/glen-powell-hit-man-new-era-start-starz-global-streaming-success-october-2026/"
- },
- {
   "date": "2026-10-11T18:43:15.456700+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -20876,5 +20777,181 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/crystal-lake-spinoff-friday-the-13th-image-linda-cardellini-pamela-voorhees/"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "iPhone Duo Out-of-Warranty Repair Pricing Revealed",
+  "summary": "Apple has revealed the out-of-warranty repair costs for the upcoming iPhone Duo ahead of its pre-orders and release.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/14/heres-how-much-iphone-duo-costs-to-repair-out-of-warranty/"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Upcoming Smart Home Accessories to Feature Exclusive iPhone Integration",
+  "summary": "A new leak suggests that upcoming co-developed smart home accessories will feature an exclusive iPhone integration for HomeKit.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/09/apples-new-second-party-homekit-products-will-have-this-exclusive-iphone-feature/"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Xbox Officially Announces New Nano Controller",
+  "summary": "Xbox has officially announced the new lightweight and portable Xbox Nano Controller.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/xbox-nano-controller-portable-price-reveal/"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Epic Games Uses AI to Speed Up New Launcher",
+  "summary": "Epic Games admits to using AI to vibe-code a faster new Epic Games Launcher to compete with Steam.",
+  "verified": "reliable_reporter",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Forza Horizon 6 Delayed to 2027 on PS5 \ud83d\ude97\ud83d\udca8",
+  "summary": "Forza Horizon 6 has officially been delayed to 2027 on PS5 alongside an expansion announcement.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "The Galaxies Showcase Returns Next Week",
+  "summary": "The Galaxies Showcase is returning next week with over 40 participating studios and publishers.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Apate Deploys Undercover AI Agents to Combat Scammers",
+  "summary": "Apate.ai is deploying undercover AI agents to interact with scammers and gather intelligence on fraud operations.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "rumor",
+  "headline": "\ud83c\udfc1 Formula 1 Eyes Major Return to Africa Next Decade! \ud83c\udf0d",
+  "summary": "Formula 1 is reportedly planning a return to Africa with a new race stage early in the next decade.",
+  "verified": "unconfirmed",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2286851/formula-1-return-africa/"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "update",
+  "headline": "\ud83d\ude97 Taking a Spin in the Very First Honda Accord! \ud83d\udca8",
+  "summary": "A detailed POV driving impression showcases the vintage charm and specs of a classic 1978 Honda Accord Hatchback.",
+  "verified": "official",
+  "source": "TheTopher",
+  "link": "https://www.youtube.com/watch?v=7-RfNpstq3w"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Gravity Falls Halloween Special Explores Growing Up",
+  "summary": "Gravity Falls gets a supernatural Halloween mystery exploring Dipper and Mabel's fears of growing up.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/disney-gravity-falls-supernatural-mystery-halloween/"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "casting",
+  "headline": "Marvel's VisionQuest Casts Paladin",
+  "summary": "Marvel's VisionQuest casts a familiar genre TV actor to play the mysterious threat Paladin.",
+  "verified": "reliable_reporter",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2285932/paladin-marvel-visionquest-actor-todd-stashwick/"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Street Fighter BTS: Ryu and Ken's Flooded Set",
+  "summary": "Director Kitao Sakurai shares behind-the-scenes chaos about a flooded set during Ryu and Ken's fight in Street Fighter.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/video/street-fighter-ryu-and-ken-s-fight-flooded-the-set-collider-bts/"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "John Cena's Matchbox Becomes Apple TV Hit",
+  "summary": "John Cena's Matchbox movie becomes Apple TV's biggest streaming hit to date.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2286845/john-cena-action-movie-matchbox-streaming-apple-tv-october-2026/"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Walton Goggins Spotted on Miami Vice '85 Set",
+  "summary": "Walton Goggins appears on set in first images from the crime thriller Miami Vice '85.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/walton-goggins-miami-vice-85-set-images/"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Matt Damon's Spy Thriller Dominates Netflix",
+  "summary": "A new five-part spy thriller starring Matt Damon officially dominates Netflix streaming charts.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/matt-damon-jason-bourne-franchise-streaming-success-netflix-october-2026/"
+ },
+ {
+  "date": "2026-10-14T18:20:57.005292+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "HBO's Stephen King Series Season 2 Delayed Past 2026",
+  "summary": "HBO confirms that its dark Stephen King horror series will return for Season 2, but not in 2026.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/stephen-king-it-welcome-to-derry-season-2-release-window-2027/"
  }
 ]
