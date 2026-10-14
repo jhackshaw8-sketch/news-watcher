@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-11T06:46:05.415460+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Sci-Fi Thriller 'Overstake' Embraces Generative AI for Busan Market Sales",
-  "summary": "Sci-fi thriller 'Overstake' is using generative AI for setting rebuilds and has been picked up by Cappu Films for worldwide sales at the Busan market.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/sci-fi-thriller-overstake-generative-ai-rebuild-busan-market-1236907993/"
- },
- {
-  "date": "2026-10-11T07:06:43.197344+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Lord of the Rings: Wolves of Mordor Trailer Reveals October 2026 Release Date",
-  "summary": "A new Lord of the Rings project titled Wolves of Mordor has released a trailer and announced a release date near the end of October 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/lord-rings-wolves-mordor-trailer-middle-earth-reveals/"
- },
- {
   "date": "2026-10-11T07:39:08.788907+00:00",
   "topic": "Movies",
   "score": 6,
@@ -18632,5 +18610,82 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/dragon-ball-z-squadra-new-ss-son-goku-form/"
+ },
+ {
+  "date": "2026-10-14T07:10:10.264556+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "legal",
+  "headline": "\u26a0\ufe0f NHTSA Investigates GMC Sierra Over Detaching Grille Parts \ud83d\ude97",
+  "summary": "NHTSA is investigating over 535,000 GMC Sierra trucks from the 2022-2024 model years following complaints of grille parts flying off.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811868/nhtsa-probes-gmc-sierra-1500/"
+ },
+ {
+  "date": "2026-10-14T07:10:10.264556+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "business",
+  "headline": "\ud83d\udcbc Stellantis Confirms Maserati Is Not For Sale \ud83c\udfce\ufe0f",
+  "summary": "Stellantis executive Antonio Filosa has firmly stated that Maserati is not for sale and that the company will not separate its European and American brands.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811866/stellantis-boss-maserati-not-for-sale/"
+ },
+ {
+  "date": "2026-10-14T07:10:10.264556+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "launch",
+  "headline": "\ud83d\udef8 DeLorean Takes Flight With New Electric Racing Team \ud83c\udfc1",
+  "summary": "DeLorean is entering the electric flying car racing arena by running the US entry in the Airspeeder International Series.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/811861/delorean-enters-airspeeder-electric-flying/"
+ },
+ {
+  "date": "2026-10-14T07:10:10.264556+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "The Epic Resurrection of Classic Indian Masterpiece 'Pakeezah'",
+  "summary": "An in-depth look at the turbulent production history and legendary resurrection of the classic Indian epic 'Pakeezah'.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/festivals/kamal-amrohi-meena-kumari-pakeezah-rescued-melted-negative-1236909987/"
+ },
+ {
+  "date": "2026-10-14T07:10:10.264556+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "\u2018Slow Horses\u2019 Star Breaks Down That Terrifying Season 6 Scene",
+  "summary": "Actor Kyle Soller shares behind-the-scenes insights on filming a harrowing and freezing stunt sequence in the latest season of 'Slow Horses'.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/slow-horses-season-6-episode-5-jim-death-kyle-soller/"
+ },
+ {
+  "date": "2026-10-14T07:10:10.264556+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Universal Drops Creepy New Teaser for Jessica Chastain's 'Other Mommy'",
+  "summary": "Universal Pictures shares a teaser promo and laugh-filled clip featuring Jessica Chastain for the upcoming 2026 horror film 'Other Mommy'.",
+  "verified": "official",
+  "source": "Universal Pictures (trailers)",
+  "link": "https://www.youtube.com/shorts/idkLYLw284Y"
+ },
+ {
+  "date": "2026-10-14T07:10:10.264556+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Judge Dredd Announces 50th Anniversary Celebration",
+  "summary": "Judge Dredd has officially announced a massive 50th-anniversary release celebration scheduled for February 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/judge-dredd-fifty-year-anniversary-celebration-2027/"
  }
 ]
