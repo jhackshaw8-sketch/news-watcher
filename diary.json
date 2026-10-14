@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-11T06:05:05.491036+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Zelda: Ocarina of Time Remake Reveals Character Redesign",
-  "summary": "An official Zelda: Ocarina of Time remake has revealed a major character redesign.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/zelda-ocarina-remake-character-design-changes/"
- },
- {
   "date": "2026-10-11T06:46:05.415460+00:00",
   "topic": "Movies",
   "score": 6,
@@ -18632,5 +18621,16 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/foundation-december-2026-galactic-frontier-plans-confirmed/"
+ },
+ {
+  "date": "2026-10-14T06:17:02.773521+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Dragon Ball Z Officially Reveals Goku's New Form",
+  "summary": "Dragon Ball Z has officially unveiled a new form for Goku, continuing the franchise's tradition of power-ups.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/dragon-ball-z-squadra-new-ss-son-goku-form/"
  }
 ]
