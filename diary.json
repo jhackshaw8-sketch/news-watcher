@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-11T00:49:09.898828+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Her Last Laugh Heads to Busan Buyers",
-  "summary": "The Australian dramedy 'Her Last Laugh' is heading to Busan buyers with sales handled by Cappu Films.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/her-last-laugh-australian-dramedy-busan-market-1236907854/"
- },
- {
-  "date": "2026-10-11T00:49:09.898828+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Tribeca Romance 'Ephemera' Lands Worldwide Sales Deal",
-  "summary": "Tribeca queer romance 'Ephemera' has secured a worldwide sales deal with Cappu Films for the Busan market.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/tribeca-queer-romance-ephemera-sales-cappu-films-1236907861/"
- },
- {
-  "date": "2026-10-11T00:49:09.898828+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "New Philippine Massacre Drama Featured at Busan",
-  "summary": "The journalist massacre drama project 'Once Upon a Time in the Philippines' is featured at the Busan Asian Project Market.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/journalist-massacre-drama-once-upon-a-time-in-the-philippines-busan-asian-project-market-1236907843/"
- },
- {
-  "date": "2026-10-11T00:49:09.898828+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "New Trailer Drops for Blade Runner 2099",
-  "summary": "Prime Video has dropped a brand-new trailer for Ridley Scott's upcoming sci-fi spin-off series Blade Runner 2099.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/ridley-scott-blade-runner-2099-new-trailer/"
- },
- {
-  "date": "2026-10-11T00:49:09.898828+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Prime Video Drops Blade Runner 2099 Trailer At NYCC",
-  "summary": "Prime Video released a new trailer and key art for the upcoming limited series Blade Runner 2099 at New York Comic-Con.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/blade-runner-2099-trailer-hunter-schafer-michelle-yeoh-nycc-1237154128/"
- },
- {
   "date": "2026-10-11T01:07:46.889877+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -18456,5 +18401,82 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/marshals-season-2-paramount-plus-streaming-success-yellowstone-franchise/"
+ },
+ {
+  "date": "2026-10-14T01:06:31.387541+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "legal",
+  "headline": "Apple Challenges Massive $5.7B Patent Verdict",
+  "summary": "Apple is asking a federal judge to overturn a massive $5.7 billion patent infringement verdict regarding the Taptic Engine.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/13/apple-challenges-tactions-5-7b-patent-verdict-says-damages-were-based-on-guesswork/"
+ },
+ {
+  "date": "2026-10-14T01:06:31.387541+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "Apple Outs HomeView Repair Pricing",
+  "summary": "Apple has revealed the official repair fees for its newly launched HomeView smart home hub.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/13/apple-homeview-repair-fees/"
+ },
+ {
+  "date": "2026-10-14T01:06:31.387541+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "legal",
+  "headline": "Apple Fights Record $5.7B Taction Court Ruling",
+  "summary": "Apple has officially appealed the record $5.7 billion Taction patent verdict, claiming the damages were based on guesswork.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/14/apple-has-appealed-the-57b-taction-verdict-arguing-jury-got-it-all-wrong?utm_source=rss"
+ },
+ {
+  "date": "2026-10-14T01:06:31.387541+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Anya Taylor-Joy and Chris Evans Hit Netflix This Week",
+  "summary": "Anya Taylor-Joy and Chris Evans star in a new action thriller officially premiering on Netflix in three days.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/anya-taylor-joy-netflix-action-thriller-sacrifice-release-date-october-2026/"
+ },
+ {
+  "date": "2026-10-14T01:06:31.387541+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "VisionQuest Premiere Sets Up MCU Sci-Fi Mystery",
+  "summary": "The premiere episode of VisionQuest sets up a major sci-fi mystery in the MCU.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/visionquest-episode-1-recap-disney-plus/"
+ },
+ {
+  "date": "2026-10-14T01:06:31.387541+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Karen Pirie Officially Renewed for Season 3",
+  "summary": "BritBox and ITV have officially renewed the crime thriller Karen Pirie for a third season.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/britbox-karen-pirie-season-3-confirmed-itv/"
+ },
+ {
+  "date": "2026-10-14T01:06:31.387541+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "casting",
+  "headline": "Florence Pugh Cast in The Midnight Library Adaptation",
+  "summary": "Florence Pugh will lead the long-awaited film adaptation of Matt Haig's bestselling novel The Midnight Library.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/florence-pugh-the-midnight-library-movie-adaptation/"
  }
 ]
