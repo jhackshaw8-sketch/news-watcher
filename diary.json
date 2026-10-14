@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-11T03:05:04.557346+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Supermassive Games Hit With Major Layoffs Affecting Over 70 Staff",
-  "summary": "Supermassive Games is facing significant restructuring with over 70 developers departing amid recent layoffs.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/supermassive-games-layoffs-70"
- },
- {
-  "date": "2026-10-11T03:05:04.557346+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Rohan Campbell Teases Upcoming Directorial Debut",
-  "summary": "Actor Rohan Campbell is planning to make his directorial debut next summer with a personal story and is currently awaiting a greenlight.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/rohan-campbell-teases-directorial-debut-plans-1237154173/"
- },
- {
-  "date": "2026-10-11T03:05:04.557346+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "Marvel Updates Robert Downey Jr.'s Doctor Doom Name",
-  "summary": "Marvel officially updates Robert Downey Jr.'s Doctor Doom name details ahead of Avengers: Doomsday.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/marvel-renames-robert-downey-jr-doctor-doom-avengers-doomsday/"
- },
- {
   "date": "2026-10-11T03:41:22.300900+00:00",
   "topic": "Movies",
   "score": 6,
@@ -18533,5 +18500,82 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/eternally-yours-twilight-derry-girls-recommendation-cbs/"
+ },
+ {
+  "date": "2026-10-14T03:16:52.949068+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Apple Announces 'Welcome Home' Special Event for October 13",
+  "summary": "Apple has announced a special event for October 13, with reports suggesting a touchscreen MacBook Pro and other products could be on the way.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/08/apple-to-launch-touchscreen-macbook-pro-and-more-on-october-27-report/"
+ },
+ {
+  "date": "2026-10-14T03:16:52.949068+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Apple Wins Early Access to OpenAI Documents and Testimony",
+  "summary": "Apple has successfully gained early access to relevant OpenAI internal documents and employee testimony amid ongoing legal proceedings.",
+  "verified": "reliable_reporter",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x5gaxp/apple_wins_early_access_to_openai_documents_and/"
+ },
+ {
+  "date": "2026-10-14T03:16:52.949068+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "IDC Reports Mac Shipments Dropped 11% in Q3 Amid Wider PC Slump",
+  "summary": "IDC data reveals Mac shipments fell 11% in Q3 2026, though Apple's overall market share increased due to a steeper 20% decline in the global PC market.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/08/idc-mac-shipments-drop-11-in-q3-as-global-pc-market-slides-20/"
+ },
+ {
+  "date": "2026-10-14T03:16:52.949068+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "'Severance' Star's Horror Movie Becomes Hulu's #1 Hit",
+  "summary": "Adam Scott's horror film Hokum has become a top hit on Hulu following its streaming debut.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/hokum-adam-scott-shining-replacement-streaming-success-hulu-october-2026/"
+ },
+ {
+  "date": "2026-10-14T03:16:52.949068+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Paul Bettany Breaks Down Shocking 'VisionQuest' Premiere Death",
+  "summary": "Paul Bettany discusses the major character death in the premiere of 'VisionQuest' and emotional reunions in Episode 2.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/visionquest-premiere-episode-2-paul-bettany-disney-plus/"
+ },
+ {
+  "date": "2026-10-14T03:16:52.949068+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "legal",
+  "headline": "Judge Blocks White House Ban on Major News Outlets",
+  "summary": "A federal judge ruled that the Trump administration cannot ban certain media outlets from White House grounds.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/trump-white-house-ban-cnn-ms-now-politico-4-1237155884/"
+ },
+ {
+  "date": "2026-10-14T03:16:52.949068+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Fallout 4 Project Detour Launches to Keep Fans Busy",
+  "summary": "A new Fallout 4 project titled Detour aims to keep fans occupied while waiting for Fallout 5.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/fallout-4-detour-dlc-sized-mod-october-2026/"
  }
 ]
