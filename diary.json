@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-12T06:53:56.675077+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "Bugatti Tourbillon Beats the Heat in Brutal Testing \ud83c\udfce\ufe0f\ud83d\udd25",
-  "summary": "Bugatti engineers put the 1,800-horsepower Tourbillon through extreme weather testing in Spain, Dubai, and Sweden to validate its cooling and hybrid systems.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811519/bugatti-tourbillon-extreme-hot-cold/"
- },
- {
-  "date": "2026-10-12T06:53:56.675077+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "business",
-  "headline": "Porsche Sales Dip Overall, But the 911 Surges \ud83d\udcc8\ud83d\ude97",
-  "summary": "Porsche's overall sales volumes are shrinking, but deliveries for the iconic 911 have climbed by 12 percent over a nine-month period.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811514/porsche-sales-fall-16-911/"
- },
- {
   "date": "2026-10-12T07:14:14.121828+00:00",
   "topic": "Events",
   "score": 6,
@@ -22229,5 +22207,137 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/foundation-invictus-replica-avalable-now/"
+ },
+ {
+  "date": "2026-10-15T07:11:37.191478+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "AI Projected to Reduce UK Workforce",
+  "summary": "A survey of CFOs reveals that more than half of UK firms plan to reduce headcount due to artificial intelligence.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x6ean5/ai_to_cut_headcount_at_more_than_half_of_uk_firms/"
+ },
+ {
+  "date": "2026-10-15T07:11:37.191478+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Starlink Partially Restored in Ukraine",
+  "summary": "Ukraine reports that Starlink services have been partially restored following warnings about satellite slowdown impacts.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x6duir/ukraine_says_starlink_partially_restored_after/"
+ },
+ {
+  "date": "2026-10-15T07:11:37.191478+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Kalshi Admits Using AI for Controversial Ad",
+  "summary": "Kalshi admitted to using AI to alter a random person's video and race to feature them as an ad host.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x6d8od/kalshi_admits_that_it_took_a_random_guys_video/"
+ },
+ {
+  "date": "2026-10-15T07:11:37.191478+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Breakthrough Chip-Scale Gyroscope Unveiled",
+  "summary": "Researchers have developed a new chip-scale gyroscope capable of measuring rotation with unprecedented sensitivity.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x6clzc/new_chipscale_gyroscope_measures_rotation_with/"
+ },
+ {
+  "date": "2026-10-15T07:11:37.191478+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "OpenAI Sued Over Children's Data Usage",
+  "summary": "OpenAI is facing a lawsuit regarding the alleged use of children's data to train its ChatGPT models.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x6cdr2/openai_sued_over_childrens_data_used_to_train/"
+ },
+ {
+  "date": "2026-10-15T07:11:37.191478+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "update",
+  "headline": "Volvo EX60 Production Delays Push US Availability to 2027 \ud83d\ude97\u23f3",
+  "summary": "Volvo's new EX60 is facing major production delays at the Torslanda plant, pushing widespread US availability out to 2027.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812009/volvo-ex60-us-deliveries-delayed/"
+ },
+ {
+  "date": "2026-10-15T07:11:37.191478+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Kirti Kulhari's 'Kinaare' to Premiere at Dharamshala",
+  "summary": "Kirti Kulhari\u2019s production debut 'Kinaare' is set to premiere at the 15th Dharamshala International Film Festival.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/festivals/kirti-kulhari-kinaare-rima-das-not-a-hero-dharamshala-1236912276/"
+ },
+ {
+  "date": "2026-10-15T07:11:37.191478+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "other",
+  "headline": "Review: 'The Diplomat' Season 4 Raises the Bar",
+  "summary": "A positive review of Netflix's 'The Diplomat' Season 4 praises its exceptional quality.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/the-diplomat-season-4-review-netflix-keri-russell/"
+ },
+ {
+  "date": "2026-10-15T07:11:37.191478+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "First Trailer for Mike Flanagan's 'The Exorcist: Martyrs' Drops",
+  "summary": "Universal Pictures released the official trailer for Mike Flanagan's 'The Exorcist: Martyrs' starring Scarlett Johansson, hitting theaters March 12.",
+  "verified": "official",
+  "source": "Universal Pictures (trailers)",
+  "link": "https://www.youtube.com/watch?v=iIEYfH-jg1Y"
+ },
+ {
+  "date": "2026-10-15T07:11:37.191478+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "The Diplomat Season 4 Now Streaming on Netflix",
+  "summary": "The Diplomat Season 4 is now streaming on Netflix, featuring major plot twists and casting changes.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/the-diplomat-season-4-death-prime-minister-change-explained-1237153276/"
+ },
+ {
+  "date": "2026-10-15T07:11:37.191478+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Gersh Launches Victoria House for International Content",
+  "summary": "Talent agency Gersh has launched Victoria House to expand its footprint in scripted films and international co-productions.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/global/gersh-victoria-house-launch-you-first-originals-1236909813/"
+ },
+ {
+  "date": "2026-10-15T07:11:37.191478+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Seven Of Nine Returns in Star Trek Voyager: Across The Unknown",
+  "summary": "Star Trek Voyager: Across The Unknown officially brings back the character Seven Of Nine.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-trek-voyager-across-the-unkown-seven-nine-return/"
  }
 ]
