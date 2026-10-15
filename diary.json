@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-12T23:39:33.791785+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "launch",
-  "headline": "watchOS 27 Launches With Three New Apps",
-  "summary": "watchOS 27 has been released, bringing three new apps and a dynamic app grid to the Apple Watch.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/07/watchos-27-adds-three-new-apps-to-your-apple-watch/"
- },
- {
-  "date": "2026-10-12T23:39:33.791785+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Epic Alleges Apple Is Delaying Ongoing Litigation",
-  "summary": "A new joint filing reveals ongoing tensions as Epic Games claims Apple is artificially delaying their ongoing litigation.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/12/new-joint-filing-shows-epic-remains-unhappy-with-apple-at-every-turn?utm_source=rss"
- },
- {
-  "date": "2026-10-12T23:39:33.791785+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "update",
-  "headline": "Anthropic Releases Claude Haiku 5.5 Model",
-  "summary": "Anthropic has upgraded its AI lineup with the release of the new Claude Haiku 5.5 model.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/07/anthropic-upgrades-claude-with-new-haiku-5-5-model-details-here/"
- },
- {
-  "date": "2026-10-12T23:39:33.791785+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Insights on Marvel's VisionQuest",
-  "summary": "Paul Bettany and Terry Matalas discuss the upcoming VisionQuest series, the return of Ultron, and the future of Vision in the MCU.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/paul-bettany-visionquest-interview-vision-legacy/"
- },
- {
-  "date": "2026-10-12T23:39:33.791785+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Netflix's 2026 Erotic Series Becomes a Hit",
-  "summary": "Netflix's extensive R-rated erotic series emerges as one of the streaming platform's massive hits in 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/bridgerton-season-4-netflix-biggest-streaming-hits-2026/"
- },
- {
   "date": "2026-10-13T00:07:21.700230+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -23516,5 +23461,126 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/playstation-plus-best-looking-open-world-game-october-2026/"
+ },
+ {
+  "date": "2026-10-15T23:46:45.204175+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Control Resonant Hits One Million Copies Sold",
+  "summary": "Control Resonant becomes Remedy's fastest-selling game after reaching one million copies sold.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/remedy-boss-reacts-after-control-resonant-sells-1-million-copies-becoming-studios-fastest-selling-game"
+ },
+ {
+  "date": "2026-10-15T23:46:45.204175+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Steven Soderbergh to Direct Filming for The Batman 2",
+  "summary": "Steven Soderbergh steps in to direct filming for The Batman 2 while Matt Reeves steps back.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/dc-movies/the-batman-2-is-set-to-resume-filming-with-steven-soderbergh-stepping-in-for-matt-reeves-to-help-with-the-final-weeks-of-principal-photography/"
+ },
+ {
+  "date": "2026-10-15T23:46:45.204175+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Lair of the Leviathan Official Announcement Trailer Released",
+  "summary": "An official announcement trailer for Lair of the Leviathan has been released.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x70n68/lair_of_the_leviathan_official_announcement/"
+ },
+ {
+  "date": "2026-10-15T23:46:45.204175+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "World of Warcraft: Forever Stress Test Announced",
+  "summary": "Blizzard announces the World of Warcraft: Forever stress test scheduled for October 19th.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x707so/join_the_world_of_warcraft_forever_stress_test/"
+ },
+ {
+  "date": "2026-10-15T23:46:45.204175+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Cal AI's Viral Influencer Strategy Leads to MyFitness Acquisition",
+  "summary": "Cal AI achieved viral success through influencer marketing, generating over $30 million before being acquired by MyFitness.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
+ },
+ {
+  "date": "2026-10-15T23:46:45.204175+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "update",
+  "headline": "\u26a0\ufe0f Genesis Issues Urgent Advisory to Park Certain Models Outside! \ud83d\ude97",
+  "summary": "Genesis issues a safety advisory instructing owners of certain vehicle models to park outside and away from buildings due to an issue unrelated to EV batteries.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2288364/genesis-recall-seat-fire-risk/"
+ },
+ {
+  "date": "2026-10-15T23:46:45.204175+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Netflix's New Supernatural Thriller Becomes Instant Hit",
+  "summary": "Netflix's new 6-part supernatural thriller series, Below, has become an instant streaming hit.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/josh-hartnett-below-netflix-thriller-streaming-success-october-2026/"
+ },
+ {
+  "date": "2026-10-15T23:46:45.204175+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Ben Affleck's Thriller Becomes Massive Streaming Success",
+  "summary": "Ben Affleck's poorly reviewed political thriller is currently pulling in massive viewership numbers on Netflix.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/ben-affleck-netflix-thriller-animals-streaming-success-october-2026/"
+ },
+ {
+  "date": "2026-10-15T23:46:45.204175+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Percy Jackson Makes Big Splash on Netflix",
+  "summary": "Percy Jackson and the Olympians achieves massive viewing milestones following its recent debut on Netflix.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/percy-jackson-and-the-olympians-streaming-success-netflix-october-2026/"
+ },
+ {
+  "date": "2026-10-15T23:46:45.204175+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Marvel Replaces Iron Man in New Disney+ Series",
+  "summary": "Marvel Studios features a replacement for Robert Downey Jr.'s Iron Man in the character backstory for an upcoming Disney+ series.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/your-friendly-neighborhood-spider-man-replaces-iron-man/"
+ },
+ {
+  "date": "2026-10-15T23:46:45.204175+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Linda Cardellini Stars in A24's Crystal Lake Horror Prequel",
+  "summary": "Linda Cardellini stars in A24's upcoming eight-part Friday the 13th prequel series titled Crystal Lake on Peacock.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/crystal-lake-friday-the-13th-prequel-perfect-halloween-show-watch/"
  }
 ]
