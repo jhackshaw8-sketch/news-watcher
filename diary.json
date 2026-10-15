@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-12T05:07:18.100601+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Stargate SG-1 Jackal Guard Helmet Releases January 2027",
-  "summary": "The detailed Stargate SG-1 Jackal Guard Helmet is now available for pre-order and is officially scheduled to ship in January 2027.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/stargate-sg1-jackal-guard-helmet-release-date/"
- },
- {
-  "date": "2026-10-12T05:07:18.100601+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "'Heart of a Killer' Renewed for Season 2",
-  "summary": "The hit medical thriller series 'Heart of a Killer,' starring Niv Sultan, has officially been renewed for a second season.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/global/heart-of-a-killer-niv-sultan-season-2-1236908419/"
- },
- {
   "date": "2026-10-12T05:42:13.617070+00:00",
   "topic": "Events",
   "score": 5,
@@ -22108,5 +22086,38 @@
   "verified": "official",
   "source": "TechCrunch",
   "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+ },
+ {
+  "date": "2026-10-15T05:17:51.362669+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Castlevania: Belmont's Curse is Out Now!",
+  "summary": "Castlevania: Belmont\u2019s Curse has been surprise-released, marking the legendary franchise's first new mainline 2D game since 2008.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x6bv28/castlevania_belmonts_curse_is_out_now/"
+ },
+ {
+  "date": "2026-10-15T05:17:51.362669+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "New Giggleland Gameplay Trailer Released",
+  "summary": "An official gameplay trailer has been released for Giggleland.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x6b5o8/giggleland_official_gameplay_trailer/"
+ },
+ {
+  "date": "2026-10-15T05:17:51.362669+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Stargate SG-1 Horus Guard Set Releasing December 2026",
+  "summary": "Stargate SG-1 has officially announced the release of a brand-new Horus Guard set for December 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/stargate-sg1-horus-statue-december-2026/"
  }
 ]
