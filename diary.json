@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-12T03:06:01.547886+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Mass Effect Geth Dreadnought Replica Officially Releasing March 2027",
-  "summary": "The Mass Effect Geth Dreadnought Replica has been officially scheduled for release in March 2027.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/mass-effect-dreadnought-geth-replica-march-2027/"
- },
- {
   "date": "2026-10-12T03:45:42.399033+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -21976,5 +21965,115 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/dungeon-masters-mistik-death-christian-navarro-behind-the-scenes/"
+ },
+ {
+  "date": "2026-10-15T03:17:43.250585+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "GTA 6 Promo Art Appears in LA",
+  "summary": "New GTA 6 promotional artwork is being put up on Hollywood Boulevard in Los Angeles.",
+  "verified": "official",
+  "source": "r/GTA6",
+  "link": "https://www.reddit.com/r/GTA6/comments/1x6a1pj/going_up_in_hollywood_blvd_in_los_angeles/"
+ },
+ {
+  "date": "2026-10-15T03:17:43.250585+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Is Surfing Coming to GTA 6?",
+  "summary": "Fans speculate if recent articles hint at a surfing mechanic in GTA 6.",
+  "verified": "unconfirmed",
+  "source": "r/GTA6",
+  "link": "https://www.reddit.com/r/GTA6/comments/1x6974i/surfing_hint/"
+ },
+ {
+  "date": "2026-10-15T03:17:43.250585+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "GTA 6 Banner Planes Spotted Over Miami",
+  "summary": "Banner planes promoting GTA 6 have been spotted flying over Miami.",
+  "verified": "official",
+  "source": "r/GTA6",
+  "link": "https://www.reddit.com/r/GTA6/comments/1x66uq6/gta_6_banner_planes_in_miami/"
+ },
+ {
+  "date": "2026-10-15T03:17:43.250585+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "New Car Model Teased in Merch Collab?",
+  "summary": "Fans spot a potential new vehicle model featured in a recent merchandise collaboration.",
+  "verified": "unconfirmed",
+  "source": "r/GTA6",
+  "link": "https://www.reddit.com/r/GTA6/comments/1x622mr/new_car_model_seen_in_merch_collab/"
+ },
+ {
+  "date": "2026-10-15T03:17:43.250585+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "GTA 6 Reviews Expected Before Launch Day",
+  "summary": "Insider Gaming reports that reviews for GTA 6 will be published ahead of the game's launch.",
+  "verified": "reliable_reporter",
+  "source": "r/GTA6",
+  "link": "https://www.reddit.com/r/GTA6/comments/1x5zvwi/insider_gaming_gta_6_reviews_will_be_released/"
+ },
+ {
+  "date": "2026-10-15T03:17:43.250585+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Wynwood Confirmed as Part of Vice City Map",
+  "summary": "Fans map out the in-game geography and confirm Wynwood's presence in Vice City.",
+  "verified": "unconfirmed",
+  "source": "r/GTA6",
+  "link": "https://www.reddit.com/r/GTA6/comments/1x5w9wv/wynwood_is_officially_part_of_vice_city/"
+ },
+ {
+  "date": "2026-10-15T03:17:43.250585+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Massive New GTA 6 Murals Go Up on Towers",
+  "summary": "New promotional artwork is being installed on the Mercuriales Towers.",
+  "verified": "official",
+  "source": "r/GTA6",
+  "link": "https://www.reddit.com/r/GTA6/comments/1x5vejt/new_artwork_going_up_on_mercuriales_towers_side/"
+ },
+ {
+  "date": "2026-10-15T03:17:43.250585+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Exploring the Long Development Journey of GTA 6",
+  "summary": "A retrospective look examines the massive development history leading up to Grand Theft Auto VI.",
+  "verified": "unconfirmed",
+  "source": "r/GTA6",
+  "link": "https://www.reddit.com/r/GTA6/comments/1x5utyy/the_making_of_grand_theft_auto_vi/"
+ },
+ {
+  "date": "2026-10-15T03:17:43.250585+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Mystery '919' Banner Spotted Over Miami Beach",
+  "summary": "Another promotional banner featuring the number 919 was spotted flying over Miami Beach.",
+  "verified": "official",
+  "source": "r/GTA6",
+  "link": "https://www.reddit.com/r/GTA6/comments/1x5twy6/spotted_nine1nine_banner_today_over_miami_beach/"
+ },
+ {
+  "date": "2026-10-15T03:17:43.250585+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "2027 BMW i7 Gets Dual-Motor xDrive and Faster Charging \ud83d\udd0b\ud83d\ude97",
+  "summary": "BMW updates the i7 for 2027 with a new dual-motor xDrive50 setup, 449 horsepower, and faster 250 kW DC charging using sixth-generation cylindrical battery cells.",
+  "verified": "official",
+  "source": "TheTopher",
+  "link": "https://www.youtube.com/watch?v=l0hIkilBZeQ"
  }
 ]
