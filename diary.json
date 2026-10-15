@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-12T02:42:43.908500+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Apple Plans Special In-Store iPhone Duo Demos",
-  "summary": "Apple is reportedly planning large iPhone Duo demo experiences at select retail stores.",
-  "verified": "unconfirmed",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x3q0xj/apple_planning_huge_iphone_duo_demo_experiences/"
- },
- {
-  "date": "2026-10-12T02:42:43.908500+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Pat McAfee Adds Super Bowl LXI Alternate Telecast to ESPN Lineup",
-  "summary": "Pat McAfee is expanding his ESPN role to include an alternate Field Pass telecast for Super Bowl LXI.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/pat-mcafee-espn-super-bowl-lxi-mnf-1237154517/"
- },
- {
-  "date": "2026-10-12T02:42:43.908500+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Asian Producers Alliance Launched at Busan's ACFM",
-  "summary": "Five independent producer organizations from across Asia launched the Asian Producers Alliance at the Busan market.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/asian-producers-alliance-busan-acfm-korea-indonesia-1237154518/"
- },
- {
-  "date": "2026-10-12T02:42:43.908500+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Netflix Legal Drama to End with Season 5",
-  "summary": "Netflix's legal drama will officially conclude after its upcoming fifth season.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/the-lincoln-lawyer-netflix-better-suits-final-season/"
- },
- {
-  "date": "2026-10-12T02:42:43.908500+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Upcoming Book Franchise TCG and TTRPG Releases Announced for 2026",
-  "summary": "Various TCG and TTRPG adaptations based on major book franchises are slated for release throughout 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/book-tcg-and-ttrpg-releasing-2026/"
- },
- {
   "date": "2026-10-12T03:06:01.547886+00:00",
   "topic": "Events",
   "score": 8,
@@ -22020,5 +21965,16 @@
   "verified": "official",
   "source": "Variety Film",
   "link": "https://variety.com/2026/film/reviews/to-be-ordinary-review-1236912654/"
+ },
+ {
+  "date": "2026-10-15T02:55:51.089997+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "'Dungeon Masters' Star Breaks Down That Shocking Death",
+  "summary": "Actor Christian Navarro discusses a shocking character death in Dungeon Masters Episode 5.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/dungeon-masters-mistik-death-christian-navarro-behind-the-scenes/"
  }
 ]
