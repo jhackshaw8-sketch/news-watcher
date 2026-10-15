@@ -1,104 +1,5 @@
 [
  {
-  "date": "2026-10-12T17:05:23.617753+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Apple Plans Special October Event to Showcase New Macs and iPad Mini",
-  "summary": "Apple is planning a two-day product showcase in Los Angeles at the end of October to debut new Macs and an iPad Mini.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/12/new-macs-and-ipad-mini-in-los-angeles/"
- },
- {
-  "date": "2026-10-12T17:05:23.617753+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Meta Launches New Muse Wonder AI Models to Compete with Industry Leaders",
-  "summary": "Meta has launched two new AI models, Muse Wonder and Muse Wonder Full, aiming to compete with the top models in the industry.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
- },
- {
-  "date": "2026-10-12T17:05:23.617753+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Elon Musk Donates Over $276 Million to Republican Midterm Efforts",
-  "summary": "Elon Musk has donated over $276 million to Republican midterm efforts, making him a top political donor.",
-  "verified": "reliable_reporter",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations"
- },
- {
-  "date": "2026-10-12T17:05:23.617753+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Stunning Audi A6 C8 Spotlight \ud83d\ude97\u2728",
-  "summary": "A high-resolution image showcasing the sleek design of the Audi A6 C8 is shared by a community member.",
-  "verified": "reliable_reporter",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x47fgc/audi_a6_c8_2846x3788/"
- },
- {
-  "date": "2026-10-12T17:05:23.617753+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Universal Launches Fourth Film Composers Initiative",
-  "summary": "Universal has launched its fourth film composers initiative to discover and support rising musical talent across its studios.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/artisans/news/universal-fourth-film-composers-initiative-2026-1236909047/"
- },
- {
-  "date": "2026-10-12T17:05:23.617753+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "TMNT Returning in 2027 with New Prequel Series",
-  "summary": "Teenage Mutant Ninja Turtles is officially returning to a classic era in 2027 with a newly announced five-part prequel series.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/teenage-mutant-ninja-turtles-the-first-ronin/"
- },
- {
-  "date": "2026-10-12T17:05:23.617753+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Zelda: Majora's Mask Available as Free Download Now",
-  "summary": "The Legend of Zelda: Majora's Mask is officially available as a free download to claim right now for fans.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/legend-of-zelda-majoras-mask-free-download-claim-now/"
- },
- {
-  "date": "2026-10-12T17:05:23.617753+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "other",
-  "headline": "Nathan Fielder's Elizabeth Holmes Doc Reviewed",
-  "summary": "Nathan Fielder's bizarre new documentary about Elizabeth Holmes defies traditional expectations and explanations.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/you-can-see-everything-movie-review/"
- },
- {
-  "date": "2026-10-12T17:05:23.617753+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Next MCU Series Officially Releasing Early on Disney+",
-  "summary": "Marvel's next MCU live-action series is officially scheduled to release early on Disney+ ahead of its original window.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/visionquest-season-1-early-release-disney-plus-marvel-confirm/"
- },
- {
   "date": "2026-10-12T17:41:25.665309+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -23087,5 +22988,192 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/terminators-vs-archie-characters/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Meta Launches Muse Spark Open Model Optimized for Mac Studio",
+  "summary": "Meta unveiled the Muse Spark Open AI model, which is optimized to run locally on Apple's Mac Studio hardware.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "PEAK Scheduled to Launch on October 22nd",
+  "summary": "The game PEAK has been officially announced for release on October 22nd for PS5, Xbox Series, and Switch 2.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x6r9tt/peak_releases_oct_22nd_on_ps5_xbox_series_switch_2/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Topdeck Automat Card Auto-Battler Coming November 16",
+  "summary": "The card auto-battler game Topdeck Automat has been announced for a November 16 release.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x6qt3b/topdeck_automat_the_card_autobattler_out_november/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Rocket Lab Pushes Neutron Rocket Debut Further Out",
+  "summary": "Rocket Lab has announced another delay for the debut flight of its medium-lift Neutron rocket.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Meta Launches Massive Open-Weight AI Model Requiring 1TB RAM",
+  "summary": "Meta released Muse Spark Open, a massive open-weight AI model optimized for Macs that requires 1TB of RAM.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2287833/meta-built-a-huge-open-weight-ai-model-for-macs-but-youll-need-1tb-of-ram-to-run-it/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "legal",
+  "headline": "FTC Launches Investigation Into OpenAI and Anthropic",
+  "summary": "The FTC is reportedly probing AI companies Anthropic and OpenAI regarding potential data breach notification delays.",
+  "verified": "reliable_reporter",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "YouTube Music Introduces Gen-AI Content Labels",
+  "summary": "YouTube Music is rolling out new generative AI labels to help users identify AI-generated tracks.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "'Women and War' Acquired by Rise and Shine",
+  "summary": "Rise and Shine World Sales has acquired international rights to the documentary 'Women and War', which will premiere at IDFA.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/women-and-war-rise-and-shine-1236913115/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "'The Odyssey' Artisans to Receive Honor at Middleburg Film Festival",
+  "summary": "Key artisans behind Christopher Nolan's 'The Odyssey' are set to receive the Variety Creative Collaborators Award.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/artisans/news/the-odyssey-costume-editing-production-design-middleburg-1236912460/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Ben Affleck Defends 'Digger' Box Office Run",
+  "summary": "Ben Affleck defends the box office struggles of 'Digger' and warns against punishing risk-taking films.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/ben-affleck-digger-bullying-studios-bad-movies-tom-cruise-1236912896/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "'Street Fighter' Adaptation Debuts to Poor Reviews",
+  "summary": "The new video game adaptation 'Street Fighter' debuts to harsh reviews from critics on Rotten Tomatoes.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/street-fighter-rotten-tomatoes-score-is-it-good/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Stars Celebrate London Film Festival at Variety Dinner",
+  "summary": "A starry crowd of filmmakers and talent celebrated the London Film Festival at the Variety Dinner.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/festivals/jack-oconnell-sandra-huller-london-film-fest-variety-dinner-1236913053/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Hulu Greenlights Durango Series With Cast",
+  "summary": "Hulu has greenlit the drama series Durango starring Cooper Hoffman and Kathryn Newton.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/durango-hulu-cooper-hoffman-kathryn-newton-merritt-wever-1236913198/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Netflix Layoffs Hit Unscripted Division",
+  "summary": "Netflix layoffs have impacted several unscripted casting and development executives.",
+  "verified": "reliable_reporter",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/netflix-layoffs-unscripted-casting-development-1237157847/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "The Chosen Season 6 Trailer Teases Crucifixion",
+  "summary": "Prime Video's The Chosen has released a trailer teasing Jesus' crucifixion for Season 6.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/the-chosen-season-6-jesus-crucifixion/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Classic Fantasy Epic Gets Live-Action Adaptation",
+  "summary": "A classic 1,300-year-old fantasy epic is officially getting a live-action adaptation.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/arabian-nights-show-fantasy-series/"
+ },
+ {
+  "date": "2026-10-15T17:25:45.583748+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Steam Offers Limited-Time Free Download",
+  "summary": "Steam is offering a free download as part of its Free Trials Weekends until October 25.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/steam-free-download-october-2026/"
  }
 ]
