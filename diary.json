@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-12T04:07:25.192729+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Resident Evil Tops China Box Office",
-  "summary": "The horror reboot 'Resident Evil' claimed the top spot at the mainland China box office, earning $12.1 million over the weekend.",
-  "verified": "reliable_reporter",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/china-box-office-resident-evil-top-spot-1236908648/"
- },
- {
-  "date": "2026-10-12T04:07:25.192729+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Battlestar Galactica: Cerberus Gets Official 2026 Release Date",
-  "summary": "Battlestar Galactica: Cerberus has been officially announced for an October 2026 release date.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/battlestar-galactica-cerberus-statue-2026-release-date/"
- },
- {
   "date": "2026-10-12T04:43:56.836739+00:00",
   "topic": "Movies",
   "score": 6,
@@ -22097,5 +22075,38 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/3-body-problem-netflix-reduced-episodes/"
+ },
+ {
+  "date": "2026-10-15T04:20:36.713341+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Netflix Plans Major Workforce Reduction",
+  "summary": "Netflix is planning to lay off approximately 1,000 employees, equating to 6% of its total workforce.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x6b5m6/netflix_to_lay_off_roughly_1000_employees_or_6_of/"
+ },
+ {
+  "date": "2026-10-15T04:20:36.713341+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "SK Hynix Shares Plunge Amid Market Rout",
+  "summary": "SK Hynix shares dropped 10% during an Asian tech market downturn driven by interest rate fears and AI funding concerns.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x6b2sq/sk_hynix_shares_plunge_10_amid_asia_tech_rout_as/"
+ },
+ {
+  "date": "2026-10-15T04:20:36.713341+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Battlestar Galactica: Prometheus Set Officially Scheduled for October 2026 Release",
+  "summary": "The Battlestar Galactica: Prometheus set has been officially announced for an October 2026 release.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/battlestar-galactica-prometheus-replica-october-2026/"
  }
 ]
