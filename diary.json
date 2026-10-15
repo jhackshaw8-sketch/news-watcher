@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-12T02:06:04.381925+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "'The Riverbank' and 'Elza' Win Top Prizes at Rio Film Festival",
-  "summary": "Locarno-winning 'The Riverbank' and documentary 'Elza' took top honors at this year's Rio Film Festival awards ceremony.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/the-riverbank-elza-top-rio-film-festival-awards-1236908331/"
- },
- {
-  "date": "2026-10-12T02:06:04.381925+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Marvel Reveals Striking New Galactus Redesign for Fantastic Four",
-  "summary": "Marvel has unveiled a new redesign for Galactus ahead of the upcoming Fantastic Four movie.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/midnight-fantastic-four-galactus-debut-design/"
- },
- {
   "date": "2026-10-12T02:42:43.908500+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -21932,5 +21910,115 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/steven-spielberg-sci-fi-disclosure-day-streaming-success-prime-video-apple-tv-october-2026/"
+ },
+ {
+  "date": "2026-10-15T02:17:40.913588+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Garry's Mod Creator Gives Candid Update on Spiritual Sequel s&box",
+  "summary": "The creator of Garry's Mod has provided a candid update on the spiritual successor s&box, announcing plans for a major overhaul and a shift to free-to-play after facing negative reviews.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/garrys-mod-creator-sbox-spiritual-sequel-dire-update/"
+ },
+ {
+  "date": "2026-10-15T02:17:40.913588+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "NYC Public Schools Ban AI for Students Through 8th Grade",
+  "summary": "New York City Public Schools are implementing a ban on artificial intelligence tools through the 8th grade this school year.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x69jq4/new_york_city_public_schools_are_banning_ai/"
+ },
+ {
+  "date": "2026-10-15T02:17:40.913588+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Python 3.15 Goes Global with Native UTF-8 Support",
+  "summary": "Python 3.15 introduces global UTF-8 support, resolving longstanding cross-platform character corruption issues for Windows coders.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x67c2c/python_315_goes_global_with_utf8_support_decades/"
+ },
+ {
+  "date": "2026-10-15T02:17:40.913588+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "LibreOffice Adds PUB File Support Following Microsoft Publisher Demise",
+  "summary": "LibreOffice is adding free support for PUB files following Microsoft's decision to kill off Publisher.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x67beo/as_microsoft_kills_off_publisher_libreoffice/"
+ },
+ {
+  "date": "2026-10-15T02:17:40.913588+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Leap Seconds Face Judgment Day as Authorities Prepare to Vote",
+  "summary": "Time authorities are preparing to vote on the future of leap seconds.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x67aab/leap_seconds_face_judgment_day_as_time_lords/"
+ },
+ {
+  "date": "2026-10-15T02:17:40.913588+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "YouTube Reportedly Looking to Expand Into Audiobooks",
+  "summary": "Reports indicate that YouTube is exploring plans to expand its platform offerings into audiobooks.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x67864/youtube_is_looking_to_expand_into_audiobooks/"
+ },
+ {
+  "date": "2026-10-15T02:17:40.913588+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Flock CEO Denies Firing Police Department Customers",
+  "summary": "The CEO of Flock denied claims that the company has fired any police departments as customers.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x6776p/flock_ceo_we_havent_fired_any_police_departments/"
+ },
+ {
+  "date": "2026-10-15T02:17:40.913588+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "CoreWeave Shares Tumble Amid Mounting Concerns Over AI Borrowing Binge",
+  "summary": "CoreWeave shares dropped as bond yields approached 15% amid growing concerns over heavy AI borrowing.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x674qp/coreweave_shares_tumble_as_bond_yields_near_15_on/"
+ },
+ {
+  "date": "2026-10-15T02:17:40.913588+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Bank of America Hires 1,000 Contractors to Patch Flaws Exposed by AI",
+  "summary": "Bank of America reportedly hired 1,000 contractors to fix software flaws uncovered by Anthropic's Mythos AI.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x6700d/bank_of_america_hired_1000_contractors_to_patch/"
+ },
+ {
+  "date": "2026-10-15T02:17:40.913588+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "'To Be Ordinary' Review: A Moving Taiwanese Family Melodrama",
+  "summary": "Variety reviews the compassionate Taiwanese family melodrama 'To Be Ordinary', highlighting its sensitive exploration of disability and family dynamics.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/reviews/to-be-ordinary-review-1236912654/"
  }
 ]
