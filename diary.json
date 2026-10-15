@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-12T07:14:14.121828+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Beta Film Lands Major Deals for New Dramas",
-  "summary": "Beta Film secures major international broadcast deals for its upcoming female-led dramas Queen Silvia and La Vida Barcelona ahead of Cannes.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/global/beta-film-queen-silvia-la-vida-barcelona-1236908698/"
- },
- {
-  "date": "2026-10-12T07:14:14.121828+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "New Blade Runner RPG Sets Up 2099 Series",
-  "summary": "A new Blade Runner RPG titled Replicant Rebellion has been released to set up the events of the upcoming Blade Runner 2099 series.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/blade-runner-replicant-rebellion-before-2099-show/"
- },
- {
-  "date": "2026-10-12T07:14:14.121828+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Ed Sheeran Announces New Tour Opening Acts",
-  "summary": "Ed Sheeran officially announces new opening acts for his upcoming tour following a recent controversy involving Macklemore.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x3smdl/ed_sheeran_announces_new_tour_opening_acts_after/"
- },
- {
-  "date": "2026-10-12T07:14:14.121828+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Spanish Production Headed to Mipcom 2026",
-  "summary": "Audiovisual from Spain is bringing around 50 companies and institutions to Mipcom to showcase Spanish film, TV, and animation industries.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/global/spanish-production-mipcom-rights-ip-services-partnerships-1236907351/"
- },
- {
-  "date": "2026-10-12T07:45:56.135945+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Honda Unveils Next-Gen Hybrid System and AWD for 2027 \ud83d\ude97\u26a1",
-  "summary": "Honda has announced its next-generation hybrid system launching globally in 2027, featuring a lighter platform and new electric all-wheel drive.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811539/honda-hybrid-global-rollout-platform/"
- },
- {
-  "date": "2026-10-12T07:45:56.135945+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "The New Smart #2 Redefines Compact City Driving \ud83c\udfd9\ufe0f\ud83d\ude99",
-  "summary": "The new Smart #2 debuts as a refreshing compact city car in an automotive market dominated by increasingly oversized vehicles.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811515/new-smart-city-car-revealed/"
- },
- {
   "date": "2026-10-12T08:45:46.198172+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -22339,5 +22273,49 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/star-trek-voyager-across-the-unkown-seven-nine-return/"
+ },
+ {
+  "date": "2026-10-15T07:59:33.147384+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Starlink Restrictions Disrupt Ukraine Drone Missions",
+  "summary": "Ukraine has reportedly canceled drone missions after Starlink communications restrictions disrupted battlefield operations.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x6f0yx/ukraine_cancels_drone_missions_as_starlink/"
+ },
+ {
+  "date": "2026-10-15T07:59:33.147384+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "\ud83d\ude9c Tractor Speed Record Set At F1 Track! \ud83c\udfce\ufe0f",
+  "summary": "A Finnish Valtra farm tractor set a surprising lap record at the Red Bull Ring, hitting a peak speed of 54 mph.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812027/valtra-t236-tractor-sets-record/"
+ },
+ {
+  "date": "2026-10-15T07:59:33.147384+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "\u26a1 Electric Corvette Confirmed For The Future! \ud83c\udfc1",
+  "summary": "A top Corvette engineer confirmed that a fully electric Corvette is still in the pipeline as part of GM's electric future.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812011/electric-corvette-still-happening/"
+ },
+ {
+  "date": "2026-10-15T07:59:33.147384+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "New James Bond 'Diamonds Are Forever' Sequel Dated for December 2026",
+  "summary": "A brand-new James Bond sequel to 'Diamonds Are Forever' is officially scheduled to arrive in December 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/james-bond-all-in-diamonds-are-forever-sequel-december-2026/"
  }
 ]
