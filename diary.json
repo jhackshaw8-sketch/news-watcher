@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-12T06:07:49.430783+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "New Indie Game We Will Die For You Announced",
-  "summary": "Solo developer Joe announced We Will Die For You, an indie game where players control a white blood cell fighting disease and upgrading across generations.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x3swzw/we_will_die_for_you_announcement_trailer/"
- },
- {
-  "date": "2026-10-12T06:07:49.430783+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Prime Video picks up Princess Diana documentary series with unheard audio",
-  "summary": "Prime Video has acquired the UK and Ireland rights to a Princess Diana documentary series featuring unheard audio.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/princess-diana-unheard-audio-series-prime-video-1237151052/"
- },
- {
-  "date": "2026-10-12T06:07:49.430783+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Studiocanal boards pan-Asian survival thriller kiDnap Game",
-  "summary": "Studiocanal has boarded the pan-Asian survival thriller series kiDnap Game, which is set to be presented to buyers at Mipcom.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/global/studiocanal-boards-pan-asian-survival-thriller-kidnap-game-1236908460/"
- },
- {
   "date": "2026-10-12T06:53:56.675077+00:00",
   "topic": "Cars",
   "score": 8,
@@ -22218,5 +22185,49 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/dungeon-crawler-carl-rpg-celestial-tier/"
+ },
+ {
+  "date": "2026-10-15T06:17:55.834516+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Gurman Teases Special In-Store Surprise for iPhone Duo Buyers",
+  "summary": "Mark Gurman reports that US buyers purchasing the new iPhone Duo at Apple Stores will receive a special surprise upon first boot.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/"
+ },
+ {
+  "date": "2026-10-15T06:17:55.834516+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Spy Shots: Next-Gen Hyundai Elantra N Caught Testing! \ud83d\ude97\ud83d\udca8",
+  "summary": "The next-generation Hyundai Elantra N sports sedan has been spied testing for the first time ahead of a potential 2027 debut.",
+  "verified": "unconfirmed",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812003/new-hyundai-elantra-n-spied/"
+ },
+ {
+  "date": "2026-10-15T06:17:55.834516+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "update",
+  "headline": "Top Marks: Audi Q7 Aces Euro NCAP Safety Test! \ud83d\udee1\ufe0f\ud83d\ude98",
+  "summary": "The Audi Q7 achieved a rare 100 percent Euro NCAP Post-Crash Safety score for its advanced emergency response and safety systems.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812002/audi-q7-euro-ncap-post/"
+ },
+ {
+  "date": "2026-10-15T06:17:55.834516+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Foundation Invictus Replica Officially Announced",
+  "summary": "Master Replicas officially announces the Foundation Invictus warship collectible model priced at $115.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/foundation-invictus-replica-avalable-now/"
  }
 ]
