@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-12T00:05:20.946736+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "launch",
-  "headline": "OpenAI Dot vs. Meta Muse: A Head-to-Head AI Agent Comparison",
-  "summary": "A comparison between OpenAI's and Meta's new AI agents detailing features, pricing, and availability.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison/"
- },
- {
-  "date": "2026-10-12T00:05:20.946736+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Supporting Cast Announced for 'The Grand Tribute'",
-  "summary": "Sri Kishore has announced the supporting cast for his ongoing Hong Kong shoot of 'The Grand Tribute'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/law-kar-ying-paw-hee-ching-grand-tribute-cast-additions-1236908540/"
- },
- {
-  "date": "2026-10-12T00:05:20.946736+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Netflix Lands Emily Bront\u00eb-Inspired Gothic Romance",
-  "summary": "Netflix has officially acquired the gothic romance film inspired by Emily Bront\u00eb for an October release.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/netflix-emily-bronte-biopic-release-date-october-2026/"
- },
- {
-  "date": "2026-10-12T00:05:20.946736+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "HBO Max Legal Thriller Becomes a Global Hit",
-  "summary": "HBO Max's new legal thriller series is seeing massive global streaming success.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/war-hbo-max-streaming-success-october-2026/"
- },
- {
-  "date": "2026-10-12T00:05:20.946736+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "'Wildwood' Lands Perfect Rotten Tomatoes Debut",
-  "summary": "The animated film Wildwood achieves a rare perfect score on Rotten Tomatoes from early critics.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x3mlqe/wildwood_nabs_perfect_rotten_tomatoes_critics/"
- },
- {
-  "date": "2026-10-12T00:05:20.946736+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "'Practical Magic 2' Heads to Streaming",
-  "summary": "Practical Magic 2 transitions to streaming platforms following a successful theatrical run.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x3lmqg/practical_magic_2_shifts_to_streaming_this_week/"
- },
- {
   "date": "2026-10-12T00:52:37.330243+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -22042,5 +21976,38 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/tracker-season-4-jensen-ackles-russell-shaw-comeback-role-change/"
+ },
+ {
+  "date": "2026-10-15T00:10:52.829517+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Gudea Launches AI-Powered Social Media Crisis Tracker",
+  "summary": "Gudea has launched an AI-powered platform designed to help organizations track and prevent social media crises and misinformation before they escalate.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/"
+ },
+ {
+  "date": "2026-10-15T00:10:52.829517+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Apple TV's Major Sci-Fi Event Premieres in 100 Days",
+  "summary": "Apple TV announces that its upcoming ambitious sci-fi adaptation officially premieres in 100 days.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/apple-tv-sci-fi-neuromancer-release-date-january-2027/"
+ },
+ {
+  "date": "2026-10-15T00:10:52.829517+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "November 20 Set as Biggest Day for Fantasy Books in 18 Years",
+  "summary": "November 20, 2026, is officially marked as a massive release date for major fantasy book fans.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/percy-jackson-and-the-olympians-season-3-hunger-games-november-20/"
  }
 ]
