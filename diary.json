@@ -1,115 +1,5 @@
 [
  {
-  "date": "2026-10-12T01:11:45.976472+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Agent Spider Revealed in New Invincible VS Trailer",
-  "summary": "A reveal trailer has been released for Agent Spider in Invincible VS.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x3o74l/agent_spider_reveal_trailer_invincible_vs/"
- },
- {
-  "date": "2026-10-12T01:11:45.976472+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Deliver Goods and Solve Puzzles in Good Luck, Little Truck! \ud83d\ude9a\ud83d\udca8",
-  "summary": "The developers have shared a new gameplay trailer for their upcoming indie navigation puzzler and narrative delivery sim, Good Luck, Little Truck! \ud83d\ude9a\u2728",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x3m9sz/good_luck_little_truck_polyforge_games_navigation/"
- },
- {
-  "date": "2026-10-12T01:11:45.976472+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Dominic Sangma Presents New Project 'Veil of Dust' at Busan",
-  "summary": "Director Dominic Sangma's new drama project 'Veil of Dust' is featured at the Busan Asian Project Market.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/stone-mining-drama-veil-dust-busan-asian-project-market-1236908610/"
- },
- {
-  "date": "2026-10-12T01:11:45.976472+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Indonesian Political Thriller 'The Sea Speaks His Name' Reviewed",
-  "summary": "Yosep Anggi Noen\u2019s Indonesian political thriller 'The Sea Speaks His Name' receives a positive review for its absorbing narrative.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/reviews/the-sea-speaks-his-name-review-1236908499/"
- },
- {
-  "date": "2026-10-12T01:11:45.976472+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Marshals Season 2 Tackles Yellowstone's Shadow in New Review",
-  "summary": "A review of Marshals Season 2 explores how the series continues to deal with the legacy of Yellowstone and John Dutton.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/marshals-season-2-episode-2-recap/"
- },
- {
-  "date": "2026-10-12T01:42:22.169806+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "iFixit Reveals Apple Watch Series 12 and Ultra 4 Repairability",
-  "summary": "iFixit published its teardown of the Apple Watch Series 12 and Ultra 4, revealing mixed repairability results.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/06/ifixit-tears-down-apple-watch-series-12-and-ultra-4-finds-mixed-repairability-results/"
- },
- {
-  "date": "2026-10-12T01:42:22.169806+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Busan Film Festival Welcomes Tamil Drama 'Selvi'",
-  "summary": "Tamil filmmaker Sailesh Rathnakumar's debut feature 'Selvi', starring Anjali Patil, is set to premiere in the Busan International Film Festival\u2019s Vision\u2013Asia section.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/festivals/busan-selvi-turns-nurse-working-hours-endurance-test-1236908624/"
- },
- {
-  "date": "2026-10-12T01:42:22.169806+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Parallax Films Acquires New Titles From Leading Chinese Women Directors",
-  "summary": "Sales agent Parallax Films has picked up new titles from prominent Chinese female directors Shao Yihui, Yang Lina, and Yin Lichuan for the Asian Contents & Film Market in Busan.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/chinese-women-directors-parallax-films-slate-busan-market-1236908619/"
- },
- {
-  "date": "2026-10-12T01:42:22.169806+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Dragon Ball Super: Beerus Premiere Crashes Crunchyroll",
-  "summary": "The premiere of Dragon Ball Super: Beerus on Crunchyroll temporarily crashed the streaming service due to overwhelming viewer demand.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/dragon-ball-super-beerus-broken-crunchyroll/"
- },
- {
-  "date": "2026-10-12T01:42:22.169806+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Krysten Ritter Talks Dexter: Resurrection Season 2 at NYCC 2026",
-  "summary": "Krysten Ritter discussed her return for Dexter: Resurrection season 2 and her past work during an interview at NYCC 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/video/dexter-resurrection-season-2-krysten-ritter-nycc-2026-interview/"
- },
- {
   "date": "2026-10-12T02:06:04.381925+00:00",
   "topic": "Movies",
   "score": 6,
@@ -21954,5 +21844,93 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/prime-video-stargate-reboot-explained-cancel/"
+ },
+ {
+  "date": "2026-10-15T01:53:48.237840+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "Apple Acqui-Hires AI Startup Huxe Founded by NotebookLM Developers",
+  "summary": "Apple has acqui-hired AI startup Huxe, founded by former developers of NotebookLM, according to EU regulatory filings.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/09/apple-acqui-hires-ai-startup-founded-by-former-notebooklm-developers/"
+ },
+ {
+  "date": "2026-10-15T01:53:48.237840+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "iPhone Duo A20 Pro Chip Performance Surfaces in Early Benchmarks",
+  "summary": "Early Geekbench benchmarks for the upcoming iPhone Duo reveal performance similar to the iPhone 18 Pro, driven by the 2nm A20 Pro chip.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/14/iphone-duo-benchmark/"
+ },
+ {
+  "date": "2026-10-15T01:53:48.237840+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Latest HomePods Gain Support for Routing Mac System Audio",
+  "summary": "Recent HomePod models can now output Mac system audio and notifications when paired with compatible Wi-Fi 6E Macs.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/15/latest-homepods-can-output-mac-system-audio-in-compatible-configurations?utm_source=rss"
+ },
+ {
+  "date": "2026-10-15T01:53:48.237840+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "EA Draws the Line on Skate Mods Unlocking Paid Items",
+  "summary": "EA and Full Circle address modders bypassing systems to unlock paid cosmetics in the new Skate game.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics"
+ },
+ {
+  "date": "2026-10-15T01:53:48.237840+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Fire Emblem: Fortune's Weave Expansion Pass Announced",
+  "summary": "An announcement trailer reveals the Fire Emblem: Fortune\u2019s Weave Expansion Pass for the Nintendo Switch 2.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x68cpf/fire_emblem_fortunes_weave_expansion_pass/"
+ },
+ {
+  "date": "2026-10-15T01:53:48.237840+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Fire Emblem: Fortune's Weave Trailer Released",
+  "summary": "Nintendo Today shares the official announcement trailer for the Fire Emblem: Fortune\u2019s Weave Expansion Pass.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x682ox/fire_emblem_fortunes_weave_expansion_pass/"
+ },
+ {
+  "date": "2026-10-15T01:53:48.237840+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "Dumb Ways to Build Launches Beach Breach Update",
+  "summary": "Dumb Ways to Build releases its new Beach Breach game update with fresh content.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x680rx/dumb_ways_to_build_beach_breach_update/"
+ },
+ {
+  "date": "2026-10-15T01:53:48.237840+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Steven Spielberg's 'Disclosure Day' Lands on Streaming",
+  "summary": "Steven Spielberg's new sci-fi alien invasion thriller, Disclosure Day, has officially secured its streaming home on two platforms.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/steven-spielberg-sci-fi-disclosure-day-streaming-success-prime-video-apple-tv-october-2026/"
  }
 ]
