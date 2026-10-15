@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-12T10:07:59.657888+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "launch",
-  "headline": "New Comedy Series 'Small Prophets' Debuts on Apple TV",
-  "summary": "The first two episodes of the acclaimed British comedy series 'Small Prophets' are now available to stream on Apple TV.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/06/acclaimed-british-comedy-series-small-prophets-now-available-on-apple-tv/"
- },
- {
-  "date": "2026-10-12T10:07:59.657888+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Meet the New Smart #2: Ready to Conquer City Streets \ud83c\udfd9\ufe0f\u26a1",
-  "summary": "The new Smart #2 urban EV has been officially revealed as the successor to the discontinued Smart Fortwo, featuring enhanced capabilities and significantly longer range.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/smart-2-debut/"
- },
- {
-  "date": "2026-10-12T10:07:59.657888+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "New Cast Announced for Andrea \u0160taka's 'Ibicaba: O Para\u00edso Prometido'",
-  "summary": "Ella Rumpf, J\u00falio Andrade, and Ana Fl\u00e1via Cavalcanti will star in Andrea \u0160taka's upcoming drama 'Ibicaba: O Para\u00edso Prometido'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/ella-rumpf-julio-andrade-andrea-staka-ibicaba-paraiso-prometido-1236907877/"
- },
- {
-  "date": "2026-10-12T10:07:59.657888+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Sylvester Stallone Reveals Ideal Ending for 'Tulsa King'",
-  "summary": "Sylvester Stallone shares his vision for the ultimate ending of his character Dwight Manfredi in 'Tulsa King'.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/tulsa-king-ending-sylvester-stallone-dwight-manfredi-fate-not-dying/"
- },
- {
-  "date": "2026-10-12T10:07:59.657888+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Halo 3 Launches Massive 128-Player Multiplayer Mode",
-  "summary": "Halo 3 has received a brand-new multiplayer mode supporting massive 128-player battles.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/halo-3-multiplayer-128-players/"
- },
- {
-  "date": "2026-10-12T10:07:59.657888+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Zelda: Ocarina of Time Remake Physical Edition Sells Out",
-  "summary": "The physical release for The Legend of Zelda: Ocarina of Time Remake has officially sold out ahead of launch.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/legend-of-zelda-ocarina-of-time-remake-sells-out-brazil/"
- },
- {
   "date": "2026-10-12T10:43:17.087575+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -22405,5 +22339,104 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/game-of-thrones-night-king-vs-jon-snow-war-for-westeros/"
+ },
+ {
+  "date": "2026-10-15T10:20:47.431253+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Legend of Zelda Switch 2 Stock Returns",
+  "summary": "Legend of Zelda items and Switch 2 stock have briefly returned to shelves at Smyths Toys.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/hardware/quick-legend-of-zelda-switch-2-stock-is-back-on-the-shelves-but-these-consoles-are-moving-fast/"
+ },
+ {
+  "date": "2026-10-15T10:20:47.431253+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Xbox Reportedly Polls Fans on Console Exclusivity",
+  "summary": "Reports suggest Xbox is surveying fans regarding their opinions on increasing console exclusivity.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/minecraft/minecraft-updates-on-playstation-and-nintendo-would-end-but-xbox-is-reportedly-asking-fans-how-they-feel-about-greater-console-exclusivity-for-current-and-upcoming-games-like-fallout-5/"
+ },
+ {
+  "date": "2026-10-15T10:20:47.431253+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "YouTube Reportedly Prepping Audiobook Offerings",
+  "summary": "YouTube is reportedly in talks with publishers to offer audiobooks on its platform, according to The Wall Street Journal.",
+  "verified": "unconfirmed",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2287331/youtube-audiobook-offering-rumor/"
+ },
+ {
+  "date": "2026-10-15T10:20:47.431253+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Porsche Bares It All With The Upcoming Panamera Facelift! \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "A lightly camouflaged Porsche Panamera prototype has been spotted, revealing upcoming styling updates for its mid-cycle refresh.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2287339/porsche-panamera-scoop/"
+ },
+ {
+  "date": "2026-10-15T10:20:47.431253+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "legal",
+  "headline": "Toyota Recalls Over 30k RAV4 Plug-In Hybrids For Motor Shutdown Risk",
+  "summary": "Toyota is recalling nearly 31,000 RAV4 Plug-In Hybrids due to an ECU software fault that can cause the electric motor to shut down while driving.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812057/toyota-rav4-plug-hybrid-recall/"
+ },
+ {
+  "date": "2026-10-15T10:20:47.431253+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "First Look at Netflix's Myron Bolitar Series",
+  "summary": "Star KJ Apa shares the first behind-the-scenes set photos from Netflix's upcoming series adaptation of Harlan Coben's Myron Bolitar books.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/harlan-coben-myron-bolitar-series-first-look-behind-the-scenes/"
+ },
+ {
+  "date": "2026-10-15T10:20:47.431253+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "SXSW London 2027 Dates and Theme Announced",
+  "summary": "SXSW London has announced the dates and theme for its 2027 festival, scheduled to run from May 24\u201329 under the theme \u201cThe Power of Human Potential.\u201d",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/sxsw-london-2027-festival-theme-1237157933/"
+ },
+ {
+  "date": "2026-10-15T10:20:47.431253+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "PlayStation Plus Revives PS1 Classic in October 2026",
+  "summary": "PlayStation is officially reviving a classic 2000 PS1 masterpiece for PlayStation Plus Premium members globally, launching on October 20, 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/playstation-plus-2000-ps1-classic-revival/"
+ },
+ {
+  "date": "2026-10-15T10:20:47.431253+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "MIPCOM 2026 Highlights TV and Creator Economy Convergence",
+  "summary": "The MIPCOM 2026 event drew 10,000 attendees, highlighting the growing convergence of traditional TV with YouTube creators and digital distributors.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/mipcom-2026-takeaways-baywatch-skydance-banijay-youtube-1237157888/"
  }
 ]
