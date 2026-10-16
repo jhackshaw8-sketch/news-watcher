@@ -1,148 +1,5 @@
 [
  {
-  "date": "2026-10-13T01:12:27.752829+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Apple and Epic Clash in Latest App Store Court Filing",
-  "summary": "Apple and Epic Games are clashing over document production in their latest legal filing regarding App Store regulations.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x4j8zc/apple_and_epic_clash_over_document_production_in/"
- },
- {
-  "date": "2026-10-13T01:12:27.752829+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "legal",
-  "headline": "Volkswagen Recalls Over 22k ID.4 EVs Over Battery Fire Risks \u26a1\ud83d\udd25",
-  "summary": "Volkswagen has issued a recall for over 22,000 ID.4 electric vehicles due to an unresolved battery fire risk.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811614/volkswagen-id-4-recall-imposes/"
- },
- {
-  "date": "2026-10-13T01:12:27.752829+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Ridley Scott's Sci-Fi Spectacle Surges on Streaming",
-  "summary": "Ridley Scott's high-budget sci-fi sequel is experiencing a surge in streaming viewership ahead of the franchise's next installment.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/ridley-scott-alien-romulus-streaming-success-hulu-october-2026/"
- },
- {
-  "date": "2026-10-13T01:12:27.752829+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Netflix Thriller Returns With New Episodes This Week",
-  "summary": "Netflix's political thriller series returns with new episodes this week.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/the-diplomat-season-4-netflix-thriller-october-15-release/"
- },
- {
-  "date": "2026-10-13T01:12:27.752829+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Marvel Officially Unveils Thor's Latest Replacement",
-  "summary": "Marvel officially unveils a new replacement character taking on the mantle of Thor.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/marvel-thor-replacement-jane-foster-fighting-souls/"
- },
- {
-  "date": "2026-10-13T01:12:27.752829+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "High Potential Season 3 Confirms Early ABC Release Date",
-  "summary": "ABC announces an unexpected early release date for the third season of High Potential.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/high-potential-season-3-abc-early-release/"
- },
- {
-  "date": "2026-10-13T01:43:23.630045+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Clever Thermal Hinge Design Rumored for Upcoming Folding iPhone Duo",
-  "summary": "Apple's thermal engineering team developed a creative cooling system that utilizes the hinge of the upcoming folding iPhone Duo.",
-  "verified": "unconfirmed",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/12/the-iphone-duos-cooling-system-hides-a-clever-trick-inside-its-hinge/"
- },
- {
-  "date": "2026-10-13T01:43:23.630045+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "legal",
-  "headline": "Selma Blair Charged With Assault After Flight Incident",
-  "summary": "Actress Selma Blair was charged with second-degree assault following a plane incident and released on $20,000 bail.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/selma-blair-second-degree-assault-plane-released-on-bail-1236909649/"
- },
- {
-  "date": "2026-10-13T01:43:23.630045+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "launch",
-  "headline": "Netflix Sets Release for Final Season of Rick and Morty Alternative",
-  "summary": "Netflix has officially scheduled the final season of an animated replacement series to arrive next week.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/rick-and-morty-replacement-solar-opposites-season-6-netflix-release-date-october-2026/"
- },
- {
-  "date": "2026-10-13T01:43:23.630045+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Analyst Values Skydance at $29B in Media Map Update",
-  "summary": "Media analyst Evan Shapiro has estimated the value of Skydance at $29 billion in his latest media map update.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x4jjuo/evan_shapiro_pegs_skydance_value_at_29b_as_his/"
- },
- {
-  "date": "2026-10-13T01:43:23.630045+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Box Office Recap: 'Other Mommy' Opens Strong While 'Resident Evil' Sets Franchise Record",
-  "summary": "The weekend box office recap highlights 'Other Mommy' opening to $45.6M, 'The Social Reckoning' flopping, and 'Resident Evil' hitting a franchise milestone.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x4jhxa/october_911_box_office_recap_other_mommy_opens/"
- },
- {
-  "date": "2026-10-13T01:43:23.630045+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Image Comics Gears Up For Major Crossover Event",
-  "summary": "Image Comics' Ghost Machine universe is preparing for a major crossover event as Tariq Geiger is hunted by Simon Pure.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/geiger-mad-max-meets-fallout-post-apocalypse-crossover/"
- },
- {
-  "date": "2026-10-13T01:43:23.630045+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Marvel and Star Wars Announce Official 2027 Crossover Event",
-  "summary": "Marvel and Star Wars have announced an official crossover uniting Luke Skywalker and Spider-Man for the 50th anniversary in 2027.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-wars-marvel-crossover-luke-skywalker-spiderman/"
- },
- {
   "date": "2026-10-13T02:06:32.283495+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -23637,5 +23494,159 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/zelda-ocarina-of-time-full-map-revealed/"
+ },
+ {
+  "date": "2026-10-16T01:54:18.361907+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Apple Accidentally Leaks New iPad Mini Ahead of Expected October Reveal",
+  "summary": "Apple seemingly leaked the existence of a new iPad mini model via a French regulatory website ahead of an expected October reveal.",
+  "verified": "unconfirmed",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/16/apple-inadvertently-reveals-new-ipad-mini-model-exists?utm_source=rss"
+ },
+ {
+  "date": "2026-10-16T01:54:18.361907+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Tesla Unveils Next-Gen Roadster With Thrusters and Mind-Blowing Performance \ud83d\ude97\ud83d\udca8",
+  "summary": "Tesla demonstrated its next-generation Roadster in Texas featuring extreme performance capabilities like flying and accelerating to 60mph in under a second.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk"
+ },
+ {
+  "date": "2026-10-16T01:54:18.361907+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "launch",
+  "headline": "SpaceX-Powered Tesla Roadster Leaps Over Fleet in Texas Demo \ud83d\ude80\ud83d\ude97",
+  "summary": "Tesla showcased a SpaceX-powered Roadster capable of using thrusters to leap over other vehicles during a live demonstration in Texas.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"
+ },
+ {
+  "date": "2026-10-16T01:54:18.361907+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Tesla's $250,000 Redesigned Roadster Arrives With Cold-Gas Thrusters \ud83c\udfce\ufe0f\u26a1",
+  "summary": "Tesla officially revealed the redesigned Roadster with a cold-gas thruster option and a hefty $250,000 reservation price tag.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2288437/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/"
+ },
+ {
+  "date": "2026-10-16T01:54:18.361907+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "The Last Manual Tesla: New Roadster Debuts as the End of an Era \ud83c\udfce\ufe0f\u26a1",
+  "summary": "Elon Musk announced that the new Tesla Roadster will be the company's final manually driven vehicle, with all future models being fully autonomous.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812153/tesla-roadster-last-manually-driven-model/"
+ },
+ {
+  "date": "2026-10-16T01:54:18.361907+00:00",
+  "topic": "Cars",
+  "score": 10,
+  "category": "launch",
+  "headline": "The Wait Is Over: Tesla Roadster Finally Makes Its Epic Debut \ud83d\udd25\ud83c\udfc1",
+  "summary": "After nearly nine years of anticipation, Tesla's long-awaited electric supercar has finally made its official debut.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812150/new-tesla-roadster-revealed/"
+ },
+ {
+  "date": "2026-10-16T01:54:18.361907+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "business",
+  "headline": "Netflix Ousts Chief Content Officer Bela Bajaria in Shocking Departure",
+  "summary": "Netflix's chief content officer Bela Bajaria has been abruptly fired in a shocking industry exit.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/netflix-bela-bajaria-why-did-she-leave-1236913635/"
+ },
+ {
+  "date": "2026-10-16T01:54:18.361907+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Jessica Chastain's Horror Hit Dominates October Despite Abysmal Reviews",
+  "summary": "Jessica Chastain's new horror film is performing well at the box office despite receiving poor reviews.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/jessia-chastain-other-mommy-global-box-office-50-million/"
+ },
+ {
+  "date": "2026-10-16T01:54:18.361907+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Street Fighter (2026) Will Pay Tribute to Raul Julia's M. Bison",
+  "summary": "The upcoming 2026 Street Fighter movie will include specific homages to Raul Julia's iconic M. Bison performance.",
+  "verified": "reliable_reporter",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2288428/street-fighter-2026-tributes-raul-julia-m-bison-explained/"
+ },
+ {
+  "date": "2026-10-16T01:54:18.361907+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple TV's Imperfect Women Shakes Up Cast for Season 2",
+  "summary": "Apple TV's crime thriller Imperfect Women is switching its main characters for its upcoming second season.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/imperfect-women-season-2-apple-tv-thriller-character-switch/"
+ },
+ {
+  "date": "2026-10-16T01:54:18.361907+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "First Poster Unveiled for Horror-Thriller 'Breeder'",
+  "summary": "A new poster has been released for the upcoming horror-thriller Breeder about an eccentric poodle breeder.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x73iet/first_poster_for_horrorthriller_breeder_an/"
+ },
+ {
+  "date": "2026-10-16T01:54:18.361907+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Euphoria Creator Sam Levinson Leaves HBO for Amazon MGM Studios",
+  "summary": "Euphoria creator Sam Levinson has officially ended his longtime run with HBO to partner with Amazon MGM Studios.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/euphoria-creator-sam-levinson-amazon-mgm-studios-deal/"
+ },
+ {
+  "date": "2026-10-16T01:54:18.361907+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "The Day of the Jackal Season 2 Officially Reveals Full Cast List",
+  "summary": "The full cast for the second season of The Day of the Jackal has been officially announced ahead of its 2027 release.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/day-of-the-jackal-season-2-full-cast-confirmed/"
+ },
+ {
+  "date": "2026-10-16T01:54:18.361907+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Rivals Officially Returns to Hulu Next Month",
+  "summary": "David Tennant's period drama Rivals is officially returning to Hulu next month.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/rivals-david-tennant-80s-period-drama-hulu-return-season-2-part-2/"
  }
 ]
