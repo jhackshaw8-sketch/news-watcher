@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-13T00:54:05.402749+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Star Wars: Zero Company Developer Rehires Furloughed Staff",
-  "summary": "Star Wars: Zero Company developer Bit Reactor is working to bring back previously furloughed staff members ahead of the game's launch.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff"
- },
- {
-  "date": "2026-10-13T00:54:05.402749+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Sydney Sweeney Thriller Dominates HBO Max Streaming Charts",
-  "summary": "Sydney Sweeney's thriller The Housemaid becomes HBO Max's biggest streaming hit following its box office success.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2284837/sydney-sweeney-thriller-the-housemaid-streaming-hbo-max-october-2026/"
- },
- {
-  "date": "2026-10-13T00:54:05.402749+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Classic Stephen King Fantasy Epic Becomes a Streaming Hit",
-  "summary": "Frank Darabont's epic Stephen King adaptation emerges as a free streaming sensation.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/stephen-king-fantasy-epic-the-green-mile-free-streaming-success-tubi-october-2026/"
- },
- {
-  "date": "2026-10-13T00:54:05.402749+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "update",
-  "headline": "VisionQuest Star Confirms Young Avengers MCU Connection",
-  "summary": "Actor Ruaridh Mollica confirms his VisionQuest role connects to the Young Avengers in the MCU.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/visionquest-tommy-shepard-young-avengers-ruairidh-mollica-wanda-vision/"
- },
- {
-  "date": "2026-10-13T00:54:05.402749+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "High Potential Lands Super Bowl LXI Slot for February 2027",
-  "summary": "ABC announced that 'High Potential' will air immediately following Super Bowl LXI on Sunday, February 14, 2027.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/news/high-potential-post-super-bowl-lxi-slot-abc-1236909633/"
- },
- {
-  "date": "2026-10-13T00:54:05.402749+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "High Potential Eyes Special Episode Arc for Super Bowl Lead-Out",
-  "summary": "ABC is planning a special multi-part episode arc for 'High Potential' to air after its Super Bowl LXI broadcast.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/high-potential-post-super-bowl-slot-2027-2-part-abc-disney-1237155102/"
- },
- {
-  "date": "2026-10-13T00:54:05.402749+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "legal",
-  "headline": "Antitrust Experts Doubt DOJ Case Over White House TV Pool",
-  "summary": "Antitrust experts express doubt that Donald Trump's DOJ has a strong case in investigating major networks over the White House TV pool suspension.",
-  "verified": "reliable_reporter",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/doj-tv-press-pool-boycott-may-not-get-far-1237155017/"
- },
- {
   "date": "2026-10-13T01:12:27.752829+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -23549,5 +23472,170 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/gundam-blitz-order-november-2026-event/"
+ },
+ {
+  "date": "2026-10-16T01:03:18.627632+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Tenzing Premieres on Apple TV",
+  "summary": "Apple Original Films' new feature 'Tenzing', starring Tom Hiddleston and Willem Dafoe, is now available to stream on Apple TV.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/15/tenzing-premieres-on-apple-tv-starring-tom-hiddleston-and-willem-dafoe/"
+ },
+ {
+  "date": "2026-10-16T01:03:18.627632+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Apple Website Hints at Upcoming iPad Mini",
+  "summary": "Apple's French regulatory website accidentally listed an unreleased iPad mini Smart Folio case with a new model number, hinting at an upcoming iPad mini release.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/"
+ },
+ {
+  "date": "2026-10-16T01:03:18.627632+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Unreleased iPad Mini Accessory Spotted on Apple Site",
+  "summary": "An accidental listing on Apple's French website for an unreleased iPad mini accessory supports rumors of a new OLED iPad mini launching later this month.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/15/apple-lists-unreleased-ipad-mini-accessory-ahead-of-rumored-launch/"
+ },
+ {
+  "date": "2026-10-16T01:03:18.627632+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Krafton Unveils PUBG Ded.Net With a New Roguelite Twist",
+  "summary": "Krafton hopes that their new pulpy gameshow hyperviolence and roguelite twist in PUBG Ded.Net will make it the next big battle royale hit.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale"
+ },
+ {
+  "date": "2026-10-16T01:03:18.627632+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "KDE Turns 30 With Plasma 6.8 and X11 Farewell",
+  "summary": "KDE celebrates its 30th anniversary by releasing Plasma 6.8, introducing remote upgrades and officially saying goodbye to X11.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/"
+ },
+ {
+  "date": "2026-10-16T01:03:18.627632+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "The Beekeeper 2 Drops First Teaser and Release Date",
+  "summary": "Amazon MGM Studios released the first teaser for 'The Beekeeper 2,' starring Jason Statham, with a theatrical release date set for January 15, 2027.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/the-beekeeper-2-teaser-jason-statham-metallica-sequel-1237158966/"
+ },
+ {
+  "date": "2026-10-16T01:03:18.627632+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "Arrow Streaming Now on Prime Video",
+  "summary": "Prime Video has added all eight seasons of the DC Comics TV series 'Arrow' to its streaming library.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2288416/stephen-amell-dc-comics-tv-series-arrow-streaming-prime-video/"
+ },
+ {
+  "date": "2026-10-16T01:03:18.627632+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Mayor of Kingstown Gains Traction on Netflix",
+  "summary": "Taylor Sheridan's crime thriller series 'Mayor of Kingstown' is finding a new audience on Netflix ahead of its fifth and final season.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/taylor-sheridan-mayor-of-kingstown-streaming-success-netfflix-october-2026/"
+ },
+ {
+  "date": "2026-10-16T01:03:18.627632+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "East of Eden Doubles Netflix Viewership",
+  "summary": "Netflix's adaptation of 'East of Eden,' starring Florence Pugh, has doubled its viewership numbers in its second week.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/florence-pugh-western-east-of-eden-streaming-success-netflix-october-2026/"
+ },
+ {
+  "date": "2026-10-16T01:03:18.627632+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "other",
+  "headline": "African Filmmakers Confront the AI Revolution",
+  "summary": "An article explores how African filmmakers are navigating the rising tide of artificial intelligence in the industry.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x722qm/tilly_nollywood_african_filmmakers_ready_or_not/"
+ },
+ {
+  "date": "2026-10-16T01:03:18.627632+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Luc Besson's Dracula Arrives on Paramount+",
+  "summary": "Luc Besson's 'Dracula' adaptation is officially making its way to Paramount+ following an overseas streaming run.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/luc-besson-dracula-streaming-success-paramount-plus-october-2026/"
+ },
+ {
+  "date": "2026-10-16T01:03:18.627632+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "The Odyssey Sets Home Media Release Date",
+  "summary": "Christopher Nolan's blockbuster hit 'The Odyssey,' which grossed $1.7 billion, is officially releasing on Blu-ray and 4K next month.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/christopher-nolan-the-odyssey-4k-blu-ray-release-date-november-2026/"
+ },
+ {
+  "date": "2026-10-16T01:03:18.627632+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Great British Bake Off Sparks Judge Retirement Talk",
+  "summary": "Recent episodes of 'The Great British Bake Off' spark discussions about potential changes to the judging panel.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/great-british-bake-off-season-17-paul-hollywood-nigella-lawson-judges/"
+ },
+ {
+  "date": "2026-10-16T01:03:18.627632+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Chris Rock's Misty Green Hits Theaters",
+  "summary": "An unofficial discussion thread details the A24 theatrical release of Chris Rock's film 'Misty Green' following its TIFF premiere.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x70uwo/unofficial_discussion_misty_green/"
+ },
+ {
+  "date": "2026-10-16T01:03:18.627632+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Zelda: Ocarina of Time Remake Map Size Officially Revealed",
+  "summary": "The world map size for the upcoming Legend of Zelda: Ocarina of Time remake has been officially revealed.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/zelda-ocarina-of-time-full-map-revealed/"
  }
 ]
