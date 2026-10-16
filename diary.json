@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-13T06:52:42.020311+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Chinese Cars in Norway Stored Sensitive Military Data \ud83d\ude97\ud83d\udd12",
-  "summary": "Chinese cars in Norway were found to have stored military exercise footage and access codes, raising security concerns.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x4p21n/chinese_cars_in_norway_stored_military_exercise/"
- },
- {
-  "date": "2026-10-13T06:52:42.020311+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "CXMT Claims Major Memory Breakthrough",
-  "summary": "China's CXMT has claimed a significant memory technology breakthrough that puts it ahead of competitors like Samsung and Hynix.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x4oxij/chinas_cxmt_claims_memory_breakthrough_ahead_of/"
- },
- {
-  "date": "2026-10-13T06:52:42.020311+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "legal",
-  "headline": "UK Ministers Explore Compulsory AI Safety Reporting",
-  "summary": "UK ministers are exploring the implementation of compulsory AI safety reporting for major developers.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x4oq4b/uk_ministers_explore_compulsory_ai_safety/"
- },
- {
-  "date": "2026-10-13T06:52:42.020311+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Cheaper Electric Microbus Coming? VW Plans Big Fixes for Next ID. Buzz \ud83d\ude90\u26a1",
-  "summary": "Volkswagen plans to lower the price of the next-generation ID. Buzz by moving it to a new platform.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811704/next-gen-vw-id-buzz-confirmed/"
- },
- {
   "date": "2026-10-13T07:13:17.626250+00:00",
   "topic": "Cars",
   "score": 7,
@@ -23879,5 +23835,82 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/dungeon-crawler-carl-i-will-kill-your-mother-set/"
+ },
+ {
+  "date": "2026-10-16T07:10:04.022176+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Apple Store Goes Offline Ahead of iPhone Duo Preorders",
+  "summary": "The Apple Store has gone offline ahead of the upcoming iPhone Duo preorders.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/16/apple-store-is-down-ahead-of-iphone-duo-preorder-rush/"
+ },
+ {
+  "date": "2026-10-16T07:10:04.022176+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "launch",
+  "headline": "2027 Kia Sorento Hybrid Gets Pricing and New X-Line EX Trim \ud83d\ude99\ud83d\udca8",
+  "summary": "Kia announced pricing for the 2027 Sorento Hybrid, introducing a new X-Line EX trim and spanning four trims up to $47,590.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812181/2027-kia-sorento-hybrid-pricing/"
+ },
+ {
+  "date": "2026-10-16T07:10:04.022176+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Porsche's New Supercar Features an 'On Your Own' Button \ud83c\udfce\ufe0f\u2728",
+  "summary": "Porsche's new Mission S supercar features a unique 'On Your Own' button, combining classic sports car feel with modern tech.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812165/porsche-mission-s-supercar-features/"
+ },
+ {
+  "date": "2026-10-16T07:10:04.022176+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Dubai Police Adds 920-HP Lamborghini Hybrid Supercar to Fleet \ud83d\ude93\u26a1",
+  "summary": "Dubai Police added a 920-horsepower Lamborghini Temerario hybrid supercar to their fleet for tourism and visibility purposes.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812164/dubai-police-lamborghini-temerario-tourist/"
+ },
+ {
+  "date": "2026-10-16T07:10:04.022176+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Avatar: Fire and Ash Composer Defends Human Music Against AI",
+  "summary": "Composer Simon Franglen and other industry professionals discussed the irreplaceable value of human musicians and the threat of AI during a panel at Ghent's World Soundtrack Awards.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/artisans/festivals/avatar-ai-ghent-wsa-film-music-days-1236910224/"
+ },
+ {
+  "date": "2026-10-16T07:10:04.022176+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "James Bond: First Light Officially Scheduled for March 2027 Release",
+  "summary": "MGM has officially scheduled the release of James Bond: First Light for March 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/james-bond-007-first-light-nintendo-switch-march-2027/"
+ },
+ {
+  "date": "2026-10-16T07:10:04.022176+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "update",
+  "headline": "Serielizados Festival Announces Star-Studded Lineup for October Kickoff",
+  "summary": "The Serielizados festival in Barcelona has announced its lineup, featuring prominent creators like Steven Moffat, starting October 19.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/global/serielizados-program-steven-moffat-ferran-adria-1236913188/"
  }
 ]
