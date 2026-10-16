@@ -1,148 +1,5 @@
 [
  {
-  "date": "2026-10-13T22:51:41.904138+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Apple Announces New Smart Home Lineup",
-  "summary": "Apple refreshed its smart home lineup without an event, announcing the new Apple HomeView, HomePod mini 2, and Apple TV 4K.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/13/apple-october-13-recap/"
- },
- {
-  "date": "2026-10-13T22:51:41.904138+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Apple Wins Partial Access to OpenAI Documents in Court",
-  "summary": "A court ruling in Apple's trade secret lawsuit grants Apple access to OpenAI employee testimony and select documents, though not everything requested.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/13/apple-will-get-some-openai-documents-but-not-everything-it-asked-for-in-court?utm_source=rss"
- },
- {
-  "date": "2026-10-13T22:51:41.904138+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Total War: Shogun 2 Remastered Faces Backlash",
-  "summary": "The AI-upscaled Total War: Shogun 2 remaster faces heavy criticism on Steam as the original game is delisted.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/total-war/ai-upscaled-total-war-shogun-2-remaster-blasted-in-steam-reviews-as-the-original-gets-delisted-literally-the-greed-they-talk-about-in-the-bible/"
- },
- {
-  "date": "2026-10-13T22:51:41.904138+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Deadlock Reveals New Character Details",
-  "summary": "Valve introduces a new character and lore details for Deadlock with a Fairfax Industries employee spotlight.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x58ntz/deadlock_new_character_fairfax_industries/"
- },
- {
-  "date": "2026-10-13T22:51:41.904138+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Enshrouded Developer Success Story",
-  "summary": "Keen Games reveals they bet their studio's future on Enshrouded, which successfully surpassed 5 million players.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x57and/two_days_before_enshroudeds_10_launch_director/"
- },
- {
-  "date": "2026-10-13T22:51:41.904138+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Cerebras CEO Criticizes AI Doomsday Warnings",
-  "summary": "Cerebras CEO Andrew Feldman criticized AI leaders at TechCrunch Disrupt for focusing too heavily on doomsday warnings instead of potential benefits.",
-  "verified": "reliable_reporter",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/"
- },
- {
-  "date": "2026-10-13T22:51:41.904138+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Review: 'Once Upon in the Middle East' Struggles as China's Oscar Contender",
-  "summary": "Variety reviews China's Oscar entry 'Once Upon in the Middle East,' describing it as a bombastic blockbuster that mixes food with wartime devastation.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/reviews/once-upon-in-the-middle-east-review-1236910775/"
- },
- {
-  "date": "2026-10-13T22:51:41.904138+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "New York Times Op-Docs and MUBI Acquire Joshua Oppenheimer\u2019s New Film",
-  "summary": "New York Times Op-Docs and MUBI have acquired Joshua Oppenheimer's short film 'The Revolution Against Death' for an early December global release.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/the-revolution-against-death-new-york-times-op-docs-acquisition-1237156214/"
- },
- {
-  "date": "2026-10-13T22:51:41.904138+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Just Dance: Decades of Hits Launches With Handmade Costumes",
-  "summary": "Ubisoft launched 'Just Dance: Decades of Hits' on Tuesday, featuring handmade costumes designed entirely by humans without AI.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/artisans/news/just-dance-decades-of-hits-no-ai-1236910597/"
- },
- {
-  "date": "2026-10-13T22:51:41.904138+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Major Judge Dredd Announcement Makes 2027 a Huge Year",
-  "summary": "A major new announcement regarding Judge Dredd sets up 2027 as a massive year for the franchise.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/judge-dredd-mcfarlane-toys-nycc-announcement/"
- },
- {
-  "date": "2026-10-13T22:51:41.904138+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Director Details Changes to Mike Flanagan's R-Rated DC Script",
-  "summary": "Director James Watkins details how Mike Flanagan's original script for an R-rated DC Studios horror film was modified.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/clayface-mike-flanagan-dc-movie-script-change-james-watkins/"
- },
- {
-  "date": "2026-10-13T22:51:41.904138+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Sony's Record-Breaking Horror Thriller Loses Theaters",
-  "summary": "Despite breaking box office records, Sony's new R-rated horror thriller has officially been pulled from hundreds of theaters.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/resident-evil-movie-theater-removal-details-record-breaking/"
- },
- {
-  "date": "2026-10-13T22:51:41.904138+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Action Series 'Wayne' Officially Lands on Netflix",
-  "summary": "The acclaimed action series 'Wayne' has officially made its debut on Netflix with a 100% Rotten Tomatoes score.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/netflix-wayne-action-series-perfect-binge-watch/"
- },
- {
   "date": "2026-10-13T23:12:43.705038+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -20689,5 +20546,126 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/jenna-ortega-klara-and-the-sun-movie-rotten-tomatoes-score-taika-waititi-record/"
+ },
+ {
+  "date": "2026-10-16T22:52:05.759043+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "Apple Updates App Store Rules to Target AI Deepfakes and Deceptive Apps",
+  "summary": "Apple updated its App Review Guidelines to crack down on AI nudification and deceptive app practices.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/"
+ },
+ {
+  "date": "2026-10-16T22:52:05.759043+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "New App Store Rules Crack Down on AI Nudify Apps and Deepfakes",
+  "summary": "Apple expanded its App Store moderation rules to explicitly prohibit AI-generated nonconsensual intimate imagery and deepfakes.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/16/app-store-rules-deepfakes/"
+ },
+ {
+  "date": "2026-10-16T22:52:05.759043+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Steam Shatters Records With Over 43.5 Million Concurrent Users",
+  "summary": "Steam reached a new concurrent user record, hitting over 43.5 million users on Sunday.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026"
+ },
+ {
+  "date": "2026-10-16T22:52:05.759043+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Street Fighter Movie Cast Guide Revealed",
+  "summary": "Variety provides a comprehensive cast guide for the upcoming live-action Street Fighter movie from Paramount and Legendary, featuring various athletes and celebrities.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/lists/street-fighter-cast-video-game-vs-live-action/"
+ },
+ {
+  "date": "2026-10-16T22:52:05.759043+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Sherlock Star Joins Apple TV Series",
+  "summary": "A Sherlock star has officially joined the cast of Apple TV's upcoming series for its second season.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/apple-tv-down-cemetery-road-season-2-cast-sherlock-star-amanda-abbington/"
+ },
+ {
+  "date": "2026-10-16T22:52:05.759043+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "9-1-1: Nashville Season 2 Premiere Review",
+  "summary": "Collider reviews the Season 2 premiere of 9-1-1: Nashville, highlighting Ryan Phillippe's addition to the cast.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/9-1-1-nashville-season-2-premiere-review/"
+ },
+ {
+  "date": "2026-10-16T22:52:05.759043+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "First Look at The White Lotus Season 4 Revealed",
+  "summary": "HBO has officially released the very first look and images for the upcoming season of The White Lotus.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/hbo-the-white-lotus-season-4-first-look-images/"
+ },
+ {
+  "date": "2026-10-16T22:52:05.759043+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "business",
+  "headline": "France T\u00e9l\u00e9visions Issues Warning Over Far-Right Impact On Cinema",
+  "summary": "France T\u00e9l\u00e9visions warns that the rise of the far-right could severely damage the French cinema industry.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x7tdv9/broadcaster_france_t\u00e9l\u00e9visions_warns_farright/"
+ },
+ {
+  "date": "2026-10-16T22:52:05.759043+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "legal",
+  "headline": "Timothy Busfield Sexual Abuse Indictment Tossed Out",
+  "summary": "Timothy Busfield has his sexual abuse indictment tossed due to prosecutor misconduct, while the DA evaluates options.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x7scyp/timothy_busfield_gets_sexual_abuse_indictment/"
+ },
+ {
+  "date": "2026-10-16T22:52:05.759043+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Nicolas Cage Officially Cast In True Detective Season 5",
+  "summary": "Nicolas Cage is officially cast as the lead for the upcoming fifth season of True Detective.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x7r5cx/true_detective_season_5_officially_casts_nicolas/"
+ },
+ {
+  "date": "2026-10-16T22:52:05.759043+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Hunger Games Director Sets New Dystopian Sci-Fi Adaptation",
+  "summary": "Hunger Games director Francis Lawrence signs on to helm another dystopian sci-fi book adaptation.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/red-rising-movie-adaptation-hunger-games-francis-lawrence-development/"
  }
 ]
