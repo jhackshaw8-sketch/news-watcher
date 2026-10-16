@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-13T02:06:32.283495+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Spotify Expands Audiobook Availability Worldwide",
-  "summary": "Spotify is expanding its audiobook service globally to over 180 markets with a catalog of 350,000 titles.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/07/spotify-starts-rolling-out-audiobooks-to-more-than-180-markets/"
- },
- {
   "date": "2026-10-13T03:06:28.465395+00:00",
   "topic": "Movies",
   "score": 7,
@@ -23648,5 +23637,115 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/rivals-david-tennant-80s-period-drama-hulu-return-season-2-part-2/"
+ },
+ {
+  "date": "2026-10-16T02:18:10.546183+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Squadron 42 Opens for Steam Wishlists Ahead of 2027 Release",
+  "summary": "Squadron 42, the single-player Star Citizen spin-off, is now available to wishlist on Steam ahead of its planned Q2 2027 release.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release"
+ },
+ {
+  "date": "2026-10-16T02:18:10.546183+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "The Housemaid's Secret Officially Scheduled for 2027 Release",
+  "summary": "Lionsgate has greenlit 'The Housemaid's Secret' as a sequel to Paul Feig's upcoming 'The Housemaid', with the release slated for 2027 and original cast and crew returning.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/feature/the-housemaid-2-movie-news-updates-sequel-adaptation-1237045522/"
+ },
+ {
+  "date": "2026-10-16T02:18:10.546183+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Ben Affleck Overtakes Russell Crowe on Netflix Viewership Charts",
+  "summary": "Russell Crowe's recent crime thriller on Netflix has dropped from the top streaming spot, overtaken by Ben Affleck's project after two strong weeks.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/unabomber-russell-crowe-mindhunter-replacement-streaming-drop-netflix-october-2026/"
+ },
+ {
+  "date": "2026-10-16T02:18:10.546183+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Peter Rice to Lead LA28 Ceremonies While Joining Netflix",
+  "summary": "Netflix's new content chief Peter Rice will continue as the Executive Producer of the LA28 Opening and Closing Ceremonies.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/peter-rice-remains-la28-opening-closing-ceremonies-ep-1237159010/"
+ },
+ {
+  "date": "2026-10-16T02:18:10.546183+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Peacock's Crystal Lake Reshapes Friday the 13th Lore",
+  "summary": "Peacock's Crystal Lake series revives the original Friday the 13th killer, reshaping the timeline and setting up a potential second season.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/crystal-lake-friday-the-13th-timeline-lore-changes-ending-explained/"
+ },
+ {
+  "date": "2026-10-16T02:18:10.546183+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "business",
+  "headline": "Six Flags Retains Final Destination Maze for Fright Fest",
+  "summary": "Six Flags has decided to keep its Final Destination maze in the Fright Fest lineup despite a recent tragic incident in Georgia.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x73vhe/six_flags_keeps_final_destination_maze_in_fright/"
+ },
+ {
+  "date": "2026-10-16T02:18:10.546183+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Dungeons & Dragons Releases Brand-New Genre Expansion",
+  "summary": "A new Dungeons & Dragons expansion has officially launched, featuring an entirely free download for interested players.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/dungeons-dragons-project-lamordia-free-download-survival-horror/"
+ },
+ {
+  "date": "2026-10-16T02:18:10.546183+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Comcast Makes Million-Dollar Donation for White House Ballroom",
+  "summary": "Comcast reportedly donated $7.5 million toward the construction of a new White House ballroom.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x719i7/comcast_donated_75_million_for_donald_trumps/"
+ },
+ {
+  "date": "2026-10-16T02:18:10.546183+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Hudson Williams and Zach Galifianakis Join The Assembly Season 2",
+  "summary": "Hudson Williams and Zach Galifianakis have been officially confirmed to star in the upcoming second season of The Assembly.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x6zozx/hudson_williams_zach_galifianakis_set_for_the/"
+ },
+ {
+  "date": "2026-10-16T02:18:10.546183+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "business",
+  "headline": "Steven Soderbergh Joins Matt Reeves for The Batman Part II Filming",
+  "summary": "Steven Soderbergh is stepping in to work with Matt Reeves to complete the final weeks of principal photography on The Batman Part II.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x6zdl5/steven_soderbergh_to_work_with_matt_reeves_to/"
  }
 ]
