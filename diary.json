@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-13T04:44:59.645922+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple and The King's Trust Launch Youth Initiative",
-  "summary": "Apple and The King\u2019s Trust have launched a new education initiative to help empower young creatives.",
-  "verified": "official",
-  "source": "Apple Newsroom",
-  "link": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/"
- },
- {
-  "date": "2026-10-13T04:44:59.645922+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Leak Teases Major Expansion of Apple's Second-Party Home Accessories",
-  "summary": "Recent leaks indicate that Apple's upcoming second-party smart home accessories co-developed with LG are more extensive than previously expected.",
-  "verified": "unconfirmed",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/07/apples-new-second-party-accessories-for-home-are-bigger-than-we-thought-per-leak/"
- },
- {
-  "date": "2026-10-13T04:44:59.645922+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Toni Collette to Make Directorial Debut With 'The Best Of'",
-  "summary": "Toni Collette is set to make her feature directorial debut with an adaptation of the bestselling novel 'The Best Of,' backed by Screen Australia funding.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/toni-collette-directorial-debut-75-projects-screen-australia-1236909731/"
- },
- {
-  "date": "2026-10-13T04:44:59.645922+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Jeremy Renner Jokes Avengers Will Lose Without Hawkeye in Doomsday",
-  "summary": "Jeremy Renner jokingly suggested that the superheroes in 'Avengers: Doomsday' will likely lose because his character Hawkeye was not called to return.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/jeremy-renner-avengers-doomsday-will-lose-without-hawkeye-1236909728/"
- },
- {
-  "date": "2026-10-13T04:44:59.645922+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "'Other Mommy' Tops U.K. Box Office in Close Race With 'Verity'",
-  "summary": "Universal's horror film 'Other Mommy' narrowly edged out Sony's 'Verity' to claim the number one spot at the U.K. and Ireland box office.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/box-office/other-mommy-verity-uk-ireland-box-office-1236909721/"
- },
- {
-  "date": "2026-10-13T04:44:59.645922+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Star Wars: Legacy Of Skywalker Officially Scheduled For 2027 Release",
-  "summary": "The new Star Wars project, Legacy of Skywalker, has been officially announced for a 2027 release.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-wars-legacy-of-skywalker-2027-release-date/"
- },
- {
   "date": "2026-10-13T05:07:40.655814+00:00",
   "topic": "Tech News",
   "score": 7,
@@ -23989,5 +23923,38 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/naruto-sasuke-fight-kishimoto-confirmed/"
+ },
+ {
+  "date": "2026-10-16T04:57:34.902904+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Stunning 2016 Nissan GT-R Nismo Spotted \ud83c\udfce\ufe0f\ud83d\udd25",
+  "summary": "A striking photo showcase of a 2016 Nissan GT-R Nismo highlighting its iconic design.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x74gjg/2016_nissan_gtr_nismo_1080x1440/"
+ },
+ {
+  "date": "2026-10-16T04:57:34.902904+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "Classic Tesla Roadster Appreciation Post \u26a1\ud83d\ude97",
+  "summary": "A clean image post featuring the classic original Tesla Roadster.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x73coq/tesla_roadster_900x900/"
+ },
+ {
+  "date": "2026-10-16T04:57:34.902904+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Elden Ring: Starscourge Radahn Officially Releases March 2027",
+  "summary": "An official Elden Ring Starscourge Radahn release is scheduled for March 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/elden-ring-starscourge-radahn-march-2027/"
  }
 ]
