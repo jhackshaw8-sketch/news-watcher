@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-13T03:44:12.639835+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Danny Trejo Unknowingly Signed Onto Daily Wire Film, Son Says",
-  "summary": "Danny Trejo's son reveals the actor was unaware of Ben Shapiro's involvement when signing onto the Daily Wire film 'Pawn Shop'.",
-  "verified": "reliable_reporter",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/danny-trejo-ben-shapiro-pro-ice-daily-wire-film-1236909708/"
- },
- {
-  "date": "2026-10-13T03:44:12.639835+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Vietnamese Sequel 'Sister Sister 3' Secures Major International Distribution Deals",
-  "summary": "The Vietnamese franchise sequel 'Sister Sister 3' has been picked up for international distribution by 3388 Films.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/vietnamese-franchise-sequel-sister-sister-3-3388-films-1236909706/"
- },
- {
   "date": "2026-10-13T04:07:13.273721+00:00",
   "topic": "Movies",
   "score": 6,
@@ -23989,5 +23967,27 @@
   "verified": "official",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1x6yp3c/canadian_news_publishers_sue_anthropic_over_ai/"
+ },
+ {
+  "date": "2026-10-16T03:57:20.994116+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "New Judd Apatow Documentary Explores the Life and Career of Norm Macdonald",
+  "summary": "Variety reviews the new documentary 'Norm: The Tale of Norm Macdonald' directed by Judd Apatow.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/reviews/norm-the-tale-of-norm-macdonald-review-judd-apatow-1236911273/"
+ },
+ {
+  "date": "2026-10-16T03:57:20.994116+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "business",
+  "headline": "Netflix Chief Content Officer Bela Bajaria Exits",
+  "summary": "Hollywood is reacting to the shocking departure of Netflix chief content officer Bela Bajaria.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x75scv/why_did_netflix_let_bela_bajaria_go_fear_and/"
  }
 ]
