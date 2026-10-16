@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-13T08:45:17.639609+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Glen Schofield Blames Krafton for The Callisto Protocol Issues",
-  "summary": "Glen Schofield blames Krafton management for forcing the premature launch of The Callisto Protocol.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems"
- },
- {
-  "date": "2026-10-13T08:45:17.639609+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "The Jeep Renegade Returns to Europe With a 4x4 Focus! \ud83d\ude99\ud83d\udca8",
-  "summary": "Jeep is bringing back the Renegade nameplate for Europe as part of a new six-model product push featuring standard 4x4 across the lineup.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811730/new-jeep-renegade-teaser-europe/"
- },
- {
   "date": "2026-10-13T09:06:56.264980+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -23615,5 +23593,38 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/event-horizon-officially-returns-in-august-2027/"
+ },
+ {
+  "date": "2026-10-16T08:59:06.662129+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Battlefield 6 Reverses Unintended XP Changes Following Fan Backlash",
+  "summary": "Battlefield Studios reversed controversial XP changes in Battlefield 6 Season 5 after player backlash, calling the original adjustments unintended.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/battlefield-6-xp-cap-season-5-reverted"
+ },
+ {
+  "date": "2026-10-16T08:59:06.662129+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "Tesla's New Roadster Gets A Radical Angular Redesign! \ud83c\udfce\ufe0f\u26a1",
+  "summary": "Tesla's long-awaited new Roadster has been heavily redesigned from its original concept, featuring a much more angular exterior after nine years of development.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812197/new-tesla-roadster-design/"
+ },
+ {
+  "date": "2026-10-16T08:59:06.662129+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Tesla Roadster Flips Out In Crazy SpaceX Thruster Demo! \ud83d\ude80\ud83d\udd04",
+  "summary": "A SpaceX test site in Texas played host to a wild tethered demonstration of the Tesla Roadster utilizing cold-gas thrusters and suction to pull off a flip.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812195/tesla-roadster-stunt-2028-production/"
  }
 ]
