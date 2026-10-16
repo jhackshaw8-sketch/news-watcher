@@ -1,104 +1,5 @@
 [
  {
-  "date": "2026-10-13T05:07:40.655814+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "launch",
-  "headline": "New Optical Module Quadruples Data Center Bandwidth",
-  "summary": "A tiny new optical module successfully quadruples data center bandwidth without additional hardware.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x4ilpa/tiny_optical_module_boosts_data_center_bandwidth/"
- },
- {
-  "date": "2026-10-13T05:07:40.655814+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Microsoft and OpenAI Launch New Lightweight AI Models",
-  "summary": "Lightweight System One AI models flood the market from Microsoft and OpenAI amid research copying allegations.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x4iii9/jevlike_decision_models_are_flooding_the_ai/"
- },
- {
-  "date": "2026-10-13T05:07:40.655814+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Nvidia Vera Chips Begin Shipping to Challenge CPU Hegemony",
-  "summary": "Nvidia begins shipping its Vera chips, setting up a major challenge to traditional CPU dominance.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x4ihth/nvidia_gears_up_to_smash_cpu_hegemony_as_vera/"
- },
- {
-  "date": "2026-10-13T05:07:40.655814+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Russian Military Strikes Target Ukrainian Data Centers",
-  "summary": "Russian military operations target and disable additional Ukrainian data centers.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x4ih7w/russian_military_takes_out_more_ukrainian_data/"
- },
- {
-  "date": "2026-10-13T05:07:40.655814+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Drone Strikes Knock Out Yandex Datacenters in Russia",
-  "summary": "Ukrainian drone strikes hit Yandex datacenters, knocking cloud services and payment systems offline.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x4ief0/ukrainian_drone_strikes_on_yandex_datacenters/"
- },
- {
-  "date": "2026-10-13T05:07:40.655814+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Samsung Leads Global Smartphone Shipments Amid 13-Year Low",
-  "summary": "Global smartphone shipments drop to a 13-year low with Samsung leading ahead of Apple.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x4gs00/apple_trails_samsung_as_global_smartphone/"
- },
- {
-  "date": "2026-10-13T05:07:40.655814+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Cyberattack Heats French Supermarket Fridges to 50C",
-  "summary": "Hackers execute a cyberattack raising temperatures in French supermarket refrigerators to 50 degrees Celsius.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x4f5ij/hackers_heat_french_supermarket_fridges_to_50c_in/"
- },
- {
-  "date": "2026-10-13T05:07:40.655814+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Meta Releases Its First Frontier AI Model Muse Wonder",
-  "summary": "Meta officially releases its first frontier AI model named Muse Wonder.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x4ewe5/meta_releases_its_first_frontier_model_muse_wonder/"
- },
- {
-  "date": "2026-10-13T05:07:40.655814+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Stormlight Archive Sequel Tidebreakers Officially Scheduled for October 2027",
-  "summary": "Brandon Sanderson has officially announced that Tidebreakers, the next sequel in The Stormlight Archive, will be released in October 2027.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/brandon-sanderson-stormlight-tidebreakers-sequel-2027/"
- },
- {
   "date": "2026-10-13T05:42:49.063390+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -23956,5 +23857,49 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/elden-ring-starscourge-radahn-march-2027/"
+ },
+ {
+  "date": "2026-10-16T05:20:52.290908+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Benchmark Discusses AI's Impact on VC Rivalry Rules",
+  "summary": "Venture capital firm Benchmark notes that the traditional Silicon Valley rule against backing competing AI startups is increasingly difficult to maintain.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/"
+ },
+ {
+  "date": "2026-10-16T05:20:52.290908+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Street Fighter Punches $4M In U.S. Previews",
+  "summary": "Paramount and Legendary's Street Fighter movie earned $4 million in U.S. previews with an expected opening over $30 million.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/"
+ },
+ {
+  "date": "2026-10-16T05:20:52.290908+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Pokemon Reveals New Espeon Design For Winds & Waves \ud83c\udf1f\ud83c\udfae",
+  "summary": "Pokemon officially revealed a new Espeon design ahead of the Winds and Waves release for the 2026 holiday season.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/pokemon-new-espeon-design-together-holidays/"
+ },
+ {
+  "date": "2026-10-16T05:20:52.290908+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Star Trek Officially Switches Genres In New Project",
+  "summary": "Star Trek: Across the Unknown is officially shifting genres for the franchise.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-trek-voyager-across-the-unknown-genre-switch/"
  }
 ]
