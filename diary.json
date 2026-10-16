@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-13T00:07:21.700230+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple TV Releases Trailer for 'Being Heumann'",
-  "summary": "Apple TV has released the official trailer for the upcoming Apple Original Films release 'Being Heumann'.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/12/watch-the-trailer-for-apple-tvs-being-heumann/"
- },
- {
-  "date": "2026-10-13T00:07:21.700230+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Rumor: Sony Planning Ape Escape Revival",
-  "summary": "Reports suggest Sony is planning to revive classic PlayStation franchises, starting with a new Ape Escape game by the Sonic Mania developers.",
-  "verified": "unconfirmed",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania"
- },
- {
-  "date": "2026-10-13T00:07:21.700230+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "Hyundai Unveils the Bold New Bayon Baby SUV! \ud83d\ude99\ud83d\udca8",
-  "summary": "Hyundai debuted the all-new Bayon baby SUV at the Paris Motor Show featuring angular bodywork, a sporty N Line trim, and dual 12.3-inch screens.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2026/10/hyundai-bayon-tough-new-look-hybrid/"
- },
- {
-  "date": "2026-10-13T00:07:21.700230+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Stephanie Nur Cast in New Apple TV Series",
-  "summary": "Lioness star Stephanie Nur has officially moved to Apple TV with a new series regular role in an upcoming dramedy.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/lioness-star-stephanie-nur-cast-apple-tv-series-beat-the-reaper/"
- },
- {
-  "date": "2026-10-13T00:07:21.700230+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Official Trailer Released for 'Junk' Starring David Schwimmer",
-  "summary": "The official trailer for the indie film 'Junk' starring David Schwimmer, Dominic Fike, and Talia Ryder has been released.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x4huz4/junk_official_trailer_david_schwimmer_dominic/"
- },
- {
-  "date": "2026-10-13T00:07:21.700230+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Florence Pugh's Cult Horror Film Now Streaming Free",
-  "summary": "An acclaimed horror film starring Florence Pugh is now available to stream for free on Pluto TV.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/florence-pugh-horror-cult-classic-midsommar-free-streaming-pluto-tv-october-2026/"
- },
- {
-  "date": "2026-10-13T00:07:21.700230+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "update",
-  "headline": "Marvel Boss Addresses MCU Connectivity Challenges",
-  "summary": "Marvel Studios executive Brad Winderbaum addresses the franchise's 'watch everything' problem and outlines future connectivity changes.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/marvel-mcu-disney-plus-shows-brad-winderbaum/"
- },
- {
-  "date": "2026-10-13T00:07:21.700230+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Official Poster Dropped for Greta Gerwig's 'Narnia'",
-  "summary": "The official poster for Greta Gerwig's upcoming 'Narnia: The Magician's Nephew' has been revealed.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x48zdl/official_poster_for_greta_gerwigs_narnia_the/"
- },
- {
   "date": "2026-10-13T00:54:05.402749+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -23582,5 +23494,60 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/crystal-lake-friday-the-13th-prequel-perfect-halloween-show-watch/"
+ },
+ {
+  "date": "2026-10-16T00:09:31.404245+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "LeBron James' Custom Maybach Heads To Auction \ud83d\udc51\ud83d\ude97",
+  "summary": "A custom Maybach S680 twin built to LeBron James' specifications is heading to a Gooding & Company auction.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812084/lebron-james-mercedes-maybach-s/"
+ },
+ {
+  "date": "2026-10-16T00:09:31.404245+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "launch",
+  "headline": "Stunning Porsche Mission S Concept Spotted \ud83c\udfce\ufe0f\u2728",
+  "summary": "A high-resolution image of the Porsche Mission S concept car shared by a user on Reddit.",
+  "verified": "unconfirmed",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x70nxx/porsche_mission_s_1784x1004/"
+ },
+ {
+  "date": "2026-10-16T00:09:31.404245+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Marvel Confirms New Peter Parker Origin",
+  "summary": "Marvel officially confirms a horrific new origin for Peter Parker in a major upcoming reboot universe.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/marvel-officially-confirms-peter-parkers-horrific-new-origin-for-big-reboot-universe/"
+ },
+ {
+  "date": "2026-10-16T00:09:31.404245+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "update",
+  "headline": "DC Studios Addresses Future of Lanterns and DCU TV",
+  "summary": "DC Studios' Peter Safran discusses the future of the HBO series Lanterns and upcoming DCU television projects.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/lanterns-season-2-update-future-dcu-tv-shows-peter-safran/"
+ },
+ {
+  "date": "2026-10-16T00:09:31.404245+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Gundam: Blitz Order Confirmed for November 2026",
+  "summary": "Bandai Namco and ScreenRant report that Gundam: Blitz Order has been officially confirmed for a November 2026 release.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/gundam-blitz-order-november-2026-event/"
  }
 ]
