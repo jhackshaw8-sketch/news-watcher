@@ -1,104 +1,5 @@
 [
  {
-  "date": "2026-10-14T00:12:10.489490+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple HomeView Repair Costs Revealed",
-  "summary": "Apple has published estimated repair and service costs for the new HomeView smart home display, outlining prices with and without AppleCare coverage.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/13/heres-how-much-it-costs-to-repair-the-new-apple-homeview/"
- },
- {
-  "date": "2026-10-14T00:12:10.489490+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Apple Granted Partial Access to OpenAI Documents in Court",
-  "summary": "A court ruling dictates that Apple will receive certain OpenAI documents as part of ongoing litigation, though not everything it requested.",
-  "verified": "reliable_reporter",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x5cm1f/apple_will_get_some_openai_documents_but_not/"
- },
- {
-  "date": "2026-10-14T00:12:10.489490+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "other",
-  "headline": "\ud83d\ude97\ud83d\udca8 Are modern cars judging your driving habits behind the wheel?",
-  "summary": "Modern vehicles analyze driving data such as hard braking and rapid acceleration to detect aggressive driving habits.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/features/811766/can-your-car-detect-aggressive-driving/"
- },
- {
-  "date": "2026-10-14T00:12:10.489490+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "First Look Revealed for David Boreanaz's Rockford Files Reboot",
-  "summary": "NBC has released an official first look at The Rockford Files reboot starring David Boreanaz.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/david-boreanaz-the-rockford-files-reboot-set-image/"
- },
- {
-  "date": "2026-10-14T00:12:10.489490+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "The White Lotus Season 4 Enters Final Stretch of Filming in Cannes",
-  "summary": "Production for Season 4 of HBO's The White Lotus has entered its final stretch of filming in Cannes.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/white-lotus-season-4-production-cannes-final-stretch-1237155644/"
- },
- {
-  "date": "2026-10-14T00:12:10.489490+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Crunchyroll Implements Major Paid Changes to Store and Subscription Service",
-  "summary": "Crunchyroll implemented a major and controversial paid change to its subscription service and online store over the summer.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/crunchyroll-store-change-backlash/"
- },
- {
-  "date": "2026-10-14T00:12:10.489490+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "The X-Files Officially Returning With New Era on Hulu",
-  "summary": "The X-Files franchise is officially getting a new era developed by Ryan Coogler for Hulu.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/the-x-files-reboot-hulu-series-new-era/"
- },
- {
-  "date": "2026-10-14T00:12:10.489490+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "The Legend of Zelda Officially Scheduled for Major Release in January 2027",
-  "summary": "Nintendo has officially slated a major new The Legend of Zelda release for January 2027 following an Ocarina of Time remake.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/legend-of-zelda-decayed-master-sword-january-2027/"
- },
- {
-  "date": "2026-10-14T00:12:10.489490+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Taylor Sheridan's Yellowstone Universe Enters New Era on Paramount+",
-  "summary": "Taylor Sheridan's expansive Yellowstone universe continues to expand with new spin-offs and sequel series on Paramount+.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/marshals-season-2-paramount-plus-streaming-success-yellowstone-franchise/"
- },
- {
   "date": "2026-10-14T01:06:31.387541+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -20601,5 +20502,82 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/star-trek-kelvin-era-return/"
+ },
+ {
+  "date": "2026-10-17T01:04:54.809667+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "Apple Hires New Global Litigation Head from Meta",
+  "summary": "Apple has hired a longtime Meta executive to take over the leadership of its global litigation team.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x7x1wv/apple_poaches_longtime_meta_executive_to_lead/"
+ },
+ {
+  "date": "2026-10-17T01:04:54.809667+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Verizon Reportedly Plans $10 Monthly Fee for iPhone Handoff",
+  "summary": "Verizon is reportedly planning to charge a monthly fee of $10 for the iPhone Handoff feature.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x7wi83/verizon_will_charge_10_a_month_for_iphone_handoff/"
+ },
+ {
+  "date": "2026-10-17T01:04:54.809667+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "rumor",
+  "headline": "Rockstar Clears the Air on GTA 6 Real-World References",
+  "summary": "Rockstar Games has confirmed that GTA 6 will not feature direct references to Donald Trump or the 2020 COVID-19 pandemic.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/gta-6-trump-rockstar-games/"
+ },
+ {
+  "date": "2026-10-17T01:04:54.809667+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Diablo Cody Teases 'Jennifer's Body 2' Story Details",
+  "summary": "Writer Diablo Cody teases that the upcoming 'Jennifer's Body 2' will explore a more sympathetic side of Megan Fox's character.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/diablo-cody-jennifers-body-2-more-sympathetic-1237166245/"
+ },
+ {
+  "date": "2026-10-17T01:04:54.809667+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Hayley Atwell Discusses Cut 'Avengers: Doomsday' Storylines",
+  "summary": "Marvel star Hayley Atwell reveals that multiple storylines were filmed and cut for 'Avengers: Doomsday'.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/avengers-doomsday-cut-storylines-confirmed-hayley-atwell/"
+ },
+ {
+  "date": "2026-10-17T01:04:54.809667+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "'Sons of Anarchy' Spin-off Sets 2027 Production Start",
+  "summary": "Ron Perlman confirms that production on the upcoming 'Sons of Anarchy' spin-off is slated to begin in 2027.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/sons-of-anarchy-spin-off-filming-start-2027-ron-perlman/"
+ },
+ {
+  "date": "2026-10-17T01:04:54.809667+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Brendan Fraser and Rachel Weisz Reunite in First 'The Mummy 4' Set Photos",
+  "summary": "First set photos from 'The Mummy: Book of the Dead' officially reunite stars Brendan Fraser and Rachel Weisz.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/brendan-fraser-rachel-weisz-the-mummy-4-set-images/"
  }
 ]
