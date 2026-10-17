@@ -1,159 +1,5 @@
 [
  {
-  "date": "2026-10-14T14:23:16.636649+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Apple Introduces the HomePod Mini 2 With New Features",
-  "summary": "Apple has officially introduced the HomePod mini 2 alongside a roundup of its new features and changes.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/14/homepod-mini-2-all-the-new-features/"
- },
- {
-  "date": "2026-10-14T14:23:16.636649+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Drops Repair Support for Last 12-Inch MacBook and Older iPad",
-  "summary": "Apple has added the final 12-inch MacBook, sixth-generation iPad, and several Beats X colorways to its vintage and obsolete products list.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/14/apples-kills-support-for-last-12-inch-macbook-and-more?utm_source=rss"
- },
- {
-  "date": "2026-10-14T14:23:16.636649+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "rumor",
-  "headline": "Rockstar Reveals Official GTA 6 Development Secrets",
-  "summary": "Rockstar has provided a rare official update addressing the lengthy development cycle and internal challenges behind GTA 6.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/gta-6-bloomberg-jason-rockstar-development/"
- },
- {
-  "date": "2026-10-14T14:23:16.636649+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Ex-Disco Elysium Devs Launch Co-Op Studio",
-  "summary": "Former Disco Elysium developers have formed a new player- and developer-owned studio to create their next RPG.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/summer-eternal-studio-structure-player-non-profit"
- },
- {
-  "date": "2026-10-14T14:23:16.636649+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Rockstar Promises Shorter Waits After GTA 6",
-  "summary": "Rockstar Games leadership has assured fans that future titles following GTA 6 will have much shorter development cycles.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/gta-6-rockstar-8-years-grand-theft-auto-7/"
- },
- {
-  "date": "2026-10-14T14:23:16.636649+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Arc Raiders Playtesters Criticize PvE Mode",
-  "summary": "Players participating in the latest Arc Raiders testing period have criticized the PvE mode for lacking tension.",
-  "verified": "unconfirmed",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-pve-mode-called-bland-and-hollow-by-players-who-say-its-ruined-the-tension-but-others-say-its-the-game-they-always-wanted/"
- },
- {
-  "date": "2026-10-14T14:23:16.636649+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "update",
-  "headline": "LG Sound Suite Update Adds Google Cast and DTS:X",
-  "summary": "LG has updated its Sound Suite home theater system to include DTS:X and Google Cast support.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2286441/lg-adds-dtsx-and-google-cast-to-its-sound-suite-home-theater-system/"
- },
- {
-  "date": "2026-10-14T14:23:16.636649+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "WhatsApp Introduces Account-Free Call Joining",
-  "summary": "WhatsApp is adding a guest option to allow users to join calls without needing an account.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2286108/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/"
- },
- {
-  "date": "2026-10-14T14:23:16.636649+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Writing in style: Lamborghini's Miura tribute pen \ud83d\udd8b\ufe0f\ud83c\udfce\ufe0f",
-  "summary": "Lamborghini celebrates 60 years of the Miura with a special tribute pen featuring a working headlight.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2286454/montegrappa-lamborghini-miura-tribute-pen/"
- },
- {
-  "date": "2026-10-14T14:23:16.636649+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "other",
-  "headline": "Catching rays with this clean Mazda Miata \u2600\ufe0f\ud83d\ude97",
-  "summary": "A high-resolution photograph of a Mazda Miata enjoying the sunshine, shared by a community member.",
-  "verified": "official",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x5sgu2/sunshine_mazda_miata_4787_x_3191/"
- },
- {
-  "date": "2026-10-14T14:23:16.636649+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Busan Vision Awards Winners Announced",
-  "summary": "Sakhya Byamba\u2019s \u201cZogsool\u201d won four prizes at the Busan International Film Festival\u2019s Vision Awards.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/festivals/zogsool-full-moon-busan-vision-awards-2026-1236911303/"
- },
- {
-  "date": "2026-10-14T14:23:16.636649+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Keegan-Michael Key to Narrate Einstein IMAX Film",
-  "summary": "Keegan-Michael Key will narrate an IMAX space-time adventure film about Albert Einstein scheduled for 2027.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/keegan-michael-key-einsteins-incredible-universe-release-date-2027/"
- },
- {
-  "date": "2026-10-14T14:23:16.636649+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "update",
-  "headline": "Production Begins on 'Pumping Black' Thriller",
-  "summary": "Production has begun in the French Alps on the thriller 'Pumping Black' starring Jonathan Bailey and Natalie Portman, with several new additions to the cast.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/jonathan-bailey-natalie-portman-pumping-black-starts-shoot-1236911027/"
- },
- {
-  "date": "2026-10-14T14:23:16.636649+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "The Handmaid's Tale Sets November Release with New Images",
-  "summary": "The Handmaid's Tale is receiving a special new release this November accompanied by exclusive first-look images.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/the-handmaids-tale-the-testaments-folio-society-exclusive-images/"
- },
- {
   "date": "2026-10-14T14:57:49.520530+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -19402,5 +19248,104 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/lord-of-the-rings-sauron-unleashed-statue/"
+ },
+ {
+  "date": "2026-10-17T14:48:21.033341+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Adhesive Required for Apple's New iPhone Duo Case",
+  "summary": "Apple's upcoming official silicone iPhone Duo case reportedly requires adhesive to stay attached according to early store arrivals.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/17/iphone-duo-silicone-case-adhesive-psa/"
+ },
+ {
+  "date": "2026-10-17T14:48:21.033341+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Apple Targets Generative AI Adult Apps in App Store Guidelines Update",
+  "summary": "Apple updated its App Review Guidelines to crack down on generative AI porn apps using bait-and-switch tactics to bypass moderation.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/17/generative-ai-porn-apps-targeted-in-app-review-guidelines-update?utm_source=rss"
+ },
+ {
+  "date": "2026-10-17T14:48:21.033341+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Analogue Brings Back Upgraded Super Nt and Mega Sg Retro Consoles",
+  "summary": "Analogue is bringing back improved versions of its popular Super Nt and Mega Sg retro console replacements.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/analogue-super-nt-mega-sg-return/"
+ },
+ {
+  "date": "2026-10-17T14:48:21.033341+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Mahershala Ali Reflects on Moonlight and Keeps Quiet on Spider-Verse",
+  "summary": "Mahershala Ali became emotional discussing Moonlight at a London film event while dodging questions about Spider-Verse.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/festivals/mahershala-ali-cries-moonlight-scene-spider-verse-1236914806/"
+ },
+ {
+  "date": "2026-10-17T14:48:21.033341+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "other",
+  "headline": "Weekend Read: Chuck Lorre Memoir, Ron Perlman as Hemingway & More",
+  "summary": "A weekly roundup covering memoirs, true-crime docs, casting updates, and nostalgic action aesthetics.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/lists/weekend-read-street-fighter-review-whalefall-chuck-lorre/"
+ },
+ {
+  "date": "2026-10-17T14:48:21.033341+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "HBO's Classical Epic Rome Finds New Life on Streaming",
+  "summary": "HBO's historical epic series Rome is experiencing a resurgence in streaming popularity two decades after release.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/rome-hbo-gladiator-replacement-streaming-hit-october-2026/"
+ },
+ {
+  "date": "2026-10-17T14:48:21.033341+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "FORTY LOVE Official Trailer Drops From Studiocanal",
+  "summary": "Studiocanal has released the official trailer for the upcoming film Forty Love.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x8bwwt/forty_love_official_trailer_studiocanal/"
+ },
+ {
+  "date": "2026-10-17T14:48:21.033341+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Joel Coen Talks Studio Consolidation and Potential Reunion With Ethan",
+  "summary": "Joel Coen discusses industry studio consolidation and a potential future reunion project with his brother Ethan.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x8b29n/joel_coen_on_studio_consolidation_and_reunion/"
+ },
+ {
+  "date": "2026-10-17T14:48:21.033341+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "other",
+  "headline": "A Look Back at the Climax of Terence Fisher's Horror of Dracula",
+  "summary": "A classic horror retrospective highlights the iconic climax of Terence Fisher's 1958 Horror of Dracula.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1x89fsl/horror_of_dracula_directed_by_terence_fisher_1958/"
  }
 ]
