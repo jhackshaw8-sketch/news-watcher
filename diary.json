@@ -17785,5 +17785,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/pokemon-kanto-legendary-birds-redesign/"
+ },
+ {
+  "date": "2026-10-17T19:44:48.176333+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Open-Source Nvidia GeForce Now Client Removes Telemetry",
+  "summary": "A developer has created an open-source alternative to the Nvidia GeForce Now client that strips out telemetry and AFK limitations.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x8epo3/github_user_creates_opensource_nvidia_geforce_now/"
+ },
+ {
+  "date": "2026-10-17T19:44:48.176333+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "'Project Hail Mary' Dominates Streaming Charts",
+  "summary": "Ryan Gosling's 'Project Hail Mary' continues to top streaming charts ahead of 'Dune: Part Three'.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/ryan-gosling-project-hail-mary-streaming-hit-prime-video-october-2026/"
  }
 ]
