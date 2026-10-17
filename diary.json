@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-14T02:14:40.215856+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "How Ultron Returned in Marvel's VisionQuest Explained",
-  "summary": "The Marvel series VisionQuest explains how Ultron survived the events of Avengers: Age of Ultron.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2284996/how-ultron-alive-marvel-visionquest-avengers-retcon-explained/"
- },
- {
   "date": "2026-10-14T02:53:18.611416+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -20612,5 +20601,38 @@
   "verified": "official",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/brad-caleb-kane-teases-it-welcome-to-derry-season-2-pennywise-1237166286/"
+ },
+ {
+  "date": "2026-10-17T02:16:32.805665+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Modder Nears Seamless Starfield Planetary Landings",
+  "summary": "A dedicated modder is close to bringing seamless planetary landings to Starfield, bypassing the game's traditional loading screens.",
+  "verified": "reliable_reporter",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings"
+ },
+ {
+  "date": "2026-10-17T02:16:32.805665+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "A Rare Glimpse of the McLaren VP4 Prototype \ud83c\udfce\ufe0f\u2728",
+  "summary": "A rare McLaren VP4 prototype, which preceded the 375 production models, is showcased in high resolution.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x7vepj/mclaren_vp4_3072x4096/"
+ },
+ {
+  "date": "2026-10-17T02:16:32.805665+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Fire Country Enters a New Era in Season 5",
+  "summary": "Actor Olivia Thirlby discusses her new character CJ and how she will impact Fire Country as the CBS show enters season 5.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/cbs-fire-country-season-5-new-era-olivia-thirlby/"
  }
 ]
