@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-14T08:25:48.223792+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Valve Index Approaches Sunset",
-  "summary": "The Valve Index VR headset appears to be reaching the end of its lifecycle as it gets phased out on the Steam store.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x5les1/valve_index_sunset/"
- },
- {
-  "date": "2026-10-14T08:25:48.223792+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "BMW Revives V8 Power with the New M760! \ud83c\udfce\ufe0f\ud83d\udd25",
-  "summary": "BMW is reviving the V8-powered 7 Series with the introduction of the new M760.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811878/2027-bmw-m760-revealed/"
- },
- {
-  "date": "2026-10-14T08:25:48.223792+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "update",
-  "headline": "2027 Toyota Camry Lineup Sees a $700 Price Increase \ud83d\udcb5\ud83d\udcc8",
-  "summary": "Toyota has increased the prices across the entire 2027 Camry lineup by $700 while keeping the powertrain and features unchanged.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811881/2027-toyota-camry-prices-rise/"
- },
- {
   "date": "2026-10-14T08:59:42.325775+00:00",
   "topic": "Gaming News",
   "score": 7,
@@ -20480,5 +20447,27 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/whalefall-josh-brolin-heartbeat-austin-abrams-brian-duffield/"
+ },
+ {
+  "date": "2026-10-17T08:51:29.322427+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Gerard Butler's Sci-Fi Flop Becomes Streaming Hit",
+  "summary": "Gerard Butler's $100 million sci-fi box office flop has found new life on streaming platforms by re-entering the top 10 charts.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/gerard-butler-sci-fi-greenland-2-migration-streaming-success-hbo-max-october-2026/"
+ },
+ {
+  "date": "2026-10-17T08:51:29.322427+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Steven Spielberg's War of the Worlds Leaving HBO Max",
+  "summary": "Steven Spielberg's highest-grossing 21st-century sci-fi film, War of the Worlds, is officially leaving HBO Max soon.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/tom-cruise-steven-spielberg-war-of-the-worlds-leaving-hbo-max-november-2026/"
  }
 ]
