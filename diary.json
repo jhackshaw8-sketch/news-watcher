@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-14T04:56:50.623569+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "A Knight of the Seven Kingdoms TCG Officially Set for Winter 2026 Release \ud83d\udde1\ufe0f\ud83c\udccf",
-  "summary": "A Knight of the Seven Kingdoms is officially getting a trading card game scheduled to release in Winter 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/knight-of-seven-kingdoms-genre-change-winter-2026/"
- },
- {
   "date": "2026-10-14T05:19:24.046770+00:00",
   "topic": "Cars",
   "score": 6,
@@ -20601,5 +20590,16 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/game-of-thrones-daenerys-return/"
+ },
+ {
+  "date": "2026-10-17T05:14:25.321714+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Stargate: Atlantis Returning in October 2026 With New Collection",
+  "summary": "Stargate: Atlantis is officially returning in October 2026 as part of a new collection featuring a limited-edition Zero Point Module replica.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/stargate-atlantis-october-2026-return/"
  }
 ]
