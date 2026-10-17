@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-14T09:27:08.839652+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Planet Zoo 2 Review Highlights",
-  "summary": "Eurogamer reviews Planet Zoo 2, highlighting its beautiful visuals and engaging management gameplay.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/planet-zoo-2-now-playing"
- },
- {
-  "date": "2026-10-14T09:27:08.839652+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "legal",
-  "headline": "Russell Brand Rape Trial Begins in London",
-  "summary": "The prosecution has opened its case against Russell Brand in a rape trial at London's Southwark Crown Court that is expected to continue into December.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/russell-brand-trial-prosecution-case-1237155753/"
- },
- {
-  "date": "2026-10-14T09:27:08.839652+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Russell T. Davies Teases Doctor Who Production Timeline",
-  "summary": "Outgoing 'Doctor Who' showrunner Russell T. Davies has criticized recent comments about AI-generated episodes and teased that production will start next summer.",
-  "verified": "reliable_reporter",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/global/russell-t-davies-bbc-boss-ai-doctor-who-comment-clumsy-1236911048/"
- },
- {
-  "date": "2026-10-14T09:27:08.839652+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "business",
-  "headline": "Reese Witherspoon Buys Back Hello Sunshine",
-  "summary": "Reese Witherspoon and Mediawan have partnered to buy back Hello Sunshine from Candle Media.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x5lq82/reese_witherspoon_and_mediawan_partner_to_buy/"
- },
- {
   "date": "2026-10-14T09:58:42.116101+00:00",
   "topic": "Gaming News",
   "score": 8,
@@ -20293,5 +20249,38 @@
   "verified": "official",
   "source": "Eurogamer",
   "link": "https://www.eurogamer.net/over-the-hill-now-playing"
+ },
+ {
+  "date": "2026-10-17T09:50:32.721455+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "Arc Raiders 2.0 Update Sparks Major Player Rebound",
+  "summary": "Arc Raiders experiences a major player-number rebound following the launch of the Frozen Trail update and version 2.0 release.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/arc-raiders-frozen-trail-2-0-update-steam-player-numbers"
+ },
+ {
+  "date": "2026-10-17T09:50:32.721455+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Coen Brothers Honored at Lumi\u00e8re Film Festival",
+  "summary": "Joel and Ethan Coen received the Lumi\u00e8re Award at the Lyon's Lumi\u00e8re Film Festival, celebrating four decades of filmmaking with a tribute from Javier Bardem.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/coen-brothers-profane-thank-you-lumiere-award-1236914700/"
+ },
+ {
+  "date": "2026-10-17T09:50:32.721455+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Pok\u00e9mon Colosseum Officially Confirmed For Nintendo Switch 2",
+  "summary": "Pok\u00e9mon Colosseum has been officially confirmed for the Nintendo Switch 2.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/pokemon-colosseum-nintendo-switch-2-officially-confirmed/"
  }
 ]
