@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-14T05:54:19.348306+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Rumors Point to Upcoming Apple Smart Home Event and OLED MacBooks",
-  "summary": "Podcast discussion covers upcoming Apple product announcements, potential smart home accessories with LG, OLED MacBook Pro details, and macOS Full Disk Access changes.",
-  "verified": "unconfirmed",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/08/happy-hour-611/"
- },
- {
-  "date": "2026-10-14T05:54:19.348306+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Apple and Defendants Trade Blame in Trade Secret Lawsuit Delays",
-  "summary": "Apple, Jon Prosser, and Michael Ramacciotti are trading blame in a joint status report regarding delays and pending document requests in an ongoing trade secret lawsuit.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/08/apple-prosser-and-ramacciotti-trade-blame-over-delays-in-trade-secret-lawsuit/"
- },
- {
-  "date": "2026-10-14T05:54:19.348306+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "DC's Clayface First Reactions Drop For R-Rated Batman Movie",
-  "summary": "First reactions have officially been released for DC Studios' R-rated Batman horror movie, Clayface.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/clayface-dc-movie-first-reactions/"
- },
- {
-  "date": "2026-10-14T05:54:19.348306+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Peacock's Crystal Lake Series Earns Strong Early Reviews",
-  "summary": "Peacock's upcoming Friday the 13th prequel series, Crystal Lake, starring Linda Cardellini, has received positive early reviews.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x5hxpl/crystal_lake_review_peacocks_linda/"
- },
- {
-  "date": "2026-10-14T05:54:19.348306+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Foundation Official December 2026 Return Date Confirmed",
-  "summary": "Foundation has been officially confirmed to return with new episodes in December 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/foundation-december-2026-galactic-frontier-plans-confirmed/"
- },
- {
   "date": "2026-10-14T06:17:02.773521+00:00",
   "topic": "Events",
   "score": 6,
@@ -20491,5 +20436,16 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/lord-of-the-rings-kings-gambit-2027-felowship-return/"
+ },
+ {
+  "date": "2026-10-17T06:13:15.509841+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Jane Austen Streaming Guide Highlights New Adaptations",
+  "summary": "A guide details where to stream various Jane Austen adaptations, highlighting the recent theatrical release of Sense and Sensibility (2026) and an upcoming Netflix limited series of Pride and Prejudice.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/lists/jane-austen-movies-tv-shows-streaming-adaptations/"
  }
 ]
