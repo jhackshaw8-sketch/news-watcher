@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-14T04:20:59.537361+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Clayface Cast Reunites for L.A. Premiere",
-  "summary": "The cast and crew of the DC Comics film 'Clayface' reunited for its red carpet premiere in Los Angeles.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/gallery/clayface-red-carpet-premiere-photos-dc-studios/"
- },
- {
   "date": "2026-10-14T04:56:50.623569+00:00",
   "topic": "Events",
   "score": 8,
@@ -20601,5 +20590,16 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/henry-cavill-mark-hamill-sci-fi-thriller-squadron-42/"
+ },
+ {
+  "date": "2026-10-17T04:53:09.990699+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Game of Thrones: War for Westeros Officially Announced for 2027 Release",
+  "summary": "Game of Thrones: War for Westeros has been officially announced for a 2027 release, featuring the return of Daenerys.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/game-of-thrones-daenerys-return/"
  }
 ]
