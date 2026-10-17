@@ -1,170 +1,5 @@
 [
  {
-  "date": "2026-10-14T12:21:23.678211+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Apple Announces HomePod mini 2",
-  "summary": "Apple has announced the HomePod mini 2, marking the compact smart speaker's first major hardware update in six years.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/guide/homepod-mini-vs-homepod-mini-2/"
- },
- {
-  "date": "2026-10-14T12:21:23.678211+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "Undersea Internet Cables Face Rising Security Threats",
-  "summary": "A new book highlights the mounting vulnerabilities facing the global undersea internet cable infrastructure.",
-  "verified": "official",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/"
- },
- {
-  "date": "2026-10-14T12:21:23.678211+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "Samsung Health Speeds Up Galaxy Watch Sleep Coaching",
-  "summary": "Samsung Health has updated its Galaxy Watch sleep coaching feature to require only three days of data instead of a longer period.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2286336/samsung-healths-sleep-coaching-now-requires-just-three-days-of-data/"
- },
- {
-  "date": "2026-10-14T12:21:23.678211+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "OpenAI and Google AI Models Vulnerable to New Nude-Generation Exploits",
-  "summary": "Researchers have discovered new attack methods that easily bypass AI safety safeguards from OpenAI and Google to generate non-consensual explicit imagery.",
-  "verified": "reliable_reporter",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
- },
- {
-  "date": "2026-10-14T12:21:23.678211+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "launch",
-  "headline": "CMF Unveils Milk-Carton-Shaped Portable Bluetooth Speakers",
-  "summary": "Nothing's sub-brand CMF has announced its first playful, milk-carton-shaped portable Bluetooth speakers with pairing and Auracast support.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2286321/cmfs-first-portable-speakers-are-shaped-like-milk-cartons-and-pair-together-hands-on/"
- },
- {
-  "date": "2026-10-14T12:21:23.678211+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "Acura Announces Three New SUVs Including a Rugged Off-Roader! \ud83c\udf32\ud83d\ude99",
-  "summary": "Acura has announced plans to expand its lineup with three new SUVs, featuring a rugged adventure-ready model and an eight-passenger flagship.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811836/acura-eight-passenger-flagship-suv-confirmed/"
- },
- {
-  "date": "2026-10-14T12:21:23.678211+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "Stunning Porsche 911 GT3 RS Captured in High Resolution \ud83c\udfc1\u2728",
-  "summary": "A high-resolution photo share of a stunning Porsche 911 GT3 RS on Reddit's carporn community.",
-  "verified": "reliable_reporter",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x5piry/porsche_911_gt3_rs_3239x3239/"
- },
- {
-  "date": "2026-10-14T12:21:23.678211+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Melina Le\u00f3n's 'Portrait Huaco' Boards International Co-Producers",
-  "summary": "Luxbox and Amore Cine have boarded Melina Le\u00f3n's upcoming Peruvian drama project 'Portrait Huaco'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/ventana-sur-co-prod-forum-portrait-huaco-amore-cine-1236910801/"
- },
- {
-  "date": "2026-10-14T12:21:23.678211+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Launch Financing Secures $15M Facility for Indie Films",
-  "summary": "Launch Financing has secured a $15 million senior credit facility to expand its short-term indie film lending services.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/launch-financing-indie-film-lending-senior-credit-facility-1237156612/"
- },
- {
-  "date": "2026-10-14T12:21:23.678211+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "New 'Crystal Lake' Origin Twist Set to Spark Fan Debate",
-  "summary": "An upcoming episode of the 'Crystal Lake' series introduces a controversial new origin story for Jason Voorhees.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2286330/crystal-lake-jason-voorhees-origin-twist-friday-the-13th-fans-furious/"
- },
- {
-  "date": "2026-10-14T12:21:23.678211+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "casting",
-  "headline": "Maeve Jinkings to Star in Escape Drama 'Cabildo 71'",
-  "summary": "Maeve Jinkings has been cast as the lead in the upcoming convent-prison escape drama 'Cabildo 71'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/maeve-jinkings-im-stiil-here-cabildo-71-ventana-sur-1236910967/"
- },
- {
-  "date": "2026-10-14T12:21:23.678211+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "First Trailer Drops for Andrew Haigh's 'A Long Winter'",
-  "summary": "The first trailer has been released for Andrew Haigh's 'A Long Winter', starring Fred Hechinger, Ebon Moss-Bachrach, and Kit Connor.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/a-long-winter-first-trailer-fred-hechinger-kit-connor-1237156587/"
- },
- {
-  "date": "2026-10-14T12:21:23.678211+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "Ben Affleck Reveals Why He Turned Down Directing 'Star Wars'",
-  "summary": "Ben Affleck has officially confirmed that Lucasfilm approached him to direct 'Star Wars: The Force Awakens'.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/ben-affleck-star-wars-force-awakens-director-turned-down/"
- },
- {
-  "date": "2026-10-14T12:21:23.678211+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "release_date",
-  "headline": "'Kung Fu Soccer' Sets October Release Date and English Cast",
-  "summary": "Stephen Chow\u2019s 'Kung Fu Soccer' has set an October 23 release date in the U.S., U.K., and other territories with an English dub.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/stephen-chow-kung-fu-soccer-us-uk-release-english-dub-1236911164/"
- },
- {
-  "date": "2026-10-14T12:21:23.678211+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "CBS Confirms Timothy McGee's NCIS Exit",
-  "summary": "CBS has officially confirmed the exit path for Timothy McGee on the television series NCIS.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/ncis-season-24-timothy-mcgee-exit-secnav/"
- },
- {
   "date": "2026-10-14T13:07:10.920428+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -19919,5 +19754,126 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/legend-of-zelda-officially-switching-genres-2027/"
+ },
+ {
+  "date": "2026-10-17T12:58:34.846164+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Footage Leaks From Cancelled Assassin's Creed Game",
+  "summary": "Gameplay footage has surfaced online from a reportedly cancelled Assassin's Creed game set in ancient China.",
+  "verified": "unconfirmed",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent"
+ },
+ {
+  "date": "2026-10-17T12:58:34.846164+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "Marvel Rivals Escalates Penalties for Speech Violations",
+  "summary": "NetEase has announced significantly harsher penalties and increased moderation for speech violations in Marvel Rivals.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/third-person-shooter/marvel-rivals-addresses-the-games-toxic-speech-problem-we-will-absolutely-not-treat-these-behaviors-as-acceptable-simply-because-they-are-unfortunately-common/"
+ },
+ {
+  "date": "2026-10-17T12:58:34.846164+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "These Common Charging Habits Could Be Degrading Your EV Battery \ud83d\ude97\u26a1",
+  "summary": "Certain common charging habits can negatively impact and degrade electric vehicle batteries over time.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2283982/common-changing-habits-degrading-ev-battery/"
+ },
+ {
+  "date": "2026-10-17T12:58:34.846164+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "Is the Google Fitbit Air Waterproof?",
+  "summary": "A breakdown of the water resistance capabilities of the Google Fitbit wearable device.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2283981/how-long-google-fitbit-air-be-in-water-waterproof/"
+ },
+ {
+  "date": "2026-10-17T12:58:34.846164+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Coen Brothers Tease Epic Reunion Film in Minneapolis \ud83c\udfac",
+  "summary": "Joel and Ethan Coen tease a potential reunion film set in Minneapolis, marking their first joint project in eight years.",
+  "verified": "reliable_reporter",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/joel-coen-on-studio-consolidation-competition-1236914741/"
+ },
+ {
+  "date": "2026-10-17T12:58:34.846164+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Marvel Comics Officially Confirms the Death of the Winter Soldier \ud83d\udc80",
+  "summary": "Marvel Comics has officially confirmed the death of Bucky Barnes, the Winter Soldier.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/bucky-barnes-death-winter-soldier-marvel-comics/"
+ },
+ {
+  "date": "2026-10-17T12:58:34.846164+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Terrifying New Slasher Thriller 'River' Drops Official Trailer \ud83c\udf0a",
+  "summary": "Universal Pictures released the official trailer for the upcoming slasher thriller 'River', hitting theaters on January 15.",
+  "verified": "official",
+  "source": "Universal Pictures (trailers)",
+  "link": "https://www.youtube.com/watch?v=ox8lEnsxDag"
+ },
+ {
+  "date": "2026-10-17T12:58:34.846164+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Ridley Scott's Epic Franchise Makes Its Way to Netflix",
+  "summary": "A historical franchise produced or directed by Ridley Scott is making its return to the streaming platform Netflix.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/ridley-scotts-greatest-movie-franchise-coming-back-to-netflix-gladiator/"
+ },
+ {
+  "date": "2026-10-17T12:58:34.846164+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Ariana Grande's 'Wicked' Conquers Global Streaming Charts",
+  "summary": "Ariana Grande's hit musical film adaptation 'Wicked' continues to dominate global streaming charts.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/ariana-grande-wicked-streaming-hit-prime-video-october-2026/"
+ },
+ {
+  "date": "2026-10-17T12:58:34.846164+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Matt Damon's Sci-Fi Hit Celebrates 100 Days Atop Streaming Charts",
+  "summary": "Matt Damon's acclaimed sci-fi thriller has spent over 100 consecutive days dominating streaming charts.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/matt-damon-the-martian-streaming-success-october-2026/"
+ },
+ {
+  "date": "2026-10-17T12:58:34.846164+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Tom Hardy Cult Classic Receives 20th Anniversary Upgrade",
+  "summary": "A 20-year-old cult classic film starring Tom Hardy is receiving a special new physical release and upgrade.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/tom-hardy-marie-antoinette-pathe-4k-restoration-release/"
  }
 ]
