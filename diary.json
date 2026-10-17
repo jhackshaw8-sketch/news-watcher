@@ -1,181 +1,5 @@
 [
  {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "iPhone Duo Out-of-Warranty Repair Pricing Revealed",
-  "summary": "Apple has revealed the out-of-warranty repair costs for the upcoming iPhone Duo ahead of its pre-orders and release.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/14/heres-how-much-iphone-duo-costs-to-repair-out-of-warranty/"
- },
- {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Upcoming Smart Home Accessories to Feature Exclusive iPhone Integration",
-  "summary": "A new leak suggests that upcoming co-developed smart home accessories will feature an exclusive iPhone integration for HomeKit.",
-  "verified": "unconfirmed",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/09/apples-new-second-party-homekit-products-will-have-this-exclusive-iphone-feature/"
- },
- {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Xbox Officially Announces New Nano Controller",
-  "summary": "Xbox has officially announced the new lightweight and portable Xbox Nano Controller.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/xbox-nano-controller-portable-price-reveal/"
- },
- {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Epic Games Uses AI to Speed Up New Launcher",
-  "summary": "Epic Games admits to using AI to vibe-code a faster new Epic Games Launcher to compete with Steam.",
-  "verified": "reliable_reporter",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai"
- },
- {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Forza Horizon 6 Delayed to 2027 on PS5 \ud83d\ude97\ud83d\udca8",
-  "summary": "Forza Horizon 6 has officially been delayed to 2027 on PS5 alongside an expansion announcement.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay"
- },
- {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "The Galaxies Showcase Returns Next Week",
-  "summary": "The Galaxies Showcase is returning next week with over 40 participating studios and publishers.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch"
- },
- {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Apate Deploys Undercover AI Agents to Combat Scammers",
-  "summary": "Apate.ai is deploying undercover AI agents to interact with scammers and gather intelligence on fraud operations.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
- },
- {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "rumor",
-  "headline": "\ud83c\udfc1 Formula 1 Eyes Major Return to Africa Next Decade! \ud83c\udf0d",
-  "summary": "Formula 1 is reportedly planning a return to Africa with a new race stage early in the next decade.",
-  "verified": "unconfirmed",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2286851/formula-1-return-africa/"
- },
- {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "update",
-  "headline": "\ud83d\ude97 Taking a Spin in the Very First Honda Accord! \ud83d\udca8",
-  "summary": "A detailed POV driving impression showcases the vintage charm and specs of a classic 1978 Honda Accord Hatchback.",
-  "verified": "official",
-  "source": "TheTopher",
-  "link": "https://www.youtube.com/watch?v=7-RfNpstq3w"
- },
- {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Gravity Falls Halloween Special Explores Growing Up",
-  "summary": "Gravity Falls gets a supernatural Halloween mystery exploring Dipper and Mabel's fears of growing up.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/disney-gravity-falls-supernatural-mystery-halloween/"
- },
- {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "casting",
-  "headline": "Marvel's VisionQuest Casts Paladin",
-  "summary": "Marvel's VisionQuest casts a familiar genre TV actor to play the mysterious threat Paladin.",
-  "verified": "reliable_reporter",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2285932/paladin-marvel-visionquest-actor-todd-stashwick/"
- },
- {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Street Fighter BTS: Ryu and Ken's Flooded Set",
-  "summary": "Director Kitao Sakurai shares behind-the-scenes chaos about a flooded set during Ryu and Ken's fight in Street Fighter.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/video/street-fighter-ryu-and-ken-s-fight-flooded-the-set-collider-bts/"
- },
- {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "John Cena's Matchbox Becomes Apple TV Hit",
-  "summary": "John Cena's Matchbox movie becomes Apple TV's biggest streaming hit to date.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2286845/john-cena-action-movie-matchbox-streaming-apple-tv-october-2026/"
- },
- {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Walton Goggins Spotted on Miami Vice '85 Set",
-  "summary": "Walton Goggins appears on set in first images from the crime thriller Miami Vice '85.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/walton-goggins-miami-vice-85-set-images/"
- },
- {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Matt Damon's Spy Thriller Dominates Netflix",
-  "summary": "A new five-part spy thriller starring Matt Damon officially dominates Netflix streaming charts.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/matt-damon-jason-bourne-franchise-streaming-success-netflix-october-2026/"
- },
- {
-  "date": "2026-10-14T18:20:57.005292+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "HBO's Stephen King Series Season 2 Delayed Past 2026",
-  "summary": "HBO confirms that its dark Stephen King horror series will return for Season 2, but not in 2026.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/stephen-king-it-welcome-to-derry-season-2-release-window-2027/"
- },
- {
   "date": "2026-10-14T19:04:55.383088+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -17961,5 +17785,49 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/wheel-of-time-switching-characters-war-of-dragon/"
+ },
+ {
+  "date": "2026-10-17T18:51:55.735487+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Vampire: The Masquerade - Bloodlines Remaster Rumored",
+  "summary": "A leaker suggests that a remaster of the cult 2004 RPG Vampire: The Masquerade - Bloodlines is currently in the works.",
+  "verified": "unconfirmed",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour"
+ },
+ {
+  "date": "2026-10-17T18:51:55.735487+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "TikTok Suspends 'Musk' Documentary Ad Account",
+  "summary": "TikTok permanently suspended the 'Musk' documentary ad account ahead of its wide release.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/musk-documentary-tiktok-account-permanently-suspended-1236914995/"
+ },
+ {
+  "date": "2026-10-17T18:51:55.735487+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "How 'Whalefall' Built a Whale Stomach with Foam",
+  "summary": "Production designer Ramsey Avery explains how mattress foam and silicone were used to build the creature's stomach in 'Whalefall'.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/artisans/features/whalefall-production-design-whale-stomach-bile-1236910368/"
+ },
+ {
+  "date": "2026-10-17T18:51:55.735487+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "2026 Superhero Bomb Becomes Streaming Hit",
+  "summary": "A major 2026 superhero box office bomb has found new life on streaming charts after thirty days.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/supergirl-30-day-streaming-hit-hbo-max-october-2026/"
  }
 ]
