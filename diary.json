@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-14T10:24:43.979297+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "World of Warcraft Devs Talk Handling Player Feedback Ahead of Launch",
-  "summary": "World of Warcraft developers discuss handling player feedback ahead of the upcoming release.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/world-of-warcraft-forever-feedback-blizzard-listening"
- },
- {
-  "date": "2026-10-14T10:24:43.979297+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "Going Medieval Launches Major Diplomacy Update",
-  "summary": "Going Medieval receives a major Diplomacy Update adding new diplomatic options, mercenaries, and trade mechanics.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x5nj92/going_medieval_diplomacy_update_diplomacy_options/"
- },
- {
-  "date": "2026-10-14T10:24:43.979297+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "rumor",
-  "headline": "Inside the Making of Grand Theft Auto VI",
-  "summary": "Jason Schreier and Bloomberg report on the extensive behind-the-scenes making of Grand Theft Auto VI.",
-  "verified": "reliable_reporter",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x5nhp7/bloomberg_jason_schreier_the_making_of_grand/"
- },
- {
-  "date": "2026-10-14T10:24:43.979297+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Why Grand Theft Auto VI Took Over Eight Years to Develop",
-  "summary": "A video breakdown discussing the reasons behind the lengthy 8-plus year development cycle of Grand Theft Auto VI.",
-  "verified": "unconfirmed",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x5nao2/why_grand_theft_auto_vi_took_8_years_to_make/"
- },
- {
-  "date": "2026-10-14T10:24:43.979297+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "2027 Ford Bronco Expands Lineup With New Trims And Raptor Power! \ud83d\ude99\ud83d\udca8",
-  "summary": "The 2027 Ford Bronco lineup expands with new Filson and RTR trims, alongside the wider availability of the Raptor's twin-turbo V6 engine and upgraded cabin technology.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811906/2027-ford-bronco-adds-raptor/"
- },
- {
-  "date": "2026-10-14T10:24:43.979297+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "business",
-  "headline": "Warner Bros. and Paramount Merger Threatens Hollywood Franchise Landscape",
-  "summary": "The proposed merger between Warner Bros. and Paramount threatens to exacerbate Hollywood's reliance on established franchises.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/warner-bros-paramount-merger-skydance-franchises-transformers/"
- },
- {
-  "date": "2026-10-14T10:24:43.979297+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "New John Cena Action Movie Becomes Instant Streaming Hit Despite Bad Reviews",
-  "summary": "Apple TV's new action movie starring John Cena and Jessica Biel becomes an instant streaming hit despite receiving poor reviews.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/matchbox-movie-apple-tv-fast-and-furious-replacement-streaming-success-october-2026/"
- },
- {
-  "date": "2026-10-14T10:24:43.979297+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Official Dark Souls Soul of Cinder Figure Scheduled for 2027 Release",
-  "summary": "An official Dark Souls Soul of Cinder collectible figure has been announced for release in Q3 2027.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/dark-souls-soul-of-cinder-2027/"
- },
- {
   "date": "2026-10-14T10:57:00.172616+00:00",
   "topic": "Gaming News",
   "score": 9,
@@ -20172,5 +20084,38 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/gta-6-disney-world-parody/"
+ },
+ {
+  "date": "2026-10-17T10:49:00.603625+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "Apple Updates App Review Guidelines to Block Bait-and-Switch and Harmful Content",
+  "summary": "Apple has strengthened its App Review Guidelines to better combat nonconsensual intimate imagery and deceptive bait-and-switch apps.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x873ai/strengthening_app_review_guidelines_against/"
+ },
+ {
+  "date": "2026-10-17T10:49:00.603625+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Pierce Brosnan Animated Movie Hits 100-Day Streaming Milestone",
+  "summary": "Pierce Brosnan's animated film has achieved a notable 100-day streaming milestone.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/pierce-brosnan-the-king-of-kings-streaming-success-100-days-october-2026/"
+ },
+ {
+  "date": "2026-10-17T10:49:00.603625+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "The Legend of Zelda: Master Collection Announced",
+  "summary": "Nintendo has officially announced the upcoming Zelda: Master Collection featuring classic titles like Phantom Hourglass and Spirit Tracks.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/legend-of-zelda-phantom-hourglass-twilight-princess-master-collection/"
  }
 ]
