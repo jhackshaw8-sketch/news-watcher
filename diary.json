@@ -1,192 +1,5 @@
 [
  {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Xbox Launches New Labs Initiative to Explore Community Game Ports",
-  "summary": "Xbox has established a new initiative called Xbox Labs to explore and react to modern game ports and community decompilation trends.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/xbox-labs-genai-game-ports-vibe-code"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "security",
-  "headline": "Fridge Hack Spoils Food in French Supermarkets",
-  "summary": "A cybersecurity vulnerability involving smart refrigerators led to spoiled food in hundreds of French supermarkets, highlighting IoT security risks.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x5m37v/a_fridge_hack_spoiled_food_in_hundreds_of_french/"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "other",
-  "headline": "Examining Claims on Drone Attacks and Bot Traffic",
-  "summary": "An analysis questions the validity of claims that a Ukrainian drone attack significantly halted Russian bot traffic.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x5m18d/why_zelenskyys_claims_that_ukraine_drone_attack/"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "China Chip Exports Surge 136% Amid AI Boom",
-  "summary": "Driven by the global AI frenzy, China's chip exports surged by 136% to reach $45 billion.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x5lxtj/china_chip_exports_jump_136_to_us45b_as_ai_frenzy/"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "Anthropic Moves to In-House Version Control",
-  "summary": "AI startup Anthropic is planning to transition to an in-house version control system within the next five months.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x5lvf5/anthropic_moving_to_inhouse_version_control/"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "South Korea Plans $3.5 Billion AI Model",
-  "summary": "South Korea has announced plans to develop a massive $3.5 billion frontier AI model starting next year.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x5ldyl/south_korea_plans_to_develop_35_billion_frontier/"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Scrutiny Mounts Over Palantir's UK State Contracts",
-  "summary": "Critics are calling for increased scrutiny and restrictions on Palantir's expanding software contracts within the British government.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x5l3g0/palantir_is_worming_its_way_into_the_british/"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "other",
-  "headline": "BBC Verify Investigates Data Centre Strikes and Bot Nets",
-  "summary": "BBC Verify investigates whether recent data centre strikes genuinely impacted Russian bot operations as claimed.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x5kdjf/is_zelensky_right_to_say_data_centre_strikes_have/"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "IMF Boosts Taiwan GDP Forecast on AI Boom",
-  "summary": "The IMF significantly raised Taiwan's GDP growth forecast to 10.7% due to surging demand from the artificial intelligence boom.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x5i3jt/the_imf_has_sharply_raised_its_forecast_for/"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Dutch Tax Authorities Drop Microsoft 365 for Open Source",
-  "summary": "Dutch tax authorities have cancelled a major Microsoft 365 cloud rollout and are shifting toward open-source alternatives.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x5fimc/dutch_tax_authorities_cancel_microsoft_365_cloud/"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "Formula 1 Eyes African Return with New Rwanda Circuit! \ud83c\udfce\ufe0f\ud83c\udf0d",
-  "summary": "Rwanda is planning to build the Bugesera circuit to bring Formula 1 back to Africa with a new FIA Grade 1 track near Kigali.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811886/formula-1-rwanda-grand-prix/"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Philippine-Italian Alliance Targets Global Indie Film Buyers",
-  "summary": "Fire & Ice Media and Coccinelle Film Sales have formed a strategic partnership to target indie film buyers across multiple continents.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/philippine-italian-sales-firms-fire-ice-coccinelle-unite-indies-1236911055/"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "European Film Awards Unveils Shortlist of 68 Contenders",
-  "summary": "The European Film Academy has announced a shortlist of 68 feature films competing for the 39th European Film Awards.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/short-list-39th-european-film-awards-1237156545/"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "Taylor Sheridan's Hit Thriller Surges Following Sequel Announcement",
-  "summary": "Taylor Sheridan's neo-Western thriller is surging on streaming platforms following the official announcement of a sequel.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/taylor-sheridan-sicario-streaming-success-hbo-max-october-2026/"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Indian Drama 'Kidney' Boards Platoon One Films for Co-Production",
-  "summary": "Platoon One Films has boarded the Indian drama 'Kidney' as a co-producer ahead of its festival premiere in Tallinn.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/tallinn-indian-drama-kidney-platoon-one-films-1236909621/"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Edinburgh Film Festival Sets 2027 Dates",
-  "summary": "The Edinburgh International Film Festival has announced the official dates for its landmark 80th edition, scheduled to run from August 12 to August 18, 2027.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/film/global/edinburgh-film-festival-reveals-2027-dates-1236910766/"
- },
- {
-  "date": "2026-10-14T08:59:42.325775+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Tiger TV Streaming Platform Sets Launch Date",
-  "summary": "Industry veteran Rohit Jain is launching Tiger TV, a new streaming service focused on Hindi and Punjabi content, on October 15, 2026.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/rohit-jain-tiger-tv-1237156538/"
- },
- {
   "date": "2026-10-14T09:27:08.839652+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -20469,5 +20282,16 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/tom-cruise-steven-spielberg-war-of-the-worlds-leaving-hbo-max-november-2026/"
+ },
+ {
+  "date": "2026-10-17T09:12:49.921745+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Over the Hill Focuses on Slow Driving",
+  "summary": "Over the Hill, the follow-up to Art of Rally, offers a unique driving experience focused on taking things slow.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/over-the-hill-now-playing"
  }
 ]
