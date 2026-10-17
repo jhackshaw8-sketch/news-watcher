@@ -1,181 +1,5 @@
 [
  {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "update",
-  "headline": "Apple Confirms Siri AI Will Skip Original HomePod mini",
-  "summary": "Apple has confirmed that advanced Siri AI features will not be brought to the first-generation HomePod mini.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/14/no-siri-ai-is-not-coming-to-the-original-homepod-mini/"
- },
- {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "update",
-  "headline": "First-Gen HomePod mini Excluded From Siri AI Upgrade",
-  "summary": "Reports clarify that the original HomePod mini lacks the hardware required for new Siri AI capabilities.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/14/no-siri-ai-is-not-coming-to-the-first-generation-homepod-mini?utm_source=rss"
- },
- {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "business",
-  "headline": "Apple Showcase Highlights iPad Pro in Fashion Design",
-  "summary": "Apple highlights designer B\u00fcnyamin Ayd\u0131n's latest fashion collection created using iPad Pro and iPhone.",
-  "verified": "official",
-  "source": "Apple Newsroom",
-  "link": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/"
- },
- {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Discussion: Original HomePod mini Misses Out on Siri AI",
-  "summary": "Reddit users discuss the official confirmation that original HomePod mini units will not receive Siri AI.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x5xyj8/apple_confirms_siri_ai_is_not_coming_to_the/"
- },
- {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Gears of War: E-Day Review Roundup",
-  "summary": "Reviews for Gears of War: E-Day highlight its successful blend of classic franchise combat and forward-looking design.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/gears-of-war-eday-review"
- },
- {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "GTA 6 Rumored to Feature Realistic Sweat Mechanics",
-  "summary": "Reports suggest GTA 6 features a detailed sweat system where protagonists Jason and Lucia react dynamically to activities like dancing.",
-  "verified": "unconfirmed",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/grand-theft-auto/as-if-you-needed-another-reminder-of-why-gta-6-took-so-long-it-has-a-realistic-sweat-system-that-makes-jason-and-lucia-perspire-based-on-how-hard-they-dance/"
- },
- {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "New Psychological Horror Game Jiaohun Announced",
-  "summary": "Developer 12AM Blackout revealed Jiaohun, a new Y2K-era psychological horror game set in 1999 China.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/horror-game-jiaohun-has-secrets-demons-and-pagers-ign-fall-fan-fest-2026"
- },
- {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "update",
-  "headline": "PlayStation Plus October 2026 Lineup Revealed",
-  "summary": "Sony has confirmed the October 2026 PlayStation Plus Game Catalog lineup, headlined by Mafia: The Old Country.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/playstation-plus-game-catalog-october-2026-lineup-confirmed"
- },
- {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "update",
-  "headline": "Gears of War: E-Day Mod Brings Halo and Warhammer Skins",
-  "summary": "A new mod for Gears of War: E-Day introduces crossover skins from popular franchises like Halo and Warhammer 40,000.",
-  "verified": "reliable_reporter",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/halo-warhammer-gears-of-war-e-day-mod"
- },
- {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Dune Immersive Experience Coming to Los Angeles Next Month",
-  "summary": "Warner Bros. and Legendary are launching a Dune immersive experience in Los Angeles featuring real props and sandworms.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/dune-immersive-experience-los-angleles-buy-tickets-1236912185/"
- },
- {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "launch",
-  "headline": "Adam Scott's Horror Film Lands on Hulu",
-  "summary": "Damien McCarthy's horror film starring Adam Scott has officially been added to Hulu's streaming library.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2286801/adam-scott-hokum-horror-movie-streaming-hulu/"
- },
- {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Greta Gerwig's Narnia Movie Unveils First Trailer",
-  "summary": "Greta Gerwig's Narnia adaptation begins a new era at Netflix with a behind-the-scenes look at the first trailer.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/narnia-the-magicians-nephew-trailer-behind-the-scenes-greta-gerwig-imax-netflix/"
- },
- {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "First Reactions Call DC's Clayface Spin-Off Freakishly Awesome",
-  "summary": "First reactions describe DC's upcoming Clayface spin-off as a freakishly awesome mix of Joker and The Substance.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/dc-batman-spin-off-clayface-first-reactions/"
- },
- {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Avatar: Seven Havens Creators Outline Multi-Season Plan At NYCC",
-  "summary": "At NYCC, the cast and creators of Avatar: Seven Havens discussed the new generation of characters and outlined a multi-season plan for the show.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/video/avatar-seven-havens-cast-creators-nycc-2026-interview/"
- },
- {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "DC Drops New Clayface Special Ahead Of Upcoming Movie Release",
-  "summary": "A new special comic featuring the Batman villain Clayface has been released by DC just days ahead of the upcoming movie.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/clayface-special-edition-details/"
- },
- {
-  "date": "2026-10-14T17:56:10.978704+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Crystal Lake Prequel Series Highlights Pamela Voorhees's Dark Influence",
-  "summary": "Linda Cardellini portrays Pamela Voorhees in the upcoming Friday the 13th prequel series Crystal Lake, showcasing where Jason learned his methods.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/crystal-lake-spinoff-friday-the-13th-image-linda-cardellini-pamela-voorhees/"
- },
- {
   "date": "2026-10-14T18:20:57.005292+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -18082,5 +17906,60 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/sicario-3-filming-window-josh-brolin/"
+ },
+ {
+  "date": "2026-10-17T18:08:21.419221+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "update",
+  "headline": "UGREEN Launches MagSafe Battery Bank with Liquid Cooling for iPhone",
+  "summary": "UGREEN has released a new 25W MagSafe battery bank for the iPhone featuring integrated liquid cooling.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/"
+ },
+ {
+  "date": "2026-10-17T18:08:21.419221+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Zelda: Ocarina of Time Remake Sounds Meaningfully Better",
+  "summary": "Previews of the upcoming Zelda: Ocarina of Time Remake for the Switch 2 suggest significant audio improvements.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/switchboard-zelda-ocarina-of-time-previews/"
+ },
+ {
+  "date": "2026-10-17T18:08:21.419221+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Costume Insights for New 'Sense and Sensibility' Film",
+  "summary": "Costume designer Grace Snell discusses blending historical accuracy and modern styling for Georgia Oakley's upcoming film adaptation of Jane Austen's 'Sense and Sensibility' starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/sense-and-sensibility-costume-designer-dashwood-1236913296/"
+ },
+ {
+  "date": "2026-10-17T18:08:21.419221+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Taylor Sheridan's Western Dominates Streaming",
+  "summary": "Taylor Sheridan's new Western series continues its strong streaming run by spending nearly 100 days in the top 10 on Paramount Plus.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/taylor-sheridan-the-madison-streaming-success-paramount-plus-100-days/"
+ },
+ {
+  "date": "2026-10-17T18:08:21.419221+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "The Wheel of Time Board Game Announced for 2027",
+  "summary": "The Wheel of Time board game, War of the Dragon, is announced for 2027 and is now live on Kickstarter.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/wheel-of-time-switching-characters-war-of-dragon/"
  }
 ]
