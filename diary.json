@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-10-14T02:53:18.611416+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple HomeView Repair Pricing Revealed",
-  "summary": "Repair costs for the new Apple HomeView have been revealed, totaling $279.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x5g5an/heres_how_much_it_costs_to_repair_the_new_apple/"
- },
- {
-  "date": "2026-10-14T02:53:18.611416+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Isabelle Huppert Shines in 'All About Corinne' Review",
-  "summary": "Variety reviews the new French industry satire 'All About Corinne,' starring Isabelle Huppert and Sandrine Kiberlain.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/all-about-corinne-review-isabelle-huppert-1236908606/"
- },
- {
-  "date": "2026-10-14T02:53:18.611416+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Brad Pitt's Apple TV Hit Reaches Massive New Milestone",
-  "summary": "Brad Pitt's Apple TV hit achieves a colossal new milestone, cementing its dominance on the streaming platform.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/brad-pitt-f1-apple-tv-streaming-hit-300-days-october-2026/"
- },
- {
-  "date": "2026-10-14T02:53:18.611416+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Dancing with the Stars Sends Home Fan Favorite on Super Bowl Night",
-  "summary": "Dancing with the Stars hosted its first-ever Super Bowl themed night, resulting in a fan-favorite elimination.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/dancing-with-the-stars-season-35-week-5-recap-super-bowl-1237155960/"
- },
- {
-  "date": "2026-10-14T02:53:18.611416+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "VisionQuest Writes Off Original MCU Phase 1 Character",
-  "summary": "The new sci-fi superhero series VisionQuest has written off an original Phase 1 MCU character early in its run.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/visionquest-episode-2-jarvis-death-explained/"
- },
- {
-  "date": "2026-10-14T02:53:18.611416+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Godzilla's Next Big Screen Appearance Confirmed With New Title",
-  "summary": "Godzilla's next cinematic appearance has been officially confirmed along with a new title.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/godzilla-vs-everything-series-announced/"
- },
- {
-  "date": "2026-10-14T02:53:18.611416+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "legal",
-  "headline": "Bryce Hall Arrested and Charged With Felony Domestic Violence",
-  "summary": "Bryce Hall was arrested and charged with felony domestic violence in Las Vegas.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x5daft/bryce_hall_arrested_charged_with_felony_domestic/"
- },
- {
-  "date": "2026-10-14T02:53:18.611416+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Mass Effect Spectre Expansion Adds Eight New Worlds",
-  "summary": "A new Spectre expansion has been released for Mass Effect, adding eight new worlds to explore.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/mass-effect-spectre-expansion-mod/"
- },
- {
-  "date": "2026-10-14T02:53:18.611416+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "legal",
-  "headline": "ABC Claims FCC Showed Retaliatory Motive in License Review Battle",
-  "summary": "ABC informed a judge that the FCC acted with a retaliatory motive during a license review.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x5cmcl/abc_tells_judge_that_fcc_showed_retaliatory/"
- },
- {
-  "date": "2026-10-14T02:53:18.611416+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Drake Bell Blasts SAG-AFTRA After Losing Health Insurance",
-  "summary": "Drake Bell publicly criticized SAG-AFTRA after losing his health insurance coverage.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x5c566/drake_bell_blasts_sagaftra_after_losing_health/"
- },
- {
-  "date": "2026-10-14T02:53:18.611416+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "CBS Debuts New Supernatural Sitcom Eternally Yours",
-  "summary": "CBS has launched a new sitcom titled Eternally Yours, blending supernatural romance with teen comedy tropes.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/eternally-yours-twilight-derry-girls-recommendation-cbs/"
- },
- {
   "date": "2026-10-14T03:16:52.949068+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -20634,5 +20513,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/cbs-fire-country-season-5-new-era-olivia-thirlby/"
+ },
+ {
+  "date": "2026-10-17T02:54:09.284925+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Selma Blair Spotted at 90s Con 2026 for First Public Appearance Since Arrest",
+  "summary": "Selma Blair made her first public appearance at 90s Con 2026 following her recent arrest.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x7z8xz/selma_blair_seen_in_photos_at_90s_con_2026_her/"
+ },
+ {
+  "date": "2026-10-17T02:54:09.284925+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "business",
+  "headline": "Netflix Struggles to Manage Public Narrative Following Major Layoffs",
+  "summary": "Netflix is reportedly scrambling to manage its public narrative following a wave of executive firings and mass layoffs.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x7xa9j/netflix_hurries_to_rewrite_its_narrative_after/"
  }
 ]
