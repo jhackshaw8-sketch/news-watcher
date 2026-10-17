@@ -1,137 +1,5 @@
 [
  {
-  "date": "2026-10-14T22:51:23.081040+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "WhatsApp Adds Guest Calling for Non-Users",
-  "summary": "WhatsApp has introduced guest calling, allowing users to invite non-account holders to group and one-on-one calls.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/14/whatsapp-takes-on-zoom-and-google-meet-with-guest-calling/"
- },
- {
-  "date": "2026-10-14T22:51:23.081040+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "business",
-  "headline": "Apple Crosses $5 Trillion Market Cap Milestone",
-  "summary": "Apple has closed with a market capitalization exceeding $5 trillion, becoming the second company to reach this milestone after Nvidia.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/14/apple-5-trillion-close/"
- },
- {
-  "date": "2026-10-14T22:51:23.081040+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "rumor",
-  "headline": "Rumored 'HomePad' Reportedly Launching Next Week",
-  "summary": "Apple's long-rumored 'HomePad' smart home device is reportedly set to launch next week with several highly anticipated features.",
-  "verified": "unconfirmed",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/09/homepad-is-coming-next-week-with-three-features-ive-long-wanted/"
- },
- {
-  "date": "2026-10-14T22:51:23.081040+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Mick Gordon Talks Warhammer 40,000: Boltgun 2 Boss Fight",
-  "summary": "Mick Gordon discusses his work on creating a large and bombastic climactic boss fight for Warhammer 40,000: Boltgun 2.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/mick-gordon-on-how-he-helped-to-make-warhammer-40000-boltgun-2s-climactic-boss-fight-big-and-bombastic"
- },
- {
-  "date": "2026-10-14T22:51:23.081040+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Xbox Surveys Insiders on Potential Bethesda and Minecraft Exclusivity",
-  "summary": "Microsoft is surveying Xbox Insiders about potentially making major franchises like Fallout, Minecraft, and The Elder Scrolls exclusive to Xbox platforms.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/xbox-exclusive-minecraft-fallout-elder-scrolls/"
- },
- {
-  "date": "2026-10-14T22:51:23.081040+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Analyst Warns US Console Market Faces Dire Situation Not Seen Since the 80s",
-  "summary": "An analyst warns that the US console hardware market is in its most precarious position since the early 1980s due to rising prices and component shortages.",
-  "verified": "reliable_reporter",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market"
- },
- {
-  "date": "2026-10-14T22:51:23.081040+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Poor IoT Security Causes Millions in Supermarket Fridge Incidents",
-  "summary": "A major supermarket security incident caused millions in damages and fires due to outdated, internet-exposed fridge devices.",
-  "verified": "official",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/"
- },
- {
-  "date": "2026-10-14T22:51:23.081040+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "launch",
-  "headline": "Stunning Pagani Huayra Codalunga Captured in All Its Glory \ud83c\udfce\ufe0f\u2728",
-  "summary": "A high-resolution image showcasing the stunning design of the Pagani Huayra Codalunga has been shared by a car enthusiast.",
-  "verified": "official",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x63y9m/pagani_huayra_codalunga_1594_x_941/"
- },
- {
-  "date": "2026-10-14T22:51:23.081040+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Hunger Games Prequel Stars Launch International Press Tour",
-  "summary": "Joseph Zada and Mckenna Grace kick off their international press tour for 'The Hunger Games: Sunrise On The Reaping' with red carpet appearances in Sydney.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/gallery/the-hunger-games-sunrise-on-the-reaping-red-carpet-photos-joseph-zada-mckenna-grace/"
- },
- {
-  "date": "2026-10-14T22:51:23.081040+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "The X-Files Lands on Free Streaming Ahead of Reboot",
-  "summary": "Ahead of Ryan Coogler's upcoming reboot, the original 'The X-Files' series is now available to stream on a free platform.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/the-x-files-free-streaming-pluto-tv-october-2026/"
- },
- {
-  "date": "2026-10-14T22:51:23.081040+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "business",
-  "headline": "Fox Shareholders Approve $22 Billion Roku Acquisition",
-  "summary": "Shareholders of Fox and Roku have officially approved Fox's massive $22 billion acquisition deal.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/fox-roku-shareholders-approve-merger-1237157625/"
- },
- {
-  "date": "2026-10-14T22:51:23.081040+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Kelsey Grammer Sets New NBC Show",
-  "summary": "Kelsey Grammer is teaming up with a Chicago Med producer to develop a brand new NBC series.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/pops-nbc-new-show-kelsey-grammer-nbc-reunion/"
- },
- {
   "date": "2026-10-14T23:14:06.906452+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -16476,5 +16344,82 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/batman-bane-real-name-dark-knights-steel/"
+ },
+ {
+  "date": "2026-10-17T23:07:17.967802+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Paul McCartney Expresses Height Concerns Over Paul Mescal's Beatles Casting",
+  "summary": "Paul McCartney shared concerns with director Sam Mendes regarding Paul Mescal's height compared to his co-stars in the upcoming Beatles biopics.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/paul-mccartney-concerned-paul-mescal-markedly-shorter-beatles-1237166503/"
+ },
+ {
+  "date": "2026-10-17T23:07:17.967802+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "DC Introduces New Wolverine-Like Character",
+  "summary": "DC Comics has officially introduced a new character with powers and appearance similar to Wolverine.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/supergirl-new-hero-wombat-dc-wolverine/"
+ },
+ {
+  "date": "2026-10-17T23:07:17.967802+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Talk To Me Getting Spinoff Series",
+  "summary": "The hit horror film Talk To Me is expanding into an immersive spinoff series via Meta and XRTV.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/talk-to-me-game-vr-2026/"
+ },
+ {
+  "date": "2026-10-17T23:07:17.967802+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Harry Styles Honors Liam Payne",
+  "summary": "Harry Styles performed an unreleased song to honor Liam Payne on the anniversary of his death.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x8mk6c/harry_styles_honors_liam_payne_with_unreleased/"
+ },
+ {
+  "date": "2026-10-17T23:07:17.967802+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "update",
+  "headline": "Quentin Tarantino Final Movie Update",
+  "summary": "Quentin Tarantino has shared a major development update regarding his planned tenth and final film.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/quentin-tarantino-final-movie-script-development-update/"
+ },
+ {
+  "date": "2026-10-17T23:07:17.967802+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Donald Trump Appears on SNL UK",
+  "summary": "James Austin Johnson made a surprise appearance as Donald Trump during the cold open of SNL UK.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x8m2pv/james_austin_johnsons_donald_trump_crashes_snl_uk/"
+ },
+ {
+  "date": "2026-10-17T23:07:17.967802+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "50 Cent Discusses Diddy Smear Campaign",
+  "summary": "50 Cent spoke out about alleged smear campaigns conducted against him by Diddy.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x8liij/50_cent_opens_up_about_diddys_secret_smear/"
  }
 ]
