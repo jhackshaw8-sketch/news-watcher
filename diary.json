@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-14T06:17:02.773521+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Dragon Ball Z Officially Reveals Goku's New Form",
-  "summary": "Dragon Ball Z has officially unveiled a new form for Goku, continuing the franchise's tradition of power-ups.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/dragon-ball-z-squadra-new-ss-son-goku-form/"
- },
- {
   "date": "2026-10-14T07:10:10.264556+00:00",
   "topic": "Cars",
   "score": 7,
@@ -20447,5 +20436,16 @@
   "verified": "official",
   "source": "Deadline Film",
   "link": "https://deadline.com/lists/jane-austen-movies-tv-shows-streaming-adaptations/"
+ },
+ {
+  "date": "2026-10-17T07:04:20.139645+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Pokemon Winds & Waves Leak Highlights",
+  "summary": "A recent leak for the rumored Pok\u00e9mon Winds & Waves games supposedly reveals seven new monster designs.",
+  "verified": "unconfirmed",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/pokmon-winds-waves-leak-7-new-monster-designs/"
  }
 ]
