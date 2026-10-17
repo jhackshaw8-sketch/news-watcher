@@ -1,148 +1,5 @@
 [
  {
-  "date": "2026-10-14T05:19:24.046770+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "business",
-  "headline": "Polestar US Inventory Sells Out Fast Ahead of Ban \u26a1\ud83d\ude97",
-  "summary": "US buyers are rapidly purchasing remaining 2026 Polestar inventory ahead of an impending ban from the Connected Vehicle Rule.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811784/polestar-2026-us-inventory-almost/"
- },
- {
-  "date": "2026-10-14T05:19:24.046770+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Once Upon a Time in the Middle East Release Details",
-  "summary": "Details regarding the theatrical release schedule of the Chinese war film Once Upon a Time in the Middle East have been shared.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x5iikk/unofficial_discussion_once_upon_a_time_in_the/"
- },
- {
-  "date": "2026-10-14T05:19:24.046770+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Winter of the Crow Theatrical Release",
-  "summary": "An international co-production drama titled Winter of the Crow has received a North American theatrical release.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x5ibde/unofficial_discussion_winter_of_the_crow/"
- },
- {
-  "date": "2026-10-14T05:19:24.046770+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Official Poster Released for Don Bluth Documentary",
-  "summary": "An official poster has been released for the upcoming Don Bluth documentary Somewhere Out There.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x5hewl/official_poster_don_bluth_somewhere_out_there/"
- },
- {
-  "date": "2026-10-14T05:19:24.046770+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "New MPA and CARA Age Ratings Announced",
-  "summary": "The latest MPA and CARA age ratings and reasons have been published for upcoming animated and theatrical features.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x5he1z/new_mpacara_ratings_and_reasons_for_the_week_of/"
- },
- {
-  "date": "2026-10-14T05:19:24.046770+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Orion Sets Summer 2027 Release for Thriller 'The Hole'",
-  "summary": "Orion has officially slated the upcoming thriller The Hole, starring Theo James, Hoyeon, and Christian Slater, for a summer 2027 release.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x5h2kq/theo_james_hoyeon_christian_slater_thriller_the/"
- },
- {
-  "date": "2026-10-14T05:19:24.046770+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "other",
-  "headline": "Celebrating Over 40 Years of Steve Buscemi",
-  "summary": "An analytical piece looks back at Steve Buscemi's enduring and versatile 40-year acting career in Hollywood.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x5f36h/steve_buscemi_cant_be_typecast_over_40_years_in/"
- },
- {
-  "date": "2026-10-14T05:19:24.046770+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "other",
-  "headline": "Spotlight on Abbott and Costello Meet Frankenstein",
-  "summary": "A classic scene and setup is highlighted from the 1948 comedy horror Abbott and Costello Meet Frankenstein.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x5dr4c/abbott_and_costello_meet_frankenstein_directed_by/"
- },
- {
-  "date": "2026-10-14T05:19:24.046770+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "AMC Screen Unseen Reveals Surprise Screening",
-  "summary": "Audiences attending an AMC Screen Unseen event discovered the surprise screening was the creature feature Crawlers.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x5cidf/crawlers/"
- },
- {
-  "date": "2026-10-14T05:19:24.046770+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "casting",
-  "headline": "Milo Manheim Cast in 'Serendipity' Remake",
-  "summary": "Milo Manheim has officially been cast to star in the upcoming Serendipity remake directed by Michael Showalter.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x5bt88/milo_manheim_to_star_in_serendipity_redo_from/"
- },
- {
-  "date": "2026-10-14T05:19:24.046770+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "New Poster for Indonesian Horror-Comedy 'Ghost in the Cell'",
-  "summary": "A new poster has been revealed for the Indonesian supernatural horror-comedy Ghost in the Cell.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x5bcax/new_poster_for_indonesian_supernatural/"
- },
- {
-  "date": "2026-10-14T05:19:24.046770+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "casting",
-  "headline": "Parker Posey Cast in Blumhouse Horror Film 'Sleepover'",
-  "summary": "Variety reports that Parker Posey is set to star in Blumhouse and Universal's upcoming horror movie Sleepover.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x59e2n/variety_reports_that_parker_posey_is_set_to_star/"
- },
- {
-  "date": "2026-10-14T05:19:24.046770+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Star Trek: The Next Generation Sequel Confirmed for 2027",
-  "summary": "An official Star Trek: The Next Generation sequel featuring a fan-favorite character has been confirmed for a 2027 release.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-trek-next-generation-sequel-shadow-frontier-horror/"
- },
- {
   "date": "2026-10-14T05:54:19.348306+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -20601,5 +20458,38 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/stargate-atlantis-october-2026-return/"
+ },
+ {
+  "date": "2026-10-17T05:50:45.223789+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Manage traffic and design anti-pedestrian layouts in Car Park Capital \ud83d\ude97\ud83c\udd7f\ufe0f",
+  "summary": "Car Park Capital blends Rollercoaster Tycoon style management with anti-pedestrian city planning in a newly announced indie game trailer.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x7wtoo/rollercoaster_tycoon_meets_antipedestrian_city/"
+ },
+ {
+  "date": "2026-10-17T05:50:45.223789+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Fallout 5 Official Announcement Sparks Fan Demands",
+  "summary": "An official announcement regarding Fallout 5 has prompted specific fan demands for the upcoming game.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/fallout-5-official-announcement-gamers-react/"
+ },
+ {
+  "date": "2026-10-17T05:50:45.223789+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Lord Of The Rings: The King's Gambit Officially Set For 2027",
+  "summary": "Lord Of The Rings: The King's Gambit has been officially announced for a 2027 release, bringing back the original fellowship.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/lord-of-the-rings-kings-gambit-2027-felowship-return/"
  }
 ]
