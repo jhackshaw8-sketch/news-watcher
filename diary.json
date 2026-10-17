@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-10-13T23:47:42.888446+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "More Apple Announcements Expected Later This Month",
-  "summary": "Rumors suggest Apple may hold another event on October 27 with more product announcements on the horizon.",
-  "verified": "unconfirmed",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/13/apple-october-upcoming-products/"
- },
- {
-  "date": "2026-10-13T23:47:42.888446+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Website Clues Hint at Siri AI Coming to the Full-Sized HomePod",
-  "summary": "Image alt text on Apple's website hints that the full-sized HomePod may soon receive Siri AI features.",
-  "verified": "unconfirmed",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/13/full-sized-homepod-siri-ai-alt-text/"
- },
- {
-  "date": "2026-10-13T23:47:42.888446+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Peak Leaked for PS5 by ESRB Rating",
-  "summary": "The co-op adventure game Peak has been leaked for the PS5 via an ESRB rating.",
-  "verified": "unconfirmed",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/peak-has-been-leaked-for-ps5-by-the-esrb"
- },
- {
-  "date": "2026-10-13T23:47:42.888446+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "update",
-  "headline": "Shroud of the Avatar Reaches Zero Bugs Using AI",
-  "summary": "Ultima creator Richard Garriott claims that Shroud of the Avatar finally has zero bugs after eight years thanks to AI integration.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/rpg/after-8-years-ultima-creator-says-his-mmo-shroud-of-the-avatar-finally-has-zero-bugs-thanks-to-ai/"
- },
- {
-  "date": "2026-10-13T23:47:42.888446+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Science Corp Implants Vision-Restoring Chip in First Patient",
-  "summary": "Science Corporation successfully implanted its vision-restoring chip in its first patient with Stargardt disease, marking a major milestone in neural tech.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
- },
- {
-  "date": "2026-10-13T23:47:42.888446+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "FTC Accuses Martin Shkreli of Violating Lifetime Pharma Ban",
-  "summary": "The FTC alleges that Martin Shkreli violated his lifetime pharmaceutical industry ban by livestreaming about biotech stocks.",
-  "verified": "official",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/"
- },
- {
-  "date": "2026-10-13T23:47:42.888446+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Zach Braff Stars in Uneasy Crime Drama 'Clean Hands'",
-  "summary": "Variety reviews the new fact-based crime drama 'Clean Hands' starring Zach Braff.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/reviews/clean-hands-review-1236910791/"
- },
- {
-  "date": "2026-10-13T23:47:42.888446+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Russell T. Davies Confirms Permanent Exit From Doctor Who",
-  "summary": "Russell T. Davies confirms he will not return for the upcoming Doctor Who reboot.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/doctor-who-reboot-russell-t-davies-not-returning/"
- },
- {
-  "date": "2026-10-13T23:47:42.888446+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "rumor",
-  "headline": "How 'IT: Welcome to Derry' Can Elevate Its Horror Formula",
-  "summary": "An opinion piece explores potential character team-ups in future seasons of 'IT: Welcome to Derry'.",
-  "verified": "unconfirmed",
-  "source": "Collider",
-  "link": "https://collider.com/it-welcome-to-derry-horror-hbo-max/"
- },
- {
-  "date": "2026-10-13T23:47:42.888446+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "legal",
-  "headline": "Golden Globes Face Ongoing Legal Battle Ahead of 84th Ceremony",
-  "summary": "The Golden Globes are facing an ongoing legal battle and infringement lawsuit in court dockets months before the 84th annual ceremony.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/golden-globes-legal-battle-trademark-1237156199/"
- },
- {
-  "date": "2026-10-13T23:47:42.888446+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Ridley Scott's Prometheus Universe Expands With Prime Video Stealth Sequel Next Month",
-  "summary": "Prime Video is set to release a cyberpunk show next month that acts as a stealth sequel expanding Ridley Scott's Prometheus universe.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/prometheus-blade-runner-2099-stealth-sequel/"
- },
- {
   "date": "2026-10-14T00:12:10.489490+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -20656,5 +20535,71 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1x7vfmq/timothy_busfield_sex_abuse_indictment_tossed_over/"
+ },
+ {
+  "date": "2026-10-17T00:10:22.473724+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "Verizon Confirms Monthly Fee for iPhone Handoff",
+  "summary": "Verizon has confirmed a $10 monthly fee for the new iPhone Handoff feature.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/16/verizon-confirms-10-monthly-fee-for-new-iphone-handoff-feature/"
+ },
+ {
+  "date": "2026-10-17T00:10:22.473724+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "business",
+  "headline": "Apple Reports Massive Demand for iPhone Duo",
+  "summary": "Apple reports extraordinary pre-order demand for the new iPhone Duo, causing shipping dates to slip.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x7vxqj/apple_calls_iphone_duo_preorder_demand/"
+ },
+ {
+  "date": "2026-10-17T00:10:22.473724+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Gears of War: E-Day Servers Hit By DDoS Attacks",
+  "summary": "Gears of War: E-Day servers are experiencing login issues and crashes due to targeted DDoS attacks.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos"
+ },
+ {
+  "date": "2026-10-17T00:10:22.473724+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "legal",
+  "headline": "OpenAI Models Breach Websites and Crypto Wallet in Security Test",
+  "summary": "OpenAI models successfully hacked a cryptocurrency wallet and breached multiple websites in a safety evaluation, demonstrating advanced capabilities that raised potential legal and security concerns.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+ },
+ {
+  "date": "2026-10-17T00:10:22.473724+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Zelda: Tears of the Kingdom Releasing This Month",
+  "summary": "Nintendo is giving The Legend of Zelda: Tears of the Kingdom an official new release this month.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/zelda-tears-kingdom-new-release-statue-october/"
+ },
+ {
+  "date": "2026-10-17T00:10:22.473724+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Star Trek Kelvin Timeline Return One Month Away",
+  "summary": "Fans are officially one month away from a new Star Trek release that returns to the Kelvin Timeline.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-trek-kelvin-era-return/"
  }
 ]
