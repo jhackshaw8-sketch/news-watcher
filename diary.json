@@ -1,181 +1,5 @@
 [
  {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Apple Watch Sleep Apnea Feature Goes Live in China",
-  "summary": "Apple has officially launched sleep apnea notification features for the Apple Watch in mainland China.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/14/apple-watch-sleep-apnea-notifications-china/"
- },
- {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "New Siri Remote Precision Finding Feature Has iPhone Compatibility Limits",
-  "summary": "The new Siri Remote's Precision Finding feature unexpectedly lacks compatibility with iPhone 15 and iPhone 16 models.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/14/precision-finding-on-the-new-siri-remote-comes-with-an-unexpected-catch?utm_source=rss"
- },
- {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Apple Reportedly Planning Major Production Push for iPhone 18",
-  "summary": "Reports indicate Apple is anticipating high consumer demand for the future iPhone 18 and is planning significant production volumes.",
-  "verified": "unconfirmed",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x5odl5/apple_expects_strong_iphone_18_demand_plans_major/"
- },
- {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "launch",
-  "headline": "HomeView Smart Hub Introduces Customizable Faces and Interactive Artwork",
-  "summary": "Apple's new HomeView smart home hub features customizable watch-like faces including Snoopy, personal photos, and interactive artwork.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/14/homeviews-faces-include-snoopy-and-more/"
- },
- {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "business",
-  "headline": "HomeView Out-of-Warranty Repairs Cost Almost as Much as a Replacement",
-  "summary": "Out-of-warranty repair costs for the HomeView device are set at $279, which amounts to nearly the cost of a full replacement.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/14/getting-a-homeview-repaired-could-cost-93-of-just-replacing-it?utm_source=rss"
- },
- {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Rockstar Discusses Anti-Crunch Approach for GTA 6",
-  "summary": "Rockstar executive Jennifer Kolbe discusses avoiding crunch during the development of GTA 6 following lessons learned from Red Dead Redemption 2.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-vowed-gta-6-wouldnt-be-finished-by-crunching-after-red-dead-redemption-2s-tough-development-says-publishing-lead-i-think-we-did-things-differently-and-im-proud-of-that/"
- },
- {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Palworld Developers Prioritize Passion Over Quick Cash",
-  "summary": "The developers of Palworld state that rapid monetization is not their primary mission, focusing instead on creative passion projects.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/survival/palworld-picks-spin-offs-over-a-fortnite-style-metaverse-because-maximizing-revenue-as-quickly-as-possible-isnt-what-drives-our-creative-decisions-says-pocketpair-lead/"
- },
- {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Tesla Roadster Nears Long-Awaited Production Debut \ud83d\ude97\ud83d\udca8",
-  "summary": "The long-delayed Tesla Roadster is reportedly nearing its production-ready debut nearly a decade after its initial surprise announcement.",
-  "verified": "unconfirmed",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk"
- },
- {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Scimplify Secures $25M to Expand AI-Driven Materials Supply Chain",
-  "summary": "Chemical supply chain platform Scimplify has raised $25 million to expand in the US and use AI to challenge China's grip on critical materials.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
- },
- {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Fairphone Launches Repairable Fairbuds 2 With Improved Battery Life",
-  "summary": "Fairphone has launched the Fairbuds 2, featuring a repairable design, improved audio, and nearly double the battery life of the previous generation.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"
- },
- {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "\u2693 Ineos Grenadier Helmsman Debuts With Nautical Styling \ud83d\ude99",
-  "summary": "The Ineos Grenadier Helmsman has debuted with nautical-inspired styling, featuring deep blue paint, contrast roof options, and unique trim for 2027.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/811915/grenadier-helmsman-special-edition/"
- },
- {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "\ud83d\udc0d Stunning Dodge Viper ACR Gallery \ud83c\udfc1",
-  "summary": "A high-resolution image post showcasing the iconic Dodge Viper ACR.",
-  "verified": "unconfirmed",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x5ls7e/dodge_viper_acr_4096x3332/"
- },
- {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "\ud83c\udfce\ufe0f Ultimate Lineup of Porsche Halo Supercars \u2728",
-  "summary": "A showcase featuring legendary Porsche halo cars including the 959, 911 GT1, Carrera GT, and 918 Spyder.",
-  "verified": "unconfirmed",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x5iha2/porsche_959_porsche_911_gt1_porsche_carrera_gt/"
- },
- {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "First Street Fighter (2026) Early Reactions Are Here",
-  "summary": "Early critic reactions for the upcoming 2026 Street Fighter movie have officially arrived.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2286315/street-fighter-2026-movie-reactions/"
- },
- {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Sebastian Stan's 'Fjord' Scores Big in Limited Release",
-  "summary": "Sebastian Stan's new thriller Fjord officially scores the weekend's highest per-theater average in just four theaters.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/sebastian-stan-fjord-box-office-31k-per-theater-average/"
- },
- {
-  "date": "2026-10-14T11:20:18.799014+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Chase Infiniti Discusses Preparation for 'The Julia Set'",
-  "summary": "Cast member Chase Infiniti shares the surprising advice that prepared her for her role in 'The Julia Set'.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/chase-infiniti-the-julia-set-interview/"
- },
- {
   "date": "2026-10-14T11:56:03.005473+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -20040,5 +19864,104 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/final-fantasy-15-resonance-noctis-october-2026/"
+ },
+ {
+  "date": "2026-10-17T11:47:25.406263+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "Dawnwalker Update 1.1 Adds Story Mode and Petting",
+  "summary": "Update 1.1 for The Blood of Dawnwalker introduces an accessible Story mode, respec options, and animal petting features.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals"
+ },
+ {
+  "date": "2026-10-17T11:47:25.406263+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "Iconic Evolution: Mercedes, Lotus, and Porsche Showcased \ud83c\udfce\ufe0f\u2728",
+  "summary": "A striking photo showcase highlighting the evolution of the Mercedes CLK C208, Lotus Elise S1, and Porsche 911 (996) from their standard to ultimate forms.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x874de/mercedes_clk_c208_lotus_elise_s1_and_porsche_911/"
+ },
+ {
+  "date": "2026-10-17T11:47:25.406263+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Kal Penn Drama Reviewed by Variety",
+  "summary": "Variety reviews the new film 'Trust Me, I\u2019m a Doctor', starring Kal Penn and Abbie Cornish as figures connected to the Anna Nicole Smith story.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/reviews/trust-me-im-a-doctor-review-1236914737/"
+ },
+ {
+  "date": "2026-10-17T11:47:25.406263+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Horror Hit Primate Dominates Streaming",
+  "summary": "The surprise horror hit 'Primate' is becoming a major global streaming sensation.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/primate-streaming-hit-paramount-plus-october-2026/"
+ },
+ {
+  "date": "2026-10-17T11:47:25.406263+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "James Bond Returns in New 6-Part Adventure",
+  "summary": "James Bond is officially returning for a new six-part adventure titled 'Sunbreaker', written by Grant Morrison.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/james-bond-grant-morrison-sunbreaker-new-comic/"
+ },
+ {
+  "date": "2026-10-17T11:47:25.406263+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "update",
+  "headline": "C.S. Lewis Family Endorses Greta Gerwig's Narnia",
+  "summary": "The family of C.S. Lewis has issued an official statement in strong support of Greta Gerwig's upcoming 'Narnia' movie adaptation.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/greta-gerwig-narnia-cs-lewis-family-official-statement-netflix/"
+ },
+ {
+  "date": "2026-10-17T11:47:25.406263+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Friday the 13th Prequel Explains Jason's Survival",
+  "summary": "The upcoming Friday the 13th prequel series confirms the long-awaited explanation for how Jason Voorhees survived his childhood drowning.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/crystal-lake-jason-drowning-survival-friday-the-13th-explained/"
+ },
+ {
+  "date": "2026-10-17T11:47:25.406263+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "George Lucas' Original Cut of Star Wars Returning in 2027",
+  "summary": "George Lucas's original cut of A New Hope is set to return in 2027 as part of the Star Wars 50th-anniversary celebrations.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-wars-a-new-hope-george-lucas-2027-release/"
+ },
+ {
+  "date": "2026-10-17T11:47:25.406263+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Marvel Unveils Doctor Doom and Fantastic Four Team-Up",
+  "summary": "Marvel officially announces a new Doctor Doom and Fantastic Four team-up in Cosmic Invasion, arriving next month.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/marvel-cosmic-invasion-doom-mrs-fantastic-dlc/"
  }
 ]
