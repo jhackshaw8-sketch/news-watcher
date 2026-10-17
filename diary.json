@@ -1,137 +1,5 @@
 [
  {
-  "date": "2026-10-14T22:15:36.497923+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "update",
-  "headline": "Onvis Releases New Matter Over Thread Outdoor Smart Plug",
-  "summary": "Onvis has launched a new outdoor smart plug featuring Matter over Thread, energy monitoring, and IP65 weather resistance.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/09/homekit-weekly-onvis-releases-a-matter-over-thread-outdoor-smart-plug-with-energy-monitoring/"
- },
- {
-  "date": "2026-10-14T22:15:36.497923+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Original Apple TV 4K Marked as Vintage by Apple",
-  "summary": "Apple has officially added the original 2017 Apple TV 4K to its vintage products list as a new model approaches.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/09/apple-marks-first-apple-tv-4k-vintage-with-new-model-imminent/"
- },
- {
-  "date": "2026-10-14T22:15:36.497923+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Wardogs Confirms Loadouts Are on the Way",
-  "summary": "The CEO of Wardogs has confirmed loadouts are coming to the game, though developers want players to keep experimenting with new builds.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/fps/wardogs-is-getting-loadouts-ceo-confirms-but-the-devs-want-you-to-keep-trying-different-weapons-rather-than-settling-on-one-setup/"
- },
- {
-  "date": "2026-10-14T22:15:36.497923+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "launch",
-  "headline": "CedarDB Unveils Dual-Engine Database for AI Agents",
-  "summary": "CedarDB is introducing a unified database engine capable of handling both transactions and analytics to support agentic AI workloads.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/"
- },
- {
-  "date": "2026-10-14T22:15:36.497923+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "AI Data Center Costs Spark Economic Debate",
-  "summary": "An analysis highlighting the massive economic and labor costs required to fund upcoming AI data center infrastructure.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x64jxu/paying_for_ais_data_centers_would_take_250/"
- },
- {
-  "date": "2026-10-14T22:15:36.497923+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "AI Infrastructure Spending Outpaces Revenue Forecasts",
-  "summary": "Forecasts show that tech industry spending on AI infrastructure is rapidly outpacing expected revenue growth.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x64c19/the_ai_math_isnt_mathing_as_infrastructure/"
- },
- {
-  "date": "2026-10-14T22:15:36.497923+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Microsoft Docs Warned AI Was Creating a Web 'Doom Loop'",
-  "summary": "Internal Microsoft documents warned that AI-driven content generation could trigger a web-devaluing 'doom loop'.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x645cy/microsoft_docs_warned_its_ai_was_starting_a_doom/"
- },
- {
-  "date": "2026-10-14T22:15:36.497923+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "legal",
-  "headline": "Analyzing the Security Risks of the EU KIDS Act",
-  "summary": "An examination of the security and privacy risks introduced by the EU KIDS Act's age verification mandates.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x5y0tb/proof_of_age_leap_of_faith_the_eu_kids_acts/"
- },
- {
-  "date": "2026-10-14T22:15:36.497923+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Review: 'Beach Fictions' Delivers Enchanting Time-Tweaking Romance",
-  "summary": "Variety publishes a glowing review for the time-tweaking Korean romance film 'Beach Fictions'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/reviews/beach-fictions-review-1236912043/"
- },
- {
-  "date": "2026-10-14T22:15:36.497923+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Kelsey Grammer to Headline New NBC EMT Drama Pops",
-  "summary": "Kelsey Grammer is set to star in and executive produce Pops, a new EMT drama in development at NBC.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/kelsey-grammer-pops-nbc-emt-drama-1237157594/"
- },
- {
-  "date": "2026-10-14T22:15:36.497923+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Netflix Drops New Psychological Thriller The Trap",
-  "summary": "Netflix's new 6-part psychological thriller The Trap is now streaming globally as an easy one-night binge.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/netflix-the-trap-thriller-series-must-watch/"
- },
- {
-  "date": "2026-10-14T22:15:36.497923+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "YouTube Music Introduces Labels for AI-Generated Songs",
-  "summary": "YouTube Music is rolling out new labels to identify songs created primarily using generative AI for vocals or composition.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/youtube-music-ai-labels-1237157619/"
- },
- {
   "date": "2026-10-14T22:51:23.081040+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -16487,5 +16355,126 @@
   "verified": "reliable_reporter",
   "source": "r/apple",
   "link": "https://www.reddit.com/r/apple/comments/1x8mn8m/apple_retail_staff_told_to_warn_against_iphone/"
+ },
+ {
+  "date": "2026-10-17T22:45:30.583660+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "iPhone Duo Walk-In Purchases Might Be Tough at Launch",
+  "summary": "Apple employees are reportedly advising customers that walk-in purchases for the new iPhone Duo may be challenging at launch.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/"
+ },
+ {
+  "date": "2026-10-17T22:45:30.583660+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Stunning 2016 Dodge Viper GTC ACR Extreme Spotted \ud83d\udc0d\ud83d\udd25",
+  "summary": "A striking photo showcase of a 2016 Dodge Viper GTC ACR Extreme.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x8ih4n/2016_dodge_viper_gtc_acr_extreme_2048x1364/"
+ },
+ {
+  "date": "2026-10-17T22:45:30.583660+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Gorgeous Classic Chevy Corvette Showcase \ud83c\udfce\ufe0f\u2728",
+  "summary": "A high-resolution image featuring a classic Chevy Corvette.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x89s1i/chevy_corvette_3293x3293/"
+ },
+ {
+  "date": "2026-10-17T22:45:30.583660+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Adam Scott's 2026 Horror Movie Generates Early Hulu Buzz",
+  "summary": "Adam Scott's upcoming 2026 horror movie is generating early buzz as a streaming favorite on Hulu.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/adam-scott-horror-hokum-streaming-hit-hulu-october-2026/"
+ },
+ {
+  "date": "2026-10-17T22:45:30.583660+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Street Fighter (2026) Movie Connection to UFC Fighters Explained",
+  "summary": "The live-action 2026 Street Fighter movie includes the obscure character Joe, who has ties to UFC fighters.",
+  "verified": "reliable_reporter",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2289649/joe-street-fighter-2026-movie-actor-alexander-volkanovski/"
+ },
+ {
+  "date": "2026-10-17T22:45:30.583660+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Acclaimed British Mystery Series 'Broadchurch' Leaving Netflix",
+  "summary": "The acclaimed British murder mystery series Broadchurch is scheduled to leave Netflix soon.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/david-tennant-broadchurch-leaving-netflix-november-2026/"
+ },
+ {
+  "date": "2026-10-17T22:45:30.583660+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "'Outlander: Blood of My Blood' Becomes a Massive Streaming Hit",
+  "summary": "Outlander prequel series Blood of My Blood emerges as one of the most-watched shows in America.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/outlander-blood-of-my-blood-streaming-hit-starz-october-2026/"
+ },
+ {
+  "date": "2026-10-17T22:45:30.583660+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "C.S. Lewis Family Addresses Netflix's Narnia Movie",
+  "summary": "The family of C.S. Lewis has shared their official stance regarding Netflix's upcoming Narnia film adaptation.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/netflix-greta-gerwig-narnia-magicians-nephew-cs-lewis-family-response/"
+ },
+ {
+  "date": "2026-10-17T22:45:30.583660+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "ABC Sets High Potential for Post-Super Bowl Slot",
+  "summary": "ABC awards High Potential the coveted post-Super Bowl TV positioning for Season 3.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/high-potential-season-3-post-super-bowl-timeslot-february-2027/"
+ },
+ {
+  "date": "2026-10-17T22:45:30.583660+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Daniel Radcliffe's Comedy Returns to NBC in Three Weeks",
+  "summary": "Daniel Radcliffe's comedy series The Fall and Rise of Reggie Dinkins is returning to NBC primetime in three weeks.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/the-fall-and-rise-of-reggie-dinkins-season-2-return-daniel-radcliffe-best-role/"
+ },
+ {
+  "date": "2026-10-17T22:45:30.583660+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "DC Reveals Real Name of Iconic Batman Villain",
+  "summary": "DC Comics has finally revealed the real name of an iconic Batman villain after 33 years.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/batman-bane-real-name-dark-knights-steel/"
  }
 ]
