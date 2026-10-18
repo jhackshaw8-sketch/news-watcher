@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-10-15T22:50:27.758344+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "update",
-  "headline": "ChatGPT Chrome Extension Can Now Read Open Browser Tabs",
-  "summary": "OpenAI has updated its Google Chrome extension to allow ChatGPT to read and utilize open browser tabs when tagged.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
- },
- {
-  "date": "2026-10-15T22:50:27.758344+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "More Muscle for the Bronco: 380 HP V6 Expands to More Trims! \ud83d\ude99\ud83d\udca8",
-  "summary": "Ford is expanding availability of the Raptor's 380-hp twin-turbo 3.0-liter V6 to more models in the 2027 Bronco lineup.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2288334/2027-ford-bronco-expands-raptor-engine-options/"
- },
- {
-  "date": "2026-10-15T22:50:27.758344+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "Stunning Porsche 991 911 R in High Definition \ud83c\udfce\ufe0f\u2728",
-  "summary": "A high-resolution photo showcasing a Porsche 991 911 R equipped with a single-mass flywheel.",
-  "verified": "reliable_reporter",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x2t9oe/porsche_991_911_r_3072x4096/"
- },
- {
-  "date": "2026-10-15T22:50:27.758344+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Jenna Ortega Promotes New Dystopian Film 'Klara and the Sun'",
-  "summary": "Jenna Ortega discusses the themes of her new dystopian sci-fi film 'Klara and the Sun' at its London world premiere.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/festivals/jenna-ortega-klara-and-the-sun-put-down-phones-london-premiere-1236912808/"
- },
- {
-  "date": "2026-10-15T22:50:27.758344+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "business",
-  "headline": "Steven Soderbergh to Direct Final Weeks of 'The Batman Part II'",
-  "summary": "Steven Soderbergh is stepping in to help complete the final weeks of principal photography on 'The Batman Part II' while Matt Reeves attends to a family matter.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/steven-soderbergh-the-batman-part-ii-1237158482/"
- },
- {
-  "date": "2026-10-15T22:50:27.758344+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "update",
-  "headline": "Steven Soderbergh Steps in for 'The Batman 2' Filming",
-  "summary": "Variety confirms that Steven Soderbergh is stepping in to help finish filming 'The Batman Part II' during director Matt Reeves' hiatus.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/steven-soderbergh-finish-batman-2-matt-reeves-stepped-away-1236913552/"
- },
- {
-  "date": "2026-10-15T22:50:27.758344+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Greta Gerwig Details Securing Led Zeppelin for Narnia Trailer",
-  "summary": "Greta Gerwig discussed how she successfully secured the rights to Led Zeppelin's 'Stairway to Heaven' for the new Narnia trailer.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/greta-gerwig-led-zeppelins-stairway-to-heaven-narnia-trailer-1237158829/"
- },
- {
-  "date": "2026-10-15T22:50:27.758344+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Prime Video Supernatural Series Casts Walking Dead Star",
-  "summary": "Prime Video's new supernatural thriller adaptation has cast three new roles, including a Walking Dead veteran.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/stillwater-prime-video-series-lauren-cohan-cast/"
- },
- {
-  "date": "2026-10-15T22:50:27.758344+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Street Fighter Post-Credits Scene Teases Iconic Fighter Return",
-  "summary": "The latest Street Fighter movie features a post-credits scene that teases the return of an iconic series fighter for a potential sequel.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/street-fighter-post-credits-reveal-explained/"
- },
- {
-  "date": "2026-10-15T22:50:27.758344+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "update",
-  "headline": "The Batman 2 Finds Replacement Director After Matt Reeves Steps Away",
-  "summary": "A replacement director has stepped in for The Batman - Part II after Matt Reeves was unable to return to set following a production pause.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/the-batman-2-steven-soderbergh-matt-reeves-replacement-director/"
- },
- {
-  "date": "2026-10-15T22:50:27.758344+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Slow Horses Gets Major Streaming Update on Apple TV",
-  "summary": "Apple TV's hit spy thriller Slow Horses officially begins a new era with a major streaming update confirming its future.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/slow-horses-apple-tv-streaming-charts-rise-october-2026/"
- },
- {
   "date": "2026-10-15T23:10:19.680183+00:00",
   "topic": "Apple News",
   "score": 5,
@@ -12538,5 +12417,71 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/you-can-see-everything-letterboxd-highest-rated-feature/"
+ },
+ {
+  "date": "2026-10-18T23:08:42.599157+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Millions Spent on AI Political Ads",
+  "summary": "Political campaigns spent $137 million on AI-generated ads during the midterms, highlighting the growing influence of synthetic media.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x9fuqq/137_million_in_aigenerated_ads_flood_the_midterms/"
+ },
+ {
+  "date": "2026-10-18T23:08:42.599157+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Warning Issued Over Starlink Claims",
+  "summary": "Bessent issued a warning to Zelenskyy regarding claims that the U.S. is throttling Starlink services.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x9f1hw/bessent_warns_zelenskyy_to_be_very_careful_about/"
+ },
+ {
+  "date": "2026-10-18T23:08:42.599157+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Transoceanic Internet Cable Announced",
+  "summary": "A new 4,300-mile-long submarine internet cable has been announced to shuttle data across the ocean floor at massive speeds.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x9f14r/new_4300milelong_internet_cable_will_shuttle_data/"
+ },
+ {
+  "date": "2026-10-18T23:08:42.599157+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Marvel Sci-Fi Shows Take Over the World",
+  "summary": "Ahead of Avengers: Doomsday, three Marvel sci-fi shows are receiving global promotional takeovers.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/marvel-visionquest-wandavision-loki-streaming-success-disney-plus-october-2026/"
+ },
+ {
+  "date": "2026-10-18T23:08:42.599157+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Practical Magic 2 Official Preview Drops",
+  "summary": "Warner Bros. released a full movie preview for Practical Magic 2, starring Sandra Bullock, Nicole Kidman, Joey King, Lee Pace, and Maisie Williams.",
+  "verified": "official",
+  "source": "Warner Bros (trailers)",
+  "link": "https://www.youtube.com/watch?v=0oSIKwn8huM"
+ },
+ {
+  "date": "2026-10-18T23:08:42.599157+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Why the Guardians Trilogy Remains a Sci-Fi High Point",
+  "summary": "The Guardians of the Galaxy trilogy is highlighted as a rare sci-fi streaming gem with no bad installments.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/disney-plus-guardians-of-the-galaxy-perfect-marvel-trilogy/"
  }
 ]
