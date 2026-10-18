@@ -1,181 +1,5 @@
 [
  {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple Sports App Gains New Soccer Leagues and Live Activity Improvements",
-  "summary": "Apple has updated the Apple Sports app with enhanced Live Activity support and added five new global soccer leagues.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/15/apple-sports-update-improves-live-activity-support-adds-soccer-leagues-from-around-the-world/"
- },
- {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "business",
-  "headline": "Apple Pledges $25 Million for White House Ballroom Project",
-  "summary": "According to documents obtained by The Washington Post, Apple pledged $25 million toward the construction of a new White House ballroom.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/15/apple-25-million-white-house-ballroom/"
- },
- {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "business",
-  "headline": "Apple Closes in on Samsung in Global Smartphone Market Share",
-  "summary": "A new IDC report reveals that Apple closed the gap with Samsung in global smartphone shipments during Q3 2026 despite a slight year-over-year decline.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/15/idc-apple-closes-in-on-samsung-as-global-smartphone-shipments-see-record-decline-in-q3/"
- },
- {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Galaxies Autumn Showcase 2026 Full Announcements Recap",
-  "summary": "IGN provides a comprehensive recap of all major game reveals and announcements from the Galaxies Autumn Showcase 2026.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/galaxies-autumn-showcase-2026-everything-announced"
- },
- {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Tactical Shooter Squad Confirmed for Consoles With PS5 Alpha",
-  "summary": "The tactical PC first-person shooter Squad is expanding to consoles, with a playable PS5 alpha scheduled for later this month.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/tactical-pc-fps-game-squad-is-coming-to-consoles-playable-ps5-alpha-releases-later-this-month"
- },
- {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "rumor",
-  "headline": "DeLorean's Flying Car Racing Pivot Has a Catch \ud83d\udef8\ud83c\udfce\ufe0f",
-  "summary": "DeLorean has announced plans to enter flying-car racing, though the ambitious aerial motorsport project comes with significant caveats.",
-  "verified": "unconfirmed",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2288233/delorean-flying-car-racing-airspeeder/"
- },
- {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "Porsche Unveils Mission S Supercar Concept \u26a1\ud83c\udfce\ufe0f",
-  "summary": "Porsche has revealed the Mission S concept, a striking mid-engined supercar that previews a potential new model positioned above the 911.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812133/porsche-mission-s-concept-debut-details/"
- },
- {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "other",
-  "headline": "Stunning Shot of the Porsche Mission S Concept \ud83d\udcf8\u2728",
-  "summary": "A Reddit post shares a high-resolution image of the newly revealed Porsche Mission S concept.",
-  "verified": "reliable_reporter",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x6wwd6/porsche_mission_s_960_x_960/"
- },
- {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "update",
-  "headline": "Budget Toyota Truck Gets a Retro Land Cruiser Makeover \ud83d\udefb \ud83c\uddef\ud83c\uddf5",
-  "summary": "A budget-friendly Toyota Hilux Rangga has been creatively transformed into a charming retro-styled Land Cruiser.",
-  "verified": "reliable_reporter",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2288210/toyota-dirt-cheap-retro-land-cruiser/"
- },
- {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "business",
-  "headline": "VW Group Designer Admits AI Threatens Styling Jobs \ud83e\udd16\ud83c\udfa8",
-  "summary": "A Volkswagen Group designer has openly acknowledged that advancing generative AI tools pose a genuine threat to traditional automotive styling jobs.",
-  "verified": "reliable_reporter",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2288196/vw-group-designer-admits-ai-might-steal-jobs/"
- },
- {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Denis Villeneuve Set to Direct New James Bond Movie After Dune 3",
-  "summary": "Denis Villeneuve confirms he will direct a new James Bond movie as his next project after finishing Dune: Part Three.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/denis-villeneuve-james-bond-dune-3-1236913390/"
- },
- {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Star-Studded Voice Cast Joins Benny Safdie's 'Lizard Music'",
-  "summary": "Colman Domingo, Jeff Goldblum, Rachel McAdams, and David Krumholtz have joined the voice cast of Benny Safdie's hybrid film 'Lizard Music'.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/lizard-music-colman-domingo-jeff-goldblum-voice-roles-cast-1237158672/"
- },
- {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "New Brendan Fraser 'Mummy' Sequel Gets Official Title and Release Date",
-  "summary": "Universal Pictures officially titled the upcoming Brendan Fraser and Rachel Weisz 'Mummy' sequel as 'The Mummy: Book of the Dead' with an October 2027 release date.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/the-mummy-movie-title-brendan-fraser-rachel-weisz-1237158648/"
- },
- {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Lost 'Faust Bible' to Be Published for Silent Masterpiece's Centenary",
-  "summary": "MUBI announces the international release of 'The Faust Bible' to mark the 100th anniversary of F.W. Murnau\u2019s silent masterpiece.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/gallery/lost-faust-bible-unearthed-fw-murnau-100th-anniversary/"
- },
- {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Nathan Fillion's Crime Series Teases Massive 2027 Return",
-  "summary": "The creator of Nathan Fillion's hit crime series teases its biggest story ever for the 2027 return.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/the-rookie-season-9-biggest-one-alexi-hawley/"
- },
- {
-  "date": "2026-10-15T20:55:22.241904+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Sydney Sweeney's Thriller Sequel Reveals First Character Looks",
-  "summary": "Sydney Sweeney's R-rated thriller sequel officially unveils its first look at characters as production starts.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/the-housemaids-secret-sydney-sweeney-kirsten-dunst-michele-morrone-filming-start/"
- },
- {
   "date": "2026-10-15T21:18:43.112356+00:00",
   "topic": "Gaming News",
   "score": 5,
@@ -13099,5 +12923,93 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/street-fighter-2026-movie-characters-ranked/"
+ },
+ {
+  "date": "2026-10-18T21:10:37.051872+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Sifu Is Out Now on Android and iOS",
+  "summary": "Sloclap's acclaimed martial arts action game Sifu has officially been released on Android and iOS devices.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/sifu-mobile-release-android-ios"
+ },
+ {
+  "date": "2026-10-18T21:10:37.051872+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Meta Grants Itself Right to Scrape Business Customer Content for AI",
+  "summary": "Meta updates its terms to allow the scraping of business customer content for training AI models.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x9e75s/meta_grants_itself_right_to_scrape_content_from/"
+ },
+ {
+  "date": "2026-10-18T21:10:37.051872+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "AI Agents Attempt to Hack Canadian Archives Website",
+  "summary": "Research indicates that automated AI agents attempted to breach the Library and Archives Canada website.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x9birv/ai_agents_tried_to_hack_library_and_archives/"
+ },
+ {
+  "date": "2026-10-18T21:10:37.051872+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Lula Campaign Escalates Meta Favoritism Claims to UN",
+  "summary": "Lula's campaign takes allegations of Meta favoring Bolsonaro to the UN and federal police.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x9b7l4/lulas_campaign_takes_alleged_meta_favouritism/"
+ },
+ {
+  "date": "2026-10-18T21:10:37.051872+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "MIT Study Shows AI Can Induce False Memories",
+  "summary": "MIT studies reveal that artificial intelligence technologies can induce and amplify false memories in humans.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x9asob/mit_we_present_three_interconnected_studies/"
+ },
+ {
+  "date": "2026-10-18T21:10:37.051872+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Anthropic Plans Share Shift to Public Good Fund",
+  "summary": "Anthropic plans to transition a portion of its shares into a newly established 'public good' fund.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x9acxn/anthropic_plans_to_shift_some_shares_into_new/"
+ },
+ {
+  "date": "2026-10-18T21:10:37.051872+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Underperforming Action Reboot Finds New Life as Global Netflix Hit",
+  "summary": "A video game movie adaptation starring a Fallout actor has become a global hit on Netflix years after its disappointing box office run.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/walton-goggins-tomb-raider-global-streaming-success-october-2026/"
+ },
+ {
+  "date": "2026-10-18T21:10:37.051872+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Cyberpunk TCG Officially Set for November Release",
+  "summary": "The Cyberpunk TCG is officially scheduled for release this November with new cards and exclusive artwork.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/cyberpunk-2077-tcg-retail-october-30/"
  }
 ]
