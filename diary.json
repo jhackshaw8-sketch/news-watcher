@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-15T04:55:53.161972+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "Figma Introduces New Features for AI Agents and Code Layers",
-  "summary": "Figma has announced new features to help define how AI agents work on its platform alongside an open beta for its code layers feature.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
- },
- {
   "date": "2026-10-15T05:17:51.362669+00:00",
   "topic": "Gaming News",
   "score": 9,
@@ -15882,5 +15871,16 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/lord-of-the-rings-sieges-of-middle-earth-winter-2026/"
+ },
+ {
+  "date": "2026-10-18T05:14:33.246350+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "New God of War Collection Confirmed for February 2027 \ud83c\udfae\u2694\ufe0f",
+  "summary": "A new God of War collection has been officially confirmed for release in February 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/god-of-war-laufey-collector-box-february-2027/"
  }
 ]
