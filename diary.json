@@ -1,192 +1,5 @@
 [
  {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Meta and Apple Bring Muse Spark AI Model to Mac Studio",
-  "summary": "Meta and Apple bring the Muse Spark Open AI model to the Mac Studio.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Apple Tested Both 60Hz and 120Hz Displays for New OLED iPad",
-  "summary": "Mark Gurman reports that Apple tested both 60Hz and 120Hz ProMotion displays for the upcoming OLED iPad mini.",
-  "verified": "reliable_reporter",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/15/gurman-apple-tested-120hz-and-60hz-displays-for-oled-ipad?utm_source=rss"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Next iPad Mini Evaluated With Both 60Hz and 120Hz Displays",
-  "summary": "Reports indicate Apple experimented with 60Hz and 120Hz ProMotion screen options during the development of the next iPad mini.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/15/ipad-mini-8-120hz-tested/"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "CD Projekt Red Begins Development on Brand New IP Project Hadar",
-  "summary": "CD Projekt Red has completed the world vision stage for its new IP, Project Hadar, and officially begun development work.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/cd-projekt-has-officially-begun-work-on-project-hadar-but-its-not-in-pre-production-yet"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Activision Exec Sparks Debate by Downplaying Zelda's Scale Against GTA 6",
-  "summary": "An Activision executive claims that Zelda does not compare to giants like GTA 6 and Call of Duty in terms of annual scale.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/call-of-duty/zelda-ocarina-of-time-remake-doesnt-even-rate-against-gta-6-and-call-of-duty-modern-warfare-4-as-the-biggest-games-of-the-year-activision-exec-says/"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "update",
-  "headline": "Ghost of Yotei Expansion Echoes of Sekigahara Fails to Impress Critics",
-  "summary": "A review of the Ghost of Yotei DLC, Echoes of Sekigahara, finds it underwhelming but appreciative of the base game.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/open-world/the-ghost-of-yotei-dlc-isnt-great-but-its-a-good-reminder-of-why-the-main-game-is/"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "33 Hidden Details Uncovered in the New GTA 6 Launch Trailer",
-  "summary": "A breakdown of the Grand Theft Auto 6 launch trailer reveals 33 hidden details and secrets for fans to analyze.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/33-new-details-from-the-gta-6-launch-trailer"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Volvo teams up with Nvidia for advanced hands-free driving \ud83d\ude97\u26a1",
-  "summary": "Volvo announced plans to launch a hands-free, point-to-point driving system by 2030 powered by Nvidia's AI technology.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Volvo deepens partnership with Nvidia for automated driving tech \ud83d\ude97\ud83d\udcc8",
-  "summary": "Volvo is expanding its long-term partnership with Nvidia to enhance its automated driving systems across more vehicle lineups.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Tech and telecom giants lead donations for Trump ballroom event",
-  "summary": "Major tech and telecom companies emerged as the largest donors for a recent Trump ballroom event.",
-  "verified": "reliable_reporter",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2287913/trump-ballrooms-biggest-donors-were-overwelmingly-tech-and-telecom-companies/"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "update",
-  "headline": "Google updates AI search responses to feature inline links more prominently",
-  "summary": "Google is updating AI search results to display inline links more prominently within responses.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "73-Year-Old Achieves Dream of Driving Top Fuel Dragsters \ud83c\udfce\ufe0f\ud83d\udca8",
-  "summary": "At 73 years old, Bernie Plourd has achieved a milestone by earning his NHRA license to drive Top Fuel dragsters and is bringing his own car to Vegas.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2287921/bernie-plourd-top-fuel-dragster-73/"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Hunger Games Prequel Drops Character Posters",
-  "summary": "Lionsgate has released official character posters for 'The Hunger Games: Sunrise On The Reaping', featuring the star-studded cast of the upcoming prequel.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/gallery/the-hunger-games-sunrise-on-the-reaping-character-posters-photos-lionsgate/"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Lauren Cohan Exits Walking Dead for Prime Video Horror",
-  "summary": "The Walking Dead star Lauren Cohan is officially moving on from the zombie franchise to star in a new Prime Video horror series.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/prime-video-horror-stillwater-cast-the-walking-dead-star-lauren-cohan/"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Tim Burton and Kazuo Ishiguro Teaming Up for Secret Film",
-  "summary": "Filmmaker Tim Burton and Nobel Prize-winning author Kazuo Ishiguro are reportedly teaming up for a secret new feature film project in development.",
-  "verified": "unconfirmed",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/tim-burton-kazuo-ishiguro-script-the-dish-klara-and-the-sun-1237158240/"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "New 'Sense & Sensibility' Adaptation Earns Praise",
-  "summary": "A new review praises Georgia Oakley's adaptation of 'Sense & Sensibility' for bringing a fantastic modern touch to Jane Austen's classic tale.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/sense-and-sensibility-2026-georgia-oakley-review/"
- },
- {
-  "date": "2026-10-15T17:53:46.797374+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Trailer Drops for Rights Pioneer Doc 'Odd Man In'",
-  "summary": "Director Matt Nadel's documentary trailer for 'Odd Man In' explores the life of gay rights pioneer Donald Webster Cory.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/odd-man-in-trailer-exclusive-1237158340/"
- },
- {
   "date": "2026-10-15T18:17:25.536746+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -13704,5 +13517,104 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/death-of-sherlock-holmes-season-2-response-rafe-spall/"
+ },
+ {
+  "date": "2026-10-18T18:08:41.779614+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Upcoming Apple Product Releases Expected on Fridays",
+  "summary": "Mark Gurman reports that Apple is expected to release new products including OLED MacBooks and M6 Macs across upcoming Fridays.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/18/apple-product-releases-next-four-fridays/"
+ },
+ {
+  "date": "2026-10-18T18:08:41.779614+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "Final Cut Camera Update Brings Variable Aperture Support",
+  "summary": "Final Cut Camera receives a major update adding variable aperture support for the iPhone 18 Pro alongside iOS 27 features.",
+  "verified": "official",
+  "source": "Apple Newsroom",
+  "link": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/"
+ },
+ {
+  "date": "2026-10-18T18:08:41.779614+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "iPhone Duo Battery Capacity Leaked",
+  "summary": "Details regarding the iPhone Duo's 4,883 mAh battery capacity have emerged online.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x99mop/apple_reveals_iphone_duos_battery_capacity_4883/"
+ },
+ {
+  "date": "2026-10-18T18:08:41.779614+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "Apple Announces Updates to Creator Studio Apps",
+  "summary": "Apple announces new updates for its Apple Creator Studio suite of creative and productivity apps.",
+  "verified": "official",
+  "source": "Apple Newsroom",
+  "link": "https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/"
+ },
+ {
+  "date": "2026-10-18T18:08:41.779614+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Second Stone PC Demo Coming October 19th",
+  "summary": "The game Second Stone is scheduled to release a playable PC demo on October 19th.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x99luw/second_stone_will_release_a_demo_on_oct_19th_for/"
+ },
+ {
+  "date": "2026-10-18T18:08:41.779614+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Five Nights at Freddy's Officially Returns for Halloween Release",
+  "summary": "The 'Five Nights at Freddy's' franchise is officially returning with a new Halloween release, alongside related gaming perks for Amazon Prime members.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/five-nights-at-freddys-into-the-pit-free-amazon-prime-october-2026/"
+ },
+ {
+  "date": "2026-10-18T18:08:41.779614+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "update",
+  "headline": "Taylor Swift Rocks Academy Museum Gala With Rare Full-Band Set",
+  "summary": "Taylor Swift performed a surprise four-song set with her full band at the Academy Museum 6th Annual Gala.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/music/news/taylor-swift-performance-academy-gala-five-songs-1236915817/"
+ },
+ {
+  "date": "2026-10-18T18:08:41.779614+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Aran Murphy Opens Up About His Big Break in HBO Shows and Klara and the Sun",
+  "summary": "Actor Aran Murphy discusses his roles in upcoming HBO shows and Taika Waititi's dystopian film Klara and the Sun.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/aran-murphy-youth-war-and-cillian-murphy-influence-1236909378/"
+ },
+ {
+  "date": "2026-10-18T18:08:41.779614+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Charli xcx and Chappell Roan Team Up for 'Boom Clap' in Los Angeles",
+  "summary": "Charli xcx surprised her Los Angeles concert audience by bringing out Chappell Roan to perform 'Boom Clap'.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/music/news/chappell-roan-charli-xcx-boom-clap-los-angeles-1236915831/"
  }
 ]
