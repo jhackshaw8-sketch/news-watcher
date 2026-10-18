@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-15T08:26:51.719011+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Cyberpunk Edgerunners 2 Official Trailer Drops",
-  "summary": "An official trailer for Cyberpunk Edgerunners 2 has been released.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x6fiyl/cyberpunk_edgerunners_2_official_trailer/"
- },
- {
-  "date": "2026-10-15T08:26:51.719011+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Viral Co-Op Hit Peak Seeming Headed to PS5",
-  "summary": "Reports indicate that the viral co-op hit Peak is seemingly making its way to the PS5.",
-  "verified": "unconfirmed",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x6egtk/viral_coop_hit_peak_is_seemingly_coming_to_ps5/"
- },
- {
-  "date": "2026-10-15T08:26:51.719011+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Developers Explain Big Walk Xbox Absence",
-  "summary": "The developers have shared an explanation regarding why Big Walk is not currently available on Xbox.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x6dd9l/an_explanation_on_why_big_walk_isnt_available_on/"
- },
- {
-  "date": "2026-10-15T08:26:51.719011+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "Elder Scrolls Online Announces Season Two",
-  "summary": "Elder Scrolls Online has announced Season Two: Echoes of Skyrim, featuring free content and solo dungeons.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x6db4o/elder_scrolls_online_season_two_echoes_of_skyrim/"
- },
- {
-  "date": "2026-10-15T08:26:51.719011+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "Elite Dangerous Previews Law & Disorder Update",
-  "summary": "Elite Dangerous previewed its upcoming Law & Disorder update alongside the Anaconda Mk II and new operations.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x6d8xd/elite_dangerous_law_disorder_anaconda_mk_ii_and/"
- },
- {
-  "date": "2026-10-15T08:26:51.719011+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "launch",
-  "headline": "Renault's $180k Electric Hot Hatch Surges Past 1,000 Orders! \u26a1\ud83c\udfce\ufe0f",
-  "summary": "Renault has secured approximately 1,000 orders for its high-end $180,000 electric hot hatch, with some customized versions reaching nearly $400,000.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812030/renault-electric-hot-hatch-orders/"
- },
- {
-  "date": "2026-10-15T08:26:51.719011+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "'Friends' Returns to Channel 4 Starting 2027",
-  "summary": "Channel 4 has acquired the broadcast rights for all 10 seasons of 'Friends', starting in January 2027.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/friends-returning-channel-4-uk-stays-hbo-max-1237157876/"
- },
- {
   "date": "2026-10-15T09:01:19.981698+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -15783,5 +15706,49 @@
   "verified": "official",
   "source": "Variety Film",
   "link": "https://variety.com/2026/film/global/ryan-gosling-zero-g-stunts-in-project-hail-mary-explained-1236915066/"
+ },
+ {
+  "date": "2026-10-18T08:51:52.129960+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "ArcaneBound Heads to Steam Next Fest Ahead of November Release",
+  "summary": "Solo developer announces that the 2D pixel art action RPG ArcaneBound is participating in Steam Next Fest ahead of its November 23 release.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x8y34y/arcanebound_asardialstudio_a_2d_pixel_art_action/"
+ },
+ {
+  "date": "2026-10-18T08:51:52.129960+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Dark Fantasy Action Roguelite Umbraelum Announced by Solo Developer",
+  "summary": "A solo developer introduces Umbraelum, an isometric action roguelite featuring a risk-and-reward power mechanic.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x8xzx1/umbraelum_vallarius_forge_im_making_an_action/"
+ },
+ {
+  "date": "2026-10-18T08:51:52.129960+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Outlast Surpasses 60 Million Players Years After Finding No Publishers",
+  "summary": "Outlast reached over 60 million players despite initially failing to secure a publisher.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x8wvsu/no_publisher_wanted_outlast_60_million_players/"
+ },
+ {
+  "date": "2026-10-18T08:51:52.129960+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "The Purge Returns in 2027 With New Comic",
+  "summary": "The Purge franchise is officially returning in 2027 through a new comic book partnership between Blumhouse and IDW Dark.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/the-purge-new-comic-2027-blumhouse-idw-dark/"
  }
 ]
