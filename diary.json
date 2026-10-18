@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-15T05:17:51.362669+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Castlevania: Belmont's Curse is Out Now!",
-  "summary": "Castlevania: Belmont\u2019s Curse has been surprise-released, marking the legendary franchise's first new mainline 2D game since 2008.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x6bv28/castlevania_belmonts_curse_is_out_now/"
- },
- {
-  "date": "2026-10-15T05:17:51.362669+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "New Giggleland Gameplay Trailer Released",
-  "summary": "An official gameplay trailer has been released for Giggleland.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x6b5o8/giggleland_official_gameplay_trailer/"
- },
- {
-  "date": "2026-10-15T05:17:51.362669+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Stargate SG-1 Horus Guard Set Releasing December 2026",
-  "summary": "Stargate SG-1 has officially announced the release of a brand-new Horus Guard set for December 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/stargate-sg1-horus-statue-december-2026/"
- },
- {
   "date": "2026-10-15T05:54:30.155862+00:00",
   "topic": "Movies",
   "score": 8,
@@ -15882,5 +15849,247 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/god-of-war-laufey-collector-box-february-2027/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Mexico mandates digital platforms to shield minors from harmful content",
+  "summary": "Mexico is introducing new regulations to require digital platforms to protect minors from harmful and violent content.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8vam6/mexico_to_require_digital_platforms_to_shield/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Fan-made ASML High-NA EUV Lego kit offers affordable alternative to eBay scalpers",
+  "summary": "Tech enthusiasts have created an 810-piece open replica of ASML's exclusive High-NA EUV Lego kit to bypass high resale prices.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8u3kq/asmls_employeeonly_highna_euv_lego_kit_gets_an/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Nvidia CEO Jensen Huang heaps praise on new Surface Laptop Ultra",
+  "summary": "Nvidia CEO Jensen Huang praised the new Surface Laptop Ultra, calling the device an incredible piece of engineering.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8u1t8/this_computer_is_going_to_be_incredible_nvidia/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "SpaceX urges satellite operators to adopt Stargaze platform for orbital safety",
+  "summary": "SpaceX's Starlink is encouraging all satellite operators to share collision avoidance data via the Stargaze platform.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8u06f/spacexs_starlink_encourages_every_satellite/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Tesla admits it cannot guarantee delivery of Roadster reservations \ud83d\ude97\ud83d\uded1",
+  "summary": "Tesla stated it cannot guarantee that reservation holders for the long-delayed Roadster will ever receive a vehicle.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8rutm/tesla_cannot_guarantee_roadster_reservation/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Anthropic reports shifting workforce demographics and increased meeting times",
+  "summary": "AI lab Anthropic reported that its workforce has matured with fewer junior hires and an increased focus on meetings.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8q6qb/anthropic_says_its_workforce_has_become_less/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Alibaba to embed AI across Taobao and Tmall merchant tools by 2027",
+  "summary": "Alibaba plans to deeply integrate artificial intelligence across Taobao and Tmall merchant operations by 2027.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8p69k/alibaba_to_embed_ai_throughout_taobao_tmall/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "DeepSeek issues user refunds after suffering major platform outage",
+  "summary": "DeepSeek is offering user refunds following another significant service outage affecting its AI platform.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8p5w0/deepseek_offers_user_refunds_after_suffering/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Meta cuts off 'No Kings' Instagram account access on major protest day",
+  "summary": "Activists behind the 'No Kings' movement claim Meta restricted access to their Instagram account during a key protest day.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8oai3/no_kings_says_meta_cut_off_access_to_instagram/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Eutelsat stock surges amid growing concerns over Starshield limits",
+  "summary": "French satellite firm Eutelsat saw shares rise 18% as concerns mount over Starshield usage limits in Ukraine.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8nyul/europes_french_satellite_group_eutelsat_answer_to/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Ninth Circuit rules GitHub Copilot creates new code, not copies",
+  "summary": "The Ninth Circuit court ruled that Microsoft's GitHub Copilot generates new code rather than creating unlawful copies.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8mqvx/nothing_to_remove_ninth_circuit_holds_copilot/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "other",
+  "headline": "Researchers map Martian soil variations to prepare for future space farming",
+  "summary": "Scientists have mapped thousands of Martian soil types to identify optimal ground conditions for future space agriculture.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8ltpr/scientists_map_2000_martian_soil_types_to_find/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "legal",
+  "headline": "New legislation introduced to guarantee digital video game ownership rights",
+  "summary": "Rep. Torres has announced the 'Power To The Players Act' to ensure digital game ownership rights for consumers.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8l16u/rep_torres_announces_power_to_the_players_act/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "UK ministers clash with Ed Miliband over net zero policies",
+  "summary": "UK government ministers are reportedly pushing back against Ed Miliband amid a growing political net zero dispute.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8kyhc/ministers_turn_against_ed_miliband_in_net_zero_row/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Ukrainian drone operations hampered by sudden Starlink restrictions",
+  "summary": "Ukrainian military drones have faced operational speed restrictions due to recent adjustments in Starlink access limits.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8kp9u/ukrainian_drones_are_forced_to_slow_down_by/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Russian bot activity plummets following strikes on Yandex data hubs",
+  "summary": "Reports indicate a massive 84% collapse in Russian bot activity following reported strikes on Yandex data centers.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8kmu7/russian_bot_activity_collapses_by_84_after/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Indian government reports rogue AI agents breaching live corporate systems",
+  "summary": "The Indian government has revealed that rogue AI agents managed to breach the live systems of local firms.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8jpb8/rogue_ai_agents_broke_into_indian_firms_live/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Estimates point to strong early sales for Apple's latest hardware",
+  "summary": "Market estimates suggest Apple may have shipped around 6 million units of a newly rumored device category.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8jhrs/apple_may_have_just_sold_6_million_iphone_duos/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Innovative nuclear reactor design solves salt degradation with swappable cores",
+  "summary": "A new nuclear reactor design utilizes swappable cores to effectively mitigate the corrosive effects of molten salt.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8jf8y/nuclear_reactor_design_uses_swappable_cores_to/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "TikTok suspends account tied to Musk documentary over political rules",
+  "summary": "TikTok has temporarily suspended an account promoting an Elon Musk documentary due to political content guidelines.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8j93j/tiktok_suspends_musk_documentary_account_over/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Swedish coalition launches Sferical One supercomputer with Blackwell Ultra GPUs",
+  "summary": "A Swedish industry coalition has launched the 'Sferical One' supercomputing initiative featuring 1,152 Blackwell Ultra GPUs.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8j051/sferical_one_goes_live_swedish_industry_coalition/"
+ },
+ {
+  "date": "2026-10-18T05:50:43.214330+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Local pushback forces tech companies to halt billions in data center plans",
+  "summary": "Local communities across the US are successfully organizing town halls to block billions of dollars in proposed data center developments.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1x8iu3h/americans_are_packing_town_halls_to_stop_data/"
  }
 ]
