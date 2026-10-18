@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-15T06:17:55.834516+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Gurman Teases Special In-Store Surprise for iPhone Duo Buyers",
-  "summary": "Mark Gurman reports that US buyers purchasing the new iPhone Duo at Apple Stores will receive a special surprise upon first boot.",
-  "verified": "reliable_reporter",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/"
- },
- {
-  "date": "2026-10-15T06:17:55.834516+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Spy Shots: Next-Gen Hyundai Elantra N Caught Testing! \ud83d\ude97\ud83d\udca8",
-  "summary": "The next-generation Hyundai Elantra N sports sedan has been spied testing for the first time ahead of a potential 2027 debut.",
-  "verified": "unconfirmed",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812003/new-hyundai-elantra-n-spied/"
- },
- {
-  "date": "2026-10-15T06:17:55.834516+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "update",
-  "headline": "Top Marks: Audi Q7 Aces Euro NCAP Safety Test! \ud83d\udee1\ufe0f\ud83d\ude98",
-  "summary": "The Audi Q7 achieved a rare 100 percent Euro NCAP Post-Crash Safety score for its advanced emergency response and safety systems.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812002/audi-q7-euro-ncap-post/"
- },
- {
-  "date": "2026-10-15T06:17:55.834516+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Foundation Invictus Replica Officially Announced",
-  "summary": "Master Replicas officially announces the Foundation Invictus warship collectible model priced at $115.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/foundation-invictus-replica-avalable-now/"
- },
- {
   "date": "2026-10-15T07:11:37.191478+00:00",
   "topic": "Tech News",
   "score": 7,
@@ -15981,5 +15937,16 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/star-trek-deep-space-9-fluxx-release-date-psa/"
+ },
+ {
+  "date": "2026-10-18T07:03:08.510280+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "PlayStation Plus Drops Halloween 2026 Bonus Game Trials",
+  "summary": "PlayStation Plus offers two bonus free game trials for Halloween 2026, featuring Mortal Shell 2 and Resonance: A Plague Tale Legacy.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/playstation-plus-bonus-free-downloads-halloween-2026/"
  }
 ]
