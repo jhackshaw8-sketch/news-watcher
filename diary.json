@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-14T23:46:33.987287+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "D.R. Horton Tests Robotics Factory Model for Housing",
-  "summary": "Homebuilder D.R. Horton is testing Promise Robotics' factory model to build 1,250 homes.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x665bo/dr_horton_tests_promise_robotics_factory_model/"
- },
- {
-  "date": "2026-10-14T23:46:33.987287+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Florida Appeals Court Upholds Ban on Social Media for Young Kids",
-  "summary": "An appeals court has ruled that Florida can enforce its state law barring young children from social media platforms.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x65qor/florida_can_enforce_state_law_barring_young_kids/"
- },
- {
-  "date": "2026-10-14T23:46:33.987287+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "business",
-  "headline": "Anthropic Reports Massive Revenue Growth Ahead of IPO",
-  "summary": "Anthropic reported to investors that its quarterly revenue surged 50% to $16.8 billion as it prepares for an upcoming IPO.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x65nd3/anthropic_tells_investors_quarterly_revenue_up_50/"
- },
- {
-  "date": "2026-10-14T23:46:33.987287+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "other",
-  "headline": "AI Researcher Warns of Potential Critical Infrastructure Cyberattacks",
-  "summary": "An AI researcher has issued a warning that sophisticated cyberattacks could potentially disrupt critical infrastructure like power, banking, and water systems within a year.",
-  "verified": "unconfirmed",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6548v/ai_researcher_warns_cyberattacks_could_take_down/"
- },
- {
-  "date": "2026-10-14T23:46:33.987287+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Banks Move to Offload AI Data Center Debt",
-  "summary": "Financial institutions are actively attempting to offload the heavy AI data center debt they recently underwrote.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x64sl8/banks_are_now_trying_to_offload_the_ai_data/"
- },
- {
-  "date": "2026-10-14T23:46:33.987287+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Marvel Boss Gives Update on MCU Horror Franchise Future",
-  "summary": "Marvel TV boss Brad Winderbaum provides an update regarding the potential future of the MCU's standout horror franchise.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/marvel-werewolf-by-night-2-sequel-update-brad-winderbaum/"
- },
- {
-  "date": "2026-10-14T23:46:33.987287+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Black Clover Season 2 Episode 3 Release Schedule Announced",
-  "summary": "The release date and time for Black Clover Season 2, Episode 3 have been announced following previous animation critiques.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/black-clover-season-2-episode-3-release-date-time/"
- },
- {
-  "date": "2026-10-14T23:46:33.987287+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Tracker Reveals New Details for Russell's Return",
-  "summary": "Tracker has officially revealed updates regarding Russell's comeback role and storyline for the upcoming season.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/tracker-season-4-jensen-ackles-russell-shaw-comeback-role-change/"
- },
- {
   "date": "2026-10-15T00:10:52.829517+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -16311,5 +16223,49 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/avatar-franchise-seven-havens-kuruk-series-paramount-plus-bet/"
+ },
+ {
+  "date": "2026-10-18T00:09:15.825853+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "OpenAI Focuses on AI Brains for Humanoid Robots",
+  "summary": "OpenAI is developing a humanoid robot while emphasizing that creating the AI brain is the primary challenge.",
+  "verified": "reliable_reporter",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/"
+ },
+ {
+  "date": "2026-10-18T00:09:15.825853+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Tarantino Finishes Script for Tenth Film",
+  "summary": "Quentin Tarantino has completed the script for his tenth and final film, but is delaying production to focus on his new play.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/quentin-tarantino-confirms-script-for-tenth-film-1236915169/"
+ },
+ {
+  "date": "2026-10-18T00:09:15.825853+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Netflix Wonka Series Becomes a Hit",
+  "summary": "Netflix's new Wonka reboot series has become a massive streaming hit and entered the U.S. top ten.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/wonkas-the-golden-ticket-streaming-hit-netflic-october-2026/"
+ },
+ {
+  "date": "2026-10-18T00:09:15.825853+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Junji Ito Leads New VIZ Horror Release",
+  "summary": "VIZ Media is releasing a new horror picture book series featuring Junji Ito for the Halloween season.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/junji-ito-new-horror-book-halloween/"
  }
 ]
