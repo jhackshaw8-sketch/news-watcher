@@ -1,214 +1,5 @@
 [
  {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Apple Prepares Four Weeks of Fall Product Launches",
-  "summary": "Apple is preparing to kick off four consecutive weeks of new product launches this fall following its September event.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/15/apple-is-about-to-kick-off-four-weeks-straight-of-new-product-launches/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "business",
-  "headline": "Apple and Meta Team Up for Mac AI Integration",
-  "summary": "Apple and Meta are reportedly collaborating to optimize Meta's Muse AI model to run efficiently on Mac computers.",
-  "verified": "reliable_reporter",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x6t022/apple_and_meta_team_up_to_make_muse_ai_model_run/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Diablo 5 Officially Passes Major Production Milestone",
-  "summary": "Blizzard has officially reached a major production milestone as shooting begins for Diablo 5 ahead of its planned 2029 release.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/diablo-5-blizzard-rpg-cinematic-shooting-begins/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Meta Launches Muse AI Model With Mac Support",
-  "summary": "Meta announced its Muse Spark open-weight AI model, which uniquely supports running locally on dual Apple Mac Studios using the MLX framework.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "Goku Voice Actor Slams Unauthorized AI Voice Clones",
-  "summary": "The voice actor for Dragon Ball's Goku has spoken out critically against unauthorized AI-generated voice cloning.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6sppa/dragon_ball_goku_voice_actor_furious_at/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "Google Finland Head Apologizes for Data Center Forest Clearances",
-  "summary": "Google's head of operations in Finland issued an apology following controversial forest clearances made for data center site developments.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6rcf6/google_finland_head_apologises_for_forest/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "CNN and Google Strike Multiyear Generative AI Partnership",
-  "summary": "CNN and Google have entered into a multiyear strategic partnership focused on integrating generative AI technologies.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6raap/cnn_and_google_strike_multiyear_partnership_to/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Meta and Apple Bring Muse AI Model to Mac Computers",
-  "summary": "Meta's new Muse AI model has been configured to run seamlessly on Apple Mac computers through a collaborative technical effort.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6r8uh/apple_and_meta_team_up_to_make_muse_ai_model_run/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "legal",
-  "headline": "Debating the Impact of Internet Age Verification Laws",
-  "summary": "An analysis discusses the growing implications of mandatory age verification laws on internet access and digital rights.",
-  "verified": "unconfirmed",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6r8m8/when_no_id_means_no_internet_age_verification_and/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "business",
-  "headline": "Why Can't You Buy the World's Biggest EV in the US? \ud83d\ude97\u26a1",
-  "summary": "Tariffs, national security regulations, and political barriers currently prevent Chinese EV giant BYD from entering the US market.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/features/811958/why-cant-you-buy-a-byd-in-america/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "El Gouna Film Festival Launches MENA Fall Season",
-  "summary": "The 9th El Gouna Film Festival kicks off the MENA region's fall film festival season with international and local contenders.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/egypt-el-gouna-kicksoff-mena-fall-film-festival-season-1237158398/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Crystal Lake Showrunner Teases Season 2 Character Appearance",
-  "summary": "The showrunner for the Crystal Lake series teases the potential appearance of a major Friday the 13th character in season 2.",
-  "verified": "reliable_reporter",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2285403/crystal-lake-showrunner-season-2-plan-friday-the-13th-character/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "First Trailer Drops for John Bradley's New Holiday Movie",
-  "summary": "Game of Thrones star John Bradley leads the new holiday movie Merry Christmas Aubrey Flint, with a first trailer now released.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/merry-christmas-aubrey-flint-trailer/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Crystal Lake Explains Origin of Jason Voorhees' Machete",
-  "summary": "The Friday the 13th prequel series Crystal Lake officially reveals the origin story behind Jason Voorhees' signature machete.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2285173/crystal-lake-episode-1-jason-voorhees-machete-origin-explained/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Stars Head to New York Comedy Festival",
-  "summary": "Tracy Morgan, Jane Krakowski, and Daniel Radcliffe are set to join NBC comedy panels and screenings at the New York Comedy Festival.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/?p=1236909431"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "CD Projekt Red Gives Major Studio Update",
-  "summary": "CD Projekt Red has provided a major official update regarding the ambitious scope of their new IP alongside The Witcher and Cyberpunk.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/cdpr-next-game-project-hadar-witcher-cyberpunk/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Leavesden Revenues Climb to $390 Million",
-  "summary": "Warner Bros. Studios Leavesden reported an 11% increase in revenues up to $390 million, driven by the 'Harry Potter' tour and increased production.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/biz/global/harry-potter-tour-leavesden-accounts-2025-1236913172/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Jensen Ackles Clarifies Cancellation",
-  "summary": "Jensen Ackles addresses Prime Video's cancellation of his hit crime thriller series as he prepares for 'The Boys' spinoff 'Vought Rising'.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/prime-video-countdown-series-canceled-jensen-ackles-explanation/"
- },
- {
-  "date": "2026-10-15T18:17:25.536746+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "Rockstar Teases Post-GTA 6 Timeline",
-  "summary": "Rockstar Games officially teases that future titles following GTA 6 may have shorter development cycles due to newly built technologies and teams.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/gta-6-rockstar-games-next-game-teased/"
- },
- {
   "date": "2026-10-15T19:05:04.471602+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -13616,5 +13407,93 @@
   "verified": "official",
   "source": "Variety",
   "link": "https://variety.com/2026/music/news/chappell-roan-charli-xcx-boom-clap-los-angeles-1236915831/"
+ },
+ {
+  "date": "2026-10-18T18:52:41.148197+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Releases New Guide for Family Digital Habits",
+  "summary": "Apple partnered with the American Academy of Pediatrics to release a new guide helping families build healthy digital habits.",
+  "verified": "official",
+  "source": "Apple Newsroom",
+  "link": "https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/"
+ },
+ {
+  "date": "2026-10-18T18:52:41.148197+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Rumor: First Touchscreen MacBook Coming in November?",
+  "summary": "Rumors suggest Apple's first touchscreen MacBook could potentially debut on November 6.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x9b0dl/apples_first_touchscreen_macbook_could_debut_on/"
+ },
+ {
+  "date": "2026-10-18T18:52:41.148197+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "New Mac mini and Mac Studio Available Today",
+  "summary": "The new Mac mini and Mac Studio models are officially available today in stores and online.",
+  "verified": "official",
+  "source": "Apple Newsroom",
+  "link": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/"
+ },
+ {
+  "date": "2026-10-18T18:52:41.148197+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "Apple Opens Apple Music Hall Venue in London",
+  "summary": "Apple has officially opened Apple Music Hall, a new live music venue located in London's Battersea Power Station.",
+  "verified": "official",
+  "source": "Apple Newsroom",
+  "link": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/"
+ },
+ {
+  "date": "2026-10-18T18:52:41.148197+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Why the Live-Action M. Bison in Street Fighter (2026) Looks So Familiar",
+  "summary": "The 2026 Street Fighter movie features a live-action M. Bison played by an actor recognizable to DC fans.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2289796/m-bison-street-fighter-2026-movie-actor-david-dastmalchian/"
+ },
+ {
+  "date": "2026-10-18T18:52:41.148197+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Joe Manganiello Reveals Canceled DCEU Deathstroke Movie Plans",
+  "summary": "Joe Manganiello details the canceled DCEU movie storylines that were planned for his character Deathstroke.",
+  "verified": "reliable_reporter",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2287401/joe-manganiello-deathstroke-canceled-dceu-movie-storylines-explained/"
+ },
+ {
+  "date": "2026-10-18T18:52:41.148197+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Denis Villeneuve Officially Details How Dune: Part Three Changes the Franchise",
+  "summary": "Denis Villeneuve officially discusses the time jump and narrative shifts coming in Dune: Part Three.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/denis-villeneuve-dune-part-3-changes/"
+ },
+ {
+  "date": "2026-10-18T18:52:41.148197+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Behind the Scenes of Love of Your Life: Filming a Crucial Scene in Just 28 Minutes",
+  "summary": "Cast and crew members of Love of Your Life discuss the intense behind-the-scenes rush to film a crucial emotional scene.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/video/love-of-your-life-exhaustion-drew-the-cast-closer-collider-bts/"
  }
 ]
