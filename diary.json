@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-15T11:55:33.311981+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Touchscreen OLED MacBook Pro rumored for October 28 Apple Event",
-  "summary": "A new report indicates Apple is planning to launch its first touchscreen and OLED MacBook Pro at an event on October 28.",
-  "verified": "unconfirmed",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/15/touchscreen-macbook-pro-and-more-launching-at-apple-event-on-oct-28/"
- },
- {
-  "date": "2026-10-15T11:55:33.311981+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Apple announces iPhone Duo starting at $1,999",
-  "summary": "The newly announced iPhone Duo launches with a starting price of $1,999 and features a renewable display layer.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/15/the-renewable-iphone-duo-display-layer-may-help-buyers-justify-the-price/"
- },
- {
-  "date": "2026-10-15T11:55:33.311981+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Governments Abusing Online Ads for Zero-Click Spyware Attacks",
-  "summary": "Citizen Lab discovered that governments are exploiting online ad networks to deliver zero-click spyware to targets, including Al Jazeera journalists.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/"
- },
- {
-  "date": "2026-10-15T11:55:33.311981+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Mexico Signs Decree Requiring Tech Platforms to Protect Minors Online",
-  "summary": "Mexican President Claudia Sheinbaum signed a decree requiring tech platforms to shield minors from harmful adult content online.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2287376/mexico-president-signs-decree-tech-restrict-adult-content-minors/"
- },
- {
-  "date": "2026-10-15T11:55:33.311981+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Renny Harlin to Direct Prison Thriller Evac",
-  "summary": "Renny Harlin is attached to direct the prison rescue thriller Evac, following a medical specialist and a wounded inmate.",
-  "verified": "reliable_reporter",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/renny-harlin-direct-prison-rescue-thriller-evac-1237157956/"
- },
- {
-  "date": "2026-10-15T11:55:33.311981+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "1926 Classic Outperforms Zachary Levi's Western at Box Office",
-  "summary": "Zachary Levi's new Western Angel and the Badman was outperformed in per-theater average by a re-release of a 1926 classic film.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/angel-and-the-badman-zachary-levi-western-box-office-per-theater-average/"
- },
- {
-  "date": "2026-10-15T11:55:33.311981+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "legal",
-  "headline": "Russell Brand Trial Updates Emerge From Court",
-  "summary": "Russell Brand's rape trial continues as a woman testifies about alleged sexual offenses in a London court.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/russell-brand-trial-woman-raped-hotel-room-photoshoot-1237157920/"
- },
- {
-  "date": "2026-10-15T11:55:33.311981+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Midday Meal Wins Busan Top Prize and Qualifies for Oscars",
-  "summary": "Majid Majidi's Midday Meal won the Best Film Award at the Busan International Film Festival and qualified for Oscar consideration.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/majid-majidi-midday-meal-iran-busan-best-film-oscars-1237157907/"
- },
- {
   "date": "2026-10-15T12:19:15.970047+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -15156,5 +15068,82 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/zelda-ocarina-of-time-remake-biggest-problem-fixed/"
+ },
+ {
+  "date": "2026-10-18T12:10:31.904069+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "update",
+  "headline": "Full-Size SUV Towing Showdown: Can The Toyota Sequoia Outpull The Competition? \ud83d\ude99\ud83d\udcaa",
+  "summary": "A comparison of towing capacities among full-size, truck-based three-row SUVs featuring the Toyota Sequoia.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2288239/toyota-sequoia-vs-competition-towing-capacity-suv/"
+ },
+ {
+  "date": "2026-10-18T12:10:31.904069+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "El Gouna Film Festival Reveals Rising Stars Cohort",
+  "summary": "The El Gouna Film Festival announced its third cohort for the CineGouna Emerge Rising Stars program, highlighting emerging Arab talents.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/el-gouna-cinegouna-emerge-2026-rising-stars-1237166913/"
+ },
+ {
+  "date": "2026-10-18T12:10:31.904069+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Practical Magic 2 Behind-The-Scenes Featurette Released",
+  "summary": "Warner Bros. released a behind-the-scenes featurette for Practical Magic 2 starring Sandra Bullock and Nicole Kidman.",
+  "verified": "official",
+  "source": "Warner Bros (trailers)",
+  "link": "https://www.youtube.com/watch?v=jdvVAl89OjU"
+ },
+ {
+  "date": "2026-10-18T12:10:31.904069+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Dark Action Series Go! Go! Loser Ranger! Streams on Hulu",
+  "summary": "Hulu's dark action series Go! Go! Loser Ranger! is highlighted as a gritty Power Rangers alternative for fans of The Boys.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/hulu-go-go-loser-ranger-the-boys-meets-power-rangers/"
+ },
+ {
+  "date": "2026-10-18T12:10:31.904069+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Marvel Officially Introduces New X-Men Hero",
+  "summary": "Marvel officially introduces a brand-new X-Men hero to its comic book lore without traditional mutant powers.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/xmen-new-hero-cliffhanger/"
+ },
+ {
+  "date": "2026-10-18T12:10:31.904069+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Terminator: Survivors Game Moves Forward Without Arnold Schwarzenegger",
+  "summary": "The upcoming game Terminator: Survivors will debut without Arnold Schwarzenegger and focus on a new RPG experience.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/terminator-survivors-arnold-schwarzenegger-replaced/"
+ },
+ {
+  "date": "2026-10-18T12:10:31.904069+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "The Witcher: Legacy Officially Announced for Summer 2027 Release",
+  "summary": "The Witcher: Legacy has been officially announced for a summer 2027 release date.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/witcher-legacy-officially-announced-summer-2027-release-psa/"
  }
 ]
