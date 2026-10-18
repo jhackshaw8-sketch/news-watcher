@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-15T02:55:51.089997+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "'Dungeon Masters' Star Breaks Down That Shocking Death",
-  "summary": "Actor Christian Navarro discusses a shocking character death in Dungeon Masters Episode 5.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/dungeon-masters-mistik-death-christian-navarro-behind-the-scenes/"
- },
- {
   "date": "2026-10-15T03:17:43.250585+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -15948,5 +15937,16 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/apple-tv-silo-season-4-leveling-up-sci-fi-game/"
+ },
+ {
+  "date": "2026-10-18T03:14:45.858327+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Star Wars Announces Major New 2027 Movie Release",
+  "summary": "Star Wars has announced an exciting new franchise release scheduled for 2027 featuring iconic characters.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-wars-black-series-saga-hasbro-2027-release/"
  }
 ]
