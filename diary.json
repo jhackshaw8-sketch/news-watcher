@@ -1,104 +1,5 @@
 [
  {
-  "date": "2026-10-15T10:20:47.431253+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Legend of Zelda Switch 2 Stock Returns",
-  "summary": "Legend of Zelda items and Switch 2 stock have briefly returned to shelves at Smyths Toys.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/hardware/quick-legend-of-zelda-switch-2-stock-is-back-on-the-shelves-but-these-consoles-are-moving-fast/"
- },
- {
-  "date": "2026-10-15T10:20:47.431253+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Xbox Reportedly Polls Fans on Console Exclusivity",
-  "summary": "Reports suggest Xbox is surveying fans regarding their opinions on increasing console exclusivity.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/minecraft/minecraft-updates-on-playstation-and-nintendo-would-end-but-xbox-is-reportedly-asking-fans-how-they-feel-about-greater-console-exclusivity-for-current-and-upcoming-games-like-fallout-5/"
- },
- {
-  "date": "2026-10-15T10:20:47.431253+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "YouTube Reportedly Prepping Audiobook Offerings",
-  "summary": "YouTube is reportedly in talks with publishers to offer audiobooks on its platform, according to The Wall Street Journal.",
-  "verified": "unconfirmed",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2287331/youtube-audiobook-offering-rumor/"
- },
- {
-  "date": "2026-10-15T10:20:47.431253+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "Porsche Bares It All With The Upcoming Panamera Facelift! \ud83c\udfce\ufe0f\ud83d\udca8",
-  "summary": "A lightly camouflaged Porsche Panamera prototype has been spotted, revealing upcoming styling updates for its mid-cycle refresh.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2287339/porsche-panamera-scoop/"
- },
- {
-  "date": "2026-10-15T10:20:47.431253+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "legal",
-  "headline": "Toyota Recalls Over 30k RAV4 Plug-In Hybrids For Motor Shutdown Risk",
-  "summary": "Toyota is recalling nearly 31,000 RAV4 Plug-In Hybrids due to an ECU software fault that can cause the electric motor to shut down while driving.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812057/toyota-rav4-plug-hybrid-recall/"
- },
- {
-  "date": "2026-10-15T10:20:47.431253+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "First Look at Netflix's Myron Bolitar Series",
-  "summary": "Star KJ Apa shares the first behind-the-scenes set photos from Netflix's upcoming series adaptation of Harlan Coben's Myron Bolitar books.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/harlan-coben-myron-bolitar-series-first-look-behind-the-scenes/"
- },
- {
-  "date": "2026-10-15T10:20:47.431253+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "SXSW London 2027 Dates and Theme Announced",
-  "summary": "SXSW London has announced the dates and theme for its 2027 festival, scheduled to run from May 24\u201329 under the theme \u201cThe Power of Human Potential.\u201d",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/sxsw-london-2027-festival-theme-1237157933/"
- },
- {
-  "date": "2026-10-15T10:20:47.431253+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "PlayStation Plus Revives PS1 Classic in October 2026",
-  "summary": "PlayStation is officially reviving a classic 2000 PS1 masterpiece for PlayStation Plus Premium members globally, launching on October 20, 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/playstation-plus-2000-ps1-classic-revival/"
- },
- {
-  "date": "2026-10-15T10:20:47.431253+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "MIPCOM 2026 Highlights TV and Creator Economy Convergence",
-  "summary": "The MIPCOM 2026 event drew 10,000 attendees, highlighting the growing convergence of traditional TV with YouTube creators and digital distributors.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/mipcom-2026-takeaways-baywatch-skydance-banijay-youtube-1237157888/"
- },
- {
   "date": "2026-10-15T10:57:23.099847+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -15585,5 +15486,27 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/happy-death-day-new-comic-tim-seeley-blumhouse-idw/"
+ },
+ {
+  "date": "2026-10-18T10:49:33.528790+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Castlevania Returns With Brand-New Release",
+  "summary": "The gothic fantasy franchise has officially returned with the release of Castlevania: Belmont's Curse.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/castlevania-belmonts-curse-metacritic-score-is-it-good/"
+ },
+ {
+  "date": "2026-10-18T10:49:33.528790+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Play Call Of Duty: Black Ops Zombies For Free Right In Your Browser",
+  "summary": "Call of Duty: Black Ops Zombies is now surprisingly playable for free directly within web browsers.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/call-of-duty-black-ops-zombies-browser-game/"
  }
 ]
