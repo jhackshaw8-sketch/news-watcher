@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-15T07:59:33.147384+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Starlink Restrictions Disrupt Ukraine Drone Missions",
-  "summary": "Ukraine has reportedly canceled drone missions after Starlink communications restrictions disrupted battlefield operations.",
-  "verified": "unconfirmed",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6f0yx/ukraine_cancels_drone_missions_as_starlink/"
- },
- {
-  "date": "2026-10-15T07:59:33.147384+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "\ud83d\ude9c Tractor Speed Record Set At F1 Track! \ud83c\udfce\ufe0f",
-  "summary": "A Finnish Valtra farm tractor set a surprising lap record at the Red Bull Ring, hitting a peak speed of 54 mph.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812027/valtra-t236-tractor-sets-record/"
- },
- {
-  "date": "2026-10-15T07:59:33.147384+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "\u26a1 Electric Corvette Confirmed For The Future! \ud83c\udfc1",
-  "summary": "A top Corvette engineer confirmed that a fully electric Corvette is still in the pipeline as part of GM's electric future.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812011/electric-corvette-still-happening/"
- },
- {
-  "date": "2026-10-15T07:59:33.147384+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "New James Bond 'Diamonds Are Forever' Sequel Dated for December 2026",
-  "summary": "A brand-new James Bond sequel to 'Diamonds Are Forever' is officially scheduled to arrive in December 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/james-bond-all-in-diamonds-are-forever-sequel-december-2026/"
- },
- {
   "date": "2026-10-15T08:26:51.719011+00:00",
   "topic": "Gaming News",
   "score": 8,
