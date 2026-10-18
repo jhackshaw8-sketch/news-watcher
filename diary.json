@@ -1,225 +1,5 @@
 [
  {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "business",
-  "headline": "Withings introduces controversial Apple Health sync paywall",
-  "summary": "Withings has introduced a controversial $99.99 annual subscription fee for users wanting to sync scale data with Apple Health.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/15/withings-wants-you-to-pay-100-a-year-to-sync-a-scale-with-apple-health?utm_source=rss"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple revealed as a top donor to White House ballroom project",
-  "summary": "An investigation by the Washington Post reveals Apple as one of the top corporate donors to the Trump White House ballroom project.",
-  "verified": "reliable_reporter",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/15/wapo-apple-revealed-as-one-of-the-top-donors-to-trumps-white-house-ballroom/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "RuneScape Reignited Canceled",
-  "summary": "RuneScape Reignited has been canceled by the creative director less than two weeks after its initial announcement.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/runescape-reignited-cancelled-less-than-two-weeks-after-being-announced"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "When Sirens Fall Silent Trailer",
-  "summary": "An official announcement trailer has been released for When Sirens Fall Silent.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x6ycov/when_sirens_fall_silent_announcement_trailer/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "The Finals Prime Time Trailer",
-  "summary": "A new gameplay trailer has been showcased for The Finals titled Prime Time.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x6x50w/gameplay_trailer_the_finals_prime_time/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Targeted Ads Deliver Zero-Click Spyware Exploits",
-  "summary": "Targeted advertisements were used to deliver zero-click exploits and install mercenary spyware in a confirmed security incident.",
-  "verified": "official",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Porsche Unveils Mission S Supercar! \ud83c\udfce\ufe0f\ud83d\udd25",
-  "summary": "Porsche has revealed its new dedicated supercar, the Mission S, designed to compete directly with Ferrari and Lamborghini.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2288293/porsche-mission-s-official-supercar/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "business",
-  "headline": "Netflix Shakeup: Bela Bajaria Out, Peter Rice In as CCO",
-  "summary": "Bela Bajaria is leaving Netflix after 10 years and will be replaced by former Disney and Fox executive Peter Rice.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/netflix-bela-bajaria-leaving-layoffs-1236913504/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "business",
-  "headline": "Peter Rice Named New Netflix Chief Content Officer",
-  "summary": "Netflix officially named Peter Rice as its new Chief Content Officer, replacing the departing Bela Bajaria starting October 26.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/netflix-peter-rice-chief-content-officer-1237158809/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "'Crystal Lake' Showrunner Defends Controversial Jason Voorhees Twist",
-  "summary": "Showrunner Brad Caleb Kane has defended a controversial plot twist in Peacock's Friday the 13th series Crystal Lake.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2288297/crystal-lake-showrunner-jason-voorhees-twist-defence-friday-the-13th-series/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "business",
-  "headline": "Bela Bajaria Departs Netflix Following Executive Shakeup",
-  "summary": "Bela Bajaria is exiting her role as Netflix's Chief Content Officer following a massive wave of company layoffs.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/netflixs-chief-content-officer-bela-bajaria-leaving-1237158727/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Linda Cardellini Details Her Role as Pam Voorhees in 'Crystal Lake'",
-  "summary": "Linda Cardellini discusses playing Pam Voorhees in Peacock's Crystal Lake series and utilizing grief as fuel for her character's rage.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/crystal-lake-linda-cardellini-pam-voorhees-grief-rage-favorite-kill-1237157826/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Frisco King Sets Official Release Date",
-  "summary": "Taylor Sheridan's Frisco King starring Samuel L. Jackson has officially set its release date.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-oct-12-1236909160/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "legal",
-  "headline": "White House Press Secretary Defends Lawyer Title",
-  "summary": "White House Press Secretary Katie Zacharia defended calling herself a lawyer despite not passing the bar exam.",
-  "verified": "reliable_reporter",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/katie-zacharia-trump-white-house-press-secretary-lawyer-1237158700/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Fourth Wing Series Officially Casts Violet and Xaden",
-  "summary": "Prime Video has officially cast the main roles of Violet and Xaden for its upcoming Fourth Wing series adaptation.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x6y88s/prime_videos_fourth_wing_series_officially_casts/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Tom Cruise's New Movie Pulled From Theaters",
-  "summary": "Tom Cruise's newest film is being pulled from thousands of theaters following a poor box office performance.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/tom-cruise-digger-movie-theater-remove-box-office/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "Dexter: Resurrection Season 2 Casts New Dexter",
-  "summary": "Dexter: Resurrection Season 2 is officially introducing a 'New Dexter' character dynamic.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/dexter-resurrection-season-2-harrison-like-father/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Cocaine Bear Studio Expands Into Data Centers",
-  "summary": "The movie studio behind Cocaine Bear is reportedly expanding its business ventures into data centers.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x6wyay/movie_studio_behind_cocaine_bear_is_ready_to/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Jason Statham Action Franchise Return Date Nears",
-  "summary": "Jason Statham is officially three months away from returning to one of his major action thriller franchises.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/jason-statham-the-beekeeper-franchise-return-2027-better/"
- },
- {
-  "date": "2026-10-15T21:53:50.809000+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "New York Overtakes California in Production",
-  "summary": "New York is positioned to surpass California as the leading state for film and television production.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x6wy79/new_york_poised_to_overtake_california_as_top/"
- },
- {
   "date": "2026-10-15T22:14:49.939535+00:00",
   "topic": "Apple News",
   "score": 5,
@@ -12824,5 +12604,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/jesse-eisenberg-tv-show-a24-development/"
+ },
+ {
+  "date": "2026-10-18T22:09:35.531958+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "launch",
+  "headline": "Reviewing the 2027 Kia Seltos X-Line SX AWD \ud83d\ude99\u2728",
+  "summary": "A POV review details the features, specifications, and pricing of the 2027 Kia Seltos X-Line SX AWD finished in Terrain Brown.",
+  "verified": "official",
+  "source": "TheTopher",
+  "link": "https://www.youtube.com/watch?v=v80Sm3wf33Y"
+ },
+ {
+  "date": "2026-10-18T22:09:35.531958+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Horror Sequel Hits Hulu Top 10",
+  "summary": "The horror sequel Ready or Not 2: Here I Come has returned to Hulu's streaming top 10.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/samara-weaving-ready-or-not-2-here-i-come-streaming-hit-hulu-october-2026/"
  }
 ]
