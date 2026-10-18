@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-15T03:57:17.304508+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "MrMobile Explores iPhone Duo Display Details",
-  "summary": "Michael Fisher discusses the display details of the upcoming iPhone Duo.",
-  "verified": "unconfirmed",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x6bhxe/mrmobile_michael_fisher_the_iphone_duos_display/"
- },
- {
-  "date": "2026-10-15T03:57:17.304508+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Ozzy Osbourne's Final Concert Film Hits Theaters October 25",
-  "summary": "Sharon Osbourne discussed the upcoming concert film Ozzy & Black Sabbath: Back to the Beginning, which premieres in theaters on October 25.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/sharon-osbourne-ozzy-final-concert-film-1237157835/"
- },
- {
-  "date": "2026-10-15T03:57:17.304508+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Avengers 5 Confirmed As Doomsday",
-  "summary": "Avengers 5 was officially confirmed with the title Avengers: Doomsday at SDCC 2024.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/what-is-doomsday-avengers-5-title-story-explained/"
- },
- {
-  "date": "2026-10-15T03:57:17.304508+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Celine Dion Barbie Doll Debut",
-  "summary": "Celine Dion is receiving a new Barbie doll debut inspired by her famous Titanic hit.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x6b1xf/celine_dion_to_make_barbie_doll_debut_inspired_by/"
- },
- {
-  "date": "2026-10-15T03:57:17.304508+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Netflix Sci-Fi Adaptation Changes Format",
-  "summary": "An ambitious sci-fi adaptation on Netflix is changing its format for the upcoming season.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/3-body-problem-netflix-reduced-episodes/"
- },
- {
   "date": "2026-10-15T04:20:36.713341+00:00",
   "topic": "Tech News",
   "score": 8,
@@ -15893,5 +15838,49 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1x8e7zd/tiktok_permanently_suspends_the_musk_film_account/"
+ },
+ {
+  "date": "2026-10-18T04:16:12.565778+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Major Game Releases Coming This November",
+  "summary": "A roundup of notable video game releases scheduled for November that are competing with the launch window of Grand Theft Auto 6.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/november-2026-game-releases/"
+ },
+ {
+  "date": "2026-10-18T04:16:12.565778+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Pok\u00e9mon TCG Bans Card Reselling to Combat Scalpers",
+  "summary": "The Pok\u00e9mon Trading Card Game takes steps to combat scalping by banning card reselling on select auction sites.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/pokemon-tcg-reselling-cards-ban-auction-sites/"
+ },
+ {
+  "date": "2026-10-18T04:16:12.565778+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Dungeon Crawler Carl: The Royal Court Collection Sets November 2026 Release Date",
+  "summary": "Dungeon Crawler Carl: The Royal Court Collection has been officially scheduled for release in November 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/dungeon-crawler-carl-royal-court-november-2026-psa/"
+ },
+ {
+  "date": "2026-10-18T04:16:12.565778+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Official Peanuts Holiday Crocs Arrive This October",
+  "summary": "Official Peanuts-themed Holiday Crocs are launching later this October.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/peanuts-holiday-crocs-adorable/"
  }
 ]
