@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-10-15T22:14:49.939535+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "update",
-  "headline": "Strava Adds Coach-Designed Strength Workouts with Live Tracking",
-  "summary": "Strava has announced an expansion to its platform featuring coach-designed strength workouts with live set and rep tracking.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/15/strava-announces-coach-designed-strength-workouts-with-live-set-and-rep-tracking/"
- },
- {
-  "date": "2026-10-15T22:14:49.939535+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "OLED MacBook Pro with M7 Chips Rumored for Late 2027",
-  "summary": "According to Bloomberg's Mark Gurman, OLED MacBook Pros are not expected to receive M7 chips until late 2027.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/15/macbook-pro-m7-late-2027/"
- },
- {
-  "date": "2026-10-15T22:14:49.939535+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Steam Achievement Sets Enter Beta Testing",
-  "summary": "Steam has introduced a new beta feature allowing users to organize their achievements into sets.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x6z3of/steam_achievement_sets_now_in_beta/"
- },
- {
-  "date": "2026-10-15T22:14:49.939535+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "business",
-  "headline": "Renault Wants Partners to Stop Cloning Its Designs \ud83d\ude97\u2728",
-  "summary": "Renault has expressed dissatisfaction with partner brands cloning its designs and wants more uniqueness moving forward.",
-  "verified": "reliable_reporter",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2288312/renault-tired-partner-brands-cloning-designs/"
- },
- {
-  "date": "2026-10-15T22:14:49.939535+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "rumor",
-  "headline": "Rumors Swirl About Dodge's Big NASCAR Comeback \ud83c\udfc1\ud83c\udfce\ufe0f",
-  "summary": "Reports indicate that Dodge is gearing up for a major NASCAR return, aiming to compete in the Daytona 500 next February.",
-  "verified": "unconfirmed",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812144/dodge-nascar-return-2027-season/"
- },
- {
-  "date": "2026-10-15T22:14:49.939535+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Star-Studded Premiere for Klara and the Sun at BFI London Film Festival",
-  "summary": "Taika Waititi's 'Klara and the Sun' held its star-studded red carpet premiere at the 70th BFI London Film Festival with Jenna Ortega, Amy Adams, and Florence Pugh in attendance.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/gallery/klara-and-the-sun-red-carpet-premiere-photos/"
- },
- {
-  "date": "2026-10-15T22:14:49.939535+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Major Update Dropped for Netflix's R-Rated Military Action Sequel",
-  "summary": "A star from 'Tulsa King' has provided a new official update regarding the upcoming R-rated Netflix thriller sequel.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/triple-frontier-2-sequel-update-garrett-hedlund/"
- },
- {
-  "date": "2026-10-15T22:14:49.939535+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Massive Sci-Fi Franchise Sets Theatrical Return For 2027",
-  "summary": "A major $160 million sci-fi franchise has officially scheduled its theatrical return for February 2027.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/gundam-seed-freedom-zero-release-details/"
- },
- {
-  "date": "2026-10-15T22:14:49.939535+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "The Simpsons Changes Treehouse of Horror Format",
-  "summary": "The Simpsons is officially changing its Treehouse of Horror format for only the second time in 36 years.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/the-simpsons-change-treehouse-of-horror-halloween-2026-format/"
- },
- {
-  "date": "2026-10-15T22:14:49.939535+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "business",
-  "headline": "Netflix Secures Rights for FIFA World Cup 2030",
-  "summary": "Netflix is entering a new era after officially reaching a deal for the FIFA World Cup 2030.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/netflix-fifa-world-cup-2030-spain-exclusive-broadcast-rights/"
- },
- {
-  "date": "2026-10-15T22:14:49.939535+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "VisionQuest Actor Confirms Major MCU Character Return",
-  "summary": "Actor Tommy Star confirms the return of another major MCU character in VisionQuest.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/visionquest-joe-locke-billy-wiccan-return-ruaridh-mollica-confirmed/"
- },
- {
   "date": "2026-10-15T22:50:27.758344+00:00",
   "topic": "Tech News",
   "score": 7,
@@ -12626,5 +12505,38 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/samara-weaving-ready-or-not-2-here-i-come-streaming-hit-hulu-october-2026/"
+ },
+ {
+  "date": "2026-10-18T22:46:29.967735+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Breaking Down Starlink's Two Very Different $55 Plans",
+  "summary": "Starlink offers two distinct $55 plans that trade off download speeds and data caps.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2286681/starlink-residential-vs-roam-55-dollar-plan-how-different/"
+ },
+ {
+  "date": "2026-10-18T22:46:29.967735+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "Clint Eastwood's True Crime Thriller Heads to Netflix",
+  "summary": "Clint Eastwood's biographical crime thriller starring Paul Walter Hauser and Kathy Bates is arriving on Netflix.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/clint-eastwood-richard-jewell-streaming-netflix-november-2026/"
+ },
+ {
+  "date": "2026-10-18T22:46:29.967735+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "2026 Blockbuster Crowned Highest-Rated Movie Ever",
+  "summary": "An upcoming 2026 film has officially become the highest-rated movie in history following a record-breaking box office opening.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/you-can-see-everything-letterboxd-highest-rated-feature/"
  }
 ]
