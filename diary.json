@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-15T09:01:19.981698+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "business",
-  "headline": "Apple TV Streams F1 Free & Maps Updates Austin",
-  "summary": "Apple TV is offering F1 races at no extra charge while Apple Maps rolls out detailed city upgrades for Austin.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x6gktt/apple_tv_offers_f1_races_at_no_extra_charge_as/"
- },
- {
-  "date": "2026-10-15T09:01:19.981698+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Big Walk Developer Clarifies Xbox Omission",
-  "summary": "Developer House House explains why Big Walk is skipping the Xbox platform.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/big-walk-developer-explains-why-the-game-isnt-on-xbox"
- },
- {
-  "date": "2026-10-15T09:01:19.981698+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Big Walk Devs Address Xbox Boycott Reasons",
-  "summary": "House House links the absence of an Xbox version of Big Walk to the BDS boycott.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/big-walk-xbox-version-bds-boycott"
- },
- {
-  "date": "2026-10-15T09:01:19.981698+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Monster Hunter Wilds Demo Heading to Switch 2",
-  "summary": "Capcom is releasing a generous Monster Hunter Wilds prologue demo on Switch 2 next week.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-prologue-demo"
- },
- {
-  "date": "2026-10-15T09:01:19.981698+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Sneaky Porsche! Test Mule Previews 2028 Gas SUV \ud83d\ude99\ud83d\udca8",
-  "summary": "A Porsche Macan prototype disguised as an Audi Q5 has been spotted, previewing a 2028 combustion SUV strategy with gas, hybrid, and plug-in powertrains.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812043/porsche-gas-macan-replacement-spied/"
- },
- {
-  "date": "2026-10-15T09:01:19.981698+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "other",
-  "headline": "Stunning Silver Ferrari 308 GTS QV Classic \ud83c\udfce\ufe0f\u2728",
-  "summary": "A rare silver Ferrari 308 GTS QV is showcased in a classic car photo post.",
-  "verified": "official",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x6gk40/rarely_see_these_in_silverferrari_308_gts_qv_1600/"
- },
- {
-  "date": "2026-10-15T09:01:19.981698+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Thessaloniki Film Festival Announces 2026 Agora Works in Progress Lineup",
-  "summary": "Eleven titles have been selected for the 2026 Agora Works in Progress sessions at the upcoming Thessaloniki Film Festival.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/thessaloniki-2026-agora-works-in-progress-ioanna-karystiani-1237157892/"
- },
- {
-  "date": "2026-10-15T09:01:19.981698+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Christian Slater and Cast Join Zentropa's Dogma25 Film 'Incidents of Intimacy'",
-  "summary": "Trine Dyrholm, Christian Slater, and Dree Hemingway have been cast in Jesper Just's upcoming Dogma25 picture 'Incidents of Intimacy'.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/dyrholm-slater-hemingway-dogma25-incidents-of-intimacy-1237157889/"
- },
- {
   "date": "2026-10-15T09:57:10.708258+00:00",
   "topic": "Apple News",
   "score": 5,
@@ -15750,5 +15662,60 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/the-purge-new-comic-2027-blumhouse-idw-dark/"
+ },
+ {
+  "date": "2026-10-18T09:12:50.111501+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "other",
+  "headline": "Entire Museum Squeezed Onto Game Boy",
+  "summary": "An independent developer spent years porting an entire virtual museum onto a single Game Boy cartridge.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug"
+ },
+ {
+  "date": "2026-10-18T09:12:50.111501+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Behind The Making Of Star Wars Galactic Racer",
+  "summary": "BAFTA released a behind-the-scenes feature detailing how Fuse Games created Star Wars: Galactic Racer.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x8yk0z/how_star_wars_galactic_racer_was_made_with_fuse/"
+ },
+ {
+  "date": "2026-10-18T09:12:50.111501+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Worlds Explorers Drops Major Demo For Steam Next Fest",
+  "summary": "Pioneers Games released a major demo for their sci-fi survival colony sim Worlds Explorers ahead of Steam Next Fest.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1x8yjkv/worlds_explorers_pioneers_games_a_scifi_survival/"
+ },
+ {
+  "date": "2026-10-18T09:12:50.111501+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Star Wars Fan-Fiction Rom-Com Tops Streaming Charts",
+  "summary": "Prime Video's new sci-fi-inspired rom-com, which originated as Star Wars fan-fiction, is officially the No. 1 movie on streaming.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/the-love-hypothesis-streaming-hit-prime-video-october-2026/"
+ },
+ {
+  "date": "2026-10-18T09:12:50.111501+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "The Legend of Zelda: The Wind Waker Gets Massive $755 Release",
+  "summary": "A remarkably expensive new $755 edition of The Legend of Zelda: The Wind Waker has been officially announced.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/legend-of-zelda-wind-waker-red-lions-statue/"
  }
 ]
