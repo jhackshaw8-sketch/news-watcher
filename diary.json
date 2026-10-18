@@ -1,137 +1,5 @@
 [
  {
-  "date": "2026-10-15T10:57:23.099847+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "legal",
-  "headline": "OpenAI Agrees to Withhold Use of Apple Trade Secrets Amid Legal Battle",
-  "summary": "OpenAI has agreed not to use Apple's trade secrets while facing a likely injunction in an ongoing legal battle.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/15/openai-swears-it-wont-use-the-apple-trade-secrets-it-seemingly-admits-it-has?utm_source=rss"
- },
- {
-  "date": "2026-10-15T10:57:23.099847+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Big Walk Skips Xbox Due to BDS Boycott",
-  "summary": "Developer House House is skipping an Xbox release for Big Walk to align with the Pro-Palestinian BDS boycott against Microsoft.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/big-walk-skipping-xbox-palestinian-bds-boycott/"
- },
- {
-  "date": "2026-10-15T10:57:23.099847+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Riot Games Closes League of Legends Classic Mode",
-  "summary": "Riot Games is shutting down League of Legends Classic after nearly three months, with potential plans to return as an event mode.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/league-of-legends/riot-calls-time-on-league-of-legends-classic-after-almost-3-months-because-most-fans-have-gone-back-to-other-parts-of-league/"
- },
- {
-  "date": "2026-10-15T10:57:23.099847+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Big Walk Developer Skips Xbox to Protest Microsoft",
-  "summary": "Developer House House explained that it withheld its popular game Big Walk from Xbox consoles to boycott Microsoft's involvement with Israel.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott"
- },
- {
-  "date": "2026-10-15T10:57:23.099847+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "business",
-  "headline": "Jaguar Explains the Hard Reset Behind Killing Its Gas Cars \ud83d\uded1\ud83d\ude97",
-  "summary": "Jaguar provides insight into the strategic necessity behind completely discontinuing its internal combustion engine lineup to reset its brand.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812049/jaguar-why-axed-gas-cars/"
- },
- {
-  "date": "2026-10-15T10:57:23.099847+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "other",
-  "headline": "A Look Back at the Groundbreaking 1950 Rover JET1 Turbine Car \ud83d\udca8\ud83d\ude98",
-  "summary": "A showcase of the historic 1950 Rover JET1, notable for being the first car powered by a gas turbine engine.",
-  "verified": "reliable_reporter",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x6h1dv/1950_rover_jet1_1st_powered_by_a_gas_turbine/"
- },
- {
-  "date": "2026-10-15T10:57:23.099847+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "MK2 Films Picks Up New Shorts from Acclaimed Directors",
-  "summary": "MK2 Films has acquired the international sales rights for short films by directors Brady Corbet, Kleber Mendon\u00e7a Filho, and C\u00e9line Sciamma.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/mk2-brady-corbet-kleber-mendonca-filho-celine-sciamma-1236912755/"
- },
- {
-  "date": "2026-10-15T10:57:23.099847+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "launch",
-  "headline": "Meet Stunt Performer Molly Miller in New Featurette for 'Other Mommy'",
-  "summary": "Universal Pictures released a promotional featurette highlighting stunt performer Molly Miller for the upcoming theatrical release 'Other Mommy'.",
-  "verified": "official",
-  "source": "Universal Pictures (trailers)",
-  "link": "https://www.youtube.com/watch?v=cT4PltL58Ts"
- },
- {
-  "date": "2026-10-15T10:57:23.099847+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "update",
-  "headline": "Robert Pattinson Officially Addresses 'The Batman Part II' Production Delay",
-  "summary": "Robert Pattinson has addressed the production delay for 'The Batman Part II', confirming the team is taking a short break.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/the-batman-part-2-delay-robert-pattinson-update/"
- },
- {
-  "date": "2026-10-15T10:57:23.099847+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Making a Serial Killer Season 3 Greenlit",
-  "summary": "Radial Entertainment has greenlit a third season of its true-crime series Making a Serial Killer following MIPCOM.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/radial-entertainment-making-serial-killer-season-3-1237157927/"
- },
- {
-  "date": "2026-10-15T10:57:23.099847+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Xbox Officially Unveils Major New Hardware",
-  "summary": "Microsoft has officially unveiled a new piece of hardware for the Xbox gaming platform with an upcoming release date.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/xbox-new-hardware-nano-controller/"
- },
- {
-  "date": "2026-10-15T10:57:23.099847+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Pok\u00e9mon Ruby & Sapphire Switch Ports Confirmed",
-  "summary": "Pok\u00e9mon Ruby and Sapphire ports have been officially confirmed for the Nintendo Switch in a new update.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/pokemon-ruby-sapphire-switch-ports-gba-teased/"
- },
- {
   "date": "2026-10-15T11:20:35.553110+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -15508,5 +15376,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/call-of-duty-black-ops-zombies-browser-game/"
+ },
+ {
+  "date": "2026-10-18T11:11:05.588955+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Batman: The Animated Series Returns in New Game",
+  "summary": "Batman: The Animated Series is officially returning in a new video game adaptation.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/batman-animated-series-official-return-confirmed/"
+ },
+ {
+  "date": "2026-10-18T11:11:05.588955+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Pok\u00e9mon Unveils New 30th Anniversary Eeveelution Designs",
+  "summary": "The Pok\u00e9mon Company has officially unveiled new Eeveelution designs to celebrate the upcoming 30th anniversary.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/pokemon-30th-anniversary-eeveelution-designs-tcg/"
  }
 ]
