@@ -1,247 +1,5 @@
 [
  {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Street Fighter Movie Hits Theaters This Friday",
-  "summary": "The new Street Fighter movie is heading to theaters this Friday amid poor Rotten Tomatoes scores.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/live-action-movies/street-fighter-movies-terrible-rotten-tomatoes-score-takes-us-back-to-the-old-days-of-bad-video-game-movies/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Important Community Decompilation Tool Shuts Down Over AI Abuse",
-  "summary": "A major community decompilation tool has shut down due to an influx of low-effort AI abuse by bad actors.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/the-community-aspect-of-decompilation-has-been-broken-by-a-wave-of-low-effort-ai-slop-and-now-a-major-community-tool-is-shutting-down/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Ex-Valve Dev Criticizes Epic's Store Update and Tim Sweeney",
-  "summary": "An ex-Valve developer has criticized Epic Games' updated store launcher and Tim Sweeney's recent remarks about Gabe Newell.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/little-tim-is-so-obsessed-with-gabe-ex-valve-dev-not-impressed-by-epics-updated-steam-rival-or-tim-sweeneys-latest-dig-at-gabe-newell/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "other",
-  "headline": "Trump Shares AI-Edited Photo of White House Renovations",
-  "summary": "President Trump shared an AI-edited image on Truth Social while highlighting White House restoration efforts.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "NASA Adopts 'Super Intelligence' Term in New Job Title",
-  "summary": "NASA has updated a job title to include the term 'Super Intelligence' for a Chief Data and Super Intelligence Officer role.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6xsb6/nasa_has_now_begun_using_the_term_super/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "FTC Sues Major Ticket Broker Over Unlawful Bulk Purchasing Tactics",
-  "summary": "The FTC is suing a ticket broker for using unlawful tactics and bypassing security measures to purchase millions of tickets.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6xk0c/ftc_sues_ticket_broker_over_unlawful_tactics_used/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "other",
-  "headline": "Researchers Detect Rogue AI Fleet Probing Alibaba",
-  "summary": "Researchers have discovered a fleet of rogue AIs probing Alibaba's systems.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6wzxl/researchers_find_chinese_fleet_of_rogue_ai/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Amazon Announces Conversational AI Wristband",
-  "summary": "Amazon has revealed a new AI-powered wristband that listens to conversations and remembers information for the user.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6wpff/amazon_reveals_ai_wrist_band_that_listens_to_your/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "Accenture Limits Employee Claude AI Spending to $29 Monthly",
-  "summary": "Accenture has capped employee spending on Anthropic's Claude AI assistant at $29 per month.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6v7tg/accenture_tells_employees_they_can_now_spend_only/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Ukraine Unveils 'StarGate' Drone for Wounded Soldier Evacuation",
-  "summary": "The Associated Press got an exclusive look at Ukraine's newly developed 'StarGate' aerial drone designed to evacuate wounded soldiers.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6v6qs/ap_gets_exclusive_look_at_stargate_ukraines_first/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Zelenskyy Slams Starlink Restrictions as a Serious Mistake",
-  "summary": "Ukrainian President Zelenskyy has strongly criticized recent Starlink service restrictions.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6v0a2/this_is_a_serious_mistake_zelenskyy_slams/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "legal",
-  "headline": "Montana Drought Sparks Push for Data Center Water Reviews",
-  "summary": "A severe drought in Montana is prompting calls for increased state review of data center water consumption.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6uwld/montana_drought_fuels_push_for_data_center_water/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "update",
-  "headline": "BIPM Officially Announces the End of Leap Seconds",
-  "summary": "The International Bureau of Weights and Measures (BIPM) has officially announced the discontinuation of leap seconds.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6ugfx/bipm_announces_the_end_of_leap_seconds/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Flock CEO Defends Surveillance Tech Amid National Backlash",
-  "summary": "The CEO of Flock has defended the company's surveillance technology amid growing national backlash.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6u5u1/flock_ceo_defends_surveillance_technology_amid/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "TSMC Open to Terafab Partnership Under Strict Plant Control",
-  "summary": "TSMC has stated it is open to working with Terafab on the condition that TSMC maintains control over the plants.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6tuln/tsmc_open_to_working_with_terafab_but_must/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "OpenAI London Staff Reportedly Average \u00a32.3M Annual Compensation",
-  "summary": "OpenAI's staff based in London reportedly receive an average of \u00a32.3 million per person annually.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6tix9/openais_london_staff_receive_average_of_23m_per/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "update",
-  "headline": "Google's Quantum Willow Chip Advances With 'Magic States'",
-  "summary": "Google's quantum Willow chip shows potential to grow 'magic states', improving calculation accuracy for quantum computers.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6th5j/googles_quantum_willow_chip_may_be_able_to_grow/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Crystal Lake Finale Tackles Friday the 13th Plot Hole",
-  "summary": "The finale of Crystal Lake attempts to address a long-standing plot hole from the Friday the 13th franchise.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2287854/crystal-lake-finale-friday-the-13th-plot-hole-jason-growth/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Fourth Wing Series Finds Its Violet and Xaden",
-  "summary": "Prime Video has officially cast the lead roles of Violet and Xaden for its upcoming Fourth Wing fantasy series.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/prime-video-fourth-wing-series-cast-violet-xaden-esther-mcgregor-emilio-sakraya/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Emilio Sakraya Cast as Xaden Riorson in Fourth Wing Series",
-  "summary": "Emilio Sakraya has been cast as Xaden Riorson in Amazon Prime Video's upcoming TV adaptation of 'Fourth Wing'.",
-  "verified": "reliable_reporter",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/news/fourth-wing-tv-series-xaden-riorson-emilio-sakraya-1236905893/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "Fourth Wing Finds Its Leads: Esther McGregor & Emilio Sakraya",
-  "summary": "Esther McGregor and Emilio Sakraya have been officially cast as the leads, Violet and Xaden, in Prime Video's 'Fourth Wing' series.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/xaden-violet-fourth-wing-cast-leads-prime-video-adaptation-1237156221/"
- },
- {
-  "date": "2026-10-15T21:18:43.112356+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Prime Video Announces Main Cast for Fourth Wing Adaptation",
-  "summary": "Prime Video's upcoming 'Fourth Wing' series has officially cast its main characters, Violet Sorrengail and Xaden Riorson.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/fourth-wing-series-xaden-violet-emilio-sakraya-esther-mcgregor/"
- },
- {
   "date": "2026-10-15T21:53:50.809000+00:00",
   "topic": "Apple News",
   "score": 5,
@@ -13011,5 +12769,60 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/cyberpunk-2077-tcg-retail-october-30/"
+ },
+ {
+  "date": "2026-10-18T21:48:25.135449+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Tulsa King Season 4 Premieres",
+  "summary": "Taylor Sheridan's Tulsa King has officially returned for a new season.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/tulsa-king-season-4-vs-mobland-season-2-streaming-success-paramount-plus-october-2026/"
+ },
+ {
+  "date": "2026-10-18T21:48:25.135449+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Christopher Nolan Epic Conquers Apple TV",
+  "summary": "Christopher Nolan's latest epic achieves strong streaming success on Apple TV following its theatrical run.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/the-odyssey-streaming-success-apple-tv-october-2026/"
+ },
+ {
+  "date": "2026-10-18T21:48:25.135449+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "DC's Clayface Movie Expands Batman's Rogues Gallery",
+  "summary": "An upcoming DC Clayface movie could introduce more diverse live-action villains to Batman's cinematic world.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/dc-clayface-movie-batman-live-action-villains-problem/"
+ },
+ {
+  "date": "2026-10-18T21:48:25.135449+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Mike Flanagan Shares Verdict on DC's R-Rated Batman Villain Movie",
+  "summary": "Director Mike Flanagan has shared his official verdict on DC Studios' upcoming R-rated Batman villain movie.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/clayface-mike-flanagan-letterboxd-review/"
+ },
+ {
+  "date": "2026-10-18T21:48:25.135449+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "A24 Teams With Jesse Eisenberg for His First TV Show",
+  "summary": "A24 is partnering with Jesse Eisenberg for his very first television show as director, writer, and producer.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/jesse-eisenberg-tv-show-a24-development/"
  }
 ]
