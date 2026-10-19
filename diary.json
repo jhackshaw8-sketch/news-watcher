@@ -1,203 +1,5 @@
 [
  {
-  "date": "2026-10-16T02:18:10.546183+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Squadron 42 Opens for Steam Wishlists Ahead of 2027 Release",
-  "summary": "Squadron 42, the single-player Star Citizen spin-off, is now available to wishlist on Steam ahead of its planned Q2 2027 release.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release"
- },
- {
-  "date": "2026-10-16T02:18:10.546183+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "The Housemaid's Secret Officially Scheduled for 2027 Release",
-  "summary": "Lionsgate has greenlit 'The Housemaid's Secret' as a sequel to Paul Feig's upcoming 'The Housemaid', with the release slated for 2027 and original cast and crew returning.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/feature/the-housemaid-2-movie-news-updates-sequel-adaptation-1237045522/"
- },
- {
-  "date": "2026-10-16T02:18:10.546183+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Ben Affleck Overtakes Russell Crowe on Netflix Viewership Charts",
-  "summary": "Russell Crowe's recent crime thriller on Netflix has dropped from the top streaming spot, overtaken by Ben Affleck's project after two strong weeks.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/unabomber-russell-crowe-mindhunter-replacement-streaming-drop-netflix-october-2026/"
- },
- {
-  "date": "2026-10-16T02:18:10.546183+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Peter Rice to Lead LA28 Ceremonies While Joining Netflix",
-  "summary": "Netflix's new content chief Peter Rice will continue as the Executive Producer of the LA28 Opening and Closing Ceremonies.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/peter-rice-remains-la28-opening-closing-ceremonies-ep-1237159010/"
- },
- {
-  "date": "2026-10-16T02:18:10.546183+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Peacock's Crystal Lake Reshapes Friday the 13th Lore",
-  "summary": "Peacock's Crystal Lake series revives the original Friday the 13th killer, reshaping the timeline and setting up a potential second season.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/crystal-lake-friday-the-13th-timeline-lore-changes-ending-explained/"
- },
- {
-  "date": "2026-10-16T02:18:10.546183+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Six Flags Retains Final Destination Maze for Fright Fest",
-  "summary": "Six Flags has decided to keep its Final Destination maze in the Fright Fest lineup despite a recent tragic incident in Georgia.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x73vhe/six_flags_keeps_final_destination_maze_in_fright/"
- },
- {
-  "date": "2026-10-16T02:18:10.546183+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Dungeons & Dragons Releases Brand-New Genre Expansion",
-  "summary": "A new Dungeons & Dragons expansion has officially launched, featuring an entirely free download for interested players.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/dungeons-dragons-project-lamordia-free-download-survival-horror/"
- },
- {
-  "date": "2026-10-16T02:18:10.546183+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Comcast Makes Million-Dollar Donation for White House Ballroom",
-  "summary": "Comcast reportedly donated $7.5 million toward the construction of a new White House ballroom.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x719i7/comcast_donated_75_million_for_donald_trumps/"
- },
- {
-  "date": "2026-10-16T02:18:10.546183+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Hudson Williams and Zach Galifianakis Join The Assembly Season 2",
-  "summary": "Hudson Williams and Zach Galifianakis have been officially confirmed to star in the upcoming second season of The Assembly.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x6zozx/hudson_williams_zach_galifianakis_set_for_the/"
- },
- {
-  "date": "2026-10-16T02:18:10.546183+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "business",
-  "headline": "Steven Soderbergh Joins Matt Reeves for The Batman Part II Filming",
-  "summary": "Steven Soderbergh is stepping in to work with Matt Reeves to complete the final weeks of principal photography on The Batman Part II.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x6zdl5/steven_soderbergh_to_work_with_matt_reeves_to/"
- },
- {
-  "date": "2026-10-16T02:55:49.241850+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "legal",
-  "headline": "iPhone Anodization Trade Secret Lawsuit Faces Appeal",
-  "summary": "Apple's legal victory in a trade secret lawsuit regarding the iPhone's anodization process is now facing an appeal.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/16/trade-secret-lawsuit-on-iphones-anodization-process-now-being-appealed?utm_source=rss"
- },
- {
-  "date": "2026-10-16T02:55:49.241850+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "New Unverified GTA 6 Footage Surfaces Online",
-  "summary": "New unverified leaks and footage allegedly from GTA 6 featuring character Lucia have surfaced online.",
-  "verified": "unconfirmed",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video"
- },
- {
-  "date": "2026-10-16T02:55:49.241850+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "SPINE Details Customization Features in New Announcement",
-  "summary": "Developers of SPINE have released a new announcement detailing the game's customization features.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x72quf/spine_customization_announcement/"
- },
- {
-  "date": "2026-10-16T02:55:49.241850+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Phasmophobia Crosses 30 Million Sales Milestone",
-  "summary": "Phasmophobia hits a major milestone with over 30 million sales alongside the return of its Halloween event.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event"
- },
- {
-  "date": "2026-10-16T02:55:49.241850+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Satellite Odyssey: Jupiter Drops Official Gameplay Trailer",
-  "summary": "An official gameplay trailer has been released for Satellite Odyssey: Jupiter.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x728qd/satellite_odyssey_jupiter_official_gameplay/"
- },
- {
-  "date": "2026-10-16T02:55:49.241850+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "legal",
-  "headline": "New Legislation Aims to Guarantee Digital Game Ownership",
-  "summary": "Rep. Torres has introduced the Power To The Players Act to ensure digital game ownership for consumers.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x71u8a/rep_torres_announces_power_to_the_players_act/"
- },
- {
-  "date": "2026-10-16T02:55:49.241850+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "CD-R Racing Announces Official Trailer \ud83d\ude97\ud83c\udfc1",
-  "summary": "An official announcement trailer has been released for the upcoming racing game CD-R Racing.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x70msn/cdr_racing_official_announcement_trailer/"
- },
- {
-  "date": "2026-10-16T02:55:49.241850+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Tesla Roadster Returns With Mind-Blowing Specs! \ud83c\udfce\ufe0f\u26a1",
-  "summary": "Elon Musk has showcased an updated Tesla Roadster boasting jaw-dropping performance claims, leaving enthusiasts wondering if it will finally reach production.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2288442/2028-tesla-roadster-reveal/"
- },
- {
   "date": "2026-10-16T03:17:42.692414+00:00",
   "topic": "Tech News",
   "score": 8,
@@ -12296,5 +12098,16 @@
   "verified": "official",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/simpsons-new-apu-actor-1237167332/"
+ },
+ {
+  "date": "2026-10-19T02:56:04.075263+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Pokemon Returns to Galar in 2027 with New Series on Disney Plus",
+  "summary": "Pokemon Tales: The Misadventures of Sirfetch'd & Pichu is officially announced for a 2027 release alongside a major streaming deal on Disney Plus.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/pokemon-sirfetchd-pichu-animated-series-streaming-disney-plus-2027/"
  }
 ]
