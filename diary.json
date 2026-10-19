@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-16T12:17:27.180834+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Cyberpunk 2 Director Discusses Evolution of the Sequel's Vision",
-  "summary": "The Cyberpunk 2 director discusses how the dystopian RPG's vision has evolved during development at CD Projekt Red.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/cyberpunk/cyberpunk-2-boss-says-the-dystopian-rpg-has-evolved-beyond-his-original-idea-and-i-look-forward-to-sharing-that-when-it-releases/"
- },
- {
-  "date": "2026-10-16T12:17:27.180834+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Microsoft Surface Laptop Ultra Reviewed",
-  "summary": "Microsoft's new Surface Laptop Ultra is reviewed as an ultra-expensive $5,900 device.",
-  "verified": "reliable_reporter",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review"
- },
- {
-  "date": "2026-10-16T12:17:27.180834+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "'Toy Story 5' Director Reveals Behind-the-Scenes Story Overhaul",
-  "summary": "Co-director Kenna Harris discusses her journey to Pixar's 'Toy Story 5' and a crucial two-week script rewrite that shaped the sequel.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/toy-story-5-kenna-harris-jessie-pixar-andrew-stanton-1236913889/"
- },
- {
-  "date": "2026-10-16T12:17:27.180834+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Michael Fassbender's Sci-Fi Epic 'Hope' Hits Digital Streaming",
-  "summary": "Michael Fassbender's R-rated sci-fi blockbuster 'Hope' is now officially available for digital streaming.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/michael-fassbender-sci-fi-hope-streaming-pvod-october-2026/"
- },
- {
-  "date": "2026-10-16T12:17:27.180834+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Pok\u00e9mon Reveals Stunning Growlithe Redesign for 30th Anniversary",
-  "summary": "The Pok\u00e9mon Company has officially unveiled a new Growlithe redesign to celebrate the franchise's 30th anniversary.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/pokemon-growlithe-redesign-30th-anniversary/"
- },
- {
-  "date": "2026-10-16T12:17:27.180834+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Godzilla Announces Powerful New Obsidian Mechagodzilla",
-  "summary": "A brand new Obsidian Mechagodzilla has been officially announced as part of a crossover story event.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/godzilla-new-mechagodzilla-obsidian-sonic/"
- },
- {
-  "date": "2026-10-16T12:17:27.180834+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Al Pacino and Robert De Niro's Heat Getting 2026 Netflix Revival",
-  "summary": "The 1990s crime classic Heat is receiving a revival via Netflix's streaming roster additions.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/heat-al-pacino-robert-de-niro-netflix-arrival-today/"
- },
- {
   "date": "2026-10-16T13:09:42.843167+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -11922,5 +11845,126 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/pokemon-30th-anniversary-art-books-december-2026/"
+ },
+ {
+  "date": "2026-10-19T12:30:24.944032+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Apple Photos Privacy Lawsuit Moves Forward After Judge's Ruling",
+  "summary": "A massive class-action lawsuit against Apple regarding iPhone Photos privacy under the Illinois Biometric Privacy Act has been partially pared down but will continue.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/19/apple-photos-faceprint-privacy-lawsuit-pared-down-a-bit-will-continue?utm_source=rss"
+ },
+ {
+  "date": "2026-10-19T12:30:24.944032+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Report Claims Extraordinary Early Demand for iPhone Duo",
+  "summary": "Reports estimate extraordinary demand for the new iPhone Duo with an estimated 6 million units.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x9v11w/apple_iphone_duo_demand_extraordinary_6m_est_2026/"
+ },
+ {
+  "date": "2026-10-19T12:30:24.944032+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "Apple Releases New AirPods Beta Firmware",
+  "summary": "Apple has rolled out new AirPods beta firmware for various models, including the AirPods Pro 3.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/13/apple-rolls-out-new-airpods-beta-firmware-for-several-models-including-airpods-pro-3/"
+ },
+ {
+  "date": "2026-10-19T12:30:24.944032+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Final Fantasy 7 Director Announces Major Hard Mode Changes",
+  "summary": "The director of Final Fantasy 7 Remake has announced significant improvements coming to the game's Hard Mode.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/final-fantasy-7-revelation-hard-difficulty-changes-dynamic-mode/"
+ },
+ {
+  "date": "2026-10-19T12:30:24.944032+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "Witcher 3 Switch 2 Patch Rolls Out With Visual Upgrades",
+  "summary": "CD Projekt Red is rolling out a new Witcher 3 patch for the Switch 2 featuring resolution and visual clarity improvements.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/witcher-3-switch-2-patch-update-resolution-brightness"
+ },
+ {
+  "date": "2026-10-19T12:30:24.944032+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Stratospheric Airship Tests Sky Cell Tower Concept",
+  "summary": "Sceye successfully flew a stratospheric airship from the US to Japan to test its high-flying platform for disaster connectivity.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/"
+ },
+ {
+  "date": "2026-10-19T12:30:24.944032+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "launch",
+  "headline": "Stunning High-Res Look at the New Ferrari F80 \ud83c\udfce\ufe0f\ud83d\udd25",
+  "summary": "A high-resolution image showcases the striking design and presence of the new Ferrari F80 supercar.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x9v4ns/ferrari_f80_3375x3375/"
+ },
+ {
+  "date": "2026-10-19T12:30:24.944032+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "legal",
+  "headline": "Russell Brand Trial Testimony Continues",
+  "summary": "Testimony continued on day six of Russell Brand's rape trial at London's Southwark Crown Court.",
+  "verified": "reliable_reporter",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/russell-brand-oral-rape-swap-number-1237167382/"
+ },
+ {
+  "date": "2026-10-19T12:30:24.944032+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "update",
+  "headline": "Marvel Reveals Magneto's New X-Men Team",
+  "summary": "Marvel has officially revealed the full roster, team name, and matching costumes for Magneto's new X-Men team.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/x-men-new-team-magneto-midnight/"
+ },
+ {
+  "date": "2026-10-19T12:30:24.944032+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Harry Potter Season 1 Budget Reportedly Massive",
+  "summary": "A new report indicates that the budget for HBO's upcoming Harry Potter season 1 surpasses major Warner Bros. adaptations.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/hbo-harry-potter-season-1-budget-report/"
+ },
+ {
+  "date": "2026-10-19T12:30:24.944032+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "The Witcher 4 Official Map Size Detailed",
+  "summary": "CD Projekt RED has provided a promising update regarding the official map size for The Witcher 4.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/witcher-4-official-map-size-confirmed-opinion/"
  }
 ]
