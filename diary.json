@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-16T23:45:17.625844+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "business",
-  "headline": "Verizon To Charge $10 Monthly Fee For iPhone Handoff",
-  "summary": "Verizon is planning to charge customers $10 per month for the iPhone Handoff feature introduced in iOS 27.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/16/verizon-iphone-handoff-cost/"
- },
- {
-  "date": "2026-10-16T23:45:17.625844+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Netflix Executive Hire Signals Culture Shift in Hollywood",
-  "summary": "The hiring of Peter Rice at Netflix sparks discussions about shifting corporate cultures and executive roles in Hollywood.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/columns/peter-rice-hired-by-netflix-ted-sarandos-1236914367/"
- },
- {
-  "date": "2026-10-16T23:45:17.625844+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Inside the Survival Tale and Father-Son Dynamics of 'Whalefall'",
-  "summary": "Director Brian Duffield and author Daniel Kraus discuss the father-son survival themes in the newly released film Whalefall.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/whalefall-dad-son-themes-director-author-explain-set-visit-1237158531/"
- },
- {
-  "date": "2026-10-16T23:45:17.625844+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Michael Jackson Documentary 'Spectacle' Sets 2027 Streaming Date",
-  "summary": "The upcoming Michael Jackson documentary Spectacle has officially set a streaming release date on Hulu and ESPN for February 2027.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/michael-jackson-spectacle-super-bowl-documentary-release-date-hulu-2027/"
- },
- {
-  "date": "2026-10-16T23:45:17.625844+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "launch",
-  "headline": "David Oyelowo's 'Treasure Island' Becomes a Global Streaming Hit",
-  "summary": "The new pirate adventure series Treasure Island, starring David Oyelowo, has become an instant global streaming hit on Paramount+ and MGM+.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/david-oyelowo-treasure-island-streaming-success-mgm-plus-october-2026/"
- },
- {
-  "date": "2026-10-16T23:45:17.625844+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Marvel Boss Teases Future for 'Wonder Man' After Cancellation",
-  "summary": "Marvel TV boss Brad Winderbaum remains hopeful about the future of Wonder Man following the show's season 2 cancellation.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/marvel-wonder-man-future-brad-winderbaum/"
- },
- {
-  "date": "2026-10-16T23:45:17.625844+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "legal",
-  "headline": "Timothy Busfield Indictment Tossed Out",
-  "summary": "The sex abuse indictment against actor Timothy Busfield has been dismissed due to prosecutorial misconduct.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x7vfmq/timothy_busfield_sex_abuse_indictment_tossed_over/"
- },
- {
   "date": "2026-10-17T00:10:22.473724+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -13055,5 +12978,159 @@
   "verified": "official",
   "source": "r/carporn",
   "link": "https://www.reddit.com/r/carporn/comments/1x5piry/porsche_911_gt3_rs_3239x3239/"
+ },
+ {
+  "date": "2026-10-19T23:52:56.975244+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Apple Announces October 28 Pro and Tell Product Launch Event",
+  "summary": "Apple is planning a media hands-on event in Los Angeles on October 28 to announce a second wave of new products.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/"
+ },
+ {
+  "date": "2026-10-19T23:52:56.975244+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "Apple Limits U.S. iPhone Duo Purchases to Two Per Customer",
+  "summary": "Apple has introduced a purchase limit restricting U.S. customers to a maximum of two iPhone Duo units per order.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/19/iphone-duo-order-limit-us/"
+ },
+ {
+  "date": "2026-10-19T23:52:56.975244+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Ex-Disco Elysium Devs Form New Studio",
+  "summary": "Former Disco Elysium developers have launched a new player- and developer-owned studio called Summer Eternal.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/summer-eternal-studio-structure-player-non-profit"
+ },
+ {
+  "date": "2026-10-19T23:52:56.975244+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Anthropic and Nscale Discussing Another Massive $45B Compute Deal",
+  "summary": "AI startup Anthropic is reportedly in talks with Nscale for a second massive $45 billion compute deal.",
+  "verified": "unconfirmed",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+ },
+ {
+  "date": "2026-10-19T23:52:56.975244+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Subtle Refresh for the Range Rover After Five Years \ud83d\ude99\u2728",
+  "summary": "The Range Rover is receiving a subtle five-year refresh featuring minor front-end tweaks, an updated interior, and familiar powertrains.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2291237/2027-range-rover-spied-nurburgring/"
+ },
+ {
+  "date": "2026-10-19T23:52:56.975244+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "A24 Launches Oscar Campaign for 'You Can See Everything'",
+  "summary": "A24 launches the official Oscar campaign categories for the documentary 'You Can See Everything'.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/awards/you-can-see-everything-oscars-eligibility-awards-1236916699/"
+ },
+ {
+  "date": "2026-10-19T23:52:56.975244+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "update",
+  "headline": "The Coen Brothers Tease Official Movie Reunion",
+  "summary": "Joel and Ethan Coen have teased a potential reunion to work on a new movie set in Minneapolis.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/the-coen-brothers-reunion-film-lumiere-film-festival/"
+ },
+ {
+  "date": "2026-10-19T23:52:56.975244+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Hideo Kojima Officially Joins 'Cyberpunk: Edgerunners 2'",
+  "summary": "Hideo Kojima is officially returning to voice his character Hideyoshi Oshima in 'Cyberpunk: Edgerunners 2'.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/cyberpunk-edgerunners-2-hideo-kojima-cameo-hideyoshi-oshima/"
+ },
+ {
+  "date": "2026-10-19T23:52:56.975244+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Deborah Ann Woll Discusses Karen Page's Future",
+  "summary": "Deborah Ann Woll shares her thoughts on Karen Page's future following the events of 'Daredevil: Born Again'.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/daredevil-season-3-ending-karen-page-fate-deborah-ann-woll/"
+ },
+ {
+  "date": "2026-10-19T23:52:56.975244+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Shrinking Season 4 Hits Filming Milestone",
+  "summary": "Apple TV's Shrinking has reached a major filming milestone as it enters production for season 4.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/shrinking-season-4-filming-wrapped-confirmed-jessica-williams/"
+ },
+ {
+  "date": "2026-10-19T23:52:56.975244+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "legal",
+  "headline": "Russell Brand Trial Updates Emerge in Court",
+  "summary": "Court proceedings detail severe allegations against Russell Brand regarding a historical sexual assault case.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1xad1zq/russell_brand_had_maniacal_grin_as_he_dragged/"
+ },
+ {
+  "date": "2026-10-19T23:52:56.975244+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "The Gilded Age Loses Two Cast Members for Season 4",
+  "summary": "HBO's The Gilded Age will not be bringing back two supporting characters for its upcoming fourth season.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/the-gilded-age-characters-not-returning-season-4-1237168161/"
+ },
+ {
+  "date": "2026-10-19T23:52:56.975244+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "other",
+  "headline": "Model Sahara Ray Passes Away at 34",
+  "summary": "Model Sahara Ray has passed away at the age of 34.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1xacaqo/model_sahara_ray_dead_at_34/"
+ },
+ {
+  "date": "2026-10-19T23:52:56.975244+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Tulsa King Teases Major Season 5 Shifts",
+  "summary": "Tulsa King is reportedly planning major genre and behind-the-scenes shifts for its fifth season.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/tulsa-king-season-5-new-york-genre-change/"
  }
 ]
