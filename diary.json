@@ -1,170 +1,5 @@
 [
  {
-  "date": "2026-10-16T01:03:18.627632+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Tenzing Premieres on Apple TV",
-  "summary": "Apple Original Films' new feature 'Tenzing', starring Tom Hiddleston and Willem Dafoe, is now available to stream on Apple TV.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/15/tenzing-premieres-on-apple-tv-starring-tom-hiddleston-and-willem-dafoe/"
- },
- {
-  "date": "2026-10-16T01:03:18.627632+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Apple Website Hints at Upcoming iPad Mini",
-  "summary": "Apple's French regulatory website accidentally listed an unreleased iPad mini Smart Folio case with a new model number, hinting at an upcoming iPad mini release.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/"
- },
- {
-  "date": "2026-10-16T01:03:18.627632+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Unreleased iPad Mini Accessory Spotted on Apple Site",
-  "summary": "An accidental listing on Apple's French website for an unreleased iPad mini accessory supports rumors of a new OLED iPad mini launching later this month.",
-  "verified": "reliable_reporter",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/15/apple-lists-unreleased-ipad-mini-accessory-ahead-of-rumored-launch/"
- },
- {
-  "date": "2026-10-16T01:03:18.627632+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Krafton Unveils PUBG Ded.Net With a New Roguelite Twist",
-  "summary": "Krafton hopes that their new pulpy gameshow hyperviolence and roguelite twist in PUBG Ded.Net will make it the next big battle royale hit.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale"
- },
- {
-  "date": "2026-10-16T01:03:18.627632+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "KDE Turns 30 With Plasma 6.8 and X11 Farewell",
-  "summary": "KDE celebrates its 30th anniversary by releasing Plasma 6.8, introducing remote upgrades and officially saying goodbye to X11.",
-  "verified": "official",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/"
- },
- {
-  "date": "2026-10-16T01:03:18.627632+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "The Beekeeper 2 Drops First Teaser and Release Date",
-  "summary": "Amazon MGM Studios released the first teaser for 'The Beekeeper 2,' starring Jason Statham, with a theatrical release date set for January 15, 2027.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/the-beekeeper-2-teaser-jason-statham-metallica-sequel-1237158966/"
- },
- {
-  "date": "2026-10-16T01:03:18.627632+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "launch",
-  "headline": "Arrow Streaming Now on Prime Video",
-  "summary": "Prime Video has added all eight seasons of the DC Comics TV series 'Arrow' to its streaming library.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2288416/stephen-amell-dc-comics-tv-series-arrow-streaming-prime-video/"
- },
- {
-  "date": "2026-10-16T01:03:18.627632+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Mayor of Kingstown Gains Traction on Netflix",
-  "summary": "Taylor Sheridan's crime thriller series 'Mayor of Kingstown' is finding a new audience on Netflix ahead of its fifth and final season.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/taylor-sheridan-mayor-of-kingstown-streaming-success-netfflix-october-2026/"
- },
- {
-  "date": "2026-10-16T01:03:18.627632+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "East of Eden Doubles Netflix Viewership",
-  "summary": "Netflix's adaptation of 'East of Eden,' starring Florence Pugh, has doubled its viewership numbers in its second week.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/florence-pugh-western-east-of-eden-streaming-success-netflix-october-2026/"
- },
- {
-  "date": "2026-10-16T01:03:18.627632+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "other",
-  "headline": "African Filmmakers Confront the AI Revolution",
-  "summary": "An article explores how African filmmakers are navigating the rising tide of artificial intelligence in the industry.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x722qm/tilly_nollywood_african_filmmakers_ready_or_not/"
- },
- {
-  "date": "2026-10-16T01:03:18.627632+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Luc Besson's Dracula Arrives on Paramount+",
-  "summary": "Luc Besson's 'Dracula' adaptation is officially making its way to Paramount+ following an overseas streaming run.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/luc-besson-dracula-streaming-success-paramount-plus-october-2026/"
- },
- {
-  "date": "2026-10-16T01:03:18.627632+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "The Odyssey Sets Home Media Release Date",
-  "summary": "Christopher Nolan's blockbuster hit 'The Odyssey,' which grossed $1.7 billion, is officially releasing on Blu-ray and 4K next month.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/christopher-nolan-the-odyssey-4k-blu-ray-release-date-november-2026/"
- },
- {
-  "date": "2026-10-16T01:03:18.627632+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Great British Bake Off Sparks Judge Retirement Talk",
-  "summary": "Recent episodes of 'The Great British Bake Off' spark discussions about potential changes to the judging panel.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/great-british-bake-off-season-17-paul-hollywood-nigella-lawson-judges/"
- },
- {
-  "date": "2026-10-16T01:03:18.627632+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Chris Rock's Misty Green Hits Theaters",
-  "summary": "An unofficial discussion thread details the A24 theatrical release of Chris Rock's film 'Misty Green' following its TIFF premiere.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x70uwo/unofficial_discussion_misty_green/"
- },
- {
-  "date": "2026-10-16T01:03:18.627632+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Zelda: Ocarina of Time Remake Map Size Officially Revealed",
-  "summary": "The world map size for the upcoming Legend of Zelda: Ocarina of Time remake has been officially revealed.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/zelda-ocarina-of-time-full-map-revealed/"
- },
- {
   "date": "2026-10-16T01:54:18.361907+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -12252,5 +12087,126 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/adventure-time-meets-stardew-valley-good-heavens/"
+ },
+ {
+  "date": "2026-10-19T01:07:02.006484+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "The Witcher 3 Gets PS5 Updates While Switch 2 Patch Looms",
+  "summary": "CD Projekt Red has released stability updates for The Witcher 3 on PS5 and PS5 Pro while confirming a Switch 2 patch is still in development.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch"
+ },
+ {
+  "date": "2026-10-19T01:07:02.006484+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Modern Warfare 4 DMZ Sparks Pay-to-Win Concerns With Paid Spawns",
+  "summary": "Call of Duty: Modern Warfare 4 reveals controversial paid spawn options for DMZ that grant paying players an advantage.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-paid-infil-spawn-options"
+ },
+ {
+  "date": "2026-10-19T01:07:02.006484+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Shrek 2 Remastered Officially Announced With New Multiplayer Features",
+  "summary": "A remastered version of Shrek 2 has been officially listed with upgraded graphics, new features, and multiplayer updates.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/shrek-2-remastered-game-microsoft-store-leak/"
+ },
+ {
+  "date": "2026-10-19T01:07:02.006484+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Marshals Season 2 Introduces a Classic Yellowstone Visual Motif",
+  "summary": "The third episode of Marshals Season 2 incorporates a recurring visual motif inspired by Taylor Sheridan's Yellowstone.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2288139/marshals-twist-taylor-sheridan-yellowstone-tradition/"
+ },
+ {
+  "date": "2026-10-19T01:07:02.006484+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "review",
+  "headline": "Marshals Season 2 Struggles to Find Its Identity in Latest Review",
+  "summary": "A review of the latest Marshals Season 2 episode suggests the Yellowstone procedural spin-off is still playing it too safe.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/marshals-season-2-episode-3-recap/"
+ },
+ {
+  "date": "2026-10-19T01:07:02.006484+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Widely Criticized Sci-Fi Film Becomes a Surprise Streaming Hit",
+  "summary": "Despite negative critical reception, a 2025 sci-fi film has become a surprise streaming hit.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/ice-cube-war-of-the-worlds-streaming-hit-peacock-october-2026/"
+ },
+ {
+  "date": "2026-10-19T01:07:02.006484+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Ready Player One Sequel Officially Announced With a Catch",
+  "summary": "A sequel to Steven Spielberg's Ready Player One is officially in development under unexpected circumstances.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/steven-spielberg-sci-fi-ready-player-one-sequel-graphic-novel-release-date-march-2027/"
+ },
+ {
+  "date": "2026-10-19T01:07:02.006484+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Rebecca Ferguson's Silo Returns to Apple TV Global Top 10",
+  "summary": "Rebecca Ferguson's acclaimed sci-fi series Silo has climbed back into Apple TV's global top 10 charts.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/rebecca-ferguson-silo-streaming-success-apple-tv-october-2026/"
+ },
+ {
+  "date": "2026-10-19T01:07:02.006484+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "The Simpsons Officially Recasts and Returns Apu After Nearly a Decade",
+  "summary": "The Simpsons has officially brought back the character Apu with a new voice actor, Sunil Malhotra, after a nearly decade-long hiatus.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/the-simpsons-apu-new-voice-sunil-malhotra-hank-azaria-1236915177/"
+ },
+ {
+  "date": "2026-10-19T01:07:02.006484+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Marvel Reveals a Surprising New Romance for Black Widow",
+  "summary": "Marvel has officially revealed a surprising new romance for Yelena Belova's Black Widow in a recent comic storyline.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/black-widow-venom-romance-marvel/"
+ },
+ {
+  "date": "2026-10-19T01:07:02.006484+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "The Simpsons Officially Recasts Fan-Favorite Character After 9 Years",
+  "summary": "The Simpsons has officially recast Apu Nahasapeemapetilon with voice actor Sunil Malhotra after nine years.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/the-simpsons-season-38-apu-recast-sunil-malhotra/"
  }
 ]
