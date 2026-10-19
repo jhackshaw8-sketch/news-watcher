@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-16T23:12:49.550127+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Apple Hires Meta Veteran as New Global Litigation Chief",
-  "summary": "Apple has hired former Meta executive Scott Tucker to lead its global litigation team amid a legal department shake-up.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/16/apple-poaches-longtime-meta-executive-to-lead-global-litigation/"
- },
- {
-  "date": "2026-10-16T23:12:49.550127+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "business",
-  "headline": "Apple Calls iPhone Duo Demand 'Extraordinary' as Backlogs Grow",
-  "summary": "Apple has described initial demand for the new iPhone Duo as extraordinary, with shipping estimates slipping into 2027.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/16/apple-iphone-duo-demand-extraordinary/"
- },
- {
-  "date": "2026-10-16T23:12:49.550127+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Fate/EXTRA Record Releases Volume 1 Trailer",
-  "summary": "A new promotional video titled Fate/EXTRA Record TIMES Vol.1 has been released for the upcoming game.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x7uggu/fateextra_record_times_vol1/"
- },
- {
-  "date": "2026-10-16T23:12:49.550127+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "PS5 Games Boot on Xbox Hardware via Emulation",
-  "summary": "PS5 games are reportedly booting on Xbox hardware through early emulation efforts.",
-  "verified": "reliable_reporter",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x7tlwr/ps5_games_are_now_booting_on_xbox_hardware_thanks/"
- },
- {
   "date": "2026-10-16T23:45:17.625844+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -13055,5 +13011,49 @@
   "verified": "official",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/jeff-daniels-bannerman-tv-series-amc-netflix-1237168116/"
+ },
+ {
+  "date": "2026-10-19T23:16:33.463142+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Robot Vacuums Raise Major Privacy and Data Security Concerns",
+  "summary": "An Engadget report highlights significant privacy concerns regarding microphones and cameras on modern robot vacuums and how data is handled.",
+  "verified": "reliable_reporter",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2288133/robot-vacuum-major-privacy-problem-you-should-know/"
+ },
+ {
+  "date": "2026-10-19T23:16:33.463142+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "update",
+  "headline": "End of an Era: Subaru Boxer Engine Reportedly Leaving Europe by 2027 \ud83d\uded1\ud83d\ude99",
+  "summary": "Subaru's iconic boxer engine will reportedly be phased out in Europe by 2027 as the brand transitions to an all-EV lineup.",
+  "verified": "unconfirmed",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812488/subaru-boxer-engine-dead-europe-2027/"
+ },
+ {
+  "date": "2026-10-19T23:16:33.463142+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "other",
+  "headline": "Stunning Shot of the Beastly BMW M3 Touring \ud83c\udfce\ufe0f\u2728",
+  "summary": "A high-resolution photo showcasing the sleek design of the BMW M3 Touring.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1xa451v/bmw_m3_touring_6000x4000/"
+ },
+ {
+  "date": "2026-10-19T23:16:33.463142+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "other",
+  "headline": "Track-Ready Perfection: The Porsche 911 GT3 RS \ud83c\udfc1\ud83d\udd25",
+  "summary": "A high-resolution image highlighting the aggressive aerodynamics and track-focused styling of the Porsche 911 GT3 RS.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x5piry/porsche_911_gt3_rs_3239x3239/"
  }
 ]
