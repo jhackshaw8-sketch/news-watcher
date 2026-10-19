@@ -1,181 +1,5 @@
 [
  {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "TSMC Chip Capacity Becomes Fierce Battleground",
-  "summary": "TSMC faces intense demand and competition for its advanced chip capacity as AI customers drive record financial quarters.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x75bv6/tsmc_chip_capacity_is_fierce_battleground_for_ai/"
- },
- {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "update",
-  "headline": "AI Vibe-Coding Shakes Up Game Development",
-  "summary": "The video game industry is experiencing a massive influx of AI-assisted 'vibe-coding' tools.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x74ygn/ai_vibecoding_just_hit_the_video_game_industry/"
- },
- {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "\ud83d\ude97\ud83d\udca8 Wild Claims Surface About Tesla Roadster Performance",
-  "summary": "A viral post or demonstration highlights extreme, exaggerated claims about the capabilities of the Tesla Roadster.",
-  "verified": "unconfirmed",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x74ac1/the_tesla_roadster_flew_drove_upside_down_and_hit/"
- },
- {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "White House Ordered Starshield Limits in Ukraine",
-  "summary": "Sources indicate the order to restrict Starshield usage in Ukraine originated from within the White House.",
-  "verified": "unconfirmed",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x73y9o/order_to_limit_starshield_for_ukraine_came_from/"
- },
- {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "BBC License Fee Faces Extension via YouTube Tax",
-  "summary": "The UK's BBC license fee faces proposals for an extension via a so-called YouTube tax.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x735ep/bbc_licence_fee_to_be_extended_with_youtube_tax/"
- },
- {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Yandex Adds Force Majeure Clause for Drone Attacks",
-  "summary": "Yandex updates its contractual terms by adding a force majeure clause covering war and drone attacks.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x733ox/yandex_adds_force_majeure_clause_covering_war_and/"
- },
- {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "business",
-  "headline": "Microsoft AI Chief Claims Superiority Over OpenAI",
-  "summary": "A Microsoft AI executive claims the company outperformed OpenAI using significantly less computing power.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x72w5m/microsoft_ai_chief_says_the_company_beat_openai/"
- },
- {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Texas Political Challenger Vows Data Center Moratorium",
-  "summary": "A political challenger in Texas campaigns on a proposed moratorium on new data center developments.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x72h5o/greg_abbotts_democratic_challenger_vows/"
- },
- {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "AI Analysts Criticize Anthropic Revenue Figures",
-  "summary": "AI industry observers react critically to Anthropic's recent revenue performance figures.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x72gsq/not_good_enough_its_over_the_ai_doomers_are_going/"
- },
- {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "other",
-  "headline": "The Pitfalls of Automated AI Job Applications",
-  "summary": "Job seekers utilizing automated AI applications to send out hundreds of resumes find the strategy can backfire.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x71khf/i_applied_for_200_jobs_how_spray_and_pray_ai_job/"
- },
- {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Sipeed Reveals $3,999 Local AI Station Rival",
-  "summary": "Sipeed announces the MaixStation, a Chinese-made local AI hardware rival priced at $3,999.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x71165/sipeed_reveals_chinesemade_dgx_spark_and_ryzen_ai/"
- },
- {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Black Sea Drones Breach NATO Territorial Waters",
-  "summary": "Suspected drone attacks in the Black Sea breach a NATO nation's territorial waters for the first time.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x70lz8/black_sea_drone_attacks_enter_nato_countrys/"
- },
- {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "NYC Pension Fund Asks Anthropic to Delay IPO",
-  "summary": "The New York City pension fund officially requests that Anthropic delay its upcoming IPO.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x70cce/new_york_city_pension_fund_asks_anthropic_to/"
- },
- {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Lockheed Martin Donations Scrutinized Amid F-35 Turbulence",
-  "summary": "Reports detail political donations made by Lockheed Martin to Senator Susan Collins amid F-35 program scrutiny.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6zskd/lockheed_martin_showered_susan_collins_with_cash/"
- },
- {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "Patients Report Friction Opting Out of Health Data Sharing",
-  "summary": "Patients report that opting out of health data sharing through MyChart and major hospitals is unnecessarily difficult.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6zayw/mychart_and_a_major_hospital_said_i_could_opt_out/"
- },
- {
-  "date": "2026-10-16T03:17:42.692414+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Canadian Publishers Sue Anthropic Over Copyright",
-  "summary": "Canadian news publishers file a copyright infringement lawsuit against Anthropic over AI training practices.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x6yp3c/canadian_news_publishers_sue_anthropic_over_ai/"
- },
- {
   "date": "2026-10-16T03:57:20.994116+00:00",
   "topic": "Movies",
   "score": 6,
@@ -12109,5 +11933,16 @@
   "verified": "official",
   "source": "Polygon",
   "link": "https://www.polygon.com/pokemon-sirfetchd-pichu-animated-series-streaming-disney-plus-2027/"
+ },
+ {
+  "date": "2026-10-19T03:19:47.816217+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "New Resident Evil Remake Collection Confirmed for January 2027",
+  "summary": "A new Resident Evil remake collection has been officially confirmed for release in January 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/resident-evil-remakes-switch-2-january-2027/"
  }
 ]
