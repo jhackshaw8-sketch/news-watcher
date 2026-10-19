@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-16T06:17:47.892479+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Big Walk by House House Heading to Xbox",
-  "summary": "Big Walk by House House has been discussed regarding its presence on Xbox.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x78gjq/regarding_xbox_big_walk_by_house_house/"
- },
- {
-  "date": "2026-10-16T06:17:47.892479+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "'Dungeon Crawler Carl: I Will Kill Your Mother' Officially Announced",
-  "summary": "Dungeon Crawler Carl: I Will Kill Your Mother has been officially announced.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/dungeon-crawler-carl-i-will-kill-your-mother-set/"
- },
- {
   "date": "2026-10-16T07:10:04.022176+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -11867,5 +11845,49 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/tomb-raider-legacy-of-atlantis-free-download-psa/"
+ },
+ {
+  "date": "2026-10-19T06:23:48.799048+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Tesla Roadster to Get 'Sentient' Autonomous Stunts? \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "Elon Musk claimed the upcoming Tesla Roadster will feature autonomous stunts on a looping track at Giga Texas.",
+  "verified": "unconfirmed",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812362/tesla-roadster-autonomous-stunts-texas/"
+ },
+ {
+  "date": "2026-10-19T06:23:48.799048+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Porsche Skips Electric Supercar Due to Low Demand \ud83d\udeab\u26a1",
+  "summary": "Porsche has decided against building an electric supercar in the near future due to a lack of market demand, opting for combustion or hybrid powertrains instead.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812361/porsche-says-zero-demand-electric-supercar/"
+ },
+ {
+  "date": "2026-10-19T06:23:48.799048+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Resident Evil Stays on Top at China Box Office",
+  "summary": "Resident Evil retained the top spot at the mainland China box office during a quiet post-holiday weekend, pulling in $9.3 million in its second full weekend.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/box-office/china-box-office-resident-evil-quiet-post-holiday-frame-1236916180/"
+ },
+ {
+  "date": "2026-10-19T06:23:48.799048+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "The Legend of Zelda: A Link to the Past Returns in New Collection",
+  "summary": "Nintendo has officially announced that The Legend of Zelda: A Link to the Past is returning in a new game collection.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/legend-of-zelda-link-to-the-past-historical-charms/"
  }
 ]
