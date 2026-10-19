@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-16T04:20:47.562295+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "Kylie Minogue, Jonathan Groff & Catherine Tate Join 'Bad Fairies' Cast",
-  "summary": "Kylie Minogue, Jonathan Groff and Catherine Tate have joined the voice cast of the Warner Bros. animated musical comedy 'Bad Fairies'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/cynthia-erivo-bad-fairies-kylie-minogue-jonathan-groff-1236913639/"
- },
- {
-  "date": "2026-10-16T04:20:47.562295+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "Star-Studded Additions Round Out 'Bad Fairies' Voice Cast",
-  "summary": "Cynthia Erivo announced during her Hollywood Bowl concert that Kylie Minogue, Jonathan Groff, and Catherine Tate have joined 'Bad Fairies'.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/kylie-minogue-jonathan-groff-catherine-tate-bad-fairies-1237158983/"
- },
- {
-  "date": "2026-10-16T04:20:47.562295+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Early 2027 Oscars Race and Predictions Take Shape",
-  "summary": "Variety updates its early 2027 Oscars predictions following recent festival premieres and campaign pushes.",
-  "verified": "reliable_reporter",
-  "source": "Variety Film",
-  "link": "https://variety.com/lists/2027-oscars-predictions/"
- },
- {
-  "date": "2026-10-16T04:20:47.562295+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "The Legend of Zelda Announces 2027 Prequel Release",
-  "summary": "Nintendo has officially announced a new lore-heavy The Legend of Zelda prequel scheduled to release in 2027.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/legend-of-zelda-secrets-zonai-lore-heavy-prequel-2027/"
- },
- {
-  "date": "2026-10-16T04:20:47.562295+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "update",
-  "headline": "Kishimoto Confirms Official Naruto and Sasuke Rematch",
-  "summary": "Creator Masashi Kishimoto has confirmed a highly anticipated official rematch between Naruto and Sasuke in an upcoming project.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/naruto-sasuke-fight-kishimoto-confirmed/"
- },
- {
-  "date": "2026-10-16T04:57:34.902904+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Stunning 2016 Nissan GT-R Nismo Spotted \ud83c\udfce\ufe0f\ud83d\udd25",
-  "summary": "A striking photo showcase of a 2016 Nissan GT-R Nismo highlighting its iconic design.",
-  "verified": "official",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x74gjg/2016_nissan_gtr_nismo_1080x1440/"
- },
- {
-  "date": "2026-10-16T04:57:34.902904+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "Classic Tesla Roadster Appreciation Post \u26a1\ud83d\ude97",
-  "summary": "A clean image post featuring the classic original Tesla Roadster.",
-  "verified": "official",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x73coq/tesla_roadster_900x900/"
- },
- {
-  "date": "2026-10-16T04:57:34.902904+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Elden Ring: Starscourge Radahn Officially Releases March 2027",
-  "summary": "An official Elden Ring Starscourge Radahn release is scheduled for March 2027.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/elden-ring-starscourge-radahn-march-2027/"
- },
- {
   "date": "2026-10-16T05:20:52.290908+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -11966,5 +11878,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/pokemon-neo-ultra-alola-challenge-mod/"
+ },
+ {
+  "date": "2026-10-19T05:00:20.369985+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "'The Simpsons' Officially Brings Back Apu After Nine Years",
+  "summary": "The Simpsons officially brings back the character Apu after a nine-year absence with a new voice actor.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/the-simpsons-season-38-the-revengening-recast-apu-sunil-malhotra/"
+ },
+ {
+  "date": "2026-10-19T05:00:20.369985+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Final Fantasy 9 Product Announced",
+  "summary": "Final Fantasy 9 Not Alone has been officially announced, celebrating the iconic music of the beloved game.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/final-fantasy-9-not-alone-music-box-october-2026-psa/"
  }
 ]
