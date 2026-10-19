@@ -1,137 +1,5 @@
 [
  {
-  "date": "2026-10-16T21:15:47.007233+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Analyst Predicts Apple Shipment Growth for 2026 Amid iPhone Pro Challenges",
-  "summary": "Analyst reports project Apple will be the sole major smartphone manufacturer to grow shipments in 2026 amid upcoming device challenges.",
-  "verified": "unconfirmed",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/16/report-apple-gains-ground-on-rivals-but-iphone-18-pro-and-iphone-duo-face-challenges/"
- },
- {
-  "date": "2026-10-16T21:15:47.007233+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "business",
-  "headline": "Withings Charges New Users $99 Annually for Apple Health Sync",
-  "summary": "Withings introduces a $99 per year subscription fee for new users requiring Apple Health syncing capabilities.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x7ry2s/new_withings_users_must_pay_99year_for_apple/"
- },
- {
-  "date": "2026-10-16T21:15:47.007233+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Resident Evil 2 Shines on Nintendo Switch 2",
-  "summary": "Resident Evil 2 runs smoothly and looks visually impressive on the Switch 2 hardware.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/resident-evil-2-switch-2-impressions/"
- },
- {
-  "date": "2026-10-16T21:15:47.007233+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "update",
-  "headline": "Zelda Ocarina of Time Remake Concept Details Emerge",
-  "summary": "A hypothetical Zelda Ocarina of Time remake features new sidequests and subtle dungeon tweaks.",
-  "verified": "unconfirmed",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-has-new-sidequests-harder-minigames-and-subtle-dungeon-tweaks-that-suddenly-have-me-a-lot-more-interested/"
- },
- {
-  "date": "2026-10-16T21:15:47.007233+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "New Gameplay Trailer Drops for Iron Bramble",
-  "summary": "A new gameplay trailer has been released for Iron Bramble.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x7rzj8/iron_bramble_gameplay_trailer/"
- },
- {
-  "date": "2026-10-16T21:15:47.007233+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Arc Raiders Adaptations Set to Explore New Stories",
-  "summary": "Developers discuss how upcoming TV and movie adaptations can expand the narrative universe of Arc Raiders.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-tv-and-movie-adaptations-can-do-what-the-game-doesnt-we-feel-like-we-have-created-a-world-thats-fertile-ground-to-tell-all-kinds-of-different-stories/"
- },
- {
-  "date": "2026-10-16T21:15:47.007233+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "Meet Violet, the Newest Character Added to Deadlock",
-  "summary": "Valve has introduced a new character named Violet for the game Deadlock.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x7rxno/new_deadlock_character_violet_paint_the_town/"
- },
- {
-  "date": "2026-10-16T21:15:47.007233+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Desolus Developer Hosts AMA Following 13-Year Release",
-  "summary": "The developer of Desolus hosts an AMA to celebrate the release of their Gothic first-person puzzle game after 13 years of development.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x7qs3y/ama_i_created_desolus_a_firstperson_puzzle_game/"
- },
- {
-  "date": "2026-10-16T21:15:47.007233+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Renault's Wild 8 Gordini Concept Might Actually Happen! \u26a1\ud83d\ude99",
-  "summary": "Renault's retro electric 8 Gordini concept could potentially transition from a Paris show car into a production reality.",
-  "verified": "reliable_reporter",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2289339/renault-8-gordini-concept-production-version-may-happen/"
- },
- {
-  "date": "2026-10-16T21:15:47.007233+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Whalefall Review: Austin Abrams Tackles Body Horror",
-  "summary": "Deadline reviews the new survival body horror film Whalefall starring Austin Abrams and Josh Brolin.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/whalefall-review-austin-abrams-josh-brolin-emotional-body-horror-1237166094/"
- },
- {
-  "date": "2026-10-16T21:15:47.007233+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "business",
-  "headline": "Amazon Acquires Sci-Fi Fantasy Trilogy for Adaptation Ahead of 2027",
-  "summary": "Amazon has acquired a new sci-fi fantasy trilogy for adaptation ahead of its 2027 book publication.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/timeless-book-trilogy-amazon-adaptation-acquired-negotiations/"
- },
- {
-  "date": "2026-10-16T21:15:47.007233+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Tulsa King Season 4 Premiere Date Set Alongside Season 5 Location Change",
-  "summary": "Tulsa King season 4 begins October 16, while season 5 will feature a New York location change.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/sylvester-stallone-tulsa-king-season-4-end-era-new-york/"
- },
- {
   "date": "2026-10-16T21:52:43.221133+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -12615,5 +12483,159 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/richard-riehle-death-of-obituary/"
+ },
+ {
+  "date": "2026-10-19T21:17:57.156967+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Mercedes Confirms Coupe SUVs Are Here to Stay \ud83d\ude99\ud83d\udca8",
+  "summary": "Mercedes-Benz confirms that coupe SUVs will remain in its lineup due to a strong and dedicated fan base.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812500/mercedes-says-coupe-suvs-remain/"
+ },
+ {
+  "date": "2026-10-19T21:17:57.156967+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "2026 Hyundai Elantra N Review: Serious Track Capability \ud83c\udfce\ufe0f\ud83d\udd25",
+  "summary": "A detailed review and specification overview of the 2026 Hyundai Elantra N equipped with an 8-speed DCT.",
+  "verified": "reliable_reporter",
+  "source": "TheTopher",
+  "link": "https://www.youtube.com/watch?v=HSREywU7N9o"
+ },
+ {
+  "date": "2026-10-19T21:17:57.156967+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Michael Douglas Says Marvel Wouldn't Let Him Quit Ant-Man",
+  "summary": "Michael Douglas revealed that Marvel refused his request to kill off his character Hank Pym after two films.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/michael-douglas-marvel-quit-killed-off-1236916599/"
+ },
+ {
+  "date": "2026-10-19T21:17:57.156967+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Forgotten Island Now Playing in Theaters",
+  "summary": "Universal Pictures announced that their new animated feature Forgotten Island is now playing in theaters.",
+  "verified": "official",
+  "source": "Universal Pictures (trailers)",
+  "link": "https://www.youtube.com/shorts/0LMBKw0Wzd8"
+ },
+ {
+  "date": "2026-10-19T21:17:57.156967+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "business",
+  "headline": "Michael Biopic Crosses $1 Billion at Worldwide Box Office",
+  "summary": "The Michael Jackson biopic 'Michael' starring Jaafar Jackson has surpassed $1 billion at the worldwide box office.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/awards/jaafar-jackson-michael-oscars-sequel-third-act-cut-1236913769/"
+ },
+ {
+  "date": "2026-10-19T21:17:57.156967+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Anya Taylor-Joy's Sacrifice Breaks Into Netflix Global Top 10",
+  "summary": "Anya Taylor-Joy and Chris Evans' new thriller 'Sacrifice' has entered Netflix's global Top 10 shortly after its release.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/sacrifice-anya-taylor-joy-chris-evans-netflix-global-top-10-october-2026/"
+ },
+ {
+  "date": "2026-10-19T21:17:57.156967+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Downstate Delays Broadway Previews",
+  "summary": "Broadway play 'Downstate' has delayed its preview date again due to company illness.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/downstate-broadway-opening-date-1237155592/"
+ },
+ {
+  "date": "2026-10-19T21:17:57.156967+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Cyberpunk: Edgerunners Season 2 Twitch Premiere Date Announced",
+  "summary": "The first episode of Cyberpunk: Edgerunners season 2 is scheduled to stream live for free on Twitch.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/anime-shows/no-netflix-no-problem-the-first-episode-of-cyberpunk-edgerunners-season-2-will-stream-live-for-free-on-twitch/"
+ },
+ {
+  "date": "2026-10-19T21:17:57.156967+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Cyberpunk: Edgerunners Season 2 Release Schedule Revealed",
+  "summary": "Release date and streaming details have been announced for Cyberpunk: Edgerunners Season 2.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/cyberpunk-edgerunners-season-2-release-date-time/"
+ },
+ {
+  "date": "2026-10-19T21:17:57.156967+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "other",
+  "headline": "Character Actor Richard Riehle Passes Away at 78",
+  "summary": "Character actor Richard Riehle has passed away at the age of 78.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1xa8bvb/richard_riehle_office_space_and_the_fugitive/"
+ },
+ {
+  "date": "2026-10-19T21:17:57.156967+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Elizabeth Holmes Doc Eyes Oscar History",
+  "summary": "A24's Elizabeth Holmes documentary is generating strong Oscar buzz following its debut.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/you-can-see-everything-oscars-best-picture-nomination-first-documentary/"
+ },
+ {
+  "date": "2026-10-19T21:17:57.156967+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "business",
+  "headline": "Laurene Powell Jobs Invests in Skydance",
+  "summary": "Laurene Powell Jobs has invested $250 million into David Ellison's Skydance media company.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1xa65kd/laurene_powell_jobs_invested_250_million_in_david/"
+ },
+ {
+  "date": "2026-10-19T21:17:57.156967+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Prime Video Binge Guide for Late October 2026",
+  "summary": "Prime Video has highlighted its slate of new series available to binge-watch for the week of October 19\u201323, 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/best-new-prime-video-shows-to-watch-week-october-19-2026/"
+ },
+ {
+  "date": "2026-10-19T21:17:57.156967+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "business",
+  "headline": "Jon Stewart Extends Daily Show Run Through 2028",
+  "summary": "Jon Stewart has officially signed on to stay at 'The Daily Show' through the 2028 election.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1xa554e/jon_stewart_to_stay_at_the_daily_show_through_the/"
  }
 ]
