@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-10-16T22:52:05.759043+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "update",
-  "headline": "Apple Updates App Store Rules to Target AI Deepfakes and Deceptive Apps",
-  "summary": "Apple updated its App Review Guidelines to crack down on AI nudification and deceptive app practices.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/"
- },
- {
-  "date": "2026-10-16T22:52:05.759043+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "update",
-  "headline": "New App Store Rules Crack Down on AI Nudify Apps and Deepfakes",
-  "summary": "Apple expanded its App Store moderation rules to explicitly prohibit AI-generated nonconsensual intimate imagery and deepfakes.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/16/app-store-rules-deepfakes/"
- },
- {
-  "date": "2026-10-16T22:52:05.759043+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Steam Shatters Records With Over 43.5 Million Concurrent Users",
-  "summary": "Steam reached a new concurrent user record, hitting over 43.5 million users on Sunday.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026"
- },
- {
-  "date": "2026-10-16T22:52:05.759043+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Street Fighter Movie Cast Guide Revealed",
-  "summary": "Variety provides a comprehensive cast guide for the upcoming live-action Street Fighter movie from Paramount and Legendary, featuring various athletes and celebrities.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/lists/street-fighter-cast-video-game-vs-live-action/"
- },
- {
-  "date": "2026-10-16T22:52:05.759043+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "Sherlock Star Joins Apple TV Series",
-  "summary": "A Sherlock star has officially joined the cast of Apple TV's upcoming series for its second season.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/apple-tv-down-cemetery-road-season-2-cast-sherlock-star-amanda-abbington/"
- },
- {
-  "date": "2026-10-16T22:52:05.759043+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "9-1-1: Nashville Season 2 Premiere Review",
-  "summary": "Collider reviews the Season 2 premiere of 9-1-1: Nashville, highlighting Ryan Phillippe's addition to the cast.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/9-1-1-nashville-season-2-premiere-review/"
- },
- {
-  "date": "2026-10-16T22:52:05.759043+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "First Look at The White Lotus Season 4 Revealed",
-  "summary": "HBO has officially released the very first look and images for the upcoming season of The White Lotus.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/hbo-the-white-lotus-season-4-first-look-images/"
- },
- {
-  "date": "2026-10-16T22:52:05.759043+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "France T\u00e9l\u00e9visions Issues Warning Over Far-Right Impact On Cinema",
-  "summary": "France T\u00e9l\u00e9visions warns that the rise of the far-right could severely damage the French cinema industry.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x7tdv9/broadcaster_france_t\u00e9l\u00e9visions_warns_farright/"
- },
- {
-  "date": "2026-10-16T22:52:05.759043+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "legal",
-  "headline": "Timothy Busfield Sexual Abuse Indictment Tossed Out",
-  "summary": "Timothy Busfield has his sexual abuse indictment tossed due to prosecutor misconduct, while the DA evaluates options.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x7scyp/timothy_busfield_gets_sexual_abuse_indictment/"
- },
- {
-  "date": "2026-10-16T22:52:05.759043+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Nicolas Cage Officially Cast In True Detective Season 5",
-  "summary": "Nicolas Cage is officially cast as the lead for the upcoming fifth season of True Detective.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x7r5cx/true_detective_season_5_officially_casts_nicolas/"
- },
- {
-  "date": "2026-10-16T22:52:05.759043+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Hunger Games Director Sets New Dystopian Sci-Fi Adaptation",
-  "summary": "Hunger Games director Francis Lawrence signs on to helm another dystopian sci-fi book adaptation.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/red-rising-movie-adaptation-hunger-games-francis-lawrence-development/"
- },
- {
   "date": "2026-10-16T23:12:49.550127+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -13033,5 +12912,148 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/power-rangers-mmpr-wild-morphs-morphin-grid/"
+ },
+ {
+  "date": "2026-10-19T22:53:09.120245+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "Apple Acquires AI Audio Startup Samplab",
+  "summary": "Apple acquired the AI audio editing application Samplab in June, as revealed by a European Commission regulatory notice.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/19/apple-samplab-acquisition/"
+ },
+ {
+  "date": "2026-10-19T22:53:09.120245+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Clive Barker Proud of Upcoming Hellraiser Game's Uncensored Vision",
+  "summary": "Hellraiser creator Clive Barker expressed relief and pride that the upcoming franchise video game avoided heavy censorship and pushed boundaries.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/hellraisers-clive-barker-feared-new-game-would-be-overly-censored-but-is-proud-as-fk-at-the-end-result"
+ },
+ {
+  "date": "2026-10-19T22:53:09.120245+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "SpaceX Stock Giveaway Tied to Trump Accounts",
+  "summary": "President Trump announced that Elon Musk's promised SpaceX stock giveaway for American children will be distributed through newly proposed Trump Accounts.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account"
+ },
+ {
+  "date": "2026-10-19T22:53:09.120245+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "Hugging Face Policy Chief Discusses AI Benchmark Challenges",
+  "summary": "Hugging Face policy chief Irene Solaiman highlighted the complexities and maturity challenges surrounding embedded AI evaluators and model benchmarking.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
+ },
+ {
+  "date": "2026-10-19T22:53:09.120245+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "Meta Updates Terms of Service After Scraping Backlash",
+  "summary": "Meta has modified its new terms of service following significant backlash from publishers and business account holders over data scraping concerns.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2291188/meta-tweaks-its-new-terms-of-service-after-backlash-against-scraping/"
+ },
+ {
+  "date": "2026-10-19T22:53:09.120245+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Gran Turismo Turns 30 with Special Cars and Controller! \ud83c\udfae\ud83c\udfce\ufe0f",
+  "summary": "Sony is celebrating the 30th anniversary of Gran Turismo with special in-game cars and a limited-edition controller.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2291176/gran-turismo-30th-anniversary-controller-update/"
+ },
+ {
+  "date": "2026-10-19T22:53:09.120245+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Netflix Faces Wall Street Questions Amid C-Suite Shakeups",
+  "summary": "Netflix faces intense Wall Street scrutiny and investor questions regarding executive shuffling and recent layoffs as a new earnings season kicks off.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/netflix-earnings-layoffs-future-1237167505/"
+ },
+ {
+  "date": "2026-10-19T22:53:09.120245+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "HBO's War Takes Over Top Viewership Spot",
+  "summary": "HBO's new legal thriller War takes the top spot on viewership charts, overtaking Lanterns.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/war-sienna-miller-dominic-west-hbo-legal-thriller-dethrones-lanterns/"
+ },
+ {
+  "date": "2026-10-19T22:53:09.120245+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Anya Taylor-Joy Returns to Netflix in New Revenge Series",
+  "summary": "Netflix officially reveals behind-the-scenes images showing Anya Taylor-Joy starring in an upcoming eight-part revenge series.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/how-to-kill-your-family-netflix-first-look-anya-taylor-joy-sacrifice-streaming-success/"
+ },
+ {
+  "date": "2026-10-19T22:53:09.120245+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "business",
+  "headline": "Orphan Black Lands on HBO Max and Peacock",
+  "summary": "All five seasons of Orphan Black are now available to stream on HBO Max and Peacock under a new co-exclusive deal.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/orphan-black-hbo-max-peacock-co-exclusive-streaming-deal-1237168150/"
+ },
+ {
+  "date": "2026-10-19T22:53:09.120245+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "The Last of Us Casts Patrick Wilson for Season 3",
+  "summary": "Patrick Wilson has been cast to play Abby's dad Jerry in season 3 of The Last of Us, replacing Darren Dolynski.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/the-last-of-us-season-1-actor-replacement-patrick-wilson-jerry/"
+ },
+ {
+  "date": "2026-10-19T22:53:09.120245+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Marvel Announces New Doctor Strange Replacement",
+  "summary": "Marvel has officially announced a new Sorcerer Superior as a replacement for Doctor Strange.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/doctor-strange-replacement-explained-inverse/"
+ },
+ {
+  "date": "2026-10-19T22:53:09.120245+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Jeff Daniels Cast in AMC and Netflix Spy Series Bannerman",
+  "summary": "Jeff Daniels is set to star in AMC and Netflix's upcoming spy drama series Bannerman.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/jeff-daniels-bannerman-tv-series-amc-netflix-1237168116/"
  }
 ]
