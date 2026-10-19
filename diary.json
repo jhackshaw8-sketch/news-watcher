@@ -1,170 +1,5 @@
 [
  {
-  "date": "2026-10-16T11:55:01.135405+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Live-Action Cyberpunk 2077 Movie Won't Adapt the Game Directly",
-  "summary": "CD Projekt Red confirms the live-action Cyberpunk 2077 movie will tell a brand new story set within the universe rather than acting as a direct adaptation.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/cyberpunk-2077-movie-not-retelling"
- },
- {
-  "date": "2026-10-16T11:55:01.135405+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Dataminers Hint at Upcoming One Piece Fortnite Crossover",
-  "summary": "Dataminers have uncovered event assets in the game files suggesting a One Piece collaboration is coming to Fortnite soon.",
-  "verified": "unconfirmed",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/fortnite-one-piece-chest-barrel/"
- },
- {
-  "date": "2026-10-16T11:55:01.135405+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "First Official Look at Dark Link in Ocarina of Time Remake",
-  "summary": "Nintendo has officially revealed our first look at Dark Link in the upcoming remake of The Legend of Zelda: Ocarina of Time.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/heres-our-first-look-at-dark-link-in-the-legend-of-zelda-ocarina-of-time-remake"
- },
- {
-  "date": "2026-10-16T11:55:01.135405+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Resident Evil Code Veronica Remake Officially Announced for 2027",
-  "summary": "Resident Evil Code Veronica is officially getting a modern remake slated for release in 2027.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/resident-evil/resident-evil-veronica-guide/"
- },
- {
-  "date": "2026-10-16T11:55:01.135405+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "MTG Foundations Commander Decks Return to Online Retailers",
-  "summary": "Magic: The Gathering's Foundations Commander decks are back in stock at major online retailers following recent shortages.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/magic-the-gatherings-new-foundations-decks-back-in-stock"
- },
- {
-  "date": "2026-10-16T11:55:01.135405+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "Stoke Space Ships Reusable Upper Stage for Testing",
-  "summary": "Stoke Space has shipped its pioneering reusable upper stage for testing, alongside updates on FAA Starbase traffic and Skyroot's new US customer.",
-  "verified": "official",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/"
- },
- {
-  "date": "2026-10-16T11:55:01.135405+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Why Corvette Isn't Chasing Ford at the 'Ring \ud83c\udfce\ufe0f\ud83d\udca8",
-  "summary": "Corvette's chief engineer explains why the team is prioritizing other racing targets over chasing Ford's N\u00fcrburgring lap time.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2288609/zr1x-mustang-gtd-nurburgring-records/"
- },
- {
-  "date": "2026-10-16T11:55:01.135405+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Corvette Shifts Focus Away From The 'Ring To Pikes Peak \u26f0\ufe0f\ud83c\udfc1",
-  "summary": "Chevrolet's Tony Roma confirms that despite Ford reclaiming a N\u00fcrburgring record, the Corvette team is shifting immediate focus to Pikes Peak.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812231/ford-mustang-gtd-competition-beats/"
- },
- {
-  "date": "2026-10-16T11:55:01.135405+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "JAFF Market 2026 Announces Project Selections",
-  "summary": "Boo Junfeng's 'Trinity' and Sidharta Tata's 'Slaughterground' have been selected for the JAFF Future Project market selections.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/markets-festivals/boo-junfeng-jaff-market-2026-selections-1236913880/"
- },
- {
-  "date": "2026-10-16T11:55:01.135405+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "review",
-  "headline": "You Can See Everything Features a Standout 2026 Villain",
-  "summary": "A review of 'You Can See Everything' highlights its standout villain while discussing the subject Elizabeth Holmes.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2288587/you-can-see-everything-best-villain-2026-elizabeth-holmes-boyfriend/"
- },
- {
-  "date": "2026-10-16T11:55:01.135405+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Lightdox Picks Up Documentary 'The Big Boom!'",
-  "summary": "Lightdox has acquired world sales rights for the weapons factory worker documentary 'The Big Boom!' ahead of its IDFA premiere.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/the-big-boom-lightdox-idfa-1236913877/"
- },
- {
-  "date": "2026-10-16T11:55:01.135405+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Paddington Returns with Special 4K Steelbook Release",
-  "summary": "Paddington is officially returning with a special 4K Ultra HD Steelbook release scheduled for November.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/paddington-blu-ray-4k-release-november-2026/"
- },
- {
-  "date": "2026-10-16T11:55:01.135405+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Crystal Lake Prequel Details Jason Voorhees' Origin",
-  "summary": "Peacock's Crystal Lake prequel project explores new details regarding Jason Voorhees' origins.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/crystal-lake-project-argonaut-jason-voorhees-origins-powers/"
- },
- {
-  "date": "2026-10-16T11:55:01.135405+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "DC Studios Details How Clayface Connects to DCU Batman",
-  "summary": "DC Studios explains how the upcoming 2026 Clayface horror film connects to the broader DCU Batman movie.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/clayface-batman-brave-bold-dcu-movie-setup-peter-safran/"
- },
- {
-  "date": "2026-10-16T11:55:01.135405+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Steam Makes Four Games Free This Weekend",
-  "summary": "Steam announces four games that are completely free to play for the weekend of October 16.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/steam-5-free-games-october-16-weekend/"
- },
- {
   "date": "2026-10-16T12:17:27.180834+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -11999,5 +11834,93 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/lord-of-the-rings-two-towers-return-king-pc-ports/"
+ },
+ {
+  "date": "2026-10-19T11:58:53.206225+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "Apple Acquires AI Audio Firm Samplab",
+  "summary": "Apple has acquired AI audio firm Samplab to potentially enhance Logic Pro's editing and stem-splitting tools.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/19/ai-audio-firm-samplab-acquired-by-apple-to-boost-logic-pro?utm_source=rss"
+ },
+ {
+  "date": "2026-10-19T11:58:53.206225+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "New Apple TV Heist Series Announced",
+  "summary": "Apple TV has unveiled a trailer and details for its upcoming heist thriller series starring Anthony Mackie.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/13/apple-tv-unveils-new-heist-thriller-series-coming-soon/"
+ },
+ {
+  "date": "2026-10-19T11:58:53.206225+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "HomeView and Apple TV 4K Available for Pre-Order",
+  "summary": "Apple's new HomeView smart display and updated Apple TV 4K are now available for pre-order on Amazon.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/13/homeview-apple-tv-4k-and-more-now-available-for-amazon-pre-order/"
+ },
+ {
+  "date": "2026-10-19T11:58:53.206225+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Google AI Agents Defeat Minecraft Ender Dragon Autonomously",
+  "summary": "Google researchers demonstrated AI agents autonomously defeating Minecraft's Ender Dragon after 27 hours of play.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/google-ai-agents-killed-ender-dragon-minecraft"
+ },
+ {
+  "date": "2026-10-19T11:58:53.206225+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Even Realities G2 Review: Smart Design, Clunky Controls \ud83d\udc53",
+  "summary": "The Even Realities G2 smart glasses offer great hardware but suffer from difficult controls for their expanding feature set.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/"
+ },
+ {
+  "date": "2026-10-19T11:58:53.206225+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Paper Tiger Set for Doha Film Festival Gala",
+  "summary": "James Gray\u2019s Paper Tiger, starring Adam Driver, Scarlett Johansson, and Miles Teller, will make its MENA premiere at the Doha Film Festival.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/paper-tiger-furies-doha-film-festival-gala-screenings-1237167206/"
+ },
+ {
+  "date": "2026-10-19T11:58:53.206225+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "Guy Ritchie's Bond-Style Thriller Hits Free Streaming",
+  "summary": "Guy Ritchie\u2019s action thriller that channels James Bond is now officially available to stream for free.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/guy-ritchie-the-man-from-uncle-streaming-free-october-2026/"
+ },
+ {
+  "date": "2026-10-19T11:58:53.206225+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "New Pok\u00e9mon Release Confirmed for December 30th Anniversary",
+  "summary": "Nintendo and the Pok\u00e9mon franchise have officially announced a new major release for December as part of the 30th-anniversary celebrations.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/pokemon-30th-anniversary-art-books-december-2026/"
  }
 ]
