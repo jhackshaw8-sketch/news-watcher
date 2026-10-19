@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-16T08:59:06.662129+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Battlefield 6 Reverses Unintended XP Changes Following Fan Backlash",
-  "summary": "Battlefield Studios reversed controversial XP changes in Battlefield 6 Season 5 after player backlash, calling the original adjustments unintended.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/battlefield-6-xp-cap-season-5-reverted"
- },
- {
-  "date": "2026-10-16T08:59:06.662129+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Tesla's New Roadster Gets A Radical Angular Redesign! \ud83c\udfce\ufe0f\u26a1",
-  "summary": "Tesla's long-awaited new Roadster has been heavily redesigned from its original concept, featuring a much more angular exterior after nine years of development.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812197/new-tesla-roadster-design/"
- },
- {
-  "date": "2026-10-16T08:59:06.662129+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "Tesla Roadster Flips Out In Crazy SpaceX Thruster Demo! \ud83d\ude80\ud83d\udd04",
-  "summary": "A SpaceX test site in Texas played host to a wild tethered demonstration of the Tesla Roadster utilizing cold-gas thrusters and suction to pull off a flip.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812195/tesla-roadster-stunt-2028-production/"
- },
- {
   "date": "2026-10-16T09:25:21.548824+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -11911,5 +11878,93 @@
   "verified": "official",
   "source": "r/movies",
   "link": "https://www.reddit.com/r/movies/comments/1x9ly8i/yeon_sanghos_paradise_lost_sells_to_118/"
+ },
+ {
+  "date": "2026-10-19T09:04:31.017737+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Modern Warfare 4 Campaign Wins Over Steam Players",
+  "summary": "Steam players are responding very positively to the campaign of Call of Duty: Modern Warfare 4, overcoming pre-launch drama.",
+  "verified": "reliable_reporter",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating"
+ },
+ {
+  "date": "2026-10-19T09:04:31.017737+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "update",
+  "headline": "Tiny Fiat Topolino Wins Big Design Accolades! \ud83c\uddee\ud83c\uddf9\u26a1",
+  "summary": "The Fiat Topolino EV receives a design award from Time for its compact electric footprint and stylish city practicality.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812394/time-chose-fiat-topolino/"
+ },
+ {
+  "date": "2026-10-19T09:04:31.017737+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "launch",
+  "headline": "Stunning 2019 Jaguar XE SV Project 8 Showcase! \ud83d\udc06\ud83d\udca8",
+  "summary": "A high-resolution showcase of the aggressive 2019 Jaguar XE SV Project 8 performance sedan.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x9rvkd/2019_jaguar_xe_sv_project_8_1080x1350/"
+ },
+ {
+  "date": "2026-10-19T09:04:31.017737+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Tesla Targets 330 MPH for the New Roadster! \ud83d\ude80\ud83d\udd25",
+  "summary": "Tesla sets an ambitious target for its upcoming Roadster, aiming for a jaw-dropping top speed of over 300 mph.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812379/tesla-roadster-specs-top-speed/"
+ },
+ {
+  "date": "2026-10-19T09:04:31.017737+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Psychological Horror 'Henry's Ebb' Picked Up by Bridge Independent",
+  "summary": "The psychological horror film 'Henry's Ebb' starring Kingston Rumi Southwick has been boarded by Bridge Independent ahead of its premiere at the Tallinn Black Nights Film Festival.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/henrys-ebb-kingston-rumi-southwick-bridge-independent-1236914656/"
+ },
+ {
+  "date": "2026-10-19T09:04:31.017737+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "'Reacher' Climbs Streaming Charts Following Season News",
+  "summary": "Alan Ritchson's action thriller 'Reacher' has climbed back up the streaming charts following recent renewal news for its upcoming season.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/alan-ritchson-reacher-streaming-success-prime-video-october-2026-renewal/"
+ },
+ {
+  "date": "2026-10-19T09:04:31.017737+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "'Jailer 2' Ranks No. 2 at Global Box Office",
+  "summary": "Rajinikanth\u2019s 'Jailer 2' ranked second at the global box office with a $31.2 million haul, trailing only Paramount\u2019s 'Street Fighter' during the mid-October weekend.",
+  "verified": "reliable_reporter",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/box-office/rajinikanth-jailer-2-no-2-global-box-office-1236916220/"
+ },
+ {
+  "date": "2026-10-19T09:04:31.017737+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "New Projects From Darko Lungulov and Ernestas Jankauskas Head to Tallinn Baltic Event",
+  "summary": "Filmmakers Darko Lungulov and Ernestas Jankauskas are among the directors slated to pitch their works in progress at the Tallinn Baltic Event industry showcase.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/industrytallinn-baltic-event-works-in-progress-1236916209/"
  }
 ]
