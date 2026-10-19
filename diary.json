@@ -1,159 +1,5 @@
 [
  {
-  "date": "2026-10-16T01:54:18.361907+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Apple Accidentally Leaks New iPad Mini Ahead of Expected October Reveal",
-  "summary": "Apple seemingly leaked the existence of a new iPad mini model via a French regulatory website ahead of an expected October reveal.",
-  "verified": "unconfirmed",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/16/apple-inadvertently-reveals-new-ipad-mini-model-exists?utm_source=rss"
- },
- {
-  "date": "2026-10-16T01:54:18.361907+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Tesla Unveils Next-Gen Roadster With Thrusters and Mind-Blowing Performance \ud83d\ude97\ud83d\udca8",
-  "summary": "Tesla demonstrated its next-generation Roadster in Texas featuring extreme performance capabilities like flying and accelerating to 60mph in under a second.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk"
- },
- {
-  "date": "2026-10-16T01:54:18.361907+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "launch",
-  "headline": "SpaceX-Powered Tesla Roadster Leaps Over Fleet in Texas Demo \ud83d\ude80\ud83d\ude97",
-  "summary": "Tesla showcased a SpaceX-powered Roadster capable of using thrusters to leap over other vehicles during a live demonstration in Texas.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"
- },
- {
-  "date": "2026-10-16T01:54:18.361907+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Tesla's $250,000 Redesigned Roadster Arrives With Cold-Gas Thrusters \ud83c\udfce\ufe0f\u26a1",
-  "summary": "Tesla officially revealed the redesigned Roadster with a cold-gas thruster option and a hefty $250,000 reservation price tag.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2288437/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/"
- },
- {
-  "date": "2026-10-16T01:54:18.361907+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "The Last Manual Tesla: New Roadster Debuts as the End of an Era \ud83c\udfce\ufe0f\u26a1",
-  "summary": "Elon Musk announced that the new Tesla Roadster will be the company's final manually driven vehicle, with all future models being fully autonomous.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812153/tesla-roadster-last-manually-driven-model/"
- },
- {
-  "date": "2026-10-16T01:54:18.361907+00:00",
-  "topic": "Cars",
-  "score": 10,
-  "category": "launch",
-  "headline": "The Wait Is Over: Tesla Roadster Finally Makes Its Epic Debut \ud83d\udd25\ud83c\udfc1",
-  "summary": "After nearly nine years of anticipation, Tesla's long-awaited electric supercar has finally made its official debut.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812150/new-tesla-roadster-revealed/"
- },
- {
-  "date": "2026-10-16T01:54:18.361907+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "business",
-  "headline": "Netflix Ousts Chief Content Officer Bela Bajaria in Shocking Departure",
-  "summary": "Netflix's chief content officer Bela Bajaria has been abruptly fired in a shocking industry exit.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/netflix-bela-bajaria-why-did-she-leave-1236913635/"
- },
- {
-  "date": "2026-10-16T01:54:18.361907+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Jessica Chastain's Horror Hit Dominates October Despite Abysmal Reviews",
-  "summary": "Jessica Chastain's new horror film is performing well at the box office despite receiving poor reviews.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/jessia-chastain-other-mommy-global-box-office-50-million/"
- },
- {
-  "date": "2026-10-16T01:54:18.361907+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Street Fighter (2026) Will Pay Tribute to Raul Julia's M. Bison",
-  "summary": "The upcoming 2026 Street Fighter movie will include specific homages to Raul Julia's iconic M. Bison performance.",
-  "verified": "reliable_reporter",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2288428/street-fighter-2026-tributes-raul-julia-m-bison-explained/"
- },
- {
-  "date": "2026-10-16T01:54:18.361907+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Apple TV's Imperfect Women Shakes Up Cast for Season 2",
-  "summary": "Apple TV's crime thriller Imperfect Women is switching its main characters for its upcoming second season.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/imperfect-women-season-2-apple-tv-thriller-character-switch/"
- },
- {
-  "date": "2026-10-16T01:54:18.361907+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "First Poster Unveiled for Horror-Thriller 'Breeder'",
-  "summary": "A new poster has been released for the upcoming horror-thriller Breeder about an eccentric poodle breeder.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x73iet/first_poster_for_horrorthriller_breeder_an/"
- },
- {
-  "date": "2026-10-16T01:54:18.361907+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Euphoria Creator Sam Levinson Leaves HBO for Amazon MGM Studios",
-  "summary": "Euphoria creator Sam Levinson has officially ended his longtime run with HBO to partner with Amazon MGM Studios.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/euphoria-creator-sam-levinson-amazon-mgm-studios-deal/"
- },
- {
-  "date": "2026-10-16T01:54:18.361907+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "The Day of the Jackal Season 2 Officially Reveals Full Cast List",
-  "summary": "The full cast for the second season of The Day of the Jackal has been officially announced ahead of its 2027 release.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/day-of-the-jackal-season-2-full-cast-confirmed/"
- },
- {
-  "date": "2026-10-16T01:54:18.361907+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Rivals Officially Returns to Hulu Next Month",
-  "summary": "David Tennant's period drama Rivals is officially returning to Hulu next month.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/rivals-david-tennant-80s-period-drama-hulu-return-season-2-part-2/"
- },
- {
   "date": "2026-10-16T02:18:10.546183+00:00",
   "topic": "Gaming News",
   "score": 8,
@@ -12208,5 +12054,104 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/the-simpsons-season-38-apu-recast-sunil-malhotra/"
+ },
+ {
+  "date": "2026-10-19T01:55:08.733605+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "iPhone Duo Battery Capacity Revealed in EU Documents",
+  "summary": "An EU regulatory document published by Apple reveals the exact battery capacity of the new iPhone Duo.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/18/iphone-duo-battery-capacity-comparison/"
+ },
+ {
+  "date": "2026-10-19T01:55:08.733605+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Apple Website Accidentally Leaks Redesigned iPad Mini",
+  "summary": "Apple's own website apparently leaked references to an upcoming redesigned iPad Mini.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1x9kgve/apple_accidentally_confirms_a_redesigned_ipad/"
+ },
+ {
+  "date": "2026-10-19T01:55:08.733605+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Microsoft Launches New Xbox XP Division for Movies and Partnerships",
+  "summary": "Microsoft has established a new Xbox division called XP dedicated to movies, partnerships, and non-gaming ventures.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/xbox-xp-product-partnerships-places-productions"
+ },
+ {
+  "date": "2026-10-19T01:55:08.733605+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "Pokemon GO Unveils New Costumed Favorites for Halloween 2026",
+  "summary": "Pokemon GO officially reveals its Halloween 2026 event featuring three new costumed favorites and Shiny encounters.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/pokemon-go-halloween-2026-event-costumed-characters/"
+ },
+ {
+  "date": "2026-10-19T01:55:08.733605+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Troian Bellisario Joins The Rookie Season 9 Cast",
+  "summary": "Troian Bellisario joins the cast of The Rookie Season 9 as a single mom starting over.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/the-rookie-nathan-fillion-abc-cast-troian-bellisario-season-9/"
+ },
+ {
+  "date": "2026-10-19T01:55:08.733605+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Marvel Debuts New X-Men Villain Team",
+  "summary": "Marvel officially introduces a new X-Men supervillain team with origins tied to the mutant heroes.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/x-men-generation-x23-church-generated/"
+ },
+ {
+  "date": "2026-10-19T01:55:08.733605+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Teen Titans Get New Leader and Mentor",
+  "summary": "The Teen Titans receive a new leader and mentor who has a deep connection to the team's history.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/teen-titans-new-leader-red-hood-character-arc/"
+ },
+ {
+  "date": "2026-10-19T01:55:08.733605+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Apu Returns to The Simpsons With New Voice Actor",
+  "summary": "The character Apu is voiced on The Simpsons for the first time in nearly a decade by Sunil Malhotra.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x9j2cd/the_simpsons_surprise_apu_is_heard_for_the_first/"
+ },
+ {
+  "date": "2026-10-19T01:55:08.733605+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "1967 Bigfoot Video Confirmed as Hoax",
+  "summary": "New archival footage for an upcoming documentary reportedly confirms the 1967 Bigfoot video is a hoax.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1x9dht2/the_iconic_bigfoot_video_from_1967_is_officially/"
  }
 ]
