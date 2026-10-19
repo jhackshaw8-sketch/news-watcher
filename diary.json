@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-16T05:20:52.290908+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Benchmark Discusses AI's Impact on VC Rivalry Rules",
-  "summary": "Venture capital firm Benchmark notes that the traditional Silicon Valley rule against backing competing AI startups is increasingly difficult to maintain.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/"
- },
- {
-  "date": "2026-10-16T05:20:52.290908+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Street Fighter Punches $4M In U.S. Previews",
-  "summary": "Paramount and Legendary's Street Fighter movie earned $4 million in U.S. previews with an expected opening over $30 million.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/"
- },
- {
-  "date": "2026-10-16T05:20:52.290908+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Pokemon Reveals New Espeon Design For Winds & Waves \ud83c\udf1f\ud83c\udfae",
-  "summary": "Pokemon officially revealed a new Espeon design ahead of the Winds and Waves release for the 2026 holiday season.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/pokemon-new-espeon-design-together-holidays/"
- },
- {
-  "date": "2026-10-16T05:20:52.290908+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Star Trek Officially Switches Genres In New Project",
-  "summary": "Star Trek: Across the Unknown is officially shifting genres for the franchise.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-trek-voyager-across-the-unknown-genre-switch/"
- },
- {
-  "date": "2026-10-16T05:53:59.113772+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Nawazuddin Siddiqui to Lead Detective Thriller 'Kabootar'",
-  "summary": "Nawazuddin Siddiqui is set to star as a Delhi street detective in Ishan Sharma's debut feature film 'Kabootar'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/nawazuddin-siddiqui-delhi-street-detective-kabootar-1236913102/"
- },
- {
-  "date": "2026-10-16T05:53:59.113772+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Battlestar Galactica: Humanity's Children Announced",
-  "summary": "A new Battlestar Galactica project titled Humanity's Children has been officially announced.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/battlestar-galactica-humanitys-children-fan-project/"
- },
- {
   "date": "2026-10-16T06:17:47.892479+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -11900,5 +11834,38 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/final-fantasy-9-not-alone-music-box-october-2026-psa/"
+ },
+ {
+  "date": "2026-10-19T05:56:15.760137+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "Mercedes-AMG Unleashes 1,153 HP Electric SUV Beast \ud83d\ude99\u26a1",
+  "summary": "Mercedes-AMG has unveiled its first dedicated SUV, a 1,153-horsepower high-performance model designed to rival the upcoming Porsche Cayenne Electric.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2289877/mercedes-amg-gt-suv/"
+ },
+ {
+  "date": "2026-10-19T05:56:15.760137+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "legal",
+  "headline": "Mumbai Police Hunt Gunmen Who Fired at Tiger Shroff's Car",
+  "summary": "Mumbai Police deployed 15 teams to investigate a shooting incident targeting Bollywood star Tiger Shroff's car by suspected gangsters.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/tiger-shroff-shooting-1236916181/"
+ },
+ {
+  "date": "2026-10-19T05:56:15.760137+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Tomb Raider: Legacy Of Atlantis Release Date Announced",
+  "summary": "Tomb Raider: Legacy Of Atlantis is officially announced for a February 12, 2027 release with new outfits for Lara Croft.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/tomb-raider-legacy-of-atlantis-free-download-psa/"
  }
 ]
