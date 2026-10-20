@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-17T23:07:17.967802+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Paul McCartney Expresses Height Concerns Over Paul Mescal's Beatles Casting",
-  "summary": "Paul McCartney shared concerns with director Sam Mendes regarding Paul Mescal's height compared to his co-stars in the upcoming Beatles biopics.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/paul-mccartney-concerned-paul-mescal-markedly-shorter-beatles-1237166503/"
- },
- {
-  "date": "2026-10-17T23:07:17.967802+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "DC Introduces New Wolverine-Like Character",
-  "summary": "DC Comics has officially introduced a new character with powers and appearance similar to Wolverine.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/supergirl-new-hero-wombat-dc-wolverine/"
- },
- {
-  "date": "2026-10-17T23:07:17.967802+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Talk To Me Getting Spinoff Series",
-  "summary": "The hit horror film Talk To Me is expanding into an immersive spinoff series via Meta and XRTV.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/talk-to-me-game-vr-2026/"
- },
- {
-  "date": "2026-10-17T23:07:17.967802+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Harry Styles Honors Liam Payne",
-  "summary": "Harry Styles performed an unreleased song to honor Liam Payne on the anniversary of his death.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x8mk6c/harry_styles_honors_liam_payne_with_unreleased/"
- },
- {
-  "date": "2026-10-17T23:07:17.967802+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "Quentin Tarantino Final Movie Update",
-  "summary": "Quentin Tarantino has shared a major development update regarding his planned tenth and final film.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/quentin-tarantino-final-movie-script-development-update/"
- },
- {
-  "date": "2026-10-17T23:07:17.967802+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Donald Trump Appears on SNL UK",
-  "summary": "James Austin Johnson made a surprise appearance as Donald Trump during the cold open of SNL UK.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x8m2pv/james_austin_johnsons_donald_trump_crashes_snl_uk/"
- },
- {
-  "date": "2026-10-17T23:07:17.967802+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "50 Cent Discusses Diddy Smear Campaign",
-  "summary": "50 Cent spoke out about alleged smear campaigns conducted against him by Diddy.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x8liij/50_cent_opens_up_about_diddys_secret_smear/"
- },
- {
   "date": "2026-10-17T23:42:21.921858+00:00",
   "topic": "Tech News",
   "score": 5,
@@ -17037,5 +16960,181 @@
   "verified": "reliable_reporter",
   "source": "ScreenRant",
   "link": "https://screenrant.com/willy-wonka-movie-major-change-charlie-vs-the-chocolate-factory-netflix/"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Apple News",
+  "score": 10,
+  "category": "launch",
+  "headline": "Apple announces iPhone Duo pre-orders starting October 16",
+  "summary": "Apple has officially announced pre-orders for the new iPhone Duo starting Friday, October 16.",
+  "verified": "official",
+  "source": "Apple Newsroom",
+  "link": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Shrek 2 Remastered Officially Announced for November 2026",
+  "summary": "Aspyr has officially announced Shrek 2 Remastered with a November 2026 release date, featuring 4K visuals and online co-op.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/shrek-2-remastered-release-date-trailer-online-co-op/"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Crimson Desert DLC Gets New Features Overview",
+  "summary": "A new features overview trailer has been released for the upcoming Crimson Desert DLC titled Charting the Unknown.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xb6xhx/features_overview_charting_the_unknown_crimson/"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Warhammer 40K Series Writer Discusses Adaptation Challenges",
+  "summary": "Writer Mike Flanagan opens up about the brutal challenges of adapting the Warhammer 40,000 universe into a sci-fi TV series starring Henry Cavill.",
+  "verified": "reliable_reporter",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/mike-flanagan-henry-cavill-warhammer-40k-tv-show/"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Croc Games Headed to Switch 2",
+  "summary": "Classic platformers Croc Legend of the Gobbos and Croc 2 Kingdom of the Gobbos are slated for a release on the Switch 2.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xb6nzy/croc_legend_of_the_gobbos_croc_2_kingdom_of_the/"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Disrepair Official Trailer Drops",
+  "summary": "An official trailer has been released for Disrepair, an upcoming indie project described as a tale beyond Half-Life.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xb5347/disrepair_a_tale_beyond_halflife_official_trailer/"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "GTA 6 Launch Projected to Cost Billions in Lost Productivity",
+  "summary": "Reports suggest that the launch of Grand Theft Auto 6 could cost the economy heavily as millions plan to skip work.",
+  "verified": "unconfirmed",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xb4qju/grand_theft_auto_6_release_day_set_to_cost/"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Deadlock Receives New Game Update",
+  "summary": "Valve has rolled out a new update for their upcoming title Deadlock, teasing fresh content and changes.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xb41sf/deadlock_shh_this_wont_hurt_a_bit/"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Anthropic Pitches New AI Safety Bill",
+  "summary": "Anthropic has proposed an AI safety bill that restricts federal agencies from blocking certain AI models without judicial permission.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Oura Ring Gains New Cardio Tracking Stats",
+  "summary": "Oura has rolled out a software update for its smart rings that adds VO2 Max estimates and other cardio fitness metrics.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2292447/oura-ring-can-track-new-stats-related-to-cardio-fitness/"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "SpaceX and Tesla Form Committees to Review Merger",
+  "summary": "Boards at SpaceX and Tesla have formed special independent committees to review a potential merger suggested by Elon Musk.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Oscar Contending Documentaries Take Center Stage at Hot Springs Festival",
+  "summary": "Filmmakers behind four Oscar-contending documentaries discussed their projects at the Hot Springs Documentary Film Festival.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/doc-talk-hot-springs-documentary-film-festival-roundtable-1237168951/"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "The Hunger Games Is Officially Returning to Theaters Next Month",
+  "summary": "The Hunger Games franchise is officially preparing to return to theaters in one month.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/the-hunger-games-sunrise-on-the-reaping-release-date-november-2026/"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Practical Magic 2 Officially Announced with Sandra Bullock and Nicole Kidman",
+  "summary": "Sandra Bullock and Nicole Kidman are officially returning for Practical Magic 2 to confront a new family curse.",
+  "verified": "official",
+  "source": "Warner Bros (trailers)",
+  "link": "https://www.youtube.com/watch?v=AgOLekit2HU"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Titus Welliver Officially Returns as Bosch in One Week",
+  "summary": "Titus Welliver is officially set to reprise his iconic role in the Bosch franchise in just one week.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/bosch-titus-welliver-return-october-2026/"
+ },
+ {
+  "date": "2026-10-20T23:14:41.671213+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Prime Video's Stephen King Series Receives First Season 2 Update",
+  "summary": "Summer H. Howell provided an exclusive update regarding a potential second season and Mike Flanagan's plans for the Prime Video Stephen King series.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/carrie-season-2-update-summer-h-howell/"
  }
 ]
