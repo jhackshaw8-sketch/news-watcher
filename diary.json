@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-17T07:04:20.139645+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Pokemon Winds & Waves Leak Highlights",
-  "summary": "A recent leak for the rumored Pok\u00e9mon Winds & Waves games supposedly reveals seven new monster designs.",
-  "verified": "unconfirmed",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/pokmon-winds-waves-leak-7-new-monster-designs/"
- },
- {
   "date": "2026-10-17T07:51:26.512741+00:00",
   "topic": "Events",
   "score": 7,
@@ -13154,5 +13143,49 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/812518/2027-nissan-pathfinder-special-edition/"
+ },
+ {
+  "date": "2026-10-20T07:11:42.365913+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Blackwall Hits $2.2B Valuation Amid AI Bot Surge",
+  "summary": "Security and bot-filtering startup Blackwall secured a $100M funding round at a $2.2B valuation to manage escalating AI and bot traffic.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/"
+ },
+ {
+  "date": "2026-10-20T07:11:42.365913+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Ahold Delhaize Confirms Cyberattack Disrupts Systems",
+  "summary": "Grocery conglomerate Ahold Delhaize confirmed a cyberattack that temporarily forced several US and European IT systems offline.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xakyo0/grocery_giant_ahold_delhaize_confirms_cyberattack/"
+ },
+ {
+  "date": "2026-10-20T07:11:42.365913+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "update",
+  "headline": "Classic Corvette Treasure Found in Texas Trailer Park! \ud83c\udfce\ufe0f\ud83c\uddfa\ud83c\uddf8",
+  "summary": "A hidden collection featuring two matching-numbers big-block Corvettes was discovered in a Texas trailer park and purchased for $175,000.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812531/corvette-stash-became-a-two/"
+ },
+ {
+  "date": "2026-10-20T07:11:42.365913+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Jurassic Park Officially Returns November 20 With A New Adventure",
+  "summary": "A new Jurassic Park adventure is officially set to release on November 20, returning to the franchise roots after 33 years.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/jurassic-park-tcg-set-november-20-release/"
  }
 ]
