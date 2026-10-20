@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-17T02:16:32.805665+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Modder Nears Seamless Starfield Planetary Landings",
-  "summary": "A dedicated modder is close to bringing seamless planetary landings to Starfield, bypassing the game's traditional loading screens.",
-  "verified": "reliable_reporter",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings"
- },
- {
-  "date": "2026-10-17T02:16:32.805665+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "A Rare Glimpse of the McLaren VP4 Prototype \ud83c\udfce\ufe0f\u2728",
-  "summary": "A rare McLaren VP4 prototype, which preceded the 375 production models, is showcased in high resolution.",
-  "verified": "reliable_reporter",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x7vepj/mclaren_vp4_3072x4096/"
- },
- {
-  "date": "2026-10-17T02:16:32.805665+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Fire Country Enters a New Era in Season 5",
-  "summary": "Actor Olivia Thirlby discusses her new character CJ and how she will impact Fire Country as the CBS show enters season 5.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/cbs-fire-country-season-5-new-era-olivia-thirlby/"
- },
- {
   "date": "2026-10-17T02:54:09.284925+00:00",
   "topic": "Events",
   "score": 5,
@@ -12912,5 +12879,60 @@
   "verified": "official",
   "source": "Variety",
   "link": "https://variety.com/2026/tv/news/star-wars-super-bowl-disney-animated-alternacast-1236916766/"
+ },
+ {
+  "date": "2026-10-20T02:17:33.303751+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Flipkart Preps Food Delivery Rival in India",
+  "summary": "Walmart's Flipkart is preparing to launch a food delivery service in India, currently testing it with employees.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/"
+ },
+ {
+  "date": "2026-10-20T02:17:33.303751+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Quinta Brunson Gives Betty Boop Movie Update",
+  "summary": "Quinta Brunson shared a development update on her upcoming Betty Boop film during an appearance on Good Morning America.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/quinta-brunson-update-betty-boop-film-1237168312/"
+ },
+ {
+  "date": "2026-10-20T02:17:33.303751+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Star Wars Takes Over Super Bowl LXI Telecast",
+  "summary": "Disney and ESPN announced a Star Wars-themed Super Bowl broadcast for Super Bowl LXI to celebrate the 50th anniversary.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/star-wars-super-bowl-funday-football-telecast-disney-plus-channel-xd-espn/"
+ },
+ {
+  "date": "2026-10-20T02:17:33.303751+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Star Wars Sets Historic TV Release for 2026",
+  "summary": "Star Wars is officially scheduled to make television history with an expansive new release in February 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-wars-super-bowl-real-time-animated-telecast/"
+ },
+ {
+  "date": "2026-10-20T02:17:33.303751+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "How Jurassic World Rebirth Reinvented the Franchise",
+  "summary": "Jurassic World: Rebirth successfully breaks six major franchise traditions to reinvent the series for a fresh future.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/jurassic-world-rebirth-breaks-traditions-to-reinvent-the-franchise/"
  }
 ]
