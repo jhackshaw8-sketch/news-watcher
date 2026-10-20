@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-17T21:10:59.733684+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "TikTok Bans Ads for Elon Musk Documentary",
-  "summary": "TikTok has permanently banned an advertising account for a four-hour documentary about Elon Musk.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"
- },
- {
-  "date": "2026-10-17T21:10:59.733684+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Orville Peck Tried Getting Kylie Minogue for Street Fighter Cameo",
-  "summary": "Orville Peck revealed he attempted to orchestrate a cameo for Kylie Minogue in the new Street Fighter movie.",
-  "verified": "reliable_reporter",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/street-fighter-orville-peck-tried-kylie-minogue-cameo-1237166445/"
- },
- {
-  "date": "2026-10-17T21:10:59.733684+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Vanilla Sky Enters Final Days on Peacock",
-  "summary": "Tom Cruise's sci-fi film Vanilla Sky is officially leaving Peacock in its final days on the platform.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/tom-cruise-vanilla-sky-leaving-peacock-november-2026/"
- },
- {
   "date": "2026-10-17T21:47:46.527173+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -16751,5 +16718,148 @@
   "verified": "official",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/gabriel-basso-julia-garner-cast-guilty-creatures-apple-tv-1237168133/"
+ },
+ {
+  "date": "2026-10-20T21:19:12.022252+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Next-Gen Xbox Rumored to Cost Up to $1,800",
+  "summary": "A new report suggests that the next-generation Xbox slated for 2028 could cost between $1,200 and $1,800.",
+  "verified": "unconfirmed",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/next-gen-xbox-project-helix-price-release-date-2028/"
+ },
+ {
+  "date": "2026-10-20T21:19:12.022252+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "SpaceX Prepares for Historic Starship Catch Attempt",
+  "summary": "SpaceX plans to attempt catching both Starship and its booster next month to achieve full recovery of an orbital launch vehicle for the first time.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
+ },
+ {
+  "date": "2026-10-20T21:19:12.022252+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "ChatGPT Adds PIN Protection for Sensitive Conversations",
+  "summary": "OpenAI has rolled out a new locked chats feature allowing users to secure sensitive conversations behind a PIN.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/"
+ },
+ {
+  "date": "2026-10-20T21:19:12.022252+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "\u26a1 Subaru Unveils Independent 510-HP Electric Wagon Concept!",
+  "summary": "Subaru has independently developed a 510-horsepower electric wagon concept featuring dual motors and advanced AWD hardware.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812601/subaru-ev-prototype-breaks-toyota/"
+ },
+ {
+  "date": "2026-10-20T21:19:12.022252+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Netflix Leadership Shakeup Addresses Content Strategy",
+  "summary": "Netflix co-CEO Ted Sarandos addressed the recent executive content purge following layoffs and the replacement of chief content officer Bela Bajaria with Peter Rice.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/tv/news/ted-sarandos-addresses-netflix-content-exec-purge-1236917998/"
+ },
+ {
+  "date": "2026-10-20T21:19:12.022252+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Peter Rice to Balance Art and Commerce at Netflix",
+  "summary": "Ted Sarandos stated that newly appointed Netflix content chief Peter Rice will successfully blend art and commerce in guiding the company's film and TV operations.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/peter-rice-netflix-content-ted-sarandos-q3-earnings-1237169028/"
+ },
+ {
+  "date": "2026-10-20T21:19:12.022252+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Why Ryan Gosling is the Ideal MCU Ghost Rider",
+  "summary": "MCU casting director Sarah Finn explained why Ryan Gosling would be the ideal choice to play Ghost Rider in the Marvel Cinematic Universe.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/ghost-rider-ryan-gosling-casting-sarah-finn/"
+ },
+ {
+  "date": "2026-10-20T21:19:12.022252+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Ted Sarandos Praises Outgoing Content Chief Bela Bajaria",
+  "summary": "Ted Sarandos publicly praised outgoing content chief Bela Bajaria during an earnings call just days after her departure and Peter Rice's appointment.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/netflix-ted-sarandos-bela-barjaria-praise-peter-rice-1237169024/"
+ },
+ {
+  "date": "2026-10-20T21:19:12.022252+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Marvel Unveils Official First Look at Historic Star Wars Crossover",
+  "summary": "Marvel has released the first official preview of the historic Star Wars/Marvel crossover comic event, Hope Assembles.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/marvel-first-look-at-star-wars-crossover/"
+ },
+ {
+  "date": "2026-10-20T21:19:12.022252+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Final Fantasy Game Coming to Xbox Game Pass on October 29",
+  "summary": "Microsoft has officially announced that a major Final Fantasy game is coming to Xbox Game Pass on October 29.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/final-fantasy-remake-intergrade-game-pass-october/"
+ },
+ {
+  "date": "2026-10-20T21:19:12.022252+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Rebecca Ferguson\u2019s Sci-Fi Series Returns to Apple TV Top 10",
+  "summary": "Rebecca Ferguson\u2019s sci-fi series has officially returned to Apple TV's global top 10 streaming charts.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1xb4biz/rebecca_fergusons_scifi_series_officially_returns/"
+ },
+ {
+  "date": "2026-10-20T21:19:12.022252+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Netflix Shares Major Spinoff Milestone Update for Manifest Successor",
+  "summary": "Netflix has provided a major milestone update regarding new character details for Arrivals, the spinoff of Manifest.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/manifest-spinoff-netflix-update/"
+ },
+ {
+  "date": "2026-10-20T21:19:12.022252+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "John Grisham Legal Thriller Series Starts New Streaming Era",
+  "summary": "John Grisham's legal thriller series has officially begun a new era on streaming following its season 2 premiere.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/john-grisham-the-rainmaker-new-era-start-amazon-vod-streaming-success-october-2026/"
  }
 ]
