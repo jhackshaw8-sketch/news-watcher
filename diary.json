@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-17T00:10:22.473724+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "business",
-  "headline": "Verizon Confirms Monthly Fee for iPhone Handoff",
-  "summary": "Verizon has confirmed a $10 monthly fee for the new iPhone Handoff feature.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/16/verizon-confirms-10-monthly-fee-for-new-iphone-handoff-feature/"
- },
- {
-  "date": "2026-10-17T00:10:22.473724+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "business",
-  "headline": "Apple Reports Massive Demand for iPhone Duo",
-  "summary": "Apple reports extraordinary pre-order demand for the new iPhone Duo, causing shipping dates to slip.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x7vxqj/apple_calls_iphone_duo_preorder_demand/"
- },
- {
-  "date": "2026-10-17T00:10:22.473724+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Gears of War: E-Day Servers Hit By DDoS Attacks",
-  "summary": "Gears of War: E-Day servers are experiencing login issues and crashes due to targeted DDoS attacks.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos"
- },
- {
-  "date": "2026-10-17T00:10:22.473724+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "legal",
-  "headline": "OpenAI Models Breach Websites and Crypto Wallet in Security Test",
-  "summary": "OpenAI models successfully hacked a cryptocurrency wallet and breached multiple websites in a safety evaluation, demonstrating advanced capabilities that raised potential legal and security concerns.",
-  "verified": "official",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
- },
- {
-  "date": "2026-10-17T00:10:22.473724+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Zelda: Tears of the Kingdom Releasing This Month",
-  "summary": "Nintendo is giving The Legend of Zelda: Tears of the Kingdom an official new release this month.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/zelda-tears-kingdom-new-release-statue-october/"
- },
- {
-  "date": "2026-10-17T00:10:22.473724+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Star Trek Kelvin Timeline Return One Month Away",
-  "summary": "Fans are officially one month away from a new Star Trek release that returns to the Kelvin Timeline.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-trek-kelvin-era-return/"
- },
- {
   "date": "2026-10-17T01:04:54.809667+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -13132,5 +13066,71 @@
   "verified": "reliable_reporter",
   "source": "ScreenRant",
   "link": "https://screenrant.com/tulsa-king-season-5-new-york-genre-change/"
+ },
+ {
+  "date": "2026-10-20T00:14:25.397719+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "WhatsApp Working on Universal In-App Browser for iOS",
+  "summary": "WhatsApp is reportedly developing an in-app browser feature for iPhone users to open all shared links directly within the app.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/19/whatsapp-may-soon-let-iphone-users-open-any-link-in-an-in-app-browser/"
+ },
+ {
+  "date": "2026-10-20T00:14:25.397719+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Nissan Pathfinder Embraces 80s Nostalgia for Its 40th Birthday \ud83d\ude99\u2728",
+  "summary": "Nissan celebrates the Pathfinder's 40th anniversary with retro flair while hinting at an even more retro future model.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2291243/2027-nissan-pathfinder-speical-edition/"
+ },
+ {
+  "date": "2026-10-20T00:14:25.397719+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "other",
+  "headline": "Stunning McLaren P1 Spotted Looking Ready for the Track \ud83c\udfce\ufe0f\ud83d\udd25",
+  "summary": "A stunning McLaren P1 is spotted and listed for sale at GG Classics.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1xad6g4/mclaren_p1_3072x4096/"
+ },
+ {
+  "date": "2026-10-20T00:14:25.397719+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "other",
+  "headline": "Sun-Kissed Mazda Miata Showing Off Classic Roadster Vibes \u2600\ufe0f \ud83d\ude97",
+  "summary": "A clean Mazda Miata is captured enjoying the sunshine in a high-resolution photo.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x5sgu2/sunshine_mazda_miata_4787_x_3191/"
+ },
+ {
+  "date": "2026-10-20T00:14:25.397719+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "'Girls' Revival Officially Set for 2027 on HBO",
+  "summary": "HBO and Lena Dunham have announced a five-episode 'Girls' revival slated for 2027, with Rita Wilson teasing her return.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/rita-wilson-return-lena-dunham-girls-revival-hbo-1237168250/"
+ },
+ {
+  "date": "2026-10-20T00:14:25.397719+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Dwayne Johnson and Benny Safdie's 'Lizard Music' Gets 2027 Release Date",
+  "summary": "Amazon MGM Studios has scheduled the theatrical release of Lizard Music, starring Dwayne Johnson and directed by Benny Safdie, for December 25, 2027.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/dwayne-johnson-lizard-music-release-date-1237167973/"
  }
 ]
