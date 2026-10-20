@@ -1,104 +1,5 @@
 [
  {
-  "date": "2026-10-17T11:47:25.406263+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "update",
-  "headline": "Dawnwalker Update 1.1 Adds Story Mode and Petting",
-  "summary": "Update 1.1 for The Blood of Dawnwalker introduces an accessible Story mode, respec options, and animal petting features.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals"
- },
- {
-  "date": "2026-10-17T11:47:25.406263+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "other",
-  "headline": "Iconic Evolution: Mercedes, Lotus, and Porsche Showcased \ud83c\udfce\ufe0f\u2728",
-  "summary": "A striking photo showcase highlighting the evolution of the Mercedes CLK C208, Lotus Elise S1, and Porsche 911 (996) from their standard to ultimate forms.",
-  "verified": "official",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x874de/mercedes_clk_c208_lotus_elise_s1_and_porsche_911/"
- },
- {
-  "date": "2026-10-17T11:47:25.406263+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Kal Penn Drama Reviewed by Variety",
-  "summary": "Variety reviews the new film 'Trust Me, I\u2019m a Doctor', starring Kal Penn and Abbie Cornish as figures connected to the Anna Nicole Smith story.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/reviews/trust-me-im-a-doctor-review-1236914737/"
- },
- {
-  "date": "2026-10-17T11:47:25.406263+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Horror Hit Primate Dominates Streaming",
-  "summary": "The surprise horror hit 'Primate' is becoming a major global streaming sensation.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/primate-streaming-hit-paramount-plus-october-2026/"
- },
- {
-  "date": "2026-10-17T11:47:25.406263+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "James Bond Returns in New 6-Part Adventure",
-  "summary": "James Bond is officially returning for a new six-part adventure titled 'Sunbreaker', written by Grant Morrison.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/james-bond-grant-morrison-sunbreaker-new-comic/"
- },
- {
-  "date": "2026-10-17T11:47:25.406263+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "update",
-  "headline": "C.S. Lewis Family Endorses Greta Gerwig's Narnia",
-  "summary": "The family of C.S. Lewis has issued an official statement in strong support of Greta Gerwig's upcoming 'Narnia' movie adaptation.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/greta-gerwig-narnia-cs-lewis-family-official-statement-netflix/"
- },
- {
-  "date": "2026-10-17T11:47:25.406263+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Friday the 13th Prequel Explains Jason's Survival",
-  "summary": "The upcoming Friday the 13th prequel series confirms the long-awaited explanation for how Jason Voorhees survived his childhood drowning.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/crystal-lake-jason-drowning-survival-friday-the-13th-explained/"
- },
- {
-  "date": "2026-10-17T11:47:25.406263+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "George Lucas' Original Cut of Star Wars Returning in 2027",
-  "summary": "George Lucas's original cut of A New Hope is set to return in 2027 as part of the Star Wars 50th-anniversary celebrations.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-wars-a-new-hope-george-lucas-2027-release/"
- },
- {
-  "date": "2026-10-17T11:47:25.406263+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Marvel Unveils Doctor Doom and Fantastic Four Team-Up",
-  "summary": "Marvel officially announces a new Doctor Doom and Fantastic Four team-up in Cosmic Invasion, arriving next month.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/marvel-cosmic-invasion-doom-mrs-fantastic-dlc/"
- },
- {
   "date": "2026-10-17T12:10:26.043433+00:00",
   "topic": "Movies",
   "score": 7,
@@ -13671,5 +13572,104 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/legend-of-zelda-tears-of-the-kingdom-free-dlc/"
+ },
+ {
+  "date": "2026-10-20T11:56:01.736685+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "UK Regulators Target Apple Pay Restrictions",
+  "summary": "The UK government states that Apple continues to create barriers preventing Apple Pay competitors from effectively emerging.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/20/apple-still-makes-it-too-hard-for-apple-pay-competitors-to-emerge-says-uk/"
+ },
+ {
+  "date": "2026-10-20T11:56:01.736685+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Fashion Collection Soars with iPad Pro",
+  "summary": "Fashion designer B\u00fcnyamin Ayd\u0131n utilized the iPad Pro and iPhone 18 Pro Max for his latest collection and landmark fashion show in Cappadocia.",
+  "verified": "official",
+  "source": "Apple Newsroom",
+  "link": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/"
+ },
+ {
+  "date": "2026-10-20T11:56:01.736685+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "legal",
+  "headline": "PEGI Raises Age Rating to 16 for Games with Loot Boxes",
+  "summary": "European age-ratings body PEGI is raising the age limit of games featuring loot boxes, such as EA Sports FC, to 16.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/pegi-age-ratings-16-loot-boxes-digital-only"
+ },
+ {
+  "date": "2026-10-20T11:56:01.736685+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "The Game-Changing RDR2 System That Almost Wasn't Pitched",
+  "summary": "A foundational Red Dead Redemption 2 system that heavily shaped GTA 6 almost never got pitched to leadership.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/grand-theft-auto/a-fundamental-red-dead-redemption-2-system-provided-the-basis-for-how-gta-6s-npcs-work-but-it-was-nearly-cut-because-of-an-ambitious-rockstar-studio-head/"
+ },
+ {
+  "date": "2026-10-20T11:56:01.736685+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "Cyberpunk 2077 Getting Major Update for Edgerunners Season 2",
+  "summary": "CD Projekt Red announces a substantial free update for Cyberpunk 2077 to coincide with the Netflix release of Edgerunners Season 2.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/cyberpunk-2077-25-update-free-egerunners-2-release"
+ },
+ {
+  "date": "2026-10-20T11:56:01.736685+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "GTA 6 Is So Massive No Single Rockstar Employee Knows It All",
+  "summary": "Reports highlight the massive scale of GTA 6, noting its unprecedented level of detail across massive development teams.",
+  "verified": "reliable_reporter",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6"
+ },
+ {
+  "date": "2026-10-20T11:56:01.736685+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "update",
+  "headline": "\u2728 Shiny Comeback: Bugatti Restores One-Off Mirror Veyron \ud83c\udfce\ufe0f",
+  "summary": "Bugatti brought back a unique Veyron with a mirror-like aluminum body to Molsheim for a comprehensive restoration a decade after its initial creation.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812586/bugatti-restores-veyron-polished-aluminum-body/"
+ },
+ {
+  "date": "2026-10-20T11:56:01.736685+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Grisham vs. Child Streaming Face-Off",
+  "summary": "The television adaptations of John Grisham's The Rainmaker and Lee Child's Reacher face off on streaming platforms.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/rainmaker-reacher-john-grisham-versus-lee-child-on-prime-video/"
+ },
+ {
+  "date": "2026-10-20T11:56:01.736685+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Christie Brinkley Opens Personal Archive for New Docuseries",
+  "summary": "Christie Brinkley is opening her personal archive for the upcoming docuseries Uptown Girl: The Christie Brinkley Story.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/christie-brinkley-uptown-girl-docuseries-home-movies-cannes-1237168422/"
  }
 ]
