@@ -1,104 +1,5 @@
 [
  {
-  "date": "2026-10-17T23:42:21.921858+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "update",
-  "headline": "Older Samsung Galaxy Tablets Reach Final Year of Software Support",
-  "summary": "Older Samsung Galaxy tablets are entering their final year of software support as newer device policies do not apply to them.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2284679/samsung-galaxy-tablets-last-year-software-support/"
- },
- {
-  "date": "2026-10-17T23:42:21.921858+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "James McAvoy Reveals 'Split' is the Only Movie That Consistently Pays Him Residuals",
-  "summary": "James McAvoy revealed that M. Night Shyamalan's 2016 film Split is the only movie in his career that consistently pays him notable residuals.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/james-mcavoy-split-only-film-that-consistently-pays-me-1236915162/"
- },
- {
-  "date": "2026-10-17T23:42:21.921858+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Clive Barker Teases New Ideas for 'Hellraiser' Film Franchise Following Video Game Release",
-  "summary": "Clive Barker teased that the new Hellraiser video game has sparked fresh ideas for the iconic film franchise, expressing interest in staying involved.",
-  "verified": "reliable_reporter",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/clive-barker-hellraiser-revival-reignited-ideas-film-franchise-1237166512/"
- },
- {
-  "date": "2026-10-17T23:42:21.921858+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "'Crazy Ex-Girlfriend' Rises on Streaming Charts as Fans Compare It to 'Glee' and 'Fleabag'",
-  "summary": "The musical comedy series Crazy Ex-Girlfriend is currently climbing streaming charts with its unique blend of Glee-style music and Fleabag-style dark humor.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/crazy-ex-girlfriend-glee-meets-fleabag-streaming-hit/"
- },
- {
-  "date": "2026-10-17T23:42:21.921858+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Original 'Saw' Movie Surges on Streaming Charts Over Two Decades After Release",
-  "summary": "The original low-budget horror hit Saw is surging on iTunes streaming charts 22 years after its initial theatrical release.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/saw-streaming-hit-itunes-october-2026/"
- },
- {
-  "date": "2026-10-17T23:42:21.921858+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "'Casper' Surges on Streaming Charts Just in Time for Halloween",
-  "summary": "The 1990s supernatural family comedy Casper, starring Christina Ricci, is trending on streaming charts ahead of the Halloween season.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/christina-ricci-casper-streaming-success-disney-plus-october-2026/"
- },
- {
-  "date": "2026-10-17T23:42:21.921858+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Harry Styles Tour Documentary Directed by John Wilson Coming From Universal",
-  "summary": "A Harry Styles tour documentary directed by John Wilson is officially in the works from Universal Pictures Content Group.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x8kypt/harry_styles_together_together_tour_doc_coming/"
- },
- {
-  "date": "2026-10-17T23:42:21.921858+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "First Poster Drops for Anna Nicole Smith Biopic Drama 'Hurricanna'",
-  "summary": "The first official poster has been released for Hurricanna, starring Sylvia Hoeks, Holly Hunter, and Mark Duplass as Anna Nicole Smith's therapist.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x8h1fd/first_poster_for_hurricanna_starring_sylvia_hoeks/"
- },
- {
-  "date": "2026-10-17T23:42:21.921858+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Paramount+ Secures Long-Term Future For Avatar Franchise",
-  "summary": "Paramount+ is heavily investing in the long-term future of the Avatar: The Last Airbender franchise with new renewals and series.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/avatar-franchise-seven-havens-kuruk-series-paramount-plus-bet/"
- },
- {
   "date": "2026-10-18T00:09:15.825853+00:00",
   "topic": "Tech News",
   "score": 8,
@@ -17136,5 +17037,115 @@
   "verified": "reliable_reporter",
   "source": "Collider",
   "link": "https://collider.com/carrie-season-2-update-summer-h-howell/"
+ },
+ {
+  "date": "2026-10-20T23:48:26.590755+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "GTA 6 Live-Action Trailer Rumors Sparked by Miami Sightings",
+  "summary": "Fans speculate that Rockstar is filming a live-action GTA 6 trailer after spotting camera crews and themed cars in Miami.",
+  "verified": "unconfirmed",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami"
+ },
+ {
+  "date": "2026-10-20T23:48:26.590755+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "legal",
+  "headline": "CS2 Pro Aleksib Faces Prison Threat Over Tax Fraud",
+  "summary": "Counter-Strike 2 pro Aleksib is facing a suspended prison sentence in Finland over charges of aggravated tax fraud regarding in-game sticker sales.",
+  "verified": "reliable_reporter",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/counter-strike-2-pro-aleksib-faces-four-month-suspended-prison-sentence-over-charges-of-aggravated-tax-fraud"
+ },
+ {
+  "date": "2026-10-20T23:48:26.590755+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "DayZ Creator Blasts Industry Greed and Engine Giants",
+  "summary": "DayZ creator Dean Hall criticizes major game companies and game engines like Unreal and Unity, claiming industry greed is rotting the sector.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity"
+ },
+ {
+  "date": "2026-10-20T23:48:26.590755+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Judge Dismisses Lawsuit Against OpenAI CEO Sam Altman",
+  "summary": "A US federal judge has dismissed the childhood sexual abuse lawsuit filed against OpenAI CEO Sam Altman by his sister.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed"
+ },
+ {
+  "date": "2026-10-20T23:48:26.590755+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "other",
+  "headline": "Stunning Lamborghini Huracan Performante Spotlight \ud83c\udfce\ufe0f\u2728",
+  "summary": "A high-resolution image showcases the striking design and aggressive aerodynamics of the Lamborghini Huracan Performante.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x6jv1o/lamborghini_huracan_performante_3209x3209/"
+ },
+ {
+  "date": "2026-10-20T23:48:26.590755+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Ridley Scott Hit Headed to Netflix",
+  "summary": "Ridley Scott's upcoming streaming hit makes its way to Netflix soon, marking a major platform acquisition.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/ridley-scott-gladiator-2-streaming-netflix-october-2026/"
+ },
+ {
+  "date": "2026-10-20T23:48:26.590755+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Sarah Jessica Parker Halloween Classic Dominates Disney Streaming",
+  "summary": "Sarah Jessica Parker's Halloween classic has officially become Disney's biggest streaming hit as the holiday approaches.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2292463/sarah-jessica-parker-halloween-classic-hocus-pocus-disney-plus-october-2026/"
+ },
+ {
+  "date": "2026-10-20T23:48:26.590755+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Ben Affleck Thriller Racks Up Massive Viewership on Netflix",
+  "summary": "A thriller starring Ben Affleck pulls in 55.4 million global views on Netflix in just two weeks despite mixed reviews.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/netflix-animals-streaming-success-october-2026/"
+ },
+ {
+  "date": "2026-10-20T23:48:26.590755+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "New Netflix Sci-Fi Thriller Misses Top 10 Charts",
+  "summary": "A new sci-fi thriller fails to break into Netflix's top 10 charts following its recent platform debut.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/from-streaming-drop-netflix-october-2026/"
+ },
+ {
+  "date": "2026-10-20T23:48:26.590755+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Charli xcx Cancels Arizona Show Due to Illness",
+  "summary": "Charli xcx has canceled her upcoming Music, Fashion, Film performance in Arizona due to sudden illness.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/music/news/charli-xcx-cancels-arizona-show-due-to-illness-1236918156/"
  }
 ]
