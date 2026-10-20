@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-17T22:09:50.251362+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple Retail Staff Warns Against iPhone Duo Walk-In Purchases",
-  "summary": "Apple retail staff have been instructed to warn customers against attempting walk-in purchases for the iPhone Duo due to high demand.",
-  "verified": "reliable_reporter",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x8mn8m/apple_retail_staff_told_to_warn_against_iphone/"
- },
- {
   "date": "2026-10-17T22:45:30.583660+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -16905,5 +16894,93 @@
   "verified": "reliable_reporter",
   "source": "ScreenRant",
   "link": "https://screenrant.com/october-24-brandon-sanderson-light-day-sale/"
+ },
+ {
+  "date": "2026-10-20T22:16:59.398672+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "rumor",
+  "headline": "Rumored Touchscreen OLED MacBook Pro Launching October 28 Event",
+  "summary": "A new report claims Apple will officially launch its first touchscreen and OLED MacBook Pro at an event on October 28.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/15/touchscreen-macbook-pro-and-more-launching-at-apple-event-on-oct-28/"
+ },
+ {
+  "date": "2026-10-20T22:16:59.398672+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Denzel Washington and Christopher McQuarrie Team Up for New Thriller",
+  "summary": "Denzel Washington and director Christopher McQuarrie are teaming up for a new untitled thriller greenlit at United Artists and Amazon MGM Studios.",
+  "verified": "reliable_reporter",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/denzel-washington-chris-mcquarrie-united-artists-1237168034/"
+ },
+ {
+  "date": "2026-10-20T22:16:59.398672+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "update",
+  "headline": "Cillian Murphy's 'A Quiet Place' Fan Theory Confirmed",
+  "summary": "Jack O'Connell confirms he and Cillian Murphy will play brothers in A Quiet Place Part III.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/a-quiet-place-part-3-jack-oconnell-cillian-murphy-brothers/"
+ },
+ {
+  "date": "2026-10-20T22:16:59.398672+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "'The Cycle of Love' Returns to Cinemas for One-Day Only",
+  "summary": "The romantic documentary The Cycle of Love, directed by Orlando von Einsiedel and executive produced by Priyanka Chopra Jonas, is returning to cinemas for a one-day engagement.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/the-cycle-of-love-returns-to-theaters-1237169088/"
+ },
+ {
+  "date": "2026-10-20T22:16:59.398672+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Gabriel Basso Leaves Netflix Behind for New Apple TV Thriller",
+  "summary": "Gabriel Basso and Julia Garner are officially leaving Netflix projects behind to star in a new Apple TV thriller.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/gabriel-basso-julia-garner-cast-apple-tv-thriller-guilty-creatures/"
+ },
+ {
+  "date": "2026-10-20T22:16:59.398672+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Sandy Powell to Present Film London Jarman Award",
+  "summary": "Oscar-winning costume designer Sandy Powell is announced as the presenter and guest of honor for the Film London Jarman Award on Nov. 24.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/artisans/news/film-news-in-brief-oct19-2026-1236916412/"
+ },
+ {
+  "date": "2026-10-20T22:16:59.398672+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Netflix Co-CEO Discusses Recent Layoffs",
+  "summary": "Netflix co-CEO Greg Peters addressed the company's recent layoffs of 1,000 employees, citing them as a necessary tradeoff for long-term growth.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/netflix-greg-peters-layoffs-growth-1237169073/"
+ },
+ {
+  "date": "2026-10-20T22:16:59.398672+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Major Streaming Channel Restored After Outage",
+  "summary": "A major streaming channel with over 17 million subscribers has officially been restored following a widespread blackout.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/starz-streaming-service-restored-verizon-deal/"
  }
 ]
