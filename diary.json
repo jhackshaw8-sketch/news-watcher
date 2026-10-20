@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-17T01:04:54.809667+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "business",
-  "headline": "Apple Hires New Global Litigation Head from Meta",
-  "summary": "Apple has hired a longtime Meta executive to take over the leadership of its global litigation team.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x7x1wv/apple_poaches_longtime_meta_executive_to_lead/"
- },
- {
-  "date": "2026-10-17T01:04:54.809667+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Verizon Reportedly Plans $10 Monthly Fee for iPhone Handoff",
-  "summary": "Verizon is reportedly planning to charge a monthly fee of $10 for the iPhone Handoff feature.",
-  "verified": "unconfirmed",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x7wi83/verizon_will_charge_10_a_month_for_iphone_handoff/"
- },
- {
-  "date": "2026-10-17T01:04:54.809667+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "rumor",
-  "headline": "Rockstar Clears the Air on GTA 6 Real-World References",
-  "summary": "Rockstar Games has confirmed that GTA 6 will not feature direct references to Donald Trump or the 2020 COVID-19 pandemic.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/gta-6-trump-rockstar-games/"
- },
- {
-  "date": "2026-10-17T01:04:54.809667+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Diablo Cody Teases 'Jennifer's Body 2' Story Details",
-  "summary": "Writer Diablo Cody teases that the upcoming 'Jennifer's Body 2' will explore a more sympathetic side of Megan Fox's character.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/diablo-cody-jennifers-body-2-more-sympathetic-1237166245/"
- },
- {
-  "date": "2026-10-17T01:04:54.809667+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Hayley Atwell Discusses Cut 'Avengers: Doomsday' Storylines",
-  "summary": "Marvel star Hayley Atwell reveals that multiple storylines were filmed and cut for 'Avengers: Doomsday'.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/avengers-doomsday-cut-storylines-confirmed-hayley-atwell/"
- },
- {
-  "date": "2026-10-17T01:04:54.809667+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "'Sons of Anarchy' Spin-off Sets 2027 Production Start",
-  "summary": "Ron Perlman confirms that production on the upcoming 'Sons of Anarchy' spin-off is slated to begin in 2027.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/sons-of-anarchy-spin-off-filming-start-2027-ron-perlman/"
- },
- {
-  "date": "2026-10-17T01:04:54.809667+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Brendan Fraser and Rachel Weisz Reunite in First 'The Mummy 4' Set Photos",
-  "summary": "First set photos from 'The Mummy: Book of the Dead' officially reunite stars Brendan Fraser and Rachel Weisz.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/brendan-fraser-rachel-weisz-the-mummy-4-set-images/"
- },
- {
   "date": "2026-10-17T01:52:37.189697+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -13132,5 +13055,104 @@
   "verified": "official",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/dwayne-johnson-lizard-music-release-date-1237167973/"
+ },
+ {
+  "date": "2026-10-20T01:08:41.277495+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Taction Seeks Cut of iPhone and Watch Sales After $5.7B Verdict",
+  "summary": "Following a massive $5.7 billion verdict, Taction is seeking a cut of ongoing iPhone and Apple Watch sales through 2035.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1xaebr7/following_57b_verdict_taction_wants_a_cut_of/"
+ },
+ {
+  "date": "2026-10-20T01:08:41.277495+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Stupid Never Dies Lands Mixed Reviews Ahead of PC Launch",
+  "summary": "The official review thread for the game Stupid Never Dies highlights an average score of 68 on OpenCritic ahead of its PC release.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xaaih3/stupid_never_dies_review_thread/"
+ },
+ {
+  "date": "2026-10-20T01:08:41.277495+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Penguin Colony Developers Ban Game Sale in Israel",
+  "summary": "The developers of Penguin Colony have banned their game from being sold in Israel in alignment with the BDS movement.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xa8fy3/penguin_colony_developers_talk_the_bds_talk_and/"
+ },
+ {
+  "date": "2026-10-20T01:08:41.277495+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "business",
+  "headline": "Netflix Ousts Film Head Dan Lin Amid Leadership Shakeup",
+  "summary": "Netflix has ousted its head of film Dan Lin following internal tensions and recent workforce reductions.",
+  "verified": "reliable_reporter",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/netflix-fired-dan-lin-greta-gerwig-narnia-tensions-1236916933/"
+ },
+ {
+  "date": "2026-10-20T01:08:41.277495+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Tasveer Film Festival Announces 21st Edition Winners",
+  "summary": "The Tasveer Film Festival in Seattle announced its award winners for its 21st edition, including Best Feature Narrative winner 'Mayilaa'.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/2026-tasveer-film-festival-awards-1237168277/"
+ },
+ {
+  "date": "2026-10-20T01:08:41.277495+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "'All of Us Are Dead' Season 2 Wraps Filming at Netflix",
+  "summary": "Netflix's hit zombie series 'All of Us Are Dead' has officially wrapped filming for Season 2 ahead of a premiere next year.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/all-of-us-are-dead-season-2-filming-release-update-first-look-netflix/"
+ },
+ {
+  "date": "2026-10-20T01:08:41.277495+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Netflix Scores Historic Box Office Debut With 'La Bola Negra'",
+  "summary": "Netflix achieved a historic box office first as 'La Bola Negra' broke records with a massive per-theater average debut.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/la-bola-negra-netflix-box-office/"
+ },
+ {
+  "date": "2026-10-20T01:08:41.277495+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "'Minions' Leaving Netflix in November",
+  "summary": "The $1.16 billion animated blockbuster 'Minions' is officially leaving Netflix at the end of October.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/minions-leaving-netflix-november-1-2026/"
+ },
+ {
+  "date": "2026-10-20T01:08:41.277495+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "The Gilded Age Season 4 Confirms Two Major Character Departures",
+  "summary": "Two long-running main characters are officially leaving the cast of The Gilded Age for its upcoming fourth season.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/tthe-gilded-age-season-4-patrick-page-sullivan-jones-exit/"
  }
 ]
