@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-17T20:07:48.686361+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "launch",
-  "headline": "Jon Bernthal and Tessa Thompson Lead Netflix\u2019s Gripping Crime Thriller 'His & Hers'",
-  "summary": "Jon Bernthal and Tessa Thompson star in the captivating Netflix crime thriller miniseries His & Hers.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/jon-bernthal-netflix-crime-thriller-his-and-hers-rewatch/"
- },
- {
   "date": "2026-10-17T20:49:05.843882+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -16135,5 +16124,291 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/cod-modern-warfare-4-global-release-times/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "business",
+  "headline": "Apple Highlights Emerging Talent in 'Designers of Tomorrow' Exhibition",
+  "summary": "Apple has collaborated with Design Miami to showcase creative projects from emerging designers in the 'Designers of Tomorrow' exhibition.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/20/apples-designers-of-tomorrow-highlights-creative-projects-from-emerging-designers/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "TikTok restricts searches for popular peptide terms",
+  "summary": "TikTok has begun censoring search results for popular peptides like semaglutide and BPC-157.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "\ud83d\ude97 Google brings personal Gemini AI assistant to Android Auto",
+  "summary": "Google is integrating Gemini's Personal Intelligence feature into Android Auto for personalized driving assistance.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Meta suspends Muse chat sharing following a major privacy leak",
+  "summary": "Meta suspended the Muse chats sharing feature after a security flaw exposed thousands of private conversations.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "\ud83d\ude97 Google expands Gemini Personal Intelligence to connected cars",
+  "summary": "Google is rolling out Gemini Personal Intelligence to Android Auto and cars with Google built-in over the coming months.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Could Fiat's Wild Crossover Minivan Pickup Actually Happen? \ud83d\ude90\u2728",
+  "summary": "Fiat is considering putting its innovative Multiplay crossover minivan pickup concept into production using parts from the Stellantis bin.",
+  "verified": "unconfirmed",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2292290/fiat-might-build-multiplay-concept-crossover-minivan-pickup/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "update",
+  "headline": "The Clever Origin Story Behind the Golf GTI's Iconic Golf Ball Shifter \u26f3\ufe0f\ud83d\ude97",
+  "summary": "Volkswagen reveals the clever and quirky history behind why the iconic Golf GTI features a golf-ball gear shifter.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/features/812550/why-vw-golf-gti-golf-ball-gear-shifter/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Netflix Stock Dips on Soft Q4 Guidance",
+  "summary": "Netflix shares fell in after-hours trading despite solid Q3 results due to lowered Q4 revenue and advertising guidance.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/netflix-q3-2026-earnings-layoffs-streaming-1237168825/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Keanu Reeves Eyed for 'The Gangster, The Cop, The Devil' Remake",
+  "summary": "Keanu Reeves is in talks to star in a reimagining of 'The Gangster, The Cop, The Devil' alongside Don Lee.",
+  "verified": "unconfirmed",
+  "source": "Collider",
+  "link": "https://collider.com/keanu-reeves-cast-the-gangster-the-cop-the-devil-reboot/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Dwayne Johnson Transforms in 'Lizard Music' Set Photos",
+  "summary": "Set photos show Dwayne Johnson undergoing a dramatic transformation into a 70-year-old man for 'Lizard Music'.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xb286a/dwayne_johnson_transforms_into_a_70yearold_man_in/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "casting",
+  "headline": "Keanu Reeves in Talks for James Wan's Next Film",
+  "summary": "Keanu Reeves is in talks to star in James Wan\u2019s upcoming project 'The Gangster, The Cop, The Devil'.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xb1q1f/keanu_reeves_in_talks_to_star_in_james_wans_the/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "awards",
+  "headline": "Biopic 'Michael' Denied Musical/Comedy Golden Globes Slot",
+  "summary": "The biographical film 'Michael' has reportedly been denied a Golden Globes submission in the musical/comedy category.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xb1kpa/michael_golden_globes_submission_as_musicalcomedy/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "'California Schemin' Hits Theaters",
+  "summary": "An unofficial discussion thread covers the theatrical release of the music industry con comedy 'California Schemin\u2019'.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xb1hde/unofficial_discussion_california_schemin/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "'Trust Me, I\u2019m a Doctor' Releases in Theaters",
+  "summary": "Briarcliff Entertainment's 'Trust Me, I\u2019m a Doctor' arrives in theaters following Dr. Sandeep Kapoor's story.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xb1abe/unofficial_discussion_trust_me_im_a_doctor/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Final Trailer Drops for 'Wicker'",
+  "summary": "A final trailer has been released for the upcoming film 'Wicker', giving audiences a final preview.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xb14pf/wicker_final_trailer/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "New Poster Released for 'Angry Birds 3'",
+  "summary": "A brand new poster has been revealed for the animated sequel 'Angry Birds 3'.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xb0z1u/new_poster_for_angry_birds_3/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Legendary Entertainment Bids to Acquire Lionsgate",
+  "summary": "Legendary Entertainment has officially submitted a takeover offer to acquire Lionsgate.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xazmby/legendary_entertainment_submits_takeover_offer/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "David Fincher Talks Cutting Down 'Cliff Booth' Script",
+  "summary": "David Fincher reveals that the 'Cliff Booth' script was massive and required cutting 60 pages.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xaze2y/david_fincher_says_cliff_booth_was_essentially/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "'Dune: Part Three' Drops First Official Soundtrack Track",
+  "summary": "An official track titled 'Desert Chant' from the 'Dune: Part Three' soundtrack by Hans Zimmer has been released.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xazbg6/dune_part_three_official_soundtrack_desert_chant/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "'Terrifier' Trilogy Returns to Theaters for Halloween",
+  "summary": "All three 'Terrifier' films are getting a special theatrical return engagement for Halloween week.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xaxxxn/all_3_terrifier_films_returning_to_theaters_for/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Trailer Released for Hirokazu Koreeda's 'Look Back'",
+  "summary": "An official trailer has dropped for 'Look Back', a new film directed by Hirokazu Koreeda.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xaxwdq/look_back_a_film_by_hirokazu_koreeda_official/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "New Poster Debuts for 'Look Back'",
+  "summary": "A fresh theatrical poster has been unveiled for Hirokazu Koreeda's upcoming feature 'Look Back'.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xaxvpc/new_poster_for_hirokazu_koreedas_look_back/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "American Horror Story Renewed For Season 14 At FX",
+  "summary": "FX has officially renewed American Horror Story for a 14th season ahead of the Season 13 finale.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/american-horror-story-renewed-season-14-fx-1237168879/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "FX Renews American Horror Story For Season 14",
+  "summary": "FX announced the 14th season renewal of American Horror Story ahead of its October 29 finale.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/american-horror-story-renewed-season-14-1236917963/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "American Horror Story Officially Confirmed For Season 14",
+  "summary": "FX has officially confirmed the future of American Horror Story by ordering a 14th season.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/american-horror-story-season-14-fate-fx-renewed/"
+ },
+ {
+  "date": "2026-10-20T20:16:08.197191+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Godzilla Gets Official Neon Genesis Evangelion Redesign",
+  "summary": "An official crossover between Neon Genesis Evangelion and Godzilla has revealed a new nightmare redesign.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/godzilla-evangelion-redesign-crossover/"
  }
 ]
