@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-17T11:11:57.476638+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Bloober Team's Strategic Pivot Secures Switch 2 Exclusive",
-  "summary": "Bloober Team's leadership discusses how adopting a new business approach helped revive their studio's image and secure a Switch 2 exclusive.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/horror/bloober-teams-switch-2-exclusive-heralds-amazing-times-of-gamecube-horror-thanks-to-japanese-approach-to-business/"
- },
- {
-  "date": "2026-10-17T11:11:57.476638+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "legal",
-  "headline": "J.K. Rowling's Agent Slams West End Protest",
-  "summary": "J.K. Rowling's agent Neil Blair condemned transgender rights activists for staging a protest at a West End gala performance of 'Harry Potter and the Cursed Child'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/legit/global/jk-rowling-trans-protest-harry-potter-and-the-cursed-child-1236914728/"
- },
- {
-  "date": "2026-10-17T11:11:57.476638+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Steven Spielberg's 'Hook' Leaves Streaming",
-  "summary": "Steven Spielberg's 1991 fantasy film Hook is scheduled to leave the Peacock streaming platform soon.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/steven-spielberg-fantasy-hook-leaving-peacock-november-2026/"
- },
- {
-  "date": "2026-10-17T11:11:57.476638+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Lanterns Season 2 Cast Shake-Up Teased",
-  "summary": "Lanterns season 2 is reportedly preparing for a major shake-up in its core cast and main characters.",
-  "verified": "unconfirmed",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/lanterns-season-2-switch-main-characters-john-stewart/"
- },
- {
-  "date": "2026-10-17T11:11:57.476638+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Final Fantasy 15 Returns October 22",
-  "summary": "Final Fantasy 15 is officially returning on October 22 with new content titled Final Fantasy Resonance.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/final-fantasy-15-resonance-noctis-october-2026/"
- },
- {
   "date": "2026-10-17T11:47:25.406263+00:00",
   "topic": "Gaming News",
   "score": 8,
@@ -13594,5 +13539,137 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/zelda-master-collection-twilight-princess-wind-waker-returning/"
+ },
+ {
+  "date": "2026-10-20T11:19:09.547572+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "Apple Limits iPhone Duo Orders to Curb Scalping",
+  "summary": "Apple is restricting iPhone Duo orders to two per customer in an effort to prevent scalping.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/20/iphone-duo-orders-limited-to-two-per-customer-as-apple-tackles-scalping/"
+ },
+ {
+  "date": "2026-10-20T11:19:09.547572+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Yelp Adds AI Calling and Personalization Features",
+  "summary": "Yelp is integrating new AI features into its app to handle phone calls for checking restaurant wait times and provide personalized recommendations.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
+ },
+ {
+  "date": "2026-10-20T11:19:09.547572+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "\ud83d\ude97 Slate Opens First Showroom as $25K Electric Truck Nears Production \ud83d\udd0c",
+  "summary": "Slate has opened its first showroom as the company prepares to begin mass production of its $25,000 electric truck.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/"
+ },
+ {
+  "date": "2026-10-20T11:19:09.547572+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Otter.ai Secures $320 Million for Enterprise Expansion",
+  "summary": "Meeting transcription startup Otter.ai has secured $320 million from General Catalyst's Customer Value Fund to drive enterprise growth and product innovation.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+ },
+ {
+  "date": "2026-10-20T11:19:09.547572+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Lexus NX Goes All-Hybrid for 2027! \u26a1\ud83d\ude97",
+  "summary": "Lexus drops the gas-only NX for 2027, updating the NX 350h and NX 450h+ with stronger hybrid tech and a simplified lineup.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812567/2027-lexus-nx-drops-gas/"
+ },
+ {
+  "date": "2026-10-20T11:19:09.547572+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Emily Watson Boards Short Film 'The Drive' as Executive Producer",
+  "summary": "Two-time Oscar nominee Emily Watson has joined the Oscar-qualified short film 'The Drive' as an executive producer.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/emily-watson-joins-the-drive-as-exec-producer-1236917310/"
+ },
+ {
+  "date": "2026-10-20T11:19:09.547572+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "legal",
+  "headline": "New Witness Allegations Emerge in Russell Brand Legal Proceedings",
+  "summary": "The latest accuser in the Russell Brand trial alleges that witnesses were present during an assault at a radio station in the mid-2000s.",
+  "verified": "reliable_reporter",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/russell-brand-accuser-says-witnesses-present-assault-1237168392/"
+ },
+ {
+  "date": "2026-10-20T11:19:09.547572+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Evolution Mallorca Film Festival Revives Script Lab Pitch Program",
+  "summary": "The Evolution Mallorca International Film Festival is bringing back its Script Lab pitch component for its 15th edition with a notable jury.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/evolution-mallorca-script-lab-pitches-sirat-producer-jury-1236917228/"
+ },
+ {
+  "date": "2026-10-20T11:19:09.547572+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Jason Sudeikis Teases Potential Future Seasons for 'Ted Lasso'",
+  "summary": "Jason Sudeikis has teased the possibility of future seasons for 'Ted Lasso', though a writers' room has not yet been established.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/ted-lasso-season-5-and-6-jason-sudeikis-comments/"
+ },
+ {
+  "date": "2026-10-20T11:19:09.547572+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Resident Evil 30th Anniversary Exhibition and New Project Officially Announced",
+  "summary": "Resident Evil: The Legacy Of Fear has been officially announced alongside the 30th Anniversary Exhibition in Tokyo.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/resident-evil-legacy-of-fear-30th-anniversary/"
+ },
+ {
+  "date": "2026-10-20T11:19:09.547572+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Exploring the Balance of Old and New in Final Fantasy VII Revelation",
+  "summary": "An in-depth look at how Final Fantasy VII Revelation manages to balance classic elements with fresh new features.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1xap68s/how_final_fantasy_vii_revelation_strikes_the/"
+ },
+ {
+  "date": "2026-10-20T11:19:09.547572+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Tears of the Kingdom DLC Is Out Now",
+  "summary": "Surprise new DLC content for The Legend of Zelda: Tears of the Kingdom is now officially available.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/legend-of-zelda-tears-of-the-kingdom-free-dlc/"
  }
 ]
