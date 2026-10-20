@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-17T03:54:58.573388+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "'Crystal Lake' Series Rewrites Iconic 'Friday the 13th' Opening",
-  "summary": "Peacock's upcoming 'Crystal Lake' series will feature a shocking reimagining of the iconic opening kill scene from 'Friday the 13th'.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/crystal-lake-series-rewrites-friday-the-13th-opening-kill-scene/"
- },
- {
-  "date": "2026-10-17T03:54:58.573388+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Miley Cyrus Launches Hollywood Bowl Comeback Shows",
-  "summary": "Miley Cyrus kicked off her first major headlining performance in years with her Bass Persuades shows at the Hollywood Bowl.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/music/news/miley-cyrus-setlist-hollywood-bowl-los-angeles-1236914492/"
- },
- {
-  "date": "2026-10-17T03:54:58.573388+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Netflix Drops New R-Rated Coming-of-Age Horror Drama",
-  "summary": "Netflix is releasing a new R-rated coming-of-age horror thriller series that draws thematic comparisons to Carrie and Euphoria.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/netflix-stephen-king-carrie-meets-euphoria-the-body/"
- },
- {
   "date": "2026-10-17T04:14:58.578561+00:00",
   "topic": "Events",
   "score": 8,
@@ -12989,5 +12956,16 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/legend-of-zelda-symphonic-tale-announced/"
+ },
+ {
+  "date": "2026-10-20T03:58:06.739886+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Michael Douglas Reveals Marvel Rejected His Request to Kill Off Ant-Man Character",
+  "summary": "Michael Douglas revealed that Marvel refused his request to kill off his character Hank Pym after the second Ant-Man film.",
+  "verified": "reliable_reporter",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/michael-douglas-killed-off-marvel-ant-man-1237168330/"
  }
 ]
