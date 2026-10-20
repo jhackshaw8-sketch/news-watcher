@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-17T08:51:29.322427+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Gerard Butler's Sci-Fi Flop Becomes Streaming Hit",
-  "summary": "Gerard Butler's $100 million sci-fi box office flop has found new life on streaming platforms by re-entering the top 10 charts.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/gerard-butler-sci-fi-greenland-2-migration-streaming-success-hbo-max-october-2026/"
- },
- {
-  "date": "2026-10-17T08:51:29.322427+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Steven Spielberg's War of the Worlds Leaving HBO Max",
-  "summary": "Steven Spielberg's highest-grossing 21st-century sci-fi film, War of the Worlds, is officially leaving HBO Max soon.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/tom-cruise-steven-spielberg-war-of-the-worlds-leaving-hbo-max-november-2026/"
- },
- {
   "date": "2026-10-17T09:12:49.921745+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -13253,5 +13231,82 @@
   "verified": "official",
   "source": "Variety",
   "link": "https://variety.com/2026/tv/global/douglas-mackinnon-burntime-rugged-island-films-1236917192/"
+ },
+ {
+  "date": "2026-10-20T09:04:53.152111+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Penguin Colony Blocked From Sale in Israel by Developer",
+  "summary": "Umurangi Generation developer Origame Digital has blocked its new game, Penguin Colony, from being sold in Israel in an act of solidarity with Palestine.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/umurangi-generation-studio-blocks-penguin-colony-sale-in-isreal-pro-palestine"
+ },
+ {
+  "date": "2026-10-20T09:04:53.152111+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "other",
+  "headline": "Deer-ly Beloved: AAA Study Reveals Over 350k Animal Crashes Yearly \ud83e\udd8c\ud83d\ude97",
+  "summary": "New AAA Foundation research reveals that animals are involved in over 350,000 U.S. crashes annually and offers safety tips on how to handle them.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812547/aaa-study-deadly-animal-related/"
+ },
+ {
+  "date": "2026-10-20T09:04:53.152111+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Goodbye Julia Director Preps New Film",
+  "summary": "Sudanese filmmaker Mohamed Kordofani is seeking partners for his upcoming period drama follow-up 'About Love & September Laws' at the Rome MIA Market.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/goodbye-julia-sudanese-about-love-and-september-laws-1236916213/"
+ },
+ {
+  "date": "2026-10-20T09:04:53.152111+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Former A24 Docs Chief Joins Magna Studios",
+  "summary": "Former A24 documentaries chief Nicole Stott has joined Magna Studios as an executive producer in their non-fiction division.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/a24-docs-chief-nicole-stott-magna-studios-oasis-anger-1237168380/"
+ },
+ {
+  "date": "2026-10-20T09:04:53.152111+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Ridley Scott Sci-Fi Classic Surges on Streaming",
+  "summary": "A classic Ridley Scott sci-fi masterpiece is experiencing a surge in streaming viewership ahead of an upcoming eight-part sequel series.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/ridley-scott-blade-runner-2049-streaming-success-october-2026/"
+ },
+ {
+  "date": "2026-10-20T09:04:53.152111+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Percy Jackson Stars Heading to Lucca Comics",
+  "summary": "Stars of the 'Percy Jackson' series will attend Italy's Lucca Comics and Games Festival to unveil unseen footage ahead of the show's return.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/percy-jackson-lucca-comics-1236914648/"
+ },
+ {
+  "date": "2026-10-20T09:04:53.152111+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "update",
+  "headline": "Clayface Director Given Total Freedom by James Gunn",
+  "summary": "Director James Watkins confirms that DC bosses James Gunn and Peter Safran gave him complete creative freedom to reinvent Gotham City for the upcoming 'Clayface' movie.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/clayface-dcu-gotham-city-director-james-watkins/"
  }
 ]
