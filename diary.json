@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-17T10:49:00.603625+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "update",
-  "headline": "Apple Updates App Review Guidelines to Block Bait-and-Switch and Harmful Content",
-  "summary": "Apple has strengthened its App Review Guidelines to better combat nonconsensual intimate imagery and deceptive bait-and-switch apps.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1x873ai/strengthening_app_review_guidelines_against/"
- },
- {
-  "date": "2026-10-17T10:49:00.603625+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Pierce Brosnan Animated Movie Hits 100-Day Streaming Milestone",
-  "summary": "Pierce Brosnan's animated film has achieved a notable 100-day streaming milestone.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/pierce-brosnan-the-king-of-kings-streaming-success-100-days-october-2026/"
- },
- {
-  "date": "2026-10-17T10:49:00.603625+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "The Legend of Zelda: Master Collection Announced",
-  "summary": "Nintendo has officially announced the upcoming Zelda: Master Collection featuring classic titles like Phantom Hourglass and Spirit Tracks.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/legend-of-zelda-phantom-hourglass-twilight-princess-master-collection/"
- },
- {
   "date": "2026-10-17T11:11:57.476638+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -13440,5 +13407,192 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/playstation-delist-first-party-psn/"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "Apple Acquires Samplab AI and Faces EU Gatekeeper Rules",
+  "summary": "Apple has acquired AI audio startup Samplab while simultaneously facing new European Commission gatekeeper compliance disclosures.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1xaowaj/apple_acquires_samplabs_ai_audio_app_as_the/"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "UK CMA Proposes Unlocking iPhone NFC for Competitors",
+  "summary": "The UK's CMA has outlined specific proposals aimed at unlocking third-party access to contactless payment technology on the iPhone.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1xaoqsp/cma_outlines_proposals_to_unlock_contactless/"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "Cyberpunk 2077 Gets Surprise New Update",
+  "summary": "CD Projekt has announced a surprise update for Cyberpunk 2077, which is scheduled to release this week.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/cyberpunk-2077-gets-surprise-official-new-update-announcement-from-cd-projekt"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "Bungie to Detail Destiny 2 Content Unvaulting",
+  "summary": "Bungie is preparing to share the first details regarding the return of previously vaulted Destiny 2 content.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/destiny-2-unvaulting-bungie-date-details"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Steam Next Fest Features Over 7,000 Games",
+  "summary": "The latest Steam Next Fest features over 7,000 games, nearly doubling the number seen in June 2026.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/this-steam-next-fest-has-over-7-000-games-so-far-almost-double-what-we-saw-in-june-2026-and-so-so-many-of-them-are-using-ai/"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "PEGI Raises Age Ratings for Games With Loot Boxes",
+  "summary": "PEGI has updated its rating system to assign a 16+ rating to digital-only games that include loot boxes.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xamr1b/pegi_raises_ratings_for_digital_games_with_loot/"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Techland Announces End of Support for Dying Light: The Beast",
+  "summary": "Techland CEO Pawe\u0142 Marchewka announced the official end of support for Dying Light: The Beast during a recent Discord AMA.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/dying-light-the-beast-no-updates"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Nonolith Official Gameplay Trailer Released",
+  "summary": "An official gameplay trailer for the indie game Nonolith has been released.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xalzrz/nonolith_official_gameplay_trailer/"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "Helldivers 2 Getting New Anti-Cheat System",
+  "summary": "Helldivers 2 is receiving new anti-cheat measures specifically aimed at stopping unfair modifications.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/third-person-shooter/helldivers-2-is-getting-new-anti-cheat-targeting-modifications-that-create-unfair-advantages-but-the-community-argues-these-gameplay-mods-are-only-used-to-target-glitches-the-devs-havent-fixed/"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Leak Suggests High Production Costs for PS6 Hardware",
+  "summary": "A new leak suggests that the RAM and storage alone for the PS6 could cost $680, pointing toward a much higher overall console price.",
+  "verified": "unconfirmed",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xakhnf/leaker_claims_ps6_storage_and_ram_will_cost_680/"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "ReVamp Moves Playtest to Discord Over Copy Concerns",
+  "summary": "ReVamp has shifted its public Steam playtest to a private Discord format due to fears of the game being copied.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xak2tc/revamps_previouslyannounced_public_steam_playtest/"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Wild 1967 Alfa Romeo Giulia Le Mans Racer Hits the Market! \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "A heavily modified 1967 Alfa Romeo Giulia built in the style of a Le Mans racer with alloy panels and 180 horsepower is currently up for sale.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812578/1967-alfa-romeo-giulia-low/"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "business",
+  "headline": "\u20ac100 Million Film Fund Launched to Boost Italian Indie Cinema",
+  "summary": "Raj Singh and RP1 Holding have launched a \u20ac100 million film fund to support the Italian independent film ecosystem.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/raj-singh-italy-rp1-holding-100-milion-film-fund-1236917222/"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "'Street Fighter' Punches to the Top of the U.K. and Ireland Box Office",
+  "summary": "'Street Fighter' topped the U.K. and Ireland box office with a \u00a32.3 million debut, followed by 'Forgotten Island' and 'Jailer 2'.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/box-office/street-fighter-rajinikanth-jailer-2-uk-ireland-box-office-1236916622/"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "'Sense and Sensibility' Delivers Impressive Per-Theater Box Office Averages",
+  "summary": "'Sense and Sensibility' achieved a strong domestic box office debut with one of the weekend's best per-theater averages.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/sense-and-sensibility-2026-box-office-18-million/"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Disney Appoints Carol Choi as New Asia Pacific President",
+  "summary": "Disney has appointed Carol Choi as Asia Pacific President, replacing the retiring Luke Kang, effective December 1.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/disney-carol-choi-asia-pacific-president-luke-kang-retires-1236917287/"
+ },
+ {
+  "date": "2026-10-20T10:55:48.710758+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Zelda: Master Collection Officially Announced for Franchise Anniversary",
+  "summary": "Nintendo has announced the Zelda: Master Collection featuring card games and iconic art to celebrate the 40th anniversary of the franchise.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/zelda-master-collection-twilight-princess-wind-waker-returning/"
  }
 ]
