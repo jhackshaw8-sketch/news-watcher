@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-17T05:14:25.321714+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Stargate: Atlantis Returning in October 2026 With New Collection",
-  "summary": "Stargate: Atlantis is officially returning in October 2026 as part of a new collection featuring a limited-edition Zero Point Module replica.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/stargate-atlantis-october-2026-return/"
- },
- {
   "date": "2026-10-17T05:50:45.223789+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -13110,5 +13099,16 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/netflix-redeems-box-office-bomb-the-breadwinner/"
+ },
+ {
+  "date": "2026-10-20T05:19:59.256147+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Game of Thrones: The Radiant Conqueror Officially Announced",
+  "summary": "Game of Thrones: Dragonfire has officially announced a new release titled The Radiant Conqueror.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/game-of-thrones-dragonfire-radiant-conqueror/"
  }
 ]
