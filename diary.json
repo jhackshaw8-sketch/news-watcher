@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-17T18:08:21.419221+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "update",
-  "headline": "UGREEN Launches MagSafe Battery Bank with Liquid Cooling for iPhone",
-  "summary": "UGREEN has released a new 25W MagSafe battery bank for the iPhone featuring integrated liquid cooling.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/"
- },
- {
-  "date": "2026-10-17T18:08:21.419221+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Zelda: Ocarina of Time Remake Sounds Meaningfully Better",
-  "summary": "Previews of the upcoming Zelda: Ocarina of Time Remake for the Switch 2 suggest significant audio improvements.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/switchboard-zelda-ocarina-of-time-previews/"
- },
- {
-  "date": "2026-10-17T18:08:21.419221+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "Costume Insights for New 'Sense and Sensibility' Film",
-  "summary": "Costume designer Grace Snell discusses blending historical accuracy and modern styling for Georgia Oakley's upcoming film adaptation of Jane Austen's 'Sense and Sensibility' starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/sense-and-sensibility-costume-designer-dashwood-1236913296/"
- },
- {
-  "date": "2026-10-17T18:08:21.419221+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Taylor Sheridan's Western Dominates Streaming",
-  "summary": "Taylor Sheridan's new Western series continues its strong streaming run by spending nearly 100 days in the top 10 on Paramount Plus.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/taylor-sheridan-the-madison-streaming-success-paramount-plus-100-days/"
- },
- {
-  "date": "2026-10-17T18:08:21.419221+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "The Wheel of Time Board Game Announced for 2027",
-  "summary": "The Wheel of Time board game, War of the Dragon, is announced for 2027 and is now live on Kickstarter.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/wheel-of-time-switching-characters-war-of-dragon/"
- },
- {
   "date": "2026-10-17T18:51:55.735487+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -15475,5 +15420,148 @@
   "verified": "reliable_reporter",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/russell-brand-accuser-raped-clean-up-mess-court-hears-1237168557/"
+ },
+ {
+  "date": "2026-10-20T18:19:16.239299+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Apple's Strategic Acquisitions and Future Goals",
+  "summary": "Apple continues its strategy of acquiring various companies to further its technological goals, particularly in areas like AI and audio.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/20/apple-keeps-acquiring-companies-with-one-clear-goal-in-mind/"
+ },
+ {
+  "date": "2026-10-20T18:19:16.239299+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "First Look at Apple Apps on the iPhone Duo",
+  "summary": "App Store screenshots reveal how Apple's built-in apps will look on the upcoming iPhone Duo ahead of its release.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/20/apple-apps-iphone-duo/"
+ },
+ {
+  "date": "2026-10-20T18:19:16.239299+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Marvel Rivals Adds Epic 50-Player Thanos PvE Mode",
+  "summary": "NetEase Games released footage of a new Marvel Rivals PvE mode where 50 players fight Thanos.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/marvel-rivals-50-player-pve-avengers-endgame/"
+ },
+ {
+  "date": "2026-10-20T18:19:16.239299+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Magic: The Gathering Star Trek Decks Introduce Two Bold New Mechanics",
+  "summary": "Magic: The Gathering's Star Trek Commander decks are introducing Battlefront and Seek Out mechanics.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/magic-star-trek-commander-mechanics/"
+ },
+ {
+  "date": "2026-10-20T18:19:16.239299+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Magic: The Gathering Star Trek Officially Adds a New Loss Condition",
+  "summary": "The Star Trek crossover adds a brand new alternate condition to lose the game in Magic: The Gathering.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/kobayashi-maru-magic-star-trek/"
+ },
+ {
+  "date": "2026-10-20T18:19:16.239299+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Final Fantasy 7 Remake Leads New Wave of Xbox Game Pass Additions",
+  "summary": "Xbox Game Pass is adding Final Fantasy VII Remake Intergrade alongside other titles for early November.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/xbox-game-pass-new-games-october-2026-final-fantasy-7-remake/"
+ },
+ {
+  "date": "2026-10-20T18:19:16.239299+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Zelda: Ocarina of Time Remake File Size Leaked for Switch 2",
+  "summary": "The file size for the rumored Legend of Zelda: Ocarina of Time remake on Nintendo Switch 2 has allegedly been confirmed.",
+  "verified": "unconfirmed",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-file-size/"
+ },
+ {
+  "date": "2026-10-20T18:19:16.239299+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "Meta Pauses Muse Sharing Following Public URL Leak Discovery",
+  "summary": "Meta paused its Muse sharing feature after security researchers discovered thousands of AI chat URLs publicly indexed on the web.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+ },
+ {
+  "date": "2026-10-20T18:19:16.239299+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "China-Linked AI Agent Targeted Japanese Firms in Cyberattacks",
+  "summary": "A security investigation revealed that a China-linked AI agent was used in cyberattacks targeting around 80 firms in Japan.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xayv0m/a_chinalinked_artificial_intelligence_agent_was/"
+ },
+ {
+  "date": "2026-10-20T18:19:16.239299+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Mozilla Secures Firefox After Certificate Compromise",
+  "summary": "Mozilla published a security blog post detailing how it is protecting Firefox users after the compromise of eMudhra intermediate certificates.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xaysr5/protecting_firefox_users_following_the_compromise/"
+ },
+ {
+  "date": "2026-10-20T18:19:16.239299+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Galaxy S27 Ultra May Switch to Exynos Over Heating Leaks",
+  "summary": "Rumors suggest the upcoming Galaxy S27 Ultra could switch back to Exynos chips due to Snapdragon heating concerns.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xayo1l/galaxy_s27_ultra_could_switch_to_exynos_2700_over/"
+ },
+ {
+  "date": "2026-10-20T18:19:16.239299+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "legal",
+  "headline": "Ofcom Admits Difficulty Collecting 4chan Fines",
+  "summary": "UK regulator Ofcom admits it may struggle to collect fines from 4chan following an incident involving AI hamster trolling.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xaxnmb/ofcom_admits_it_may_never_collect_4chans_fines/"
+ },
+ {
+  "date": "2026-10-20T18:19:16.239299+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Google Threat Group Investigates Supply Chain Tampering",
+  "summary": "Google's Threat Intelligence Group is actively investigating ephemeral supply chain tampering threats.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xaryvt/google_threat_intelligence_group_investigating/"
  }
 ]
