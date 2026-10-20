@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-17T04:14:58.578561+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Henry Cavill And Mark Hamill Cast In Epic Sci-Fi Thriller",
-  "summary": "Henry Cavill and Mark Hamill are officially confirmed to star in a major new sci-fi thriller movie event.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/henry-cavill-mark-hamill-sci-fi-thriller-squadron-42/"
- },
- {
   "date": "2026-10-17T04:53:09.990699+00:00",
   "topic": "Events",
   "score": 8,
@@ -12967,5 +12956,137 @@
   "verified": "reliable_reporter",
   "source": "Deadline Film",
   "link": "https://deadline.com/2026/10/michael-douglas-killed-off-marvel-ant-man-1237168330/"
+ },
+ {
+  "date": "2026-10-20T04:22:27.209343+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Baseus Launches AI Security Camera with Motorized Tracking Spotlight",
+  "summary": "Baseus announced the PrimeSentinel U2 Pro Outdoor 3K Dual Camera featuring an AI-assisted motorized spotlight that tracks moving targets.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight"
+ },
+ {
+  "date": "2026-10-20T04:22:27.209343+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Kris Bowers to Score Disney's 'Hexed'",
+  "summary": "Kris Bowers has been selected to compose the original score for Disney's upcoming animated feature Hexed.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xaho9m/kris_bowers_the_wild_robot_set_to_compose/"
+ },
+ {
+  "date": "2026-10-20T04:22:27.209343+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "The Terminal List Season 2 Delivers Explosive Action",
+  "summary": "A review of The Terminal List Season 2 on Prime Video, highlighting its return with intense action.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/the-terminal-list-season-2-review-chris-pratt-prime-video/"
+ },
+ {
+  "date": "2026-10-20T04:22:27.209343+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "New Poster Drops for 'Jumanji: Open World'",
+  "summary": "A new poster has been released for the upcoming movie Jumanji: Open World.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xah34m/new_poster_for_jumanji_open_world/"
+ },
+ {
+  "date": "2026-10-20T04:22:27.209343+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "'Heart of the Beast' Sets Digital Release Date",
+  "summary": "Heart of the Beast has officially scheduled its digital release for November 10th, 2026.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xagsth/heart_of_the_beast_will_be_available_on_digital/"
+ },
+ {
+  "date": "2026-10-20T04:22:27.209343+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Bollywoof Releases Official UK Trailer",
+  "summary": "The official UK trailer for Bollywoof has been released ahead of its January 22nd theatrical debut.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xagej1/bollywoof_official_uk_trailer_in_cinemas_22/"
+ },
+ {
+  "date": "2026-10-20T04:22:27.209343+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "The Cycle Trailer Teases Dark Family Secrets",
+  "summary": "The official trailer for The Cycle starring Deborah Ann Woll and Jeffrey Donovan has dropped.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xafuus/the_cycle_official_trailer_deborah_ann_woll/"
+ },
+ {
+  "date": "2026-10-20T04:22:27.209343+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Box Office: Street Fighter Slumps While Doc Shines",
+  "summary": "The box office weekend recap shows Street Fighter underperforming at $50.8M globally while documentary You Can See Everything over-performs.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xaf1ix/october_1618_box_office_recap_street_fighter/"
+ },
+ {
+  "date": "2026-10-20T04:22:27.209343+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "business",
+  "headline": "Inside Netflix's Decision to Fire Dan Lin Over Narnia",
+  "summary": "A report details the reasons behind Netflix firing Dan Lin and uncovers tension with Greta Gerwig over Narnia.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xae8kd/why_netflix_fired_dan_lin_and_the_truth_about_his/"
+ },
+ {
+  "date": "2026-10-20T04:22:27.209343+00:00",
+  "topic": "Movies",
+  "score": 10,
+  "category": "launch",
+  "headline": "Benny Safdie's 'Lizard Music' Lands Christmas 2027 Date",
+  "summary": "Amazon MGM sets a Christmas Day 2027 release date for Lizard Music, starring Dwayne Johnson and directed by Benny Safdie.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xaddx5/lizard_music_starring_dwayne_johnson_and_directed/"
+ },
+ {
+  "date": "2026-10-20T04:22:27.209343+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "'You Can See Everything' Launches Major Oscar Campaign",
+  "summary": "You Can See Everything launches an aggressive Oscar campaign targeting Best Picture, Supporting Actress, and more.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xaccdz/you_can_see_everything_sets_oscar_campaigns_for/"
+ },
+ {
+  "date": "2026-10-20T04:22:27.209343+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Steam Officially Drops New Free Games to Keep Forever",
+  "summary": "Steam has officially released new free games that users can download and keep permanently.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/steam-4-free-games-october-2026-keep-forever/"
  }
 ]
