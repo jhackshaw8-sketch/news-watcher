@@ -1,104 +1,5 @@
 [
  {
-  "date": "2026-10-17T03:15:30.904669+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "First Look at 47 Meters Down: The Wreck",
-  "summary": "The first official image from the upcoming survival thriller 47 Meters Down: The Wreck has been released.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x7z3k9/first_image_from_47_meters_down_the_wreck/"
- },
- {
-  "date": "2026-10-17T03:15:30.904669+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "update",
-  "headline": "Diablo Cody Teases Jennifer's Body Sequel Details",
-  "summary": "Writer Diablo Cody teases that a potential Jennifer's Body 2 would feature a much more sympathetic version of Jennifer.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x7x7rn/diablo_cody_teases_jennifers_body_2_explores_more/"
- },
- {
-  "date": "2026-10-17T03:15:30.904669+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Broadcaster Warns of Threats to French Cinema",
-  "summary": "French broadcaster France T\u00e9l\u00e9visions warns that a far-right political rise could severely damage French cinema.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x7x01n/broadcaster_france_t\u00e9l\u00e9visions_warns_farright/"
- },
- {
-  "date": "2026-10-17T03:15:30.904669+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "James Cameron Congratulates Avengers: Endgame Box Office Milestone",
-  "summary": "Director James Cameron publicly congratulates Avengers: Endgame for reclaiming the top box office spot from Avatar.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x7vlnp/james_cameron_congratulates_avengers_endgame_for/"
- },
- {
-  "date": "2026-10-17T03:15:30.904669+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "other",
-  "headline": "Re-Evaluating Signs with Shyamalan and Howard",
-  "summary": "M. Night Shyamalan and Bryce Dallas Howard sit down to re-evaluate their sci-fi thriller movie Signs.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x7vjac/reevaluating_signs_with_m_night_shyamalan_bryce/"
- },
- {
-  "date": "2026-10-17T03:15:30.904669+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Remembering Actor Michael Forest",
-  "summary": "Veteran character actor Michael Forest, known for his roles in Roger Corman films and Star Trek, has passed away at 97.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x7sxfg/michael_forest_actor_in_roger_corman_movies_and/"
- },
- {
-  "date": "2026-10-17T03:15:30.904669+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Once Upon a Time in Hollywood Returns to IMAX",
-  "summary": "Quentin Tarantino's Once Upon a Time in Hollywood is officially returning to IMAX theaters for a special run.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x7ssaw/once_upon_a_time_in_hollywood_will_be_returning/"
- },
- {
-  "date": "2026-10-17T03:15:30.904669+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Francis Lawrence Tackling Red Rising Movie Adaptation",
-  "summary": "Director Francis Lawrence and Paramount Pictures are officially teaming up to adapt the Red Rising sci-fi book series.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x7siej/francis_lawrence_paramount_team_for_red_rising/"
- },
- {
-  "date": "2026-10-17T03:15:30.904669+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Exclusive Clip Drops for Space Cadet",
-  "summary": "A brand new exclusive clip has been released from the upcoming film Space Cadet highlighting a strange mystery.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x7rup8/the_mystery_of_the_pink_balloon_in_space_space/"
- },
- {
   "date": "2026-10-17T03:54:58.573388+00:00",
   "topic": "Movies",
   "score": 8,
@@ -12934,5 +12835,159 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/angels-and-demons-leaving-netflix-november-1-tom-hanks/"
+ },
+ {
+  "date": "2026-10-20T03:20:41.982438+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Spotify Introduces QR Code Checks for Family Plans",
+  "summary": "Spotify is rolling out QR code checks for Family plans to crack down on shared accounts, with potential bans for unverified users.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xah1rs/spotify_introduces_qr_code_checks_for_family/"
+ },
+ {
+  "date": "2026-10-20T03:20:41.982438+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Battery Storage Beats Gas Peakers Globally on Cost",
+  "summary": "Battery storage has become cheaper than gas peakers globally, though U.S. trade tariffs present near-term headwinds.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xafnnk/batteries_beat_gas_peakers_on_cost_globally_but/"
+ },
+ {
+  "date": "2026-10-20T03:20:41.982438+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "legal",
+  "headline": "Music Body Warns Kylie Minogue Songs Used for AI Training",
+  "summary": "A music body warns that tech firms are pressuring the Australian government while using Kylie Minogue songs to train AI.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xafksc/kylie_minogue_songs_already_used_to_train_ai_as/"
+ },
+ {
+  "date": "2026-10-20T03:20:41.982438+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Data-Center Firm Elice Plunges in Market Debut",
+  "summary": "Data-center firm Elice saw its shares plunge 32% during its market debut following a South Korea IPO.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xafc7w/datacenter_firm_elice_plunges_32_in_debut_after/"
+ },
+ {
+  "date": "2026-10-20T03:20:41.982438+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "AI Game Clones Worry Indie Developers",
+  "summary": "The proliferation of AI-generated game clones is causing indie developers to hesitate in showcasing their work publicly.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xae1hl/ai_game_clones_are_making_indie_developers_afraid/"
+ },
+ {
+  "date": "2026-10-20T03:20:41.982438+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Meta Attributes Instagram Suspension to Claude AI Tool",
+  "summary": "Meta clarified that a Claude AI tool was responsible for triggering an incorrect Instagram suspension for No Kings.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xacuzy/meta_says_claude_ai_tool_triggered_no_kings/"
+ },
+ {
+  "date": "2026-10-20T03:20:41.982438+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "other",
+  "headline": "Chinese Rocket Debris Lands in Minnesota Field",
+  "summary": "Debris from a deorbited Chinese rocket landed in a Minnesota farmer's cornfield.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xacrt1/a_chinese_rocket_deorbited_over_minnesota_and/"
+ },
+ {
+  "date": "2026-10-20T03:20:41.982438+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "legal",
+  "headline": "FBI Alleges Accused OpenAI Spy Held Saudi Gov Documents",
+  "summary": "The FBI revealed that an accused OpenAI spy possessed a folder of Saudi government documents, raising flight risk concerns.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xacmoz/accused_openai_spy_had_folder_called_saudi_gov/"
+ },
+ {
+  "date": "2026-10-20T03:20:41.982438+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "OpenAI Accelerates Fundraising Plans Ahead of Anthropic IPO",
+  "summary": "OpenAI is reportedly looking to speed up its fundraising efforts ahead of a potential Anthropic IPO.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xacftj/openai_seeks_to_accelerate_fundraising_ahead_of/"
+ },
+ {
+  "date": "2026-10-20T03:20:41.982438+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "Microsoft Fixes Windows Update App and Game Crashes",
+  "summary": "Microsoft has released a fix for game and application crashes triggered by a recent Windows update.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xabujv/microsoft_fixes_game_app_crashes_caused_by_recent/"
+ },
+ {
+  "date": "2026-10-20T03:20:41.982438+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Base Mercedes-AMG EV Gets Fake Engine Noises \ud83d\ude97\ud83d\udd0a",
+  "summary": "The base Mercedes-AMG EV comes with artificial six-cylinder sounds, while V8 sound profiles require an extra payment \ud83d\ude97\ud83d\udca8",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xabq34/base_mercedesamg_ev_gets_fake_sixcylinder_noises/"
+ },
+ {
+  "date": "2026-10-20T03:20:41.982438+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Waymo Plans Major Fivefold Expansion of Its Fleet \ud83d\ude97\ud83d\udcc8",
+  "summary": "Autonomous vehicle company Waymo has announced plans to expand its operational fleet by five times.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xabolg/waymo_plans_to_quintuple_its_fleet/"
+ },
+ {
+  "date": "2026-10-20T03:20:41.982438+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Star Wars Heading to Super Bowl LXI for Special Disney Telecast",
+  "summary": "Disney, Lucasfilm, and the NFL are teaming up for a Star Wars-themed alternative telecast of Super Bowl LXI on February 14.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/star-wars-super-bowl-2027-altcast-disney-nfl-1237168321/"
+ },
+ {
+  "date": "2026-10-20T03:20:41.982438+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "The Legend of Zelda: Symphonic Tale Officially Announced",
+  "summary": "Nintendo has officially announced a brand-new project titled The Legend of Zelda: Symphonic Tale.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/legend-of-zelda-symphonic-tale-announced/"
  }
 ]
