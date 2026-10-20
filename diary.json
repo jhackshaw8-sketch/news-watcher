@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-17T17:46:19.198468+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Sega Pulls Total War Game Amid AI Backlash",
-  "summary": "Sega pulls Total War: Shogun 2 - Complete Edition from sale temporarily following AI accusations and community backlash.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale"
- },
- {
-  "date": "2026-10-17T17:46:19.198468+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Epic Reportedly Delays Marvel & Star Wars Shooter",
-  "summary": "Epic Games has reportedly delayed its upcoming Star Wars and Marvel crossover shooter while embracing AI-accelerated development.",
-  "verified": "unconfirmed",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development"
- },
- {
-  "date": "2026-10-17T17:46:19.198468+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "other",
-  "headline": "Veteran Hollywood Publicist Gene Schwam Passes Away at 96",
-  "summary": "Veteran Hollywood publicist Gene Schwam, who represented stars like Elvis Presley and Julie Andrews, has passed away at age 96.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/gene-schwam-dead-publicist-elvis-presley-1236914812/"
- },
- {
-  "date": "2026-10-17T17:46:19.198468+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Star Wars Box Office Disappointment Finds New Life on Streaming",
-  "summary": "A recent Star Wars film is finding a second wind and redemption on global streaming charts after a disappointing theatrical box office run.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/star-wars-the-mandalorian-and-grogu-streaming-hit-disney-plus-october-2026/"
- },
- {
-  "date": "2026-10-17T17:46:19.198468+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Analyzing the Epic Box Office Flop 'Digger' and Its Impact on Hollywood",
-  "summary": "An analysis examines the major box office flop of 'Digger' and what it means for the career of Tom Cruise and the broader Hollywood landscape.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x8g3w1/the_digger_disaster_what_an_epic_movie_flop_means/"
- },
- {
-  "date": "2026-10-17T17:46:19.198468+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "New Trailer Released for 'Shymyr'",
-  "summary": "A new trailer for the upcoming film project 'Shymyr' has been released online.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x8dv6t/shymyr_trailer/"
- },
- {
-  "date": "2026-10-17T17:46:19.198468+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Sicario 3 Filming Window Confirmed",
-  "summary": "Josh Brolin has confirmed the filming window for Sicario 3.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/sicario-3-filming-window-josh-brolin/"
- },
- {
   "date": "2026-10-17T18:08:21.419221+00:00",
   "topic": "Apple News",
   "score": 5,
@@ -15332,5 +15255,225 @@
   "verified": "official",
   "source": "Variety",
   "link": "https://variety.com/2026/artisans/news/timothee-chalamet-hans-zimmer-desert-chant-dune-part-three-1236917686/"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Xbox Promotes Console Trade-Ins Amid Stock Shortages",
+  "summary": "Xbox is sending emails to customers suggesting they trade in their unused Series X and S consoles amid stock shortages.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/sell-it-to-best-buy-says-xbox"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "Cyberpunk 2077 Receives Surprise Official Update Announcement",
+  "summary": "CD Projekt Red has surprised fans with the announcement of a new official update for Cyberpunk 2077.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xaypxq/cyberpunk_2077_gets_surprise_official_new_update/"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Shrek 2 Remastered Gameplay Trailer Revealed",
+  "summary": "An official gameplay trailer for Shrek 2 Remastered has been released as part of the ID@Xbox Fall 2026 showcase.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xaykrw/shrek_2_remastered_official_gameplay_trailer/"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Infinity Ward Details Extraction Shooters in Modern Warfare 4",
+  "summary": "Infinity Ward is bringing back extraction shooters with the DMZ mode in Modern Warfare 4.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-extraction-shooter"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Mycopunk 1.0 Launch Is Now Live on Steam",
+  "summary": "The indie game Mycopunk has officially launched its version 1.0 update on Steam.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xaxvxm/mycopunk_10_is_here/"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "ReBlade: The Death Spiral First Preview Highlights Combat",
+  "summary": "A preview of ChillyRoom's cyberpunk roguelite ReBlade: The Death Spiral highlights its satisfying parry combat and action-RPG elements.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/reblade-the-death-spiral-first-preview-parrying-through-the-cyberpunk-roguelite"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Pikmin 4 Digital Copies Discounted Ahead of Switch 2 Upgrade",
+  "summary": "Walmart has discounted digital copies of Pikmin 4 to $40 ahead of its upcoming Switch 2 upgrade.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/pikmin-4-digital-on-sale-ahead-of-switch-2-upgrade"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "CitaDrill Releases Official Demo Trailer",
+  "summary": "An official demo trailer has been released for the indie game CitaDrill.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xap25m/citadrill_official_demo_trailer/"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Tuesday Labs Opens Reservations for $20,000 Voxel Household Robot",
+  "summary": "Tuesday Labs has opened reservations for Voxel, a $20,000 bipedal household robot designed to help find misplaced items and perform routine chores.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1014533/tuesday-labs-voxel-series-1-home-robot-reservation"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Report: Former Google CEO Eric Schmidt Holds Significant Stake in Anthropic",
+  "summary": "Former Google CEO Eric Schmidt reportedly holds about a 1% stake in Anthropic, which is roughly half the share owned by CEO Dario Amodei.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Jet Fighter on Wheels: Ultra-Rare Lamborghini Reventon Roadster Hits the Auction Block \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "An ultra-rare Lamborghini Reventon Roadster with only 29 miles on the odometer is currently listed for auction.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2292007/2010-lamborghini-reventon-roadster-auction/"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "The Prestige Sets 20th Anniversary Re-Release for 2027",
+  "summary": "Christopher Nolan's thriller The Prestige is set for a theatrical re-release on January 29, 2027, for its 20th anniversary.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/the-prestige-rerelease-2027-christopher-nolan-1237168795/"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Syfy Cancels Acclaimed Horror Mystery Series After One Season",
+  "summary": "A 10-part horror mystery series on Syfy has been cancelled after just one season despite positive reviews.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/revival-syfy-season-2-cancelled-update/"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Jay-Z Rumored to Headline 2027 Super Bowl Halftime Show",
+  "summary": "Jay-Z is slated to headline the 2027 Super Bowl Halftime Show at SoFi Stadium, according to a music industry insider.",
+  "verified": "reliable_reporter",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/jay-z-super-bowl-halftime-show-2027-1237168702/"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Transformers Announces New Dinobot Era and Returning Heroes",
+  "summary": "Transformers has officially announced a new Dinobot era bringing the original characters into the Energon Universe.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/transformers-dinobot-return-details/"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "business",
+  "headline": "Netflix Partners With Latin American Queer Incubator Program",
+  "summary": "Netflix has joined as a strategic partner for the expanded Santiago-Guadalajara Queer Incubator program.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/film/global/netflix-santiago-guadalajara-queer-incubator-sanfic-1236916393/"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Days Of Our Lives Casts Kyle Pryor as Dominic Marino",
+  "summary": "Days Of Our Lives has cast British actor Kyle Pryor in the long-awaited role of Dominic Marino.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/days-of-our-lives-casts-dominic-marino-kyle-pryor-1237168710/"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "New Godzilla Experience Announced for November Release",
+  "summary": "A new Godzilla experience is arriving on November 3, marking the first of its kind in 24 years.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/godzilla-destroy-all-monsters-melee-remastered/"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "business",
+  "headline": "EverWonder Studio Secures Overall Deals With Top Creators",
+  "summary": "EverWonder Studio has struck overall production deals with Zeberiah Newman and Vanessa Golembewski.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/everwonder-studio-deals-zeberiah-newman-vanessa-golembewski-1237167893/"
+ },
+ {
+  "date": "2026-10-20T17:55:48.594867+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "legal",
+  "headline": "Russell Brand Trial Details Emerge in London Court",
+  "summary": "A London court heard testimony regarding allegations against Russell Brand during ongoing legal proceedings.",
+  "verified": "reliable_reporter",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/russell-brand-accuser-raped-clean-up-mess-court-hears-1237168557/"
  }
 ]
