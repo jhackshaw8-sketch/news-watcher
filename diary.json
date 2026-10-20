@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-10-17T22:45:30.583660+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "iPhone Duo Walk-In Purchases Might Be Tough at Launch",
-  "summary": "Apple employees are reportedly advising customers that walk-in purchases for the new iPhone Duo may be challenging at launch.",
-  "verified": "unconfirmed",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/"
- },
- {
-  "date": "2026-10-17T22:45:30.583660+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Stunning 2016 Dodge Viper GTC ACR Extreme Spotted \ud83d\udc0d\ud83d\udd25",
-  "summary": "A striking photo showcase of a 2016 Dodge Viper GTC ACR Extreme.",
-  "verified": "reliable_reporter",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x8ih4n/2016_dodge_viper_gtc_acr_extreme_2048x1364/"
- },
- {
-  "date": "2026-10-17T22:45:30.583660+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Gorgeous Classic Chevy Corvette Showcase \ud83c\udfce\ufe0f\u2728",
-  "summary": "A high-resolution image featuring a classic Chevy Corvette.",
-  "verified": "reliable_reporter",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x89s1i/chevy_corvette_3293x3293/"
- },
- {
-  "date": "2026-10-17T22:45:30.583660+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Adam Scott's 2026 Horror Movie Generates Early Hulu Buzz",
-  "summary": "Adam Scott's upcoming 2026 horror movie is generating early buzz as a streaming favorite on Hulu.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/adam-scott-horror-hokum-streaming-hit-hulu-october-2026/"
- },
- {
-  "date": "2026-10-17T22:45:30.583660+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Street Fighter (2026) Movie Connection to UFC Fighters Explained",
-  "summary": "The live-action 2026 Street Fighter movie includes the obscure character Joe, who has ties to UFC fighters.",
-  "verified": "reliable_reporter",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2289649/joe-street-fighter-2026-movie-actor-alexander-volkanovski/"
- },
- {
-  "date": "2026-10-17T22:45:30.583660+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Acclaimed British Mystery Series 'Broadchurch' Leaving Netflix",
-  "summary": "The acclaimed British murder mystery series Broadchurch is scheduled to leave Netflix soon.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/david-tennant-broadchurch-leaving-netflix-november-2026/"
- },
- {
-  "date": "2026-10-17T22:45:30.583660+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "'Outlander: Blood of My Blood' Becomes a Massive Streaming Hit",
-  "summary": "Outlander prequel series Blood of My Blood emerges as one of the most-watched shows in America.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/outlander-blood-of-my-blood-streaming-hit-starz-october-2026/"
- },
- {
-  "date": "2026-10-17T22:45:30.583660+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "C.S. Lewis Family Addresses Netflix's Narnia Movie",
-  "summary": "The family of C.S. Lewis has shared their official stance regarding Netflix's upcoming Narnia film adaptation.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/netflix-greta-gerwig-narnia-magicians-nephew-cs-lewis-family-response/"
- },
- {
-  "date": "2026-10-17T22:45:30.583660+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "ABC Sets High Potential for Post-Super Bowl Slot",
-  "summary": "ABC awards High Potential the coveted post-Super Bowl TV positioning for Season 3.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/high-potential-season-3-post-super-bowl-timeslot-february-2027/"
- },
- {
-  "date": "2026-10-17T22:45:30.583660+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Daniel Radcliffe's Comedy Returns to NBC in Three Weeks",
-  "summary": "Daniel Radcliffe's comedy series The Fall and Rise of Reggie Dinkins is returning to NBC primetime in three weeks.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/the-fall-and-rise-of-reggie-dinkins-season-2-return-daniel-radcliffe-best-role/"
- },
- {
-  "date": "2026-10-17T22:45:30.583660+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "DC Reveals Real Name of Iconic Batman Villain",
-  "summary": "DC Comics has finally revealed the real name of an iconic Batman villain after 33 years.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/batman-bane-real-name-dark-knights-steel/"
- },
- {
   "date": "2026-10-17T23:07:17.967802+00:00",
   "topic": "Movies",
   "score": 6,
@@ -16982,5 +16861,181 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/starz-streaming-service-restored-verizon-deal/"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "launch",
+  "headline": "MacPaw Launches Eney AI Assistant for Mac and iPhone",
+  "summary": "MacPaw has officially released Eney, a proactive AI assistant designed to operate across Mac and iPhone systems and applications.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone/"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "Perplexity Computer App Now Runs Locally on Apple Silicon Macs",
+  "summary": "Perplexity has updated its Perplexity Computer app to run fully locally on Apple Silicon Macs using Qwen models.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/20/perplexity-computer-local-mac/"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "League of Legends Classic Shutting Down Soon",
+  "summary": "Riot Games is shutting down League of Legends Classic just three months after its release due to low engagement.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/league-of-legends-classic-ending-permanent-three-months"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Hugging Face CEO warns Netflix AI documentary is inaccurate",
+  "summary": "Hugging Face CEO Clem Delangue criticizes Netflix's AI documentary 'AI Gone Rogue' for being inaccurate and alarmist.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Musk says merging SpaceX and Tesla could be a good idea",
+  "summary": "Elon Musk states there is significant merit to the idea of merging SpaceX and Tesla.",
+  "verified": "unconfirmed",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Google launches Fitbit Edge fitness tracker",
+  "summary": "Google's Fitbit Edge launches as a new mid-tier fitness tracker bridging the gap to smartwatches.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2289183/fitbit-edge-vs-inspire-3-google-fitness-tracker-comparison/"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "update",
+  "headline": "Google brings personalized Gemini AI to your car \ud83d\ude97\ud83d\uddfa\ufe0f",
+  "summary": "Google is bringing personalized Gemini AI integrations to Android Auto and cars with Google built-in.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "A Blast from the Past: The 1950 Rover JET1 Turbine Pioneer \ud83d\ude80\ud83d\udca8",
+  "summary": "A showcase of the historic 1950 Rover JET1, the world's first car powered by a gas turbine engine.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x6h1dv/1950_rover_jet1_1st_powered_by_a_gas_turbine/"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Silver Surfer: A Rare Look at a Silver Ferrari 308 GTS QV \ud83c\udfce\ufe0f\u2728",
+  "summary": "A striking silver Ferrari 308 GTS QV is featured, offering a rare color twist on the classic icon.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x6gk40/rarely_see_these_in_silverferrari_308_gts_qv_1600/"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Denzel Washington Teams Up With Christopher McQuarrie For New Thriller",
+  "summary": "Denzel Washington has officially teamed up with director Christopher McQuarrie for a new crime thriller, leaving The Equalizer franchise behind.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/denzel-washington-christopher-mcquarrie-crime-thriller/"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Josh Hartnett's Widow's Bay Dominates Netflix Charts With 86.4M Hours",
+  "summary": "Josh Hartnett's new supernatural thriller series Widow's Bay has claimed the number one spot on Netflix with an impressive 86.4 million hours watched.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/netflix-below-streaming-success-october-2026/"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Netflix's Narnia Trailer Breaks All-Time Viewership Record",
+  "summary": "Netflix's Narnia adaptation directed by Greta Gerwig has broken all-time trailer viewership records with a bold soundtrack choice.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/netflix-narnia-magicians-nephew-trailer-all-time-record/"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Narnia Trailer Smashes Records With 481M First-Week Views",
+  "summary": "Greta Gerwig's Narnia: The Magician's Nephew trailer pulled in a massive 481.3 million views in its first week, beating Barbie.",
+  "verified": "reliable_reporter",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/narnia-the-magicians-nephew-trailer-viewership-1237169108/"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Denzel Washington Teams With M:I Director for New Crime Thriller",
+  "summary": "Denzel Washington has signed on to star in a new crime thriller directed by a Mission: Impossible franchise director.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/denzel-washington-christopher-mcquarrie-crime-thriller-movie-announced/"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "DC Officially Unveils Its New Cinematic Deathstroke",
+  "summary": "DC has officially announced the casting and details for its new cinematic Deathstroke.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/new-deathstroke-named-adeline-kane/"
+ },
+ {
+  "date": "2026-10-20T22:53:16.449238+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Netflix Willy Wonka Movie Set to Feature Major Changes",
+  "summary": "Netflix's upcoming Willy Wonka adaptation is set to make a major narrative departure from previous film versions.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/willy-wonka-movie-major-change-charlie-vs-the-chocolate-factory-netflix/"
  }
 ]
