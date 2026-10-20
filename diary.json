@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-17T21:47:46.527173+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Apple Retail Staff Warns Against iPhone Duo Walk-In Purchases",
-  "summary": "Apple retail staff are advised to warn customers against attempting walk-in purchases for the iPhone Duo without a pre-order.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/"
- },
- {
-  "date": "2026-10-17T21:47:46.527173+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Shrek 2 Remaster Surfaces in Online Leaks",
-  "summary": "A purported remaster of Shrek 2 has leaked online, sparking excitement within the gaming community.",
-  "verified": "unconfirmed",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x8kc4n/shrek_2_remaster_leaks_looks_amazing_and_i_need/"
- },
- {
-  "date": "2026-10-17T21:47:46.527173+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Meta Updates Terms Amid AI Scraping Concerns",
-  "summary": "Meta has removed specific language from its terms of service that raised concerns regarding data scraping and AI training.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
- },
- {
-  "date": "2026-10-17T21:47:46.527173+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Guy Ritchie\u2019s Crime Epic Dominates Streaming Charts",
-  "summary": "Guy Ritchie's star-studded crime epic continues its strong streaming run after a massive theatrical success.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/guy-ritchie-the-gentlemen-streaming-success-october-2026-300-days/"
- },
- {
-  "date": "2026-10-17T21:47:46.527173+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "business",
-  "headline": "Rare Pok\u00e9mon Card Sells for $1 Million at 30th Anniversary Event",
-  "summary": "An exceptional Pok\u00e9mon card sold for $1 million at an official 30th-anniversary celebration event.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/pokemon-tcg-pikachu-card-1-million-dollars-anniversary-auction/"
- },
- {
-  "date": "2026-10-17T21:47:46.527173+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "DC Studios Boss Gives Clarifying Update on Upcoming Joker Series",
-  "summary": "DC Studios co-CEO Peter Safran has provided a clarifying status update regarding the studio's upcoming Joker solo series.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/joker-laugh-riot-dc-tv-show-update-peter-safran/"
- },
- {
   "date": "2026-10-17T22:09:50.251362+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -16861,5 +16795,115 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/john-grisham-the-rainmaker-new-era-start-amazon-vod-streaming-success-october-2026/"
+ },
+ {
+  "date": "2026-10-20T21:55:03.693806+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "John Ternus: Design and User Respect Remain Job One at Apple",
+  "summary": "Apple executive John Ternus emphasizes that design, user respect, and a touch of whimsy remain central to Apple's product development philosophy.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/20/apple-ceo-john-ternus-says-design-still-means-everything-includes-whimsey?utm_source=rss"
+ },
+ {
+  "date": "2026-10-20T21:55:03.693806+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "GTA 6 Beer Brands Might Become a Real-World Thing",
+  "summary": "Rockstar may be preparing to bring fictional beer brands from GTA 6 into the real world.",
+  "verified": "unconfirmed",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/it-looks-like-gta-6s-beer-brands-are-about-to-become-real"
+ },
+ {
+  "date": "2026-10-20T21:55:03.693806+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Classic Shrek 2 PS2 Game Getting Remastered",
+  "summary": "The former KOTOR remake studio is currently working on a remaster of the classic Shrek 2 game for the PS2.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/co-op/former-kotor-remake-studio-is-now-remastering-the-classic-shrek-2-ps2-game-and-im-sorry-but-nostalgia-has-officially-gone-too-far/"
+ },
+ {
+  "date": "2026-10-20T21:55:03.693806+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Ex-Capcom Dev Criticizes Resident Evil Code Veronica's Legacy",
+  "summary": "A former Capcom manager claims that Resident Evil Code Veronica negatively impacted the franchise's trajectory toward RE5 and RE6.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/resident-evil/ex-resident-evil-dev-says-code-veronica-had-a-direct-negative-development-on-the-franchise/"
+ },
+ {
+  "date": "2026-10-20T21:55:03.693806+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "business",
+  "headline": "Tesla and SpaceX Exploring Potential Merger \ud83d\ude97\u26a1",
+  "summary": "Elon Musk announced that Tesla and SpaceX have formed special committees to discuss a potential merger.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
+ },
+ {
+  "date": "2026-10-20T21:55:03.693806+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Anthropic Faces Cloud Compute Hurdles Ahead of IPO",
+  "summary": "Anthropic is reportedly facing challenges in securing cloud compute capacity from providers as its infrastructure costs rise ahead of an IPO.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+ },
+ {
+  "date": "2026-10-20T21:55:03.693806+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "legal",
+  "headline": "Former Disney Star Faces Lawsuit",
+  "summary": "Former Disney actor Erik von Detten is facing a lawsuit alleging elder abuse and fraud over a gold coin investment scheme.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/brink-actor-erik-von-detten-sued-for-elder-abuse-fraud-1236917976/"
+ },
+ {
+  "date": "2026-10-20T21:55:03.693806+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "'Ahsoka' Season 2 Formula Change",
+  "summary": "The second season of Star Wars series 'Ahsoka' is set to pivot its formula from sci-fi to fantasy while adapting a classic Clone Wars story.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/ahsoka-season-2-sci-fi-genre-shift-star-wars/"
+ },
+ {
+  "date": "2026-10-20T21:55:03.693806+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Zelda: Ocarina of Time Remake Reveals New Character Redesigns",
+  "summary": "New promotional material for The Legend of Zelda: Ocarina of Time remake showcases updated character redesigns.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/zelda-ocarina-of-time-screenshots-link-ganondorf-sheik/"
+ },
+ {
+  "date": "2026-10-20T21:55:03.693806+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Major Brandon Sanderson Announcement Teased for October 24",
+  "summary": "Brandon Sanderson fans are advised to mark their calendars for a major upcoming announcement on October 24.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/october-24-brandon-sanderson-light-day-sale/"
  }
 ]
