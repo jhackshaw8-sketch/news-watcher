@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-10-17T08:11:37.357431+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "update",
-  "headline": "App Store Indie Games Week Kicks Off",
-  "summary": "Apple has kicked off App Store Indie Games Week to celebrate games created by independent developers.",
-  "verified": "official",
-  "source": "Apple Newsroom",
-  "link": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/"
- },
- {
-  "date": "2026-10-17T08:11:37.357431+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "legal",
-  "headline": "The Complex Challenge of Regulating AI",
-  "summary": "Experts debate the complexities and necessity of government intervention in AI regulation.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x84qia/can_ai_be_regulated_why_experts_say_government/"
- },
- {
-  "date": "2026-10-17T08:11:37.357431+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "China Considers Export Bans on AI and Tech",
-  "summary": "China is considering new technology export bans that would cover AI, biotechnology, and solar power.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x84h0e/china_mulls_new_tech_export_bans_covering_ai/"
- },
- {
-  "date": "2026-10-17T08:11:37.357431+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Anthropic Pitches AI Safety Bill to Lawmakers",
-  "summary": "Anthropic has privately pitched its own proposed AI safety legislation to US lawmakers.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x83npc/anthropic_quietly_pitches_its_own_ai_safety_bill/"
- },
- {
-  "date": "2026-10-17T08:11:37.357431+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Japan Invests $21 Billion in New York Chip Factories",
-  "summary": "Japan plans to invest up to $21 billion in two GlobalFoundries chip manufacturing facilities in New York.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x810z4/japan_to_invest_up_to_21_billion_in_two/"
- },
- {
-  "date": "2026-10-17T08:11:37.357431+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Russia Proposes Doomsday Data Center",
-  "summary": "Russian telecom firm Rostelecom argues for a secure doomsday data center to handle disruptions from Ukrainian strikes.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x7zytk/rostelecom_russia_needs_doomsday_data_center_to/"
- },
- {
-  "date": "2026-10-17T08:11:37.357431+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "DeepMind Expands Search for Nuclear Experts",
-  "summary": "Google's DeepMind division is actively hiring experts in the nuclear field.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x7zy26/googles_deepmind_hiring_for_nuclear_expert/"
- },
- {
-  "date": "2026-10-17T08:11:37.357431+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Nvidia CEO Addresses AI Market Turmoil",
-  "summary": "Nvidia's CEO has downplayed recent AI market turbulence, stating that the current volatility will pass.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x7zvhy/nvidia_ceo_on_ai_market_turmoil_all_of_this_is/"
- },
- {
-  "date": "2026-10-17T08:11:37.357431+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "US and Russia Discuss Potential Data Center Deals",
-  "summary": "A Putin envoy claims that Russia and the US are holding discussions regarding joint business deals, including data centers.",
-  "verified": "unconfirmed",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x7yq5d/putin_envoy_says_russia_and_us_are_discussing/"
- },
- {
-  "date": "2026-10-17T08:11:37.357431+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "update",
-  "headline": "OpenAI Models Breach Crypto Wallet and Websites",
-  "summary": "Security tests demonstrate that certain OpenAI models successfully hacked a crypto wallet and breached multiple websites.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x7vkv9/openai_models_hacked_a_crypto_wallet_and_breached/"
- },
- {
-  "date": "2026-10-17T08:11:37.357431+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Austin Abrams & Brian Duffield Reveal Practical Magic Behind 'Whalefall'",
-  "summary": "Austin Abrams and Brian Duffield discuss the practical effects and unique use of Josh Brolin's heartbeat in their new survival thriller, Whalefall.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/whalefall-josh-brolin-heartbeat-austin-abrams-brian-duffield/"
- },
- {
   "date": "2026-10-17T08:51:29.322427+00:00",
   "topic": "Movies",
   "score": 6,
@@ -13330,5 +13209,49 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1xad7k2/josh_duhamel_reacts_to_ransom_canyon_cancellation/"
+ },
+ {
+  "date": "2026-10-20T08:28:54.316147+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "legal",
+  "headline": "OpenAI Alleges Ex-Employee Stole Confidential Device Files Before Joining Apple",
+  "summary": "OpenAI alleges that a former employee transferred confidential files regarding an unreleased device to personal accounts before moving to Apple.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/14/openai-alleges-ex-employee-took-highly-confidential-device-files-to-apple/"
+ },
+ {
+  "date": "2026-10-20T08:28:54.316147+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "October PS Plus Premium and Extra Games Announced",
+  "summary": "Sony has officially revealed the lineup of modern hits and classic games coming to PlayStation Plus Premium and Extra in October.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/playstation-plus-october-2026-games"
+ },
+ {
+  "date": "2026-10-20T08:28:54.316147+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Patricia Clarkson's 'Lilly' to Open London's Women and the World Film Festival",
+  "summary": "Rachel Feldman's 'Lilly,' starring Patricia Clarkson, is set to open London's Women and the World International Film Festival.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/lilly-women-and-the-world-international-film-festival-1236914693/"
+ },
+ {
+  "date": "2026-10-20T08:28:54.316147+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "'Line of Duty' Director Preps New Drama 'BurnTime' for Rome MIA Market",
+  "summary": "Director Douglas Mackinnon is presenting his new Edinburgh-set paramedic drama 'BurnTime' at the Rome MIA Market Drama Co-Production Forum.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/global/douglas-mackinnon-burntime-rugged-island-films-1236917192/"
  }
 ]
