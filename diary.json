@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-18T06:12:52.287789+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple Partners With The King's Trust for Creative Youth Initiative",
-  "summary": "Apple and The King's Trust have launched a new education program to empower young creatives and help them enter the workforce.",
-  "verified": "official",
-  "source": "Apple Newsroom",
-  "link": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/"
- },
- {
-  "date": "2026-10-18T06:12:52.287789+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Star Trek: Deep Space 9 Returns This Month With Fluxx",
-  "summary": "Star Trek: Deep Space 9 is officially returning this month in the form of a Fluxx card game adaptation.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-trek-deep-space-9-fluxx-release-date-psa/"
- },
- {
   "date": "2026-10-18T07:03:08.510280+00:00",
   "topic": "Events",
   "score": 6,
@@ -17334,5 +17312,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/expanse-osiris-reborn-new-crew-confirmed/"
+ },
+ {
+  "date": "2026-10-21T06:21:13.356935+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Mercedes Puts CLA Models Through Brutal Crash Testing \ud83d\udca5\ud83d\ude97",
+  "summary": "Mercedes-Benz conducted a rigorous crash test by T-boning an electric CLA with a hybrid CLA Shooting Brake at 35 mph to evaluate occupant safety and high-voltage battery response.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812673/mercedes-benz-cla-crash-test/"
+ },
+ {
+  "date": "2026-10-21T06:21:13.356935+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Elden Ring's Malenia Teased for New 2027 Release",
+  "summary": "Elden Ring's Malenia is announced to return in a new 2027 release.",
+  "verified": "unconfirmed",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/elden-ring-malenia-2027-return/"
  }
 ]
