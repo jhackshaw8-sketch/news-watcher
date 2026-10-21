@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-18T12:10:31.904069+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "update",
-  "headline": "Full-Size SUV Towing Showdown: Can The Toyota Sequoia Outpull The Competition? \ud83d\ude99\ud83d\udcaa",
-  "summary": "A comparison of towing capacities among full-size, truck-based three-row SUVs featuring the Toyota Sequoia.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2288239/toyota-sequoia-vs-competition-towing-capacity-suv/"
- },
- {
-  "date": "2026-10-18T12:10:31.904069+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "El Gouna Film Festival Reveals Rising Stars Cohort",
-  "summary": "The El Gouna Film Festival announced its third cohort for the CineGouna Emerge Rising Stars program, highlighting emerging Arab talents.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/el-gouna-cinegouna-emerge-2026-rising-stars-1237166913/"
- },
- {
-  "date": "2026-10-18T12:10:31.904069+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Practical Magic 2 Behind-The-Scenes Featurette Released",
-  "summary": "Warner Bros. released a behind-the-scenes featurette for Practical Magic 2 starring Sandra Bullock and Nicole Kidman.",
-  "verified": "official",
-  "source": "Warner Bros (trailers)",
-  "link": "https://www.youtube.com/watch?v=jdvVAl89OjU"
- },
- {
-  "date": "2026-10-18T12:10:31.904069+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Dark Action Series Go! Go! Loser Ranger! Streams on Hulu",
-  "summary": "Hulu's dark action series Go! Go! Loser Ranger! is highlighted as a gritty Power Rangers alternative for fans of The Boys.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/hulu-go-go-loser-ranger-the-boys-meets-power-rangers/"
- },
- {
-  "date": "2026-10-18T12:10:31.904069+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Marvel Officially Introduces New X-Men Hero",
-  "summary": "Marvel officially introduces a brand-new X-Men hero to its comic book lore without traditional mutant powers.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/xmen-new-hero-cliffhanger/"
- },
- {
-  "date": "2026-10-18T12:10:31.904069+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Terminator: Survivors Game Moves Forward Without Arnold Schwarzenegger",
-  "summary": "The upcoming game Terminator: Survivors will debut without Arnold Schwarzenegger and focus on a new RPG experience.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/terminator-survivors-arnold-schwarzenegger-replaced/"
- },
- {
-  "date": "2026-10-18T12:10:31.904069+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "The Witcher: Legacy Officially Announced for Summer 2027 Release",
-  "summary": "The Witcher: Legacy has been officially announced for a summer 2027 release date.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/witcher-legacy-officially-announced-summer-2027-release-psa/"
- },
- {
   "date": "2026-10-18T12:58:38.776352+00:00",
   "topic": "Tech News",
   "score": 8,
@@ -18313,5 +18236,214 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1xbiack/sacha_baron_cohen_admits_ali_g_is_problematic_but/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "update",
+  "headline": "Apple Blocks Scam Certificates While Mac Vulnerability Persists",
+  "summary": "Apple blocks multiple web security certificates used by scammers, though a related Mac vulnerability remains unpatched.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/21/apple-blocks-web-certificates-that-could-be-used-by-scammers-but-mac-vulnerability-remains/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "launch",
+  "headline": "iPhone Duo Reviews and Unboxings Go Live",
+  "summary": "Media reviews and unboxing videos for the new iPhone Duo and related products have been published following the embargo lift.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1xbl9ns/unboxing_first_impressions_review_megathread/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "iPhone Duo Review: The Foldable Future is Here",
+  "summary": "Reviews hail the iPhone Duo as the biggest form factor change in iPhone history, featuring a foldable notebook-style design.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/21/iphone-duo-review/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Dawn of War 4 Promises to Be a Masterpiece for Warhammer Fans",
+  "summary": "Dawn of War 4 is generating significant excitement as a potentially massive title for the Warhammer 40,000 franchise and the RTS genre.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/dawn-of-war-4-preview/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "Dawn of War 4 Director Answers Burning Blood Ravens Lore Questions",
+  "summary": "An interview with the Dawn of War 4 director addresses specific fan questions regarding the origins of the Blood Ravens faction.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/dawn-of-war-4-blood-ravens-space-marine-origins-questions"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "business",
+  "headline": "Xbox Reportedly Preparing for Three Waves of Layoffs Through January",
+  "summary": "Reports indicate that Xbox is planning three upcoming waves of layoffs scheduled between now and January.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/platforms/xbox/xbox-is-reportedly-planning-three-waves-of-layoffs-between-now-and-january-as-part-of-its-plan-to-cut-3-200-jobs-by-the-end-of-the-fiscal-year/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Poll Shows Growing Public Skepticism Toward AI and Data Centers",
+  "summary": "A new poll reveals that a majority of Americans view AI negatively and oppose the construction of more data centers.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xblhk8/most_americans_say_ai_is_bad_for_society_oppose/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "eMudhra Certificate Authority Compromise Triggers Browser Emergency Actions",
+  "summary": "A compromise of the eMudhra Certificate Authority has prompted emergency security actions across major web browsers.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xbl4dc/emudhra_certificate_authority_compromise_triggers/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Google DeepMind Chief Discusses Radical Near-Future AI Changes",
+  "summary": "Google DeepMind's Demis Hassabis shares his perspectives on how artificial intelligence is on the brink of radically transforming the world.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xbkphy/why_ais_deepest_mind_believes_the_world_is_about/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "launch",
+  "headline": "Tesla Roadster Bringing Back Pop-Up Headlights in Style! \ud83d\ude97\u2728",
+  "summary": "Elon Musk revealed that the upcoming Tesla Roadster will feature a unique pop-up headlight design with a movable cover.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812660/tesla-roadster-pop-up-headlights/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "VisionQuest Episode 4 Brings Back Famous Ultron Line With A Twist",
+  "summary": "VisionQuest Episode 4 features a clever twist on a famous Ultron line from Avengers: Age of Ultron.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2292682/visionquest-episode-4-ultron-line-twist-strings/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Practical Magic 2 Trailer Drops With Sandra Bullock and Nicole Kidman",
+  "summary": "Warner Bros. released a trailer for Practical Magic 2 starring Sandra Bullock and Nicole Kidman.",
+  "verified": "official",
+  "source": "Warner Bros (trailers)",
+  "link": "https://www.youtube.com/watch?v=-rvGi_tQhwc"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Netflix Stock Hits Two-Year Low After Q3 Earnings Miss",
+  "summary": "Netflix shares fell to a two-year low following a Q3 2026 earnings report that showed slowing revenue growth and missed advertising targets.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/netflix-stock-falls-two-year-low-after-earnings-report-1236918535/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Glee Reboot Officially Greenlit at Disney+ and Hulu",
+  "summary": "Disney+ and Hulu have officially given a series order to a reboot of the musical dramedy series Glee.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/glee-reboot-series-order-disney-hulu-1237169231/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Glee Reboot Confirmed for Disney+ and Hulu Streaming",
+  "summary": "Reddit discussion highlights the official series order and return of the Glee franchise on streaming platforms.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1xbl8f7/glee_reboot_officially_set_at_disney_and_hulu/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Glee Officially Returns With Disney+ and Hulu Reboot Order",
+  "summary": "Disney+ and Hulu have officially greenlit a reboot of Ryan Murphy's hit musical series Glee.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/glee-reboot-disney-hulu-1236918160/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "DC Reveals New 2027 Green Lantern Series and Hal Jordan Redesign",
+  "summary": "DC Comics has announced a new Hal Jordan Green Lantern series arriving in 2027 featuring a major character redesign.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/green-lantern-hal-jordan-doomed-cosmos/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Zelda: Ocarina of Time Remake File Size Officially Confirmed",
+  "summary": "The file size for the upcoming Zelda: Ocarina of Time remake has been officially confirmed ahead of its November 5, 2026 release.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/zelda-ocarina-of-time-remake-file-size-confirmed/"
+ },
+ {
+  "date": "2026-10-21T12:24:22.527560+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Adult Avatar Aang Returns in New Expansion Novel",
+  "summary": "An adult version of Avatar Aang from the upcoming Paramount+ film is set to star in a new tie-in novel by Allison King.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/avatar-aang-last-airbender-return-new-book-preview/"
  }
 ]
