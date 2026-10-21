@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-18T23:43:25.251898+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "update",
-  "headline": "Taika Waititi's Star Wars Movie Put on Ice",
-  "summary": "Taika Waititi confirmed that his long-developed Star Wars movie has been put on indefinite hold while he pursues other projects.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/taika-waititi-confirms-star-wars-movie-is-on-hold-1236916086/"
- },
- {
-  "date": "2026-10-18T23:43:25.251898+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Shadow and Bone Officially Done at Netflix",
-  "summary": "Netflix has officially closed the book on the Shadow and Bone franchise three years after its initial cancellation.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/shadow-and-bone-enter-the-fold-leaving-netflix-november-2026/"
- },
- {
-  "date": "2026-10-18T23:43:25.251898+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Peter Jackson Confirms Tintin Sequel is Next",
-  "summary": "Peter Jackson has reportedly revealed that the long-awaited Tintin sequel will serve as his next directorial project.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x9hend/peter_jackson_reveals_tintin_sequel_will_be_his/"
- },
- {
-  "date": "2026-10-18T23:43:25.251898+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "Avatar Spin-Off Switches Main Characters",
-  "summary": "The newest series in the Avatar: The Last Airbender universe is officially shifting focus to a new main character.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/avatar-the-last-airbender-kuruk-spinoff-wave-of-chaos/"
- },
- {
-  "date": "2026-10-18T23:43:25.251898+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "Tubi Planning R.L. Stine Cinematic Universe",
-  "summary": "Tubi is developing plans to construct a shared cinematic universe based on the works of author R.L. Stine.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x9g31h/inside_tubis_plan_to_build_an_rl_stine_cinematic/"
- },
- {
-  "date": "2026-10-18T23:43:25.251898+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "update",
-  "headline": "Denis Villeneuve Talks Directing James Bond",
-  "summary": "Denis Villeneuve opens up about why he agreed to direct the next James Bond film following his work on Dune: Part Three.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/denis-villeneuve-james-bond-movie-after-dune-part-3-comments/"
- },
- {
-  "date": "2026-10-18T23:43:25.251898+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Sylvester Stallone Says Rocky Wouldn't Get Made Today",
-  "summary": "Sylvester Stallone reflects on the film industry, expressing doubt that his classic movie Rocky would get greenlit today.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x9fkiu/sylvester_stallone_says_rocky_probably_wouldnt/"
- },
- {
   "date": "2026-10-19T00:10:22.291209+00:00",
   "topic": "Movies",
   "score": 8,
@@ -21085,5 +21008,214 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/this-city-is-ours-renewed-2-more-seasons/"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Apple Fifth Avenue Gear Up for iPhone Duo Launch",
+  "summary": "Apple Fifth Avenue prepares giant installations ahead of the upcoming iPhone Duo Friday launch.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Reviewers Weigh In on iPhone Duo Biometrics",
+  "summary": "Early media reviews indicate that some users may find Touch ID on the new iPhone Duo frustrating compared to Face ID.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/21/iphone-duo-touch-id-complaints/"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "GTA 6's Burger Shot Coming to Life in Miami",
+  "summary": "The fictional fast-food chain Burger Shot from the GTA universe is reportedly coming to life in the Miami Heat's arena ahead of GTA 6.",
+  "verified": "reliable_reporter",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-life-in-the-miami-heats-arena"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Call of Duty: Modern Warfare 4 DMZ Early Impressions",
+  "summary": "An early review highlights that the new and improved DMZ mode in Call of Duty: Modern Warfare 4 makes a great initial impression.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-review"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "YouTube Denies Testing Dislike Button Removal",
+  "summary": "YouTube clarified that it is not currently testing the removal or hiding of the dislike button on videos.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Tesla Sets Robotaxi Fleet Timeline \ud83d\ude97\ud83e\udd16",
+  "summary": "Tesla announced plans to allow vehicle owners to add their own cars to its robotaxi fleet starting next year.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Reviewing the Fun & Affordable 2026 Toyota Corolla FX \ud83d\ude97\ud83d\udca8",
+  "summary": "A detailed review and specification overview of the 2026 Toyota Corolla Hatchback FX in Inferno with an as-tested MSRP of $29,088.",
+  "verified": "official",
+  "source": "TheTopher",
+  "link": "https://www.youtube.com/watch?v=WP6fdg5RG7A"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Hur Jin-ho's 'The Assassin(s)' Opens Singapore Film Festival Amid Censorship Debate",
+  "summary": "Director Hur Jin-ho thanked the Singapore International Film Festival for defending artistic freedom as his political thriller 'The Assassin(s)' opened the event.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/festivals/hur-jin-ho-thanks-singapore-festival-assassins-opens-1236919346/"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Behind the Scenes of the Documentary 'Seized' and Its First Amendment Battle",
+  "summary": "The documentary 'Seized' explores the fascinating real-life characters involved in a controversial small-town newspaper raid in Kansas.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/video/seized-documentary-filmmakers-interview/"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Hugh Jackman's 'The Death of Robin Hood' Dominates Streaming Charts",
+  "summary": "Hugh Jackman's fantasy film 'The Death of Robin Hood' is currently dominating streaming charts following its theatrical run.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/hugh-jackman-the-death-of-robin-hood-streaming-success-hbo-max-october-2026/"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Oscar Nu\u00f1ez and Cast Wrap Production on Adrian Cardenas' 'In An Orderly Fashion'",
+  "summary": "Production has wrapped on Adrian Cardenas' directorial debut 'In An Orderly Fashion,' starring Oscar Nu\u00f1ez and Marlene Forte.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/oscar-nunez-star-in-an-orderly-fashion-film-1237170213/"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "'Georgie & Mandy\u2019s First Marriage' Reveals New Images Introducing a Sheldon Replacement",
+  "summary": "New images from 'Georgie & Mandy's First Marriage' showcase a fresh character stepping into a Sheldon-esque role.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/georgie-and-mandys-first-marriage-season-3-episode-5-preview-images/"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "David Fincher Details Why He Edited Quentin Tarantino's Script",
+  "summary": "David Fincher explained the reasoning behind editing and trimming Quentin Tarantino's original script for 'The Further Mis-Adventures of Cliff Booth'.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/david-fincher-quentin-tarantino-cliff-booth-script-changes/"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "'Cyberpunk 2077' Expands With New Officially Licensed Eyewear Collection",
+  "summary": "Cyberpunk 2077 is expanding its franchise footprint with a new line of officially licensed gaming eyewear.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/cyberpunk-2077-new-release-gunnar-optiks-glasses/"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "legal",
+  "headline": "Meta Hit With Historic $25 Billion Fine In New Mexico Privacy Lawsuit",
+  "summary": "A New Mexico judge has ordered Meta to pay a massive $25 billion civil penalty in the landmark Cambridge Analytica privacy case.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/meta-facebook-penalty-new-mexico-cambridge-analytica-1237170258/"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "business",
+  "headline": "Hollywood Smear Scandal Fixer Reportedly Tied To Musk And Paul Brothers",
+  "summary": "A fixer involved in a major Hollywood smear machine scandal reportedly spoke about other high-profile clients including Elon Musk and the Paul brothers.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1xbx5gp/fixer_in_hollywood_smear_machine_scandal_spoke_of/"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Black Clover Season 2 Episode 4 Release Date And Time Announced",
+  "summary": "Black Clover Season 2, Episode 4 gets a confirmed release date and time as the Spade Kingdom raid intensifies this weekend.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/black-clover-season-2-episode-4-release-date-time/"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Guy Ritchie Officially Confirms MobLand Successor Series",
+  "summary": "Guy Ritchie's successor to MobLand has been officially confirmed to air on a rival streaming platform.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/capital-guy-ritchie-mobland-sequel-in-development/"
+ },
+ {
+  "date": "2026-10-21T23:50:42.219191+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Former Robin Star Addresses Potential Return In DCU Batman Reboot",
+  "summary": "A former Robin actor addresses the chances of returning to the role in James Gunn's upcoming DC Universe Batman reboot.",
+  "verified": "unconfirmed",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/batman-brave-bold-dcu-robin-return-jacob-tremblay-response/"
  }
 ]
