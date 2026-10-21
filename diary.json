@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-18T03:55:18.641077+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "'Torn' Documentary Wins New York Emmy Award",
-  "summary": "The documentary 'Torn' won a New York Emmy award for its coverage of the battle over Israeli hostage posters.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x8s7kk/torn_documentary_on_battle_over_israeli_hostage/"
- },
- {
-  "date": "2026-10-18T03:55:18.641077+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Street Fighter Movie Reboot Hits Theaters",
-  "summary": "Paramount's Street Fighter movie reboot is now playing in theaters.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/street-fighter-movie-better-mortal-kombat/"
- },
- {
-  "date": "2026-10-18T03:55:18.641077+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Andrew Scott Eyes Unique Oscar Feat",
-  "summary": "Actor Andrew Scott appears positioned to potentially compete against himself for an Oscar nomination.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x8qiq8/andrew_scott_looks_set_to_be_the_first_actor_for/"
- },
- {
-  "date": "2026-10-18T03:55:18.641077+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "business",
-  "headline": "TikTok Suspends 'Musk' Film Ad Account",
-  "summary": "TikTok has permanently suspended the ad account for the upcoming 'Musk' film, raising censorship concerns.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x8ov69/tiktok_permanently_suspends_the_musk_film_ad/"
- },
- {
-  "date": "2026-10-18T03:55:18.641077+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "business",
-  "headline": "TikTok Permanently Suspends 'Musk' Film Account",
-  "summary": "TikTok permanently suspended the main account for the 'Musk' film, prompting fears of platform suppression.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x8e7zd/tiktok_permanently_suspends_the_musk_film_account/"
- },
- {
   "date": "2026-10-18T04:16:12.565778+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -17543,5 +17488,71 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/star-wars-new-games-confirmed-lucasfilm/"
+ },
+ {
+  "date": "2026-10-21T03:59:03.452032+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Beats and Pok\u00e9mon Team Up for Special Edition Pill Speaker",
+  "summary": "Beats and The Pok\u00e9mon Company have teamed up for a special edition Beats Pill collaboration.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/15/hands-on-pokemon-x-beats-pill-is-one-of-my-favorite-collabs-yet-video/"
+ },
+ {
+  "date": "2026-10-21T03:59:03.452032+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "Apple App Store Head Discusses Push for Premium Games",
+  "summary": "Apple's App Store chief Carson Oliver discussed the platform's increased focus on bringing premium console and PC games to mobile.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/20/app-store-chief-explains-premium-games-push/"
+ },
+ {
+  "date": "2026-10-21T03:59:03.452032+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Apple Faces Potential Increased Penalties in $5.7B Patent Case",
+  "summary": "Apple could face even higher financial penalties following a massive $5.7 billion patent verdict as the plaintiff seeks additional royalties.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1xbcz1r/apple_could_owe_even_more_after_57_billion_patent/"
+ },
+ {
+  "date": "2026-10-21T03:59:03.452032+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "update",
+  "headline": "John Ternus Discusses iPhone Duo and Foldable Tech",
+  "summary": "Apple executive John Ternus discussed the iPhone Duo and industry foldable devices in a recent TIME interview.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/15/john-ternus-talks-iphone-duo-cheap-and-crappy-foldables-in-new-interview/"
+ },
+ {
+  "date": "2026-10-21T03:59:03.452032+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Plaintiff Seeks Additional Damages in $5.7B Apple Patent Lawsuit",
+  "summary": "Taction Technology is asking a federal judge for more damages, interest, and ongoing royalties on top of the recent $5.7 billion patent verdict against Apple.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/20/apple-could-owe-more-after-patent-verdict/"
+ },
+ {
+  "date": "2026-10-21T03:59:03.452032+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "PHP Prepares Emergency Patches for Critical Vulnerability",
+  "summary": "PHP is preparing two emergency security patches to address an unconfirmed remote code execution exploit.",
+  "verified": "unconfirmed",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
  }
 ]
