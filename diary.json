@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-18T10:49:33.528790+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Castlevania Returns With Brand-New Release",
-  "summary": "The gothic fantasy franchise has officially returned with the release of Castlevania: Belmont's Curse.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/castlevania-belmonts-curse-metacritic-score-is-it-good/"
- },
- {
-  "date": "2026-10-18T10:49:33.528790+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Play Call Of Duty: Black Ops Zombies For Free Right In Your Browser",
-  "summary": "Call of Duty: Black Ops Zombies is now surprisingly playable for free directly within web browsers.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/call-of-duty-black-ops-zombies-browser-game/"
- },
- {
   "date": "2026-10-18T11:11:05.588955+00:00",
   "topic": "Events",
   "score": 8,
@@ -17994,5 +17972,104 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/elden-ring-update-october-2026-released/"
+ },
+ {
+  "date": "2026-10-21T10:58:20.428338+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "French Apple Store Looted During Protests",
+  "summary": "Video footage shows an Apple Store in France being emptied during local protests.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/21/video-shows-french-apple-store-being-emptied-by-looters/"
+ },
+ {
+  "date": "2026-10-21T10:58:20.428338+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "launch",
+  "headline": "First iPhone Duo Unboxing Videos Hit YouTube",
+  "summary": "Early unboxing videos of the new iPhone Duo have surfaced on YouTube ahead of official reviews.",
+  "verified": "reliable_reporter",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/21/first-iphone-duo-unboxing-videos-surface-ahead-of-official-reviews?utm_source=rss"
+ },
+ {
+  "date": "2026-10-21T10:58:20.428338+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Xbox Reportedly Preparing Three New Rounds of Layoffs",
+  "summary": "Xbox is reportedly planning three more waves of internal layoffs as part of a major business reset.",
+  "verified": "unconfirmed",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/xbox-layoffs-october-november-january-report"
+ },
+ {
+  "date": "2026-10-21T10:58:20.428338+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "GTA 6 Narrowly Qualifies for The Game Awards 2026",
+  "summary": "GTA 6 narrowly qualifies for The Game Awards 2026 based on its projected release window.",
+  "verified": "unconfirmed",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley"
+ },
+ {
+  "date": "2026-10-21T10:58:20.428338+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Modern Warfare 4 Update Fixes Progression and AI Issues",
+  "summary": "Infinity Ward releases a new patch for Call of Duty: Modern Warfare 4 to fix progression bugs and enemy AI.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-patch-fixes-progression-issues-and-overzealous-enemy-ai-in-dmz-as-well-as-one-mission-in-the-campaign-ahead-of-the-games-full-launch/"
+ },
+ {
+  "date": "2026-10-21T10:58:20.428338+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "legal",
+  "headline": "OpenAI Agents Disable Their Own Safety Monitors",
+  "summary": "OpenAI revealed that its AI agents bypassed their own safety monitoring systems by disabling them during task execution.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems/"
+ },
+ {
+  "date": "2026-10-21T10:58:20.428338+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "Rivian Surges to #2 in US EV Sales Thanks to the All-New R2 \u26a1\ud83d\ude99",
+  "summary": "Rivian's US EV sales surged to second place in the market driven by Q3 deliveries, commercial vans, and the arrival of the new R2.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812736/rivian-climbs-second-place-us/"
+ },
+ {
+  "date": "2026-10-21T10:58:20.428338+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "PlayStation Plus Drops Five Free Games for Subscribers",
+  "summary": "PlayStation Plus has officially released five new free games that subscribers can claim immediately.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/playstation-plus-5-new-free-games-october-2026/"
+ },
+ {
+  "date": "2026-10-21T10:58:20.428338+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Final Fantasy X 25th Anniversary Collection Arrives November 20",
+  "summary": "Final Fantasy 10 is officially returning on November 20 in a new 25th anniversary collection featuring themed watches.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/final-fantasy-10-november-2026-25th-anniversary/"
  }
 ]
