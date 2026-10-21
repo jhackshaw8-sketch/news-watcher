@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-18T11:11:05.588955+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Batman: The Animated Series Returns in New Game",
-  "summary": "Batman: The Animated Series is officially returning in a new video game adaptation.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/batman-animated-series-official-return-confirmed/"
- },
- {
-  "date": "2026-10-18T11:11:05.588955+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Pok\u00e9mon Unveils New 30th Anniversary Eeveelution Designs",
-  "summary": "The Pok\u00e9mon Company has officially unveiled new Eeveelution designs to celebrate the upcoming 30th anniversary.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/pokemon-30th-anniversary-eeveelution-designs-tcg/"
- },
- {
   "date": "2026-10-18T11:46:58.512179+00:00",
   "topic": "Movies",
   "score": 6,
@@ -18071,5 +18049,181 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/final-fantasy-10-november-2026-25th-anniversary/"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "update",
+  "headline": "Apple Arcade Adds Major Sports Updates",
+  "summary": "Apple Arcade is receiving major sports game updates in November, including NBA 2K27 Arcade Edition and Football Manager 27 Touch.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/21/apple-arcade-gets-packed-with-sports-game-updates-in-november?utm_source=rss"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Cyberpunk Edgerunners Season 3 Discussion",
+  "summary": "Polygon discusses the potential for a third season of Cyberpunk: Edgerunners and what creators have said about future stories.",
+  "verified": "unconfirmed",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/cyberpunk-edgerunners-season-3-confirmed-release-date-story-characters/"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Crimson Desert DLC Features Massive New Content",
+  "summary": "Crimson Desert DLC details reveal expansive features including shipbuilding, marriage systems, and turtle mounts.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/open-world/crimson-desert-dlc-features-everything-from-shipbuilding-to-marriage-pearl-abyss-shows-off-in-new-preview-of-charting-the-unknown/"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Xbox Game Pass October 2026 Second Wave Revealed",
+  "summary": "Microsoft announces the second wave of games heading to Xbox Game Pass for October 2026, featuring notable console debuts.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/xbox-game-pass-list-october-2026"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Cillian Murphy To Star In A Quiet Place 3",
+  "summary": "Cillian Murphy and Jack O'Connell are reportedly set to star as brothers in the upcoming horror sequel A Quiet Place 3.",
+  "verified": "unconfirmed",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/horror-movies/28-years-later-stars-cillian-murphy-and-jack-oconnell-are-set-to-play-brothers-in-a-quiet-place-3/"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "Subnautica 2 Teases Its Scariest Region Yet",
+  "summary": "Unknown Worlds announces that the upcoming Subnautica 2 update will introduce the scariest underwater region in the game's history.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/subnautica-2-scariest-region-ever-made-update"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Football Manager 27 Announces Free Five-Day Trial",
+  "summary": "Football Manager 27 will be playable for free for five days prior to its full launch in an industry-first promotional move.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/football-manager-27-free-to-play-five-days"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Severe Security Vulnerabilities Alarm Web Administrators",
+  "summary": "Two newly discovered severe security vulnerabilities are causing concern for website administrators across the internet.",
+  "verified": "reliable_reporter",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Samsung and SK Hynix Reportedly Upgrading China Chip Plants",
+  "summary": "Samsung and SK Hynix are reportedly upgrading their factories in China to manufacture more advanced chips.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xbju7o/exclusive_samsung_sk_hynix_upgrading_china_plants/"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Anthropic Posts Staggering Loss Ahead of IPO",
+  "summary": "Anthropic reported a massive net loss of $80.7 billion in the first half of 2026 ahead of its anticipated IPO.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xbjr1n/anthropic_posts_staggering_807_billion_net_loss/"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "NextDC Shares Fall Due to Datacentre Delay",
+  "summary": "Shares of Australia's largest datacentre operator NextDC dropped following delays in its Melbourne expansion project.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xbjdfi/australias_largest_datacentre_operator_nextdcs/"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "legal",
+  "headline": "OpenAI President Pushes AI Safety Despite Funding Anti-Regulation Group",
+  "summary": "The OpenAI president is calling for AI safeguards even as a lobbying group he funds opposes formal regulation.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xbj68a/openai_president_urges_ai_safeguards_as_group_he/"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Italian Film Investment Drops 7.4% in 2025",
+  "summary": "Italian film and TV content investment fell 7.4% in 2025 due to domestic tax credit uncertainties and shifts to streaming.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/italian-content-investment-dropped-uncertainty-tax-credits-1236918479/"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "The Cycle Review: Incredible Practical Effects",
+  "summary": "The new horror-mystery movie The Cycle receives a positive review highlighting its incredible practical effects and monster transformation.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2292028/the-cycle-review-deborah-ann-woll-jeffrey-donovan-horror-movie/"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Cannes Standout 'When I Existed' Picked Up for World Sales",
+  "summary": "M-Appeal has acquired world sales rights for the Cannes Market standout drama-comedy 'When I Existed' ahead of its Tallinn Black Nights premiere.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/when-i-existed-cannes-market-standout-m-appeal-tallinn-1236918550/"
+ },
+ {
+  "date": "2026-10-21T11:23:31.893774+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Samantha Sloyan Explains Carrie's Brutal Ending",
+  "summary": "Actor Samantha Sloyan breaks down the psychology and motivations behind Margaret White's brutal ending in Carrie.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/carrie-series-margaret-white-death-samantha-sloyan/"
  }
 ]
