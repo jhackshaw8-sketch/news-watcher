@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-18T11:46:58.512179+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Pok\u00e9mon Reveals Magical 2026 Holiday Collection",
-  "summary": "Pok\u00e9mon Center announces the Winter Night Sky holiday collection featuring Mew, Pikachu, and Piplup for 2026.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/pokemon-winter-night-sky-holiday-collection/"
- },
- {
-  "date": "2026-10-18T11:46:58.512179+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Bridgerton Officially Confirms Major New Franchise Spinoff",
-  "summary": "Bridgerton has officially confirmed a new spinoff that will explore a crucial story in the franchise.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/bridgerton-young-violet-spinoff-most-important-franchise-story/"
- },
- {
-  "date": "2026-10-18T11:46:58.512179+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Zelda: Ocarina of Time Remake Launches Next Month With Major Fixes",
-  "summary": "A Legend of Zelda: Ocarina of Time remake is launching next month and fixes a major issue from the original game.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/zelda-ocarina-of-time-remake-biggest-problem-fixed/"
- },
- {
   "date": "2026-10-18T12:10:31.904069+00:00",
   "topic": "Cars",
   "score": 5,
@@ -18225,5 +18192,126 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/carrie-series-margaret-white-death-samantha-sloyan/"
+ },
+ {
+  "date": "2026-10-21T11:57:13.645780+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "legal",
+  "headline": "Report Highlights Loophole in Apple and Google Parental Controls",
+  "summary": "A new report reveals that parental controls from Apple and Google fail to block teens from accessing numerous AI nudify apps.",
+  "verified": "reliable_reporter",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1xbkjbf/apple_and_google_parental_controls_let_teens/"
+ },
+ {
+  "date": "2026-10-21T11:57:13.645780+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Foxconn Expands Santa Clara Facilities for AI Hardware",
+  "summary": "Apple manufacturing partner Foxconn has expanded its footprint in Santa Clara with new property acquisitions likely slated for AI hardware production.",
+  "verified": "reliable_reporter",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/21/foxconn-expands-santa-clara-operation-for-ai-hardware?utm_source=rss"
+ },
+ {
+  "date": "2026-10-21T11:57:13.645780+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Crimson Desert DLC Details New Features",
+  "summary": "Pearl Abyss has revealed new features for the upcoming Crimson Desert DLC, including shipbuilding, romance, and housing systems.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/crimson-desert-charting-the-unknown-dlc-features-revealed-including-shipbuilding-romance-and-housing"
+ },
+ {
+  "date": "2026-10-21T11:57:13.645780+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Critical PHP Security Patches Roll Out",
+  "summary": "Critical security patches are rolling out for the PHP programming language to address two severe vulnerabilities.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress"
+ },
+ {
+  "date": "2026-10-21T11:57:13.645780+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Meet the Fiat Koala: Italy's New City Car \ud83d\udc28\ud83d\ude97",
+  "summary": "Fiat has announced that its upcoming European city car will be named the Koala and will be manufactured in Italy.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812741/fiat-koala-city-car-name/"
+ },
+ {
+  "date": "2026-10-21T11:57:13.645780+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Watermelon Pictures Picks Up North American Rights to 'The Station'",
+  "summary": "Watermelon Pictures has acquired North American distribution rights for Sara Ishaq's debut narrative feature 'The Station', with a theatrical release planned for later this year.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/watermelon-pictures-sara-ishaq-the-station-1237169551/"
+ },
+ {
+  "date": "2026-10-21T11:57:13.645780+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Recap and What to Remember Before 'The Terminal List' Season 2",
+  "summary": "A recap of key events from 'The Terminal List' Season 1 and its prequel 'Dark Wolf' to prepare viewers for Chris Pratt's return in Season 2 on Prime Video.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/the-terminal-list-recap-before-season-2-prime-video/"
+ },
+ {
+  "date": "2026-10-21T11:57:13.645780+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "legal",
+  "headline": "Noel Clarke Pleads Not Guilty to Sexual Offenses",
+  "summary": "Actor Noel Clarke has pleaded not guilty to multiple sexual assault, voyeurism, and exposure charges in London.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/noel-clarke-pleads-not-guilty-sexual-offenses-1237169545/"
+ },
+ {
+  "date": "2026-10-21T11:57:13.645780+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Reacher Season 5 Teased as Most Ambitious Chapter",
+  "summary": "Alan Ritchson's Reacher series on Prime Video is officially preparing for its most ambitious season yet.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/reacher-season-5-ambitious-prime-video-chapter/"
+ },
+ {
+  "date": "2026-10-21T11:57:13.645780+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Dwayne Johnson Debuts Unrecognizable Look for Lizard Music",
+  "summary": "Dwayne Johnson looks completely unrecognizable after undergoing a major physical transformation for his new film Lizard Music.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1xbkki8/dwayne_johnson_is_unrecognisable_after/"
+ },
+ {
+  "date": "2026-10-21T11:57:13.645780+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Sacha Baron Cohen Bringing Back Ali G",
+  "summary": "Sacha Baron Cohen acknowledges that his character Ali G is problematic but plans to bring him back anyway.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1xbiack/sacha_baron_cohen_admits_ali_g_is_problematic_but/"
  }
 ]
