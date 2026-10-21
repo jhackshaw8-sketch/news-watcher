@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-18T21:48:25.135449+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "Tulsa King Season 4 Premieres",
-  "summary": "Taylor Sheridan's Tulsa King has officially returned for a new season.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/tulsa-king-season-4-vs-mobland-season-2-streaming-success-paramount-plus-october-2026/"
- },
- {
-  "date": "2026-10-18T21:48:25.135449+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Christopher Nolan Epic Conquers Apple TV",
-  "summary": "Christopher Nolan's latest epic achieves strong streaming success on Apple TV following its theatrical run.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/the-odyssey-streaming-success-apple-tv-october-2026/"
- },
- {
-  "date": "2026-10-18T21:48:25.135449+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "DC's Clayface Movie Expands Batman's Rogues Gallery",
-  "summary": "An upcoming DC Clayface movie could introduce more diverse live-action villains to Batman's cinematic world.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/dc-clayface-movie-batman-live-action-villains-problem/"
- },
- {
-  "date": "2026-10-18T21:48:25.135449+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Mike Flanagan Shares Verdict on DC's R-Rated Batman Villain Movie",
-  "summary": "Director Mike Flanagan has shared his official verdict on DC Studios' upcoming R-rated Batman villain movie.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/clayface-mike-flanagan-letterboxd-review/"
- },
- {
-  "date": "2026-10-18T21:48:25.135449+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "A24 Teams With Jesse Eisenberg for His First TV Show",
-  "summary": "A24 is partnering with Jesse Eisenberg for his very first television show as director, writer, and producer.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/jesse-eisenberg-tv-show-a24-development/"
- },
- {
   "date": "2026-10-18T22:09:35.531958+00:00",
   "topic": "Cars",
   "score": 6,
@@ -20777,5 +20722,93 @@
   "verified": "reliable_reporter",
   "source": "ScreenRant",
   "link": "https://screenrant.com/masters-of-the-universe-2-prime-video-streaming-redemption-travis-knight/"
+ },
+ {
+  "date": "2026-10-21T21:57:10.087453+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Apple and DOJ Reach Impasse in Antitrust Lawsuit Discovery",
+  "summary": "Apple and the Department of Justice have informed the court of an impasse regarding the document cutoff date in their ongoing antitrust lawsuit.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/21/apple-and-doj-notify-court-of-impasse-over-document-cutoff-in-antitrust-lawsuit/"
+ },
+ {
+  "date": "2026-10-21T21:57:10.087453+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple Music's New Look Goes Live on Apple's Website",
+  "summary": "Apple has updated its official website with the newly announced Apple Music branding.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/21/apple-music-website-rebranded/"
+ },
+ {
+  "date": "2026-10-21T21:57:10.087453+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "business",
+  "headline": "Fans Mourn BioWare Following Studio Shutdown",
+  "summary": "Fans are paying their respects following EA's shutdown of BioWare.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/star-wars-the-old-republic-fans-pay-their-respects-to-bioware"
+ },
+ {
+  "date": "2026-10-21T21:57:10.087453+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Rumor: Star Wars: Battlefront 3 in Development at Respawn and DICE",
+  "summary": "Reports suggest that Star Wars: Battlefront 3 is currently in development as a collaboration between Respawn and DICE.",
+  "verified": "unconfirmed",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/action/star-wars-battlefront-3-reportedly-in-the-works-at-respawn-and-dice-in-the-wake-of-eas-bioware-shutdown/"
+ },
+ {
+  "date": "2026-10-21T21:57:10.087453+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "business",
+  "headline": "Meta Creates New Share Class to Fund AI Push \ud83e\udd16",
+  "summary": "Meta is issuing a new class of non-voting shares starting in 2027 to fund its massive AI infrastructure push, potential acquisitions, and employee compensation.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings"
+ },
+ {
+  "date": "2026-10-21T21:57:10.087453+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "rumor",
+  "headline": "Jane Levy Teases Possible Evil Dead Franchise Return",
+  "summary": "Actress Jane Levy teases a potential return to the Evil Dead franchise during a recent screening Q&A.",
+  "verified": "unconfirmed",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/jane-levy-temp-checks-evil-dead-fans-franchise-return-1237170174/"
+ },
+ {
+  "date": "2026-10-21T21:57:10.087453+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Tyra Banks to Produce Sports Bra Invention Movie",
+  "summary": "Tyra Banks and Forbes Entertainment are teaming up to produce a feature film about the inventors of the sports bra.",
+  "verified": "reliable_reporter",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/tyra-banks-producing-film-sports-bra-inventors-1237170040/"
+ },
+ {
+  "date": "2026-10-21T21:57:10.087453+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "other",
+  "headline": "Review: Spain's Oscar Entry La Bola Negra Explores Queer History",
+  "summary": "Spain's Oscar submission La Bola Negra is reviewed as a moving trilogy exploring the country's queer history.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/la-bola-negra-spain-academy-awards/"
  }
 ]
