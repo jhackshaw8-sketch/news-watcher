@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-18T01:52:46.557504+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Director Addresses Potential Street Fighter Sequel Chances",
-  "summary": "The director of a recent movie adaptation discusses the potential for a sequel following a mixed critical and audience response.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/street-fighter-2026-sequel-chances-sakurai/"
- },
- {
   "date": "2026-10-18T02:52:49.385443+00:00",
   "topic": "Events",
   "score": 6,
@@ -17224,5 +17213,104 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/russell-crowe-a-beautiful-mind-theater-return-november-2026/"
+ },
+ {
+  "date": "2026-10-21T01:57:27.882104+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Apple Begins 6G Modem Development with New Hiring Push",
+  "summary": "Apple is hiring a cellular modem systems engineer to begin research and development for future 6G connectivity.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/"
+ },
+ {
+  "date": "2026-10-21T01:57:27.882104+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Apple Sets Deadline for iPhone Duo Pre-Order Preparation",
+  "summary": "Apple has established a deadline for customers to complete the 'Get Ready' pre-order process ahead of the upcoming iPhone Duo launch.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/15/apple-sets-cutoff-time-for-getting-fastest-iphone-duo-pre-order/"
+ },
+ {
+  "date": "2026-10-21T01:57:27.882104+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "Fire Emblem: Fortune's Weave Gets First DLC Wave",
+  "summary": "Nintendo and Intelligent Systems release the first wave of DLC and an expansion pass for Fire Emblem: Fortune's Weave.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass"
+ },
+ {
+  "date": "2026-10-21T01:57:27.882104+00:00",
+  "topic": "Gaming News",
+  "score": 10,
+  "category": "launch",
+  "headline": "GTA 6 Official Launch Trailer Drops",
+  "summary": "Rockstar Games drops the official launch trailer for Grand Theft Auto 6 ahead of its November 19 release.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer"
+ },
+ {
+  "date": "2026-10-21T01:57:27.882104+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Liam Neeson's The Fix Debuts on Streaming",
+  "summary": "Liam Neeson and Zachary Levi's action-thriller film The Fix has officially debuted on streaming.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/liam-neeson-the-fix-streaming-pvod-october-2026/"
+ },
+ {
+  "date": "2026-10-21T01:57:27.882104+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "The Green Mile Becomes a Streaming Hit on Tubi",
+  "summary": "The 1999 Stephen King adaptation The Green Mile is currently finding new streaming success on Tubi.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/stephen-king-the-green-mile-carrie-streaming-free-tubi-october-2026/"
+ },
+ {
+  "date": "2026-10-21T01:57:27.882104+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Snoopy Christmas Special Premieres With a Twist",
+  "summary": "Snoopy Presents: 12 Days of Christmas marks the Peanuts franchise's first holiday special in five years.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/snoopy-presents-new-christmas-special-twist/"
+ },
+ {
+  "date": "2026-10-21T01:57:27.882104+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Chris Pratt Returns in The Terminal List Season 2",
+  "summary": "Chris Pratt returns for the second season of Prime Video's The Terminal List this week.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/chris-pratt-reacher-replacement-the-terminal-list-season-2-release-date-prime-video-october-2026/"
+ },
+ {
+  "date": "2026-10-21T01:57:27.882104+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "update",
+  "headline": "Slow Horses Season 7 Recruits Guy Ritchie Stars",
+  "summary": "Apple TV's Slow Horses has officially added several actors from Guy Ritchie's films to its Season 7 cast.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/apple-tv-slow-horses-season-7-cast-ethan-moorhouse-joshua-mcguire/"
  }
 ]
