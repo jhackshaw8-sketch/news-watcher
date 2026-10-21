@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-18T04:16:12.565778+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Major Game Releases Coming This November",
-  "summary": "A roundup of notable video game releases scheduled for November that are competing with the launch window of Grand Theft Auto 6.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/november-2026-game-releases/"
- },
- {
-  "date": "2026-10-18T04:16:12.565778+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Pok\u00e9mon TCG Bans Card Reselling to Combat Scalpers",
-  "summary": "The Pok\u00e9mon Trading Card Game takes steps to combat scalping by banning card reselling on select auction sites.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/pokemon-tcg-reselling-cards-ban-auction-sites/"
- },
- {
-  "date": "2026-10-18T04:16:12.565778+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Dungeon Crawler Carl: The Royal Court Collection Sets November 2026 Release Date",
-  "summary": "Dungeon Crawler Carl: The Royal Court Collection has been officially scheduled for release in November 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/dungeon-crawler-carl-royal-court-november-2026-psa/"
- },
- {
-  "date": "2026-10-18T04:16:12.565778+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Official Peanuts Holiday Crocs Arrive This October",
-  "summary": "Official Peanuts-themed Holiday Crocs are launching later this October.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/peanuts-holiday-crocs-adorable/"
- },
- {
   "date": "2026-10-18T04:53:50.925552+00:00",
   "topic": "Gaming News",
   "score": 5,
@@ -17554,5 +17510,82 @@
   "verified": "unconfirmed",
   "source": "Ars Technica",
   "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+ },
+ {
+  "date": "2026-10-21T04:25:44.832685+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "WhatsApp Working on In-App Browser for iPhone",
+  "summary": "WhatsApp is reportedly developing an optional in-app browser for its iPhone app to open chat links without leaving the application.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/21/whatsapp-developing-browser-for-chat-links/"
+ },
+ {
+  "date": "2026-10-21T04:25:44.832685+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Apple App Store Chief Discusses Focus on Premium Games",
+  "summary": "Apple's App Store chief has explained the company's strategic push toward offering more premium games on the platform.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1xbdey7/apples_app_store_chief_explains_its_push_for/"
+ },
+ {
+  "date": "2026-10-21T04:25:44.832685+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Ordinary Oddness Announced for PC and Consoles",
+  "summary": "Ordinary Oddness has been officially announced for PC, PS5, and Xbox Series with a release date yet to be determined.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xbbc7v/ordinary_oddness_announced_releases_tbd_on_pc_ps5/"
+ },
+ {
+  "date": "2026-10-21T04:25:44.832685+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Esports Giant Evil Geniuses Shuts Down Operations",
+  "summary": "Former esports giant Evil Geniuses is officially shutting down and ending its competitive day-to-day operations.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xb8w5h/evil_genuises_is_shutting_down_former_esports/"
+ },
+ {
+  "date": "2026-10-21T04:25:44.832685+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Steam Offers 22 Games Completely Free to Keep",
+  "summary": "Steam has officially made 22 games entirely free for users to keep forever.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/steam-22-free-games-october-2026/"
+ },
+ {
+  "date": "2026-10-21T04:25:44.832685+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "The Terminal List Season 2 Delivers High-Octane Action",
+  "summary": "A review of The Terminal List season 2 praises Chris Pratt's action thriller for being bigger and better.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/the-terminal-list-season-2-review/"
+ },
+ {
+  "date": "2026-10-21T04:25:44.832685+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Cyberpunk Edgerunners: Burn Bright Confirmed for Spring 2027",
+  "summary": "A new Cyberpunk Edgerunners project titled Burn Bright has been officially confirmed for a Spring 2027 release.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/cyberpunk-tcg-edgerunners-burn-bright-spring-2027/"
  }
 ]
