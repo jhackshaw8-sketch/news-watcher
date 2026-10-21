@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-18T01:05:13.388395+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "New Details Emerge About Ben Affleck's Canceled Batman Movie",
-  "summary": "Joe Manganiello revealed new details about Ben Affleck's canceled Batman movie, including the planned death of a major DC hero.",
-  "verified": "reliable_reporter",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2289655/ben-affleck-batman-movie-killed-dc-comics-hero-jim-gordon/"
- },
- {
-  "date": "2026-10-18T01:05:13.388395+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Forrest Gump Becomes a Free Streaming Sensation",
-  "summary": "Tom Hanks' classic film Forrest Gump has become a streaming hit on free platforms this October.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/tom-hanks-forrest-gump-free-streaming-hit-tubi-october-2026/"
- },
- {
-  "date": "2026-10-18T01:05:13.388395+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "American Sniper Leaves Netflix",
-  "summary": "Clint Eastwood's box office hit American Sniper is officially leaving Netflix.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/clint-eastwood-war-movie-american-sniper-leaving-netflix-november-2026/"
- },
- {
-  "date": "2026-10-18T01:05:13.388395+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Three Studios Backing The Silent Patient Movie Adaptation",
-  "summary": "Three major studios are now backing the film adaptation of The Silent Patient, altering expectations for its twist-heavy plot.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/silent-patient-movie-changes-studio-adaptations-explained/"
- },
- {
   "date": "2026-10-18T01:52:46.557504+00:00",
   "topic": "Events",
   "score": 5,
@@ -17158,5 +17114,115 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/baldurs-gate-3-sequel-series-details/"
+ },
+ {
+  "date": "2026-10-21T01:08:31.513919+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Where\u2019s Wanda? Season 2 Premieres on Apple TV",
+  "summary": "The second season of the German-language dark comedy series 'Where\u2019s Wanda?' has premiered on Apple TV.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/20/dark-comedy-wheres-wanda-season-2-premieres-on-apple-tv/"
+ },
+ {
+  "date": "2026-10-21T01:08:31.513919+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Apple Recruits 6G Engineers for Future iPhones",
+  "summary": "Apple is actively recruiting 6G modem engineers as part of its long-term preparations for post-5G iPhones expected around 2030.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/20/apple-6g-research-continues/"
+ },
+ {
+  "date": "2026-10-21T01:08:31.513919+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "First iPhone Duo Unboxing Video Surfaces Early",
+  "summary": "The first unboxing video of the upcoming iPhone Duo has surfaced online just days ahead of its official Friday launch.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/"
+ },
+ {
+  "date": "2026-10-21T01:08:31.513919+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Red Rising Digital Adaptation Announced For 2027",
+  "summary": "A digital adaptation of Pierce Brown's sci-fi saga Red Rising is officially scheduled to release in 2027.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/red-rising-digital-edition-2027-release/"
+ },
+ {
+  "date": "2026-10-21T01:08:31.513919+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "David Fincher Cut 60 Pages From Quentin Tarantino's Cliff Booth Script",
+  "summary": "David Fincher revealed he had to cut 60 pages from Quentin Tarantino's 230-page script for The Further Mis-Adventures of Cliff Booth.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/david-fincher-cut-tarantino-cliff-booth-script-1237169234/"
+ },
+ {
+  "date": "2026-10-21T01:08:31.513919+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Percy Jackson and the Olympians Headed to Hulu Ahead of Season 3",
+  "summary": "Percy Jackson and the Olympians is expanding to Hulu ahead of its third season.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/percy-jackson-and-the-olympians-streaming-hulu-november-2026/"
+ },
+ {
+  "date": "2026-10-21T01:08:31.513919+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "review",
+  "headline": "VisionQuest Episode 3 Delivers Game-Changing Developments",
+  "summary": "A review of VisionQuest Episode 3 highlights relationship developments and deeper insights into Stark AIs.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/visionquest-episode-3-recap-disney-plus/"
+ },
+ {
+  "date": "2026-10-21T01:08:31.513919+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Ice Age Franchise Hits Netflix Top 10 Ahead of Sixth Installment",
+  "summary": "All five Ice Age movies have entered Netflix's Top 10 ahead of the franchise's sixth installment.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/ice-age-franchise-streaming-success-netflix-october-2026/"
+ },
+ {
+  "date": "2026-10-21T01:08:31.513919+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Assassin's Creed Film Returns to Streaming Ahead of Netflix Reboot",
+  "summary": "The Assassin's Creed movie starring Michael Fassbender is returning to Hulu ahead of an upcoming Netflix live-action series.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/michael-fassbender-assassins-creed-streaming-hulu-november-2026/"
+ },
+ {
+  "date": "2026-10-21T01:08:31.513919+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Russell Crowe's A Beautiful Mind Returning to Theaters for 25th Anniversary",
+  "summary": "Ron Howard's A Beautiful Mind starring Russell Crowe is returning to theaters in 2026 for its 25th anniversary.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/russell-crowe-a-beautiful-mind-theater-return-november-2026/"
  }
 ]
