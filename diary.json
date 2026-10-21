@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-18T07:03:08.510280+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "PlayStation Plus Drops Halloween 2026 Bonus Game Trials",
-  "summary": "PlayStation Plus offers two bonus free game trials for Halloween 2026, featuring Mortal Shell 2 and Resonance: A Plague Tale Legacy.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/playstation-plus-bonus-free-downloads-halloween-2026/"
- },
- {
   "date": "2026-10-18T07:51:11.062114+00:00",
   "topic": "Movies",
   "score": 6,
@@ -17334,5 +17323,115 @@
   "verified": "unconfirmed",
   "source": "ScreenRant",
   "link": "https://screenrant.com/elden-ring-malenia-2027-return/"
+ },
+ {
+  "date": "2026-10-21T07:14:19.298217+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "\ud83d\udd0c Lexus Drops TX 550h+ Plug-In Hybrid For 2027 Model Year",
+  "summary": "Lexus is discontinuing the plug-in hybrid TX 550h+ variant for the 2035 model year, leaving only the gas and standard hybrid options.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812690/lexus-tx-550h-discontinued-after/"
+ },
+ {
+  "date": "2026-10-21T07:14:19.298217+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "business",
+  "headline": "\u26fd EU Shifts Gears: Gas Cars Get New Hope Past 2035! \ud83d\ude97",
+  "summary": "The European Union has loosened proposed strict emissions targets, opening a potential pathway for traditional gas cars to survive past the 2035 ban.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812687/eu-moves-closer-delay-ice-ban/"
+ },
+ {
+  "date": "2026-10-21T07:14:19.298217+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Epic New Trailer Released for 'Ramayana: Rise of a Legend'",
+  "summary": "Sony Pictures has released a new trailer for 'Ramayana: Rise of a Legend', which is set to premiere globally in theaters and IMAX on November 5.",
+  "verified": "official",
+  "source": "Sony Pictures (trailers)",
+  "link": "https://www.youtube.com/watch?v=AYkPRN874m8"
+ },
+ {
+  "date": "2026-10-21T07:14:19.298217+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Pirates of the Caribbean London Stage Show Casts Jack Sparrow",
+  "summary": "George Maguire has been cast as Captain Jack Sparrow in the London stage production of 'Pirates of the Caribbean: The Immersive Adventure'.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/theater/news/pirates-of-the-caribbean-secret-cinema-jack-sparrow-1236918148/"
+ },
+ {
+  "date": "2026-10-21T07:14:19.298217+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Timothy Olyphant's Hit Series Gets Free Streaming Release",
+  "summary": "Timothy Olyphant's hit comedy series is getting a free streaming release for a limited time on Apple TV.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/stick-season-1-samsung-tv-plus-free-streaming-release/"
+ },
+ {
+  "date": "2026-10-21T07:14:19.298217+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "business",
+  "headline": "Jeff Satur Signs With Universal Music and Sets 2027 World Tour",
+  "summary": "Thai pop star Jeff Satur has signed with Universal Music Southeast Asia and announced a new album and world tour for 2027.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/music/news/thai-pop-star-jeff-satur-universal-music-1236918438/"
+ },
+ {
+  "date": "2026-10-21T07:14:19.298217+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Pok\u00e9mon Reveals New Mewtwo Design for 30th Anniversary",
+  "summary": "Pok\u00e9mon has revealed a brand new Mewtwo design to celebrate the franchise's upcoming 30th anniversary.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/pokemon-mewtwo-design-enso-ring-30th-anniversary/"
+ },
+ {
+  "date": "2026-10-21T07:14:19.298217+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "legal",
+  "headline": "Mariah Carey Wins Dismissal of Brother's Defamation Lawsuit",
+  "summary": "Mariah Carey successfully won the dismissal of her brother's $20 million defamation lawsuit regarding her bestselling memoir.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1xbb34p/mariah_carey_wins_dismissal_of_brothers_20m/"
+ },
+ {
+  "date": "2026-10-21T07:14:19.298217+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "legal",
+  "headline": "Halle Berry's Daughter May Testify in Custody Battle",
+  "summary": "Halle Berry's daughter Nahla may testify in the ongoing custody battle against Olivier Martinez.",
+  "verified": "reliable_reporter",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1xba44r/halle_berrys_daughter_nahla_may_testify_in_the/"
+ },
+ {
+  "date": "2026-10-21T07:14:19.298217+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "'Nobody Wants This' Returns to Netflix This Week",
+  "summary": "Netflix series 'Nobody Wants This' returns for its next season this week.",
+  "verified": "official",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1xb9txd/nobody_wants_this_returns_to_netflix_this_week/"
  }
 ]
