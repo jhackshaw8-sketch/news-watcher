@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-18T22:46:29.967735+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "Breaking Down Starlink's Two Very Different $55 Plans",
-  "summary": "Starlink offers two distinct $55 plans that trade off download speeds and data caps.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2286681/starlink-residential-vs-roam-55-dollar-plan-how-different/"
- },
- {
-  "date": "2026-10-18T22:46:29.967735+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "launch",
-  "headline": "Clint Eastwood's True Crime Thriller Heads to Netflix",
-  "summary": "Clint Eastwood's biographical crime thriller starring Paul Walter Hauser and Kathy Bates is arriving on Netflix.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/clint-eastwood-richard-jewell-streaming-netflix-november-2026/"
- },
- {
-  "date": "2026-10-18T22:46:29.967735+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "2026 Blockbuster Crowned Highest-Rated Movie Ever",
-  "summary": "An upcoming 2026 film has officially become the highest-rated movie in history following a record-breaking box office opening.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/you-can-see-everything-letterboxd-highest-rated-feature/"
- },
- {
   "date": "2026-10-18T23:08:42.599157+00:00",
   "topic": "Tech News",
   "score": 7,
@@ -20876,5 +20843,192 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/friday-the-13th-franchise-crystal-lake-2026-deserves-praise/"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Apple and DOJ Antitrust Lawsuit Hits Impasse Over Document Collection",
+  "summary": "The antitrust lawsuit between Apple and the DOJ has reached an impasse regarding document collection and cutoffs.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/21/apple-doj-antitrust-suit-reaches-impasse-over-document-collection?utm_source=rss"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Court Notified of Document Impasse in Apple DOJ Antitrust Case",
+  "summary": "Apple and the DOJ have formally notified the court of an impasse regarding document cutoff dates in their ongoing antitrust lawsuit.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1xc2055/apple_and_doj_notify_court_of_impasse_over/"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "iPhone Duo Sells Out Instantly and Backordered Until Next Year",
+  "summary": "Apple's newly available iPhone Duo sold out immediately, with shipping estimates quickly slipping into next year.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/16/iphone-duo-pre-orders-now-backordered-to-next-year/"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "iPhone Duo Pre-Orders Open With Starting Price of $1,999",
+  "summary": "Apple has officially opened pre-orders for its first foldable device, the iPhone Duo, starting at $1,999.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/16/iphone-duo-now-available-to-pre-order-prices-start-at-1999/"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Could EA Sell Mass Effect and Dragon Age IPs?",
+  "summary": "Former BioWare executive producer Mark Darrah speculates that EA might be more likely to sell major IPs like Mass Effect and Dragon Age following studio restructuring.",
+  "verified": "unconfirmed",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/former-bioware-executive-producer-mark-darrah-says-ea-might-be-more-likely-to-sell-ips-like-mass-effect-and-dragon-age-after-studios-closure"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Batman Confirmed to Exist in Upcoming Live-Action Gotham Introduction",
+  "summary": "DC Studios co-CEO confirms that Batman is present during the events of Clayface, serving as an introduction to the new live-action Gotham.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/dc-movies/batman-is-around-during-the-events-of-clayface-confirms-dc-studios-co-ceo-this-is-the-introduction-to-the-live-action-gotham/"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "AI Data Centers Threaten Air Quality Gains",
+  "summary": "The massive surge in generative AI data centers in Texas threatens to reverse decades of air quality improvements due to increased electricity demand.",
+  "verified": "reliable_reporter",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Zuckerberg Heralds New Revenue Era with Muse AI",
+  "summary": "Mark Zuckerberg announced that Meta is entering a new phase with its Muse agent, projecting it will surpass traditional app revenue.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Meta Plans New Stock Class to Fund Massive AI Push",
+  "summary": "Meta is planning to introduce a new class of stock to help finance its extensive and costly AI infrastructure and model development.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Bose Acquires Audio Rival Skullcandy",
+  "summary": "Audio giant Bose has acquired rival brand Skullcandy in a strategic move to capture a broader consumer audience.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2293698/bose-buys-audio-rival-skullcandy/"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Rodrigo Teixeira to Receive GLAFF Visionary Award",
+  "summary": "Producer Rodrigo Teixeira is set to receive the GLAFF Visionary Award presented by Wagner Moura ahead of a screening of 'Paper Tiger'.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/rodrigo-teixeira-glaff-visionary-award-wagner-moura-1236919290/"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "The Complex Restoration of Ken Russell's 'The Devils'",
+  "summary": "Mark Kermode and Daphne Dentz discuss the intricate restoration process of Ken Russell's 1971 controversial film 'The Devils'.",
+  "verified": "reliable_reporter",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/mark-kermode-daphne-dentz-restoring-ken-russells-the-devils-1237170140/"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Tyra Banks Producing Sports Bra Invention Movie",
+  "summary": "Tyra Banks is set to produce a new feature film about the invention of the sports bra in partnership with Forbes Entertainment.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xc1u3u/tyra_banks_to_produce_feature_about_the_invention/"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Poster Drops for 'The Hunger Games: Sunrise on the Reaping'",
+  "summary": "A brand new promotional poster has been released for the upcoming movie 'The Hunger Games: Sunrise on the Reaping'.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xc18vb/new_poster_for_the_hunger_games_sunrise_on_the/"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Corey Michael Smith Joins Ari Aster's 'Scapegoat'",
+  "summary": "Corey Michael Smith has joined the star-studded cast of Ari Aster's upcoming A24 film 'Scapegoat'.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xc10iz/corey_michael_smith_joins_scarlett_johansson_in/"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Jonathan Hickman's Secret Marvel Film Contributions",
+  "summary": "An interview reveals that comic writer Jonathan Hickman has quietly worked on more Marvel films than previously known.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xbzs7i/interview_jonathan_hickman_works_on_more_marvel/"
+ },
+ {
+  "date": "2026-10-21T22:54:05.632273+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Hulu's Upcoming Cult Classic Movie Remake Gets Early Praise",
+  "summary": "Hulu's upcoming television remake of Jim Carrey's classic film receives a positive early review following its pilot order.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/jim-carrey-cable-guy-hulu-remake-review-glowing-jake-johnson/"
  }
 ]
