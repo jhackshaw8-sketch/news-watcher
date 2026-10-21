@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-18T22:09:35.531958+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "launch",
-  "headline": "Reviewing the 2027 Kia Seltos X-Line SX AWD \ud83d\ude99\u2728",
-  "summary": "A POV review details the features, specifications, and pricing of the 2027 Kia Seltos X-Line SX AWD finished in Terrain Brown.",
-  "verified": "official",
-  "source": "TheTopher",
-  "link": "https://www.youtube.com/watch?v=v80Sm3wf33Y"
- },
- {
-  "date": "2026-10-18T22:09:35.531958+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Horror Sequel Hits Hulu Top 10",
-  "summary": "The horror sequel Ready or Not 2: Here I Come has returned to Hulu's streaming top 10.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/samara-weaving-ready-or-not-2-here-i-come-streaming-hit-hulu-october-2026/"
- },
- {
   "date": "2026-10-18T22:46:29.967735+00:00",
   "topic": "Tech News",
   "score": 5,
@@ -20810,5 +20788,93 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/la-bola-negra-spain-academy-awards/"
+ },
+ {
+  "date": "2026-10-21T22:19:10.165923+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "iPhone Duo Reviews Highlight Mixed Thermal Performance",
+  "summary": "Initial reviews of the iPhone Duo reveal mixed findings regarding its thermal performance, with some reviewers noting the device runs warm during use.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/21/iphone-duo-heat-reviews/"
+ },
+ {
+  "date": "2026-10-21T22:19:10.165923+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "business",
+  "headline": "HBO Announces Official Baldur's Gate TV Series with Craig Mazin",
+  "summary": "HBO is developing an official Baldur's Gate television series continuing the story of Baldur's Gate 3, led by creator Craig Mazin.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/baldurs-gate-3-sequel-series-hbo-streaming/"
+ },
+ {
+  "date": "2026-10-21T22:19:10.165923+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Tesla Profits Plunge 43% in Q3 \ud83d\ude97\ud83d\udcc9",
+  "summary": "Tesla reported a 43 percent drop in profits for Q3 2026 alongside a shrinking energy storage business.",
+  "verified": "official",
+  "source": "Ars Technica",
+  "link": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/"
+ },
+ {
+  "date": "2026-10-21T22:19:10.165923+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "business",
+  "headline": "Acura Plans Major Lineup Expansion to Boost U.S. Sales \ud83d\ude97\ud83d\udca8",
+  "summary": "Acura plans to expand its lineup from four to six vehicles to reach 200,000 U.S. sales by the end of the decade.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812800/acura-product-lineup-expands-suvs/"
+ },
+ {
+  "date": "2026-10-21T22:19:10.165923+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "update",
+  "headline": "Cory Michael Smith Joins Star-Studded Cast of Ari Aster's Scapegoat",
+  "summary": "Cory Michael Smith has joined the cast of Ari Aster's upcoming A24 thriller Scapegoat alongside Scarlett Johansson and Jacob Elordi.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/cory-michael-smith-scarlett-johansson-scapegoat-a24-square-peg-1237170198/"
+ },
+ {
+  "date": "2026-10-21T22:19:10.165923+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Clayface Rotten Tomatoes Score Compared to Other DCU Movies",
+  "summary": "Critics have published their reviews for Clayface, prompting comparisons of its Rotten Tomatoes score against other DCU films like Superman and Supergirl.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2293687/clayface-rotten-tomatoes-score-superman-supergirl-comparison/"
+ },
+ {
+  "date": "2026-10-21T22:19:10.165923+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Marvel Officially Announces Major Power Nerf for Captain Marvel",
+  "summary": "Marvel officially announced a significant reduction in Captain Marvel's power level for the upcoming Avengers era.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/captain-marvel-new-powers-change-avengers/"
+ },
+ {
+  "date": "2026-10-21T22:19:10.165923+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "Iconic Horror Franchise Announced for 2026 Reimagining",
+  "summary": "An iconic horror franchise is receiving a daring new reimagining scheduled for release in 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/friday-the-13th-franchise-crystal-lake-2026-deserves-praise/"
  }
 ]
