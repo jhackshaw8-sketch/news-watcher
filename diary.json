@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-18T00:09:15.825853+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "OpenAI Focuses on AI Brains for Humanoid Robots",
-  "summary": "OpenAI is developing a humanoid robot while emphasizing that creating the AI brain is the primary challenge.",
-  "verified": "reliable_reporter",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/"
- },
- {
-  "date": "2026-10-18T00:09:15.825853+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Tarantino Finishes Script for Tenth Film",
-  "summary": "Quentin Tarantino has completed the script for his tenth and final film, but is delaying production to focus on his new play.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/quentin-tarantino-confirms-script-for-tenth-film-1236915169/"
- },
- {
-  "date": "2026-10-18T00:09:15.825853+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Netflix Wonka Series Becomes a Hit",
-  "summary": "Netflix's new Wonka reboot series has become a massive streaming hit and entered the U.S. top ten.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/wonkas-the-golden-ticket-streaming-hit-netflic-october-2026/"
- },
- {
-  "date": "2026-10-18T00:09:15.825853+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Junji Ito Leads New VIZ Horror Release",
-  "summary": "VIZ Media is releasing a new horror picture book series featuring Junji Ito for the Halloween season.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/junji-ito-new-horror-book-halloween/"
- },
- {
   "date": "2026-10-18T01:05:13.388395+00:00",
   "topic": "Movies",
   "score": 6,
@@ -17147,5 +17103,60 @@
   "verified": "official",
   "source": "Variety",
   "link": "https://variety.com/2026/music/news/charli-xcx-cancels-arizona-show-due-to-illness-1236918156/"
+ },
+ {
+  "date": "2026-10-21T00:12:35.664065+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "YouTube Tests Hiding the Dislike Button",
+  "summary": "YouTube is reportedly testing the removal or relocation of the dislike button to a submenu for some users.",
+  "verified": "reliable_reporter",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu"
+ },
+ {
+  "date": "2026-10-21T00:12:35.664065+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Netflix Execs Insist Streaming Strategy Remains Unchanged",
+  "summary": "Netflix Co-CEO Ted Sarandos defended the company's current business strategy during an analyst meeting, stating no fundamental shift is needed.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/ted-sarandos-netflix-strategy-unchanged-earnings-1237169202/"
+ },
+ {
+  "date": "2026-10-21T00:12:35.664065+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Disney+ Announces Japanese Horror Series Night Tales Club for 2027",
+  "summary": "Directors Kurosawa Kiyoshi and Shimizu Takashi are part of the creative team behind the Disney+ and Hulu Japanese supernatural anthology series 'Night Tales Club', premiering in January 2027.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/kurosawa-shimizu-disney-japanese-horror-night-tales-club-1236918137/"
+ },
+ {
+  "date": "2026-10-21T00:12:35.664065+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Teaser Released for Disney+ Supernatural Series Night Tales Club",
+  "summary": "Disney+ has released a teaser trailer for its upcoming six-part Japanese supernatural thriller series 'Night Tales Club', set to launch in January 2027.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/disney-plus-night-tales-club-japan-watch-teaser-trailer-1237168358/"
+ },
+ {
+  "date": "2026-10-21T00:12:35.664065+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Baldur\u2019s Gate 3 Officially Returning With New Sequel in 2027",
+  "summary": "An official sequel or expansion to Baldur's Gate 3 featuring fan-favorite heroes like Astarion and Karlach is officially slated for release in 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/baldurs-gate-3-sequel-series-details/"
  }
 ]
