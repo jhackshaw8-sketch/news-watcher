@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-18T04:53:50.925552+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Zodiac Legion Developer Shares New Tactical RPG Gameplay",
-  "summary": "Developer showcases recent gameplay footage and dynamic campaign mechanics for the turn-based tactical RPG Zodiac Legion.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x8ubih/zodiac_legion_studio_draconis_turn_based_tactical/"
- },
- {
-  "date": "2026-10-18T04:53:50.925552+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "launch",
-  "headline": "Action Roguelite The Pink Robot Showcases Cat Protagonist",
-  "summary": "Developers highlight the fast-paced combat and memory-diving cat protagonist of their upcoming 3D action roguelite The Pink Robot.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1x8tr5a/the_pink_robot_a_fastpaced_3d_action_roguelite/"
- },
- {
-  "date": "2026-10-18T04:53:50.925552+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "The Lord of the Rings: Sieges of Middle-Earth Arrives Winter 2026",
-  "summary": "The Lord of the Rings: Sieges of Middle-Earth has been officially announced for a Winter 2026 release.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/lord-of-the-rings-sieges-of-middle-earth-winter-2026/"
- },
- {
   "date": "2026-10-18T05:14:33.246350+00:00",
   "topic": "Events",
   "score": 9,
@@ -17587,5 +17554,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/cyberpunk-tcg-edgerunners-burn-bright-spring-2027/"
+ },
+ {
+  "date": "2026-10-21T04:58:01.872584+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "legal",
+  "headline": "UK Regulator Proposes Apple Pay Alternatives",
+  "summary": "The UK competition regulator has proposed new measures to facilitate alternatives to Apple Pay on the iPhone.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/21/uk-proposes-to-help-apple-pay-rivals/"
+ },
+ {
+  "date": "2026-10-21T04:58:01.872584+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Dungeon Crawler Carl Sets November 2026 Return and Major New Adaptation",
+  "summary": "Dungeon Crawler Carl is officially returning in November 2026 with a major new adaptation ahead of the launch of Book 9.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/dungeon-crawler-carl-unstoppable-november-2026-release-psa/"
  }
 ]
