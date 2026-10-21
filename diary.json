@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-18T07:51:11.062114+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Ryan Gosling's Zero-G Stunts Detailed by Project Hail Mary VFX Team",
-  "summary": "VFX supervisors discussed the daunting technical challenges of creating convincing zero-gravity stunts for Ryan Gosling's upcoming space epic Project Hail Mary.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/ryan-gosling-zero-g-stunts-in-project-hail-mary-explained-1236915066/"
- },
- {
   "date": "2026-10-18T08:51:52.129960+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -17433,5 +17422,27 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1xb9txd/nobody_wants_this_returns_to_netflix_this_week/"
+ },
+ {
+  "date": "2026-10-21T08:03:15.766911+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "BMW i3 Touring Spied Ready for Family Duty \ud83d\ude99\u26a1",
+  "summary": "BMW is expanding its electric lineup with an i3 Touring wagon expected in 2027 as a practical alternative to SUVs.",
+  "verified": "reliable_reporter",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2292572/i3-touring-new-scoop/"
+ },
+ {
+  "date": "2026-10-21T08:03:15.766911+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "launch",
+  "headline": "Stunning Alfa Romeo Giulia Convertible Transformation \ud83c\udfce\ufe0f\u2728",
+  "summary": "An Italian coachbuilder has transformed an Alfa Romeo Giulia Quadrifoglio sedan into a custom two-seat convertible.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812700/alfa-romeo-giulia-coupe-convertible/"
  }
 ]
