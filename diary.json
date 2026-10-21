@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-18T23:08:42.599157+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Millions Spent on AI Political Ads",
-  "summary": "Political campaigns spent $137 million on AI-generated ads during the midterms, highlighting the growing influence of synthetic media.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x9fuqq/137_million_in_aigenerated_ads_flood_the_midterms/"
- },
- {
-  "date": "2026-10-18T23:08:42.599157+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Warning Issued Over Starlink Claims",
-  "summary": "Bessent issued a warning to Zelenskyy regarding claims that the U.S. is throttling Starlink services.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x9f1hw/bessent_warns_zelenskyy_to_be_very_careful_about/"
- },
- {
-  "date": "2026-10-18T23:08:42.599157+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "New Transoceanic Internet Cable Announced",
-  "summary": "A new 4,300-mile-long submarine internet cable has been announced to shuttle data across the ocean floor at massive speeds.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1x9f14r/new_4300milelong_internet_cable_will_shuttle_data/"
- },
- {
-  "date": "2026-10-18T23:08:42.599157+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Marvel Sci-Fi Shows Take Over the World",
-  "summary": "Ahead of Avengers: Doomsday, three Marvel sci-fi shows are receiving global promotional takeovers.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/marvel-visionquest-wandavision-loki-streaming-success-disney-plus-october-2026/"
- },
- {
-  "date": "2026-10-18T23:08:42.599157+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Practical Magic 2 Official Preview Drops",
-  "summary": "Warner Bros. released a full movie preview for Practical Magic 2, starring Sandra Bullock, Nicole Kidman, Joey King, Lee Pace, and Maisie Williams.",
-  "verified": "official",
-  "source": "Warner Bros (trailers)",
-  "link": "https://www.youtube.com/watch?v=0oSIKwn8huM"
- },
- {
-  "date": "2026-10-18T23:08:42.599157+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Why the Guardians Trilogy Remains a Sci-Fi High Point",
-  "summary": "The Guardians of the Galaxy trilogy is highlighted as a rare sci-fi streaming gem with no bad installments.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/disney-plus-guardians-of-the-galaxy-perfect-marvel-trilogy/"
- },
- {
   "date": "2026-10-18T23:43:25.251898+00:00",
   "topic": "Movies",
   "score": 9,
@@ -21030,5 +20964,126 @@
   "verified": "reliable_reporter",
   "source": "ScreenRant",
   "link": "https://screenrant.com/jim-carrey-cable-guy-hulu-remake-review-glowing-jake-johnson/"
+ },
+ {
+  "date": "2026-10-21T23:13:49.711881+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Politician Blasts Studio Closure Over Private Equity Practices",
+  "summary": "NDP leader Avi Lewis criticized the studio closure as an example of private equity destroying businesses for short-term profit.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xc1tdl/ndp_leader_avi_lewis_on_the_bioware_closure_this/"
+ },
+ {
+  "date": "2026-10-21T23:13:49.711881+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Tenebris Somnia Release Date and Reviews",
+  "summary": "Tenebris Somnia has received a review thread following its release date trailer ahead of its PC launch.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xc0m7v/tenebris_somnia_review_thread/"
+ },
+ {
+  "date": "2026-10-21T23:13:49.711881+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "announcement",
+  "headline": "EA Sports Confirms New Open-World Football Game",
+  "summary": "EA Sports has officially confirmed that it is currently developing a brand new open-world football game.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xbyjyh/ea_sports_is_working_on_a_brand_new_openworld/"
+ },
+ {
+  "date": "2026-10-21T23:13:49.711881+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Maxis and Other Studios Targeted in EA Layoffs Report",
+  "summary": "A report indicates that Maxis, Full Circle, and Ripple Effect are facing targeted cuts during sweeping EA layoffs.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xby2ab/report_maxis_full_circle_and_ripple_effect/"
+ },
+ {
+  "date": "2026-10-21T23:13:49.711881+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "update",
+  "headline": "The Elder Scrolls Online Drops Echoes of Skyrim Trailer",
+  "summary": "The Elder Scrolls Online has debuted its official Season Two trailer titled Echoes of Skyrim.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xbwtgf/the_elder_scrolls_online_season_two_trailer/"
+ },
+ {
+  "date": "2026-10-21T23:13:49.711881+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Pratfall Announces Console Releases for PS5, Xbox, and Switch 2",
+  "summary": "Pratfall has announced upcoming console releases for PS5, Xbox Series, and Switch 2 with release dates still to be determined.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xbwfta/pratfall_releases_tbd_on_ps5_xbox_series_switch_2/"
+ },
+ {
+  "date": "2026-10-21T23:13:49.711881+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "RV There Yet Gets October Release Date for PS5 and Switch 2",
+  "summary": "The game RV There Yet has secured an official release date for October 29 on PS5 and Switch 2 systems.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xbweou/rv_there_yet_releases_oct_29th_on_ps5_switch_2/"
+ },
+ {
+  "date": "2026-10-21T23:13:49.711881+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "MapleStory Classic World Launches with New Trailer",
+  "summary": "MapleStory has released an official launch trailer for its Classic World expansion.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xbwd2h/maplestory_classic_world_launch_trailer/"
+ },
+ {
+  "date": "2026-10-21T23:13:49.711881+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Slow Horses Officially Preps for Season 7 Return",
+  "summary": "Apple TV's spy thriller Slow Horses has officially wrapped Season 6 and is expected to return for Season 7 in 2027.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/apple-tv-slow-horses-season-7-release-window-2027/"
+ },
+ {
+  "date": "2026-10-21T23:13:49.711881+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "New Gameplay Footage Surfaces for Zelda: Minish Cap 3D Remake",
+  "summary": "A new gameplay video for the 3D remake of The Legend of Zelda: Minish Cap has been released, giving fans a look at what to expect.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/legend-of-zelda-minish-cap-3d-remake-gameplay-video/"
+ },
+ {
+  "date": "2026-10-21T23:13:49.711881+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Modern-Day Peaky Blinders Drama Renewed for Two More Seasons",
+  "summary": "The BBC's gritty Liverpool crime drama, often called a modern-day Peaky Blinders, has been renewed for two more seasons.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/this-city-is-ours-renewed-2-more-seasons/"
  }
 ]
