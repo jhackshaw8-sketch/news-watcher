@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-19T06:23:48.799048+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Tesla Roadster to Get 'Sentient' Autonomous Stunts? \ud83c\udfce\ufe0f\ud83d\udca8",
-  "summary": "Elon Musk claimed the upcoming Tesla Roadster will feature autonomous stunts on a looping track at Giga Texas.",
-  "verified": "unconfirmed",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812362/tesla-roadster-autonomous-stunts-texas/"
- },
- {
-  "date": "2026-10-19T06:23:48.799048+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "launch",
-  "headline": "Porsche Skips Electric Supercar Due to Low Demand \ud83d\udeab\u26a1",
-  "summary": "Porsche has decided against building an electric supercar in the near future due to a lack of market demand, opting for combustion or hybrid powertrains instead.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812361/porsche-says-zero-demand-electric-supercar/"
- },
- {
-  "date": "2026-10-19T06:23:48.799048+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Resident Evil Stays on Top at China Box Office",
-  "summary": "Resident Evil retained the top spot at the mainland China box office during a quiet post-holiday weekend, pulling in $9.3 million in its second full weekend.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/box-office/china-box-office-resident-evil-quiet-post-holiday-frame-1236916180/"
- },
- {
-  "date": "2026-10-19T06:23:48.799048+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "The Legend of Zelda: A Link to the Past Returns in New Collection",
-  "summary": "Nintendo has officially announced that The Legend of Zelda: A Link to the Past is returning in a new game collection.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/legend-of-zelda-link-to-the-past-historical-charms/"
- },
- {
   "date": "2026-10-19T07:18:54.007114+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -21591,5 +21547,115 @@
   "verified": "official",
   "source": "Motor1",
   "link": "https://www.motor1.com/news/812838/ford-bronco-orv-package-costs/"
+ },
+ {
+  "date": "2026-10-22T07:16:17.167562+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Tesla App Adds Native iPad and iPhone Support \ud83d\ude97\u26a1",
+  "summary": "Tesla updated its official app to add native iPad and iPhone Duo support for vehicle and home energy controls.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/22/tesla-app-gains-ipad-and-iphone-duo-support/"
+ },
+ {
+  "date": "2026-10-22T07:16:17.167562+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Apple Details Siri AI and Simplicity as HomeView Killer Features",
+  "summary": "Apple highlights simplicity and Siri AI integration as the standout killer features of its new HomeView product.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1xcbohq/simplicity_and_siri_ai_are_homeviews_killer/"
+ },
+ {
+  "date": "2026-10-22T07:16:17.167562+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "Apple Reportedly Increases iPhone Duo Production Orders by 44% Due to Strong Demand",
+  "summary": "Strong initial demand and pre-orders have reportedly led Apple to increase its iPhone Duo component orders by 44%.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/22/apple-boosts-iphone-duo-orders/"
+ },
+ {
+  "date": "2026-10-22T07:16:17.167562+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "business",
+  "headline": "EA Shuts Down BioWare and Cancels Mass Effect 5",
+  "summary": "Former writers speak out after EA shuts down BioWare and cancels Mass Effect 5.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/we-were-working-on-a-great-game-former-mass-effect-5-writers-speak-out-after-ea-shuts-down-bioware"
+ },
+ {
+  "date": "2026-10-22T07:16:17.167562+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Bugatti Invites Mat Armstrong Back to the Factory \ud83c\udfce\ufe0f\ud83d\udd25",
+  "summary": "Mat Armstrong receives a surprise invitation from Bugatti to bring both of his Veyrons back to the factory following a previous unsuccessful visit.",
+  "verified": "official",
+  "source": "Mat Armstrong MK2",
+  "link": "https://www.youtube.com/watch?v=voerOK9kQzI"
+ },
+ {
+  "date": "2026-10-22T07:16:17.167562+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "2026 Lexus ES 350h AWD First POV Drive \ud83d\ude97\u2728",
+  "summary": "A detailed POV driving impressions review of the newly revealed 2026 Lexus ES 350h AWD Premium featuring a new 6th-generation hybrid system.",
+  "verified": "official",
+  "source": "TheTopher",
+  "link": "https://www.youtube.com/watch?v=6EFMWedtHis"
+ },
+ {
+  "date": "2026-10-22T07:16:17.167562+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Indonesia Drafts New Film Law to Boost International Productions",
+  "summary": "Indonesia is drafting a new Film Law to reshape its industry and position Jakarta as a regional international production hub.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/indonesia-drafts-film-law-jakarta-courts-netflix-global-shoots-1236919468/"
+ },
+ {
+  "date": "2026-10-22T07:16:17.167562+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "launch",
+  "headline": "'Nobody Wants This' Season 3 Review: A Step Forward for Netflix Rom-Com",
+  "summary": "A review of 'Nobody Wants This' Season 3 praises the Netflix series for improving upon previous seasons.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/nobody-wants-this-season-3-review-netflix/"
+ },
+ {
+  "date": "2026-10-22T07:16:17.167562+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "Netflix Partners With Hoichoi for Regional Expansions",
+  "summary": "Netflix and Bengali streamer Hoichoi have partnered to bring upcoming series to Hindi, Tamil, and Telugu audiences.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/tv/news/netflix-hoichoi-partner-bengali-series-hindi-tamil-telugu-1236919476/"
+ },
+ {
+  "date": "2026-10-22T07:16:17.167562+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "business",
+  "headline": "BBC Merges TV and Audio Teams Amid Content Role Cuts",
+  "summary": "The BBC is merging its TV and audio commissioning teams and cutting around 100 roles in its content unit as part of cost-cutting measures.",
+  "verified": "reliable_reporter",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/bbc-merge-tv-audio-teams-cut-100-content-roles-1237170424/"
  }
 ]
