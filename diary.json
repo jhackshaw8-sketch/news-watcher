@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-19T05:00:20.369985+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "'The Simpsons' Officially Brings Back Apu After Nine Years",
-  "summary": "The Simpsons officially brings back the character Apu after a nine-year absence with a new voice actor.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/the-simpsons-season-38-the-revengening-recast-apu-sunil-malhotra/"
- },
- {
-  "date": "2026-10-19T05:00:20.369985+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Final Fantasy 9 Product Announced",
-  "summary": "Final Fantasy 9 Not Alone has been officially announced, celebrating the iconic music of the beloved game.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/final-fantasy-9-not-alone-music-box-october-2026-psa/"
- },
- {
   "date": "2026-10-19T05:56:15.760137+00:00",
   "topic": "Cars",
   "score": 9,
@@ -21525,5 +21503,71 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/battlestar-galactica-scattered-hopes-new-era/"
+ },
+ {
+  "date": "2026-10-22T05:24:26.162674+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "business",
+  "headline": "Apple Suppliers Face Green Energy Hurdles",
+  "summary": "Apple suppliers face challenges in reducing circuit board emissions due to rising energy demands for advanced components.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/22/apple-hurdles-cutting-circuit-board-emissions/"
+ },
+ {
+  "date": "2026-10-22T05:24:26.162674+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Analogue Announces Revised Mega Sg and Super Nt Retro Consoles",
+  "summary": "Analogue has announced revised editions of its Mega Sg and Super Nt consoles to play classic Sega and Nintendo cartridges with modern enhancements.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed"
+ },
+ {
+  "date": "2026-10-22T05:24:26.162674+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "business",
+  "headline": "GM Embraces AI to Speed Up Future Car Development \ud83e\udd16\ud83d\ude97",
+  "summary": "General Motors is integrating artificial intelligence to accelerate vehicle development and power its new OnStar assistant.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2293773/gm-ai-onstar-next-gen-evs/"
+ },
+ {
+  "date": "2026-10-22T05:24:26.162674+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "John Malone Predicts Skydance and SpaceX Deal",
+  "summary": "John Malone speculates about a potential major corporate deal between Skydance and Elon Musk's SpaceX.",
+  "verified": "unconfirmed",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xc9beq/john_malone_predicts_a_major_deal_between/"
+ },
+ {
+  "date": "2026-10-22T05:24:26.162674+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Prime Video's New Mystery Series Arrives Next Month",
+  "summary": "Prime Video's new mystery-drama series blending a teen romance vibe with Agatha Christie secrets is set to premiere in less than a month.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/perfect-liars-prime-video-release-the-summer-i-turned-pretty-agatha-christie/"
+ },
+ {
+  "date": "2026-10-22T05:24:26.162674+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "The Legend of Zelda: Skyward Sword Makes Surprise Return",
+  "summary": "The Legend of Zelda: Skyward Sword has made an unexpected return, exciting fans of the classic Nintendo adventure.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/legend-of-zelda-skyward-sword-hd-unofficial-pc-port/"
  }
 ]
