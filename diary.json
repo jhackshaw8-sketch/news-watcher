@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-19T23:16:33.463142+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Robot Vacuums Raise Major Privacy and Data Security Concerns",
-  "summary": "An Engadget report highlights significant privacy concerns regarding microphones and cameras on modern robot vacuums and how data is handled.",
-  "verified": "reliable_reporter",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2288133/robot-vacuum-major-privacy-problem-you-should-know/"
- },
- {
-  "date": "2026-10-19T23:16:33.463142+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "update",
-  "headline": "End of an Era: Subaru Boxer Engine Reportedly Leaving Europe by 2027 \ud83d\uded1\ud83d\ude99",
-  "summary": "Subaru's iconic boxer engine will reportedly be phased out in Europe by 2027 as the brand transitions to an all-EV lineup.",
-  "verified": "unconfirmed",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812488/subaru-boxer-engine-dead-europe-2027/"
- },
- {
-  "date": "2026-10-19T23:16:33.463142+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "other",
-  "headline": "Stunning Shot of the Beastly BMW M3 Touring \ud83c\udfce\ufe0f\u2728",
-  "summary": "A high-resolution photo showcasing the sleek design of the BMW M3 Touring.",
-  "verified": "official",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1xa451v/bmw_m3_touring_6000x4000/"
- },
- {
-  "date": "2026-10-19T23:16:33.463142+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "other",
-  "headline": "Track-Ready Perfection: The Porsche 911 GT3 RS \ud83c\udfc1\ud83d\udd25",
-  "summary": "A high-resolution image highlighting the aggressive aerodynamics and track-focused styling of the Porsche 911 GT3 RS.",
-  "verified": "official",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1x5piry/porsche_911_gt3_rs_3239x3239/"
- },
- {
   "date": "2026-10-19T23:52:56.975244+00:00",
   "topic": "Apple News",
   "score": 9,
@@ -22405,5 +22361,104 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1xcrbqx/tom_skerritt_star_of_picket_fences_and_alien_dies/"
+ },
+ {
+  "date": "2026-10-22T23:17:05.921572+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Spotify Intensifies Crackdown on Shared Family Plans with QR Code Verification",
+  "summary": "Spotify is rolling out a QR code verification method to crack down on Family Plan users who do not live together.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes"
+ },
+ {
+  "date": "2026-10-22T23:17:05.921572+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Warhound Emerges from Stealth with $200M to Build Tech-Equipped Military Dogs",
+  "summary": "Warhound has emerged from stealth with $200 million in funding to develop genetically engineered military dogs equipped with Anduril technology.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/"
+ },
+ {
+  "date": "2026-10-22T23:17:05.921572+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Electric Lexus LFA Spotted Testing! \u26a1\ud83c\udfce\ufe0f",
+  "summary": "Fresh spy photos show the upcoming electric successor to the Lexus LFA inching closer to production, complete with rumored simulated shifts and engine sounds.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812950/new-lexus-lfa-spy-photos/"
+ },
+ {
+  "date": "2026-10-22T23:17:05.921572+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Netflix Horror Series 'Below' Reaches Major Viewership Milestone",
+  "summary": "Netflix's new horror series Below has achieved massive viewership numbers after two weeks of release.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/netflix-below-streaming-hit-october-2026/"
+ },
+ {
+  "date": "2026-10-22T23:17:05.921572+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Breaking Down the Complex Ending of the 'Clayface' Movie",
+  "summary": "An in-depth analysis of the Clayface movie ending and what it means for the character's future.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2293861/clayface-movie-ending-explained/"
+ },
+ {
+  "date": "2026-10-22T23:17:05.921572+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Radio Rental's 'Laura of the Woods' Adapted into LEGO-Style Short Film",
+  "summary": "A popular horror podcast story has been adapted into an exclusive LEGO-style short film.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/radio-rental-laura-of-the-woods-lego-stop-motion-horror-short-film/"
+ },
+ {
+  "date": "2026-10-22T23:17:05.921572+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Ben Affleck's 'Animals' Becomes a Major Streaming Hit on Netflix",
+  "summary": "Ben Affleck's new Netflix film Animals has crossed 50 million views in just two weeks.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/ben-affleck-netflix-crime-thriller-animals-streaming-success-october-2026/"
+ },
+ {
+  "date": "2026-10-22T23:17:05.921572+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Chris Jericho Cast in Prime Video's The Greatest",
+  "summary": "Chris Jericho has been cast as Gorgeous George in the upcoming Prime Video limited series The Greatest, with all episodes releasing on November 4.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/chris-jericho-the-greatest-cast-gorgeous-george-1237171251/"
+ },
+ {
+  "date": "2026-10-22T23:17:05.921572+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "The Terminal List Season 2 Arrives on Prime Video",
+  "summary": "The Terminal List season 2 has officially landed on Prime Video as an 8-episode action thriller.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/chris-pratt-prime-video-terminal-list-season-2-perfect-reacher-watch/"
  }
 ]
