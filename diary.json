@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-19T04:01:09.529852+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Jason Sudeikis Teases Potential 'Ted Lasso' Seasons 5 and 6",
-  "summary": "Jason Sudeikis shares his thoughts on the possibility of extending 'Ted Lasso' to seasons 5 and 6.",
-  "verified": "reliable_reporter",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/ted-lasso-seasons-5-6-jason-sudeikis-comments-1237167324/"
- },
- {
-  "date": "2026-10-19T04:01:09.529852+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Reacher Prepares for Future Seasons and Spinoffs",
-  "summary": "Alan Ritchson's Reacher series sets up its first sequel alongside early renewals.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/reacher-season-5-make-me-sequel-book/"
- },
- {
-  "date": "2026-10-19T04:01:09.529852+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "NHL Honors Peanuts With Special Sports Crossover",
-  "summary": "The NHL commemorates Charles M. Schulz and the Peanuts gang with a special sports crossover event.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/peanuts-charles-schulz-nhl-columbus-blue-jackets-crossover/"
- },
- {
-  "date": "2026-10-19T04:01:09.529852+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Pok\u00e9mon Neo Ultra Launches New Alola Adventure",
-  "summary": "Pok\u00e9mon Neo Ultra invites players to return to the Alola region for a new gaming challenge.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/pokemon-neo-ultra-alola-challenge-mod/"
- },
- {
   "date": "2026-10-19T05:00:20.369985+00:00",
   "topic": "Movies",
   "score": 8,
@@ -21470,5 +21426,104 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/stargate-timekeepers-sg1-crew-replaced/"
+ },
+ {
+  "date": "2026-10-22T04:58:43.656105+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Things App Updated for iPhone Duo Launch",
+  "summary": "Task management app Things has been updated with an adaptive layout, sidebar, and multi-window support for the upcoming iPhone Duo.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/22/things-updated-for-iphone-duo/"
+ },
+ {
+  "date": "2026-10-22T04:58:43.656105+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Apple Details Siri AI and Simplicity for HomeView",
+  "summary": "Apple executives highlighted Siri AI integration and simplicity as the standout features of the new HomeView smart home display.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/22/simplicity-and-siri-ai-homeview-killer-features/"
+ },
+ {
+  "date": "2026-10-22T04:58:43.656105+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Galaxies Showcase Highlights",
+  "summary": "Eurogamer highlights 11 games and announcements from the latest Galaxies Showcase.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/galaxies-showcase-2026-games-roundup"
+ },
+ {
+  "date": "2026-10-22T04:58:43.656105+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Fortnite is Headed to Linux",
+  "summary": "Epic Games is officially bringing Fortnite to Linux, potentially paving the way for Steam Deck compatibility.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development"
+ },
+ {
+  "date": "2026-10-22T04:58:43.656105+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "update",
+  "headline": "Wardogs Devs Patching Season 2 Tank Exploit",
+  "summary": "Wardogs developers are rushing to fix a day-one XP exploit in Season 2 that let players quickly unlock tanks.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks"
+ },
+ {
+  "date": "2026-10-22T04:58:43.656105+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Electric Evolution: Hyundai's Cute Porter Truck Goes EV! \u26a1\ud83d\ude9b",
+  "summary": "Hyundai is transforming its popular Porter truck into a new generation offering both gasoline and battery-electric powertrains with potential European availability.",
+  "verified": "reliable_reporter",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2293766/hyundai-porter-spy-shots-europe/"
+ },
+ {
+  "date": "2026-10-22T04:58:43.656105+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Star-Lord is Officially Returning to the MCU!",
+  "summary": "Chris Pratt has confirmed that Star-Lord will return to the MCU and that Marvel Studios is actively working on making it happen.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/chris-pratt-star-lord-mcu-1236919455/"
+ },
+ {
+  "date": "2026-10-22T04:58:43.656105+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "2018 'Tomb Raider' Movie Becomes a Netflix Streaming Hit",
+  "summary": "The 2018 Tomb Raider adaptation is finding a second life as a streaming sensation on Netflix.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/street-fighter-tomb-raider-2018-netflix-streaming-sensation/"
+ },
+ {
+  "date": "2026-10-22T04:58:43.656105+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Battlestar Galactica Launches New Era With Scattered Hopes",
+  "summary": "Battlestar Galactica has officially launched a new era for the franchise with the release of Scattered Hopes.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/battlestar-galactica-scattered-hopes-new-era/"
  }
 ]
