@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-19T02:56:04.075263+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Pokemon Returns to Galar in 2027 with New Series on Disney Plus",
-  "summary": "Pokemon Tales: The Misadventures of Sirfetch'd & Pichu is officially announced for a 2027 release alongside a major streaming deal on Disney Plus.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/pokemon-sirfetchd-pichu-animated-series-streaming-disney-plus-2027/"
- },
- {
   "date": "2026-10-19T03:19:47.816217+00:00",
   "topic": "Events",
   "score": 9,
@@ -21305,5 +21294,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/best-free-demos-steam-next-fest-2026/"
+ },
+ {
+  "date": "2026-10-22T02:57:48.950982+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "Giant iPhone Duo Installations Spotted at Apple Fifth Avenue",
+  "summary": "Giant iPhone Duo installations have been spotted at the Apple Fifth Avenue store ahead of the upcoming launch event.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1xc6usw/giant_iphone_duo_installations_spotted_at_apple/"
+ },
+ {
+  "date": "2026-10-22T02:57:48.950982+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Netflix Releases New Sci-Fi Anime Series",
+  "summary": "Netflix's new 13-episode anime series Vivy: Fluorite Eye's Song blends sci-fi concepts reminiscent of Terminator and Foundation.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/terminator-foundation-netflix-vivy-fluorites-eye-song-sci-fi/"
  }
 ]
