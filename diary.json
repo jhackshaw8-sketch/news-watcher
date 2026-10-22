@@ -1,203 +1,5 @@
 [
  {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple's New App Store Chief Details Gaming Strategy",
-  "summary": "Apple's new head of App Store Worldwide discussed the company's gaming strategy and the future of Apple Arcade in a recent interview.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/19/new-app-store-chief-discusses-apples-gaming-strategy-future-of-apple-arcade-more/"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "rumor",
-  "headline": "GTA 6 Leaker Appears to Release Final Footage",
-  "summary": "A prominent GTA 6 leaker releases what is allegedly their final video featuring scenes from the game's final mission.",
-  "verified": "unconfirmed",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/gta-6-cyberleek-ending-crypto-coin-crash"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Ex-ZA/UM Developers Announce RPG Red Rooster",
-  "summary": "Ex-ZA/UM developers announce Red Rooster, a new incendiary RPG that is not a Disco Elysium successor.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/summer-eternal-red-rooster-zaum-disco-like-incendiary-rpg"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "other",
-  "headline": "Swedish Town Enshrines Valheim and V Rising Into Roads",
-  "summary": "A Swedish town honors Valheim and V Rising by naming roads after them.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/survival/tiny-swedish-town-flexes-its-survival-game-royalty-by-enshrining-valheim-raft-and-v-rising-into-its-roads/"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Zelda: Ocarina of Time Remake Shaping Up Well",
-  "summary": "Previews indicate that The Legend of Zelda: Ocarina of Time remake is shaping up to be brilliant.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/ocarina-of-time-remake-switch-2-preview"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Ocarina of Time Remake Tones Down Annoying Owl",
-  "summary": "The infamous tutorial owl in the Ocarina of Time remake for Switch 2 will reportedly be less intrusive.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Dan Houser Blames Himself for Max Payne 3",
-  "summary": "Rockstar co-founder Dan Houser takes responsibility for Max Payne 3's perceived shortcomings.",
-  "verified": "reliable_reporter",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Rockstar Employment Tribunal Delayed to November",
-  "summary": "Rockstar's employment tribunal conclusion is delayed to November, coinciding near GTA 6's release window.",
-  "verified": "reliable_reporter",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "business",
-  "headline": "Ubisoft Closes RedLynx and Downsizes Singapore Studio",
-  "summary": "Ubisoft is closing Trials developer RedLynx and downsizing the Assassin's Creed: Black Flag Resynced team in Singapore.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/ubisoft-closing-trials-studio-redlyx-layoffs-singapore-black-flag"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Surging AI Data Center Demand Sparks U.S. Fossil Fuel Infrastructure Growth",
-  "summary": "U.S. fossil fuel infrastructure is growing alongside electricity demand driven by new data centers and AI workloads.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "update",
-  "headline": "Microsoft Warns Enterprises That AI Agents Pose New Insider Threat Risks",
-  "summary": "Microsoft warns enterprises that autonomous AI agents pose insider threat risks because frontier models cannot be fully trusted.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "CoreWeave's Distressed Debt Sparks Fears of a Broader AI Credit Bubble",
-  "summary": "CoreWeave's bonds have slipped into distressed territory, raising broader industry concerns about a potential private credit bubble funding the AI infrastructure buildout.",
-  "verified": "reliable_reporter",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Cast Rounds Out for Tom Hanks Baseball Film 'The Comebacker'",
-  "summary": "Rauw Alejandro, Indiana Affleck, and Lily Santiago have joined the cast of Tom Hanks' upcoming baseball movie 'The Comebacker'.",
-  "verified": "reliable_reporter",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/rauw-alejandro-indiana-affleck-the-comebacker-1237167122/"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Jenna Ortega's 'Klara and the Sun' Struggles with Early Reviews",
-  "summary": "Jenna Ortega's sci-fi film 'Klara and the Sun' received poor early reviews ahead of its October 23 release.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/klara-and-the-sun-rotten-tomatoes-is-it-good/"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Josh Brolin\u2019s 'Whalefall' Sinks at the Box Office",
-  "summary": "Josh Brolin's thriller 'Whalefall' struggled at the box office with an $8 million domestic opening against a $60 million budget.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/whalefall-box-office-8-million-opening/"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Rita Wilson Teases Return for Girls Reboot",
-  "summary": "Rita Wilson hints at returning for Lena Dunham's upcoming 'Girls' reboot.",
-  "verified": "reliable_reporter",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/news/rita-wilson-returning-for-lena-dunhams-girls-reboot-1236916942/"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "business",
-  "headline": "Former RCA Records President Bob Buziak Dies at 83",
-  "summary": "Bob Buziak, former president of RCA Records and TriStar Music Group, passes away at 83.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/music/news/bob-buziak-dead-rca-records-president-1236916935/"
- },
- {
-  "date": "2026-10-19T22:16:55.015845+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Power Rangers Officially Announces New Wild Morphs Ranger Type",
-  "summary": "Power Rangers officially announces a brand-new ranger type called 'Wild Morphs'.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/power-rangers-mmpr-wild-morphs-morphin-grid/"
- },
- {
   "date": "2026-10-19T22:53:09.120245+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -22449,5 +22251,82 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/everything-coming-to-disney-plus-hulu-november-2026/"
+ },
+ {
+  "date": "2026-10-22T22:17:24.802357+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "YouTube Removes Subscriptions Tab on iOS Apps",
+  "summary": "YouTube is removing the Subscriptions bottom bar tab in its iOS and Android apps as part of a layout redesign.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5google.com/2026/10/22/youtube-subscriptions-android-ios/"
+ },
+ {
+  "date": "2026-10-22T22:17:24.802357+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "First iPhone Duo Orders Arrive to Customers",
+  "summary": "The first pre-ordered iPhone Duo devices are beginning to reach customers in Australia and New Zealand.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/22/iphone-duo-australia-launch/"
+ },
+ {
+  "date": "2026-10-22T22:17:24.802357+00:00",
+  "topic": "Apple News",
+  "score": 7,
+  "category": "business",
+  "headline": "EE Announces UK Pricing for iPhone Handoff",
+  "summary": "UK carrier EE has announced pricing details for iPhone Handoff alongside the iPhone Duo preorders.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/"
+ },
+ {
+  "date": "2026-10-22T22:17:24.802357+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "business",
+  "headline": "OpenAI Eyes Record-Breaking $1.25T Valuation Ahead of IPO",
+  "summary": "OpenAI is reportedly working on a massive $30 billion funding round aiming for a historic $1.25 trillion private valuation ahead of an anticipated IPO.",
+  "verified": "unconfirmed",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+ },
+ {
+  "date": "2026-10-22T22:17:24.802357+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "PlayStation Hardware Pre-Orders Officially Live",
+  "summary": "PlayStation's newest limited edition hardware pre-orders are officially live and shipping in December.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/playstation-hardware-controller-gran-turismo-preorders/"
+ },
+ {
+  "date": "2026-10-22T22:17:24.802357+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "X-Men Evolution Official Return Date Announced",
+  "summary": "X-Men Evolution is officially returning in January 2027 after twenty-three years with a new crossover event.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/x-men-evolution-return-incursions/"
+ },
+ {
+  "date": "2026-10-22T22:17:24.802357+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Paramount Sci-Fi Epic Teases Faithful Adaptation",
+  "summary": "The author of a bestselling dystopian sci-fi book series teases a faithful film adaptation with Paramount.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/red-rising-movie-paramount-faithful-tease-pierce-brown/"
  }
 ]
