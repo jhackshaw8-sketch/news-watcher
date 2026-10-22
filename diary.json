@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-19T08:08:25.334412+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "business",
-  "headline": "Even Healthcare Hits $300M Valuation with Khosla Ventures Backing",
-  "summary": "Even Healthcare secures a $300 million valuation in a Khosla Ventures-led funding round to expand its hospital network in India.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/"
- },
- {
-  "date": "2026-10-19T08:08:25.334412+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "launch",
-  "headline": "Rivian Rolls Out New Hands-Free Tech \ud83d\ude97\ud83d\udca8",
-  "summary": "Rivian has started an invite-only rollout of its new Point to Point self-driving technology for Gen 2 R1 and R2 owners in select states under strict rules.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812384/rivian-point-autonomy-early-access/"
- },
- {
-  "date": "2026-10-19T08:08:25.334412+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "'Paradise Lost' Scores Massive Global Sales and U.S. Premiere",
-  "summary": "Yeon Sang-ho's psychological thriller 'Paradise Lost' has secured international sales across 118 countries and is slated for its U.S. premiere at the Hawai\u2018i International Film Festival.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/yeon-sang-ho-paradise-lost-sold-118-countries-hawaii-1236916204/"
- },
- {
-  "date": "2026-10-19T08:08:25.334412+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "update",
-  "headline": "'Dirty Dancing' Sequel Confirms No AI Patrick Swayze",
-  "summary": "The upcoming 'Dirty Dancing' sequel has confirmed it will not utilize artificial intelligence to recreate Patrick Swayze's likeness.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x9nmz3/dirty_dancing_sequel_wont_use_ai_to_bring_patrick/"
- },
- {
-  "date": "2026-10-19T08:08:25.334412+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "'Paradise Lost' Sells to 118 Territories and Sets Festival Bow",
-  "summary": "Yeon Sang-ho's 'Paradise Lost' has locked in distribution deals across 118 territories alongside a Hawaii International Film Festival screening.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1x9ly8i/yeon_sanghos_paradise_lost_sells_to_118/"
- },
- {
   "date": "2026-10-19T09:04:31.017737+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -21679,5 +21624,104 @@
   "verified": "official",
   "source": "Deadline",
   "link": "https://deadline.com/2026/10/billy-porter-leslie-jones-phoebe-robinson-places-dahlingz-1237170446/"
+ },
+ {
+  "date": "2026-10-22T09:03:26.412366+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "Apple Boosts iPhone Duo Shipments 44% After Strong Preorders",
+  "summary": "Apple has significantly increased the shipment target for the new iPhone Duo by 44% following strong initial preorders.",
+  "verified": "reliable_reporter",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1xcd008/exclusive_apple_raises_iphone_duo_shipment_target/"
+ },
+ {
+  "date": "2026-10-22T09:03:26.412366+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "rumor",
+  "headline": "Star Wars: Battlefront 3 Reportedly in Development by DICE and Respawn",
+  "summary": "Reports suggest that a new Star Wars: Battlefront game is being co-developed by DICE and Respawn.",
+  "verified": "unconfirmed",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report"
+ },
+ {
+  "date": "2026-10-22T09:03:26.412366+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Tesla Targets End-of-Year for Cybercab Sales \ud83d\ude97\ud83d\udca8",
+  "summary": "Tesla plans to start selling its Cybercabs to other transport companies before the end of the year.",
+  "verified": "unconfirmed",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2293810/tesla-plans-selling-cybercabs-by-end-of-2026/"
+ },
+ {
+  "date": "2026-10-22T09:03:26.412366+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "Tesla Targets 2026 for Customer Cybercab Deliveries \ud83d\ude97\u26a1",
+  "summary": "Tesla announced plans to begin selling its autonomous Cybercab to customers by the end of 2026.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812876/tesla-cybercab-deliveries-limited-ownership/"
+ },
+ {
+  "date": "2026-10-22T09:03:26.412366+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "other",
+  "headline": "Stunning BMW M3 E46 Individual Spotted \ud83c\udfce\ufe0f\u2728",
+  "summary": "A high-resolution photo showcasing a classic BMW M3 E46 Individual was shared by an automotive enthusiast.",
+  "verified": "reliable_reporter",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1xcd9mm/bmw_m3_e46_individual_1800_x_1200/"
+ },
+ {
+  "date": "2026-10-22T09:03:26.412366+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Audi Introduces Native Spotify App Integration Without Phones \ud83c\udfb6\ud83d\ude99",
+  "summary": "Audi has become the first automaker to integrate Spotify as a native app that operates independently of a connected phone.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812871/audi-native-spotify-app-runs/"
+ },
+ {
+  "date": "2026-10-22T09:03:26.412366+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Pirate Mo Sails to Over 50 Countries With New Teaser",
+  "summary": "Animated family adventure film 'Pirate Mo and the Legend of the Red Ruby' secures international sales in over 50 countries and debuts a new teaser ahead of the AFM premiere.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/pirate-mo-and-the-legend-of-the-red-ruby-afm-sales-1236919467/"
+ },
+ {
+  "date": "2026-10-22T09:03:26.412366+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Matt Damon's Pandemic Thriller Becomes Global Streaming Hit",
+  "summary": "Steven Soderbergh's pandemic thriller starring Matt Damon becomes a surprise global streaming hit on HBO Max.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/steven-soderbergh-matt-damon-contagion-streaming-success-hbo-max-october-2026/"
+ },
+ {
+  "date": "2026-10-22T09:03:26.412366+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Sebastian Koch and Toni Servillo Cast in Chess-World Noir",
+  "summary": "Sebastian Koch and Toni Servillo are set to star in Oscar winner Gabriele Salvatores\u2019 chess-themed noir film 'The L\u00fcneburg Variation,' which has officially begun production.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/sebastian-koch-oscar-gabriele-salvatores-1236918664/"
  }
 ]
