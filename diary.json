@@ -1,38 +1,5 @@
 [
  {
-  "date": "2026-10-19T05:56:15.760137+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Mercedes-AMG Unleashes 1,153 HP Electric SUV Beast \ud83d\ude99\u26a1",
-  "summary": "Mercedes-AMG has unveiled its first dedicated SUV, a 1,153-horsepower high-performance model designed to rival the upcoming Porsche Cayenne Electric.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2289877/mercedes-amg-gt-suv/"
- },
- {
-  "date": "2026-10-19T05:56:15.760137+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "legal",
-  "headline": "Mumbai Police Hunt Gunmen Who Fired at Tiger Shroff's Car",
-  "summary": "Mumbai Police deployed 15 teams to investigate a shooting incident targeting Bollywood star Tiger Shroff's car by suspected gangsters.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/tiger-shroff-shooting-1236916181/"
- },
- {
-  "date": "2026-10-19T05:56:15.760137+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Tomb Raider: Legacy Of Atlantis Release Date Announced",
-  "summary": "Tomb Raider: Legacy Of Atlantis is officially announced for a February 12, 2027 release with new outfits for Lara Croft.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/tomb-raider-legacy-of-atlantis-free-download-psa/"
- },
- {
   "date": "2026-10-19T06:23:48.799048+00:00",
   "topic": "Cars",
   "score": 6,
@@ -21613,5 +21580,16 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/pokemon-tcg-pikachu-release-deck-box/"
+ },
+ {
+  "date": "2026-10-22T06:22:02.469115+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Ford Unleashes Rugged New Bronco ORV Package \ud83d\ude99\ud83d\udca8",
+  "summary": "Ford introduces a new factory-backed ORV package for four-door Bronco models, featuring upgraded Fox suspension, skid plates, and lighting.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812838/ford-bronco-orv-package-costs/"
  }
 ]
