@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-19T03:19:47.816217+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "New Resident Evil Remake Collection Confirmed for January 2027",
-  "summary": "A new Resident Evil remake collection has been officially confirmed for release in January 2027.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/resident-evil-remakes-switch-2-january-2027/"
- },
- {
   "date": "2026-10-19T04:01:09.529852+00:00",
   "topic": "Events",
   "score": 6,
@@ -21316,5 +21305,82 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/terminator-foundation-netflix-vivy-fluorites-eye-song-sci-fi/"
+ },
+ {
+  "date": "2026-10-22T03:22:32.960927+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "legal",
+  "headline": "Australia Orders Apple to Open App Store by 2027",
+  "summary": "The Federal Court of Australia has ordered Apple to allow alternative App Stores and end anti-steering practices by March 2027.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/22/australia-demands-apple-make-similar-app-store-changes-to-those-in-the-eu-by-march-2027?utm_source=rss"
+ },
+ {
+  "date": "2026-10-22T03:22:32.960927+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Stunning Lamborghini Temerario Photo Showcase \ud83c\udfce\ufe0f\ud83d\udd25",
+  "summary": "A striking high-resolution image showcasing the design and presence of the Lamborghini Temerario.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x7g2x5/lamborghini_temerario_3278x3278/"
+ },
+ {
+  "date": "2026-10-22T03:22:32.960927+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "other",
+  "headline": "Classic Aggression: 2016 Nissan GT-R Nismo Spotlight \ud83c\udfc1",
+  "summary": "A detailed look at the interior and exterior styling of a 2016 Nissan GT-R Nismo.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x74gjg/2016_nissan_gtr_nismo_1080x1440/"
+ },
+ {
+  "date": "2026-10-22T03:22:32.960927+00:00",
+  "topic": "Cars",
+  "score": 5,
+  "category": "other",
+  "headline": "Throwback to the Original Tesla Roadster \u26a1",
+  "summary": "A clean shot highlighting the classic lines of the original Tesla Roadster.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x73coq/tesla_roadster_900x900/"
+ },
+ {
+  "date": "2026-10-22T03:22:32.960927+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Netflix's Ambitious Literary Adaptation Emerges as a Streaming Triumph",
+  "summary": "Netflix's two-part adaptation of a classic novel is being praised as a masterclass in streaming epics.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/one-hundred-years-of-solitude-netflix-adaptation-best-epic-streaming/"
+ },
+ {
+  "date": "2026-10-22T03:22:32.960927+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Guy Ritchie's Action Thriller Finds Redemption on Streaming Charts",
+  "summary": "Guy Ritchie's action thriller In the Grey found new life on streaming after underperforming at the box office.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/guy-ritchie-in-the-grey-henry-cavill-streaming-hit-starz-october-2026/"
+ },
+ {
+  "date": "2026-10-22T03:22:32.960927+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "business",
+  "headline": "EA Cuts 400 Jobs and Shuts Down BioWare",
+  "summary": "Electronic Arts is laying off around 400 employees and shutting down BioWare as part of a strategic shift following its transition to a private company.",
+  "verified": "reliable_reporter",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/ea-cuts-400-jobs-shuts-down-bioware-1237170402/"
  }
 ]
