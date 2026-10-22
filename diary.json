@@ -21569,5 +21569,49 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/legend-of-zelda-skyward-sword-hd-unofficial-pc-port/"
+ },
+ {
+  "date": "2026-10-22T05:55:43.061710+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Fortnite Returns to Australian App Store",
+  "summary": "Fortnite is returning to the Australian App Store following a recent court ruling.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/22/fortnite-returning-to-australian-app-store/"
+ },
+ {
+  "date": "2026-10-22T05:55:43.061710+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "legal",
+  "headline": "Apple Ordered to Allow Rival App Stores in Australia",
+  "summary": "Australia's Federal Court has ordered Apple to allow rival app stores and alternative payment methods for Australian users by March 2027.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/22/rival-app-stores-in-australia-ordered/"
+ },
+ {
+  "date": "2026-10-22T05:55:43.061710+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Xbox Explores Pay-Per-Hour Model for Cloud Streaming",
+  "summary": "Xbox is reportedly considering a per-hour pricing model for streaming games players already own.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xca1d9/xbox_wants_you_to_pay_24_to_40_cents_per_hour_to/"
+ },
+ {
+  "date": "2026-10-22T05:55:43.061710+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "New Pikachu-Centric Pok\u00e9mon TCG Set Announced",
+  "summary": "A new Pok\u00e9mon Trading Card Game release focusing on Pikachu has been announced.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/pokemon-tcg-pikachu-release-deck-box/"
  }
 ]
