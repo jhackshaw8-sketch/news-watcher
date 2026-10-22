@@ -1,192 +1,5 @@
 [
  {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Taika Waititi Confirms Star Wars Movie Is On Hold",
-  "summary": "Taika Waititi confirms that his long-awaited Star Wars movie has officially been put on hold.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/star-wars-movies/6-years-after-it-was-first-announced-taika-waititi-confirms-his-star-wars-movie-has-been-put-on-ice/"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Nintendo Admits Underestimating Zelda 40th Anniversary Switch 2 Demand",
-  "summary": "A Nintendo executive admits the company underestimated the massive global demand for the Zelda 40th Anniversary Edition Switch 2.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/the-legend-of-zelda/nintendo-underestimated-how-well-its-zelda-40th-anniversary-edition-switch-2-would-sell-exec-admits-but-restocks-are-coming-please-be-patient/"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Hideo Kojima To Cameo In Cyberpunk: Edgerunners Season 2",
-  "summary": "Renowned game creator Hideo Kojima is set to make a cameo appearance in the second season of Cyberpunk: Edgerunners.",
-  "verified": "reliable_reporter",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/anime-shows/hideo-kojima-returns-to-night-city-for-a-cyberpunk-edgerunners-season-2-cameo/"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Tech News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Google Gemini 4 AI Agents Beat Minecraft Without Human Help",
-  "summary": "Four Google Gemini 4 Argon agents successfully defeated Minecraft's Ender Dragon autonomously by collaborating through shared tips and strategies.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "business",
-  "headline": "Lincoln slims down to under 300 dealerships \ud83d\udcc9\ud83d\ude97",
-  "summary": "Lincoln is aggressively trimming its retail footprint, reducing its dealership network to fewer than 300 locations by the end of 2027.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812390/lincoln-fewer-than-300-dealers/"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Kleber Mendon\u00e7a Filho Named Patron of Marrakech Film Festival's Atlas Workshops",
-  "summary": "Brazilian filmmaker Kleber Mendon\u00e7a Filho has been named patron of the Marrakech Film Festival's 9th Atlas Workshops.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/kleber-mendonca-filho-marrakech-atlas-workshops-1236915626/"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Atlas Workshops Unveils 30-Project Selection and Mentor Kleber Mendon\u00e7a Filho",
-  "summary": "The Marrakech Film Festival's Atlas Workshops has announced its 30-project selection with director Kleber Mendon\u00e7a Filho serving as mentor.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/kleber-mendonca-filho-marrakech-atlas-workshops-selection-1237167193/"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "launch",
-  "headline": "Andrew Gower Teases New Film in Development with Director Andy Goddard",
-  "summary": "Actor Andrew Gower has teased a new film in development directed by Andy Goddard.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/andrew-gower-gustaffson-second-album-2027-new-movie/"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "'Interview With The Vampire' Arrives on 4K and Digital with New Trailer",
-  "summary": "Warner Bros. has released a new 4K trailer and digital availability announcement for the classic movie 'Interview with the Vampire'.",
-  "verified": "official",
-  "source": "Warner Bros (trailers)",
-  "link": "https://www.youtube.com/watch?v=1lw9PluVDCM"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "The Trauma Code: Heroes on Call Renewed for Seasons 2 and 3",
-  "summary": "Netflix has officially confirmed that 'The Trauma Code: Heroes on Call' is in production for both Seasons 2 and 3.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/news/ju-ji-hoon-choo-young-woo-trauma-code-seasons-2-3-netflix-1236916275/"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "legal",
-  "headline": "Ofcom Probes Huw Edwards Drama Over Fairness and Privacy",
-  "summary": "Ofcom has launched an investigation into Skydance UK network 5's Huw Edwards drama over fairness and privacy concerns.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/huw-edwards-5-drama-ofcom-investigation-power-downfall-1237167389/"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Call of Duty: Modern Warfare 4 Prepares for October Launch",
-  "summary": "Reviews for Call of Duty: Modern Warfare 4 are reaching historic highs ahead of its October 23 launch date.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/call-of-duty-modern-warfare-4-user-review-roundup/"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "other",
-  "headline": "Brazilian Actress Lua Blanco Passes Away at 39",
-  "summary": "Brazilian actress Lua Blanco has passed away at the age of 39 following a battle with bowel cancer.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x9sq8j/brazilian_actress_lua_blanco_dies_at_39_a_victim/"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "other",
-  "headline": "Brazilian Music Icon Benito di Paula Dies at 84",
-  "summary": "Iconic Brazilian MPB singer Benito di Paula has died at the age of 84.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x9snuy/brazilian_singer_benito_di_paula_an_icon_of_mpb/"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Last Chance to Grab PlayStation Plus Free Masterpieces",
-  "summary": "PlayStation Plus subscribers have just 24 hours left to claim Silent Hill 2 and Yakuza: Like a Dragon for free.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/playstation-plus-free-10-rated-games-24-hours/"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "other",
-  "headline": "Donnie Wahlberg's Plane Skids Off Runway After Vegas Concert",
-  "summary": "Donnie Wahlberg and his crew survived a terrifying plane skidding incident after their final Las Vegas concert.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x9rjqm/donnie_wahlbergs_plane_skids_off_runway_hits/"
- },
- {
-  "date": "2026-10-19T10:01:06.249085+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "other",
-  "headline": "Cindy Crawford and Kaia Gerber Speak Out After Tragic Loss",
-  "summary": "Cindy Crawford and Kaia Gerber have broken their silence following the tragic passing of Presley Gerber.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1x9pjw9/cindy_crawford_kaia_gerber_break_their_silence_on/"
- },
- {
   "date": "2026-10-19T10:57:11.817220+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -21899,5 +21712,60 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1xc54jh/kristin_cavallari_busted_for_speeding_in_her/"
+ },
+ {
+  "date": "2026-10-22T10:29:03.184833+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Former BioWare Boss Calls Studio Closure a Sad Moment",
+  "summary": "Former studio head Casey Hudson reflects on the closure of BioWare.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/mass-effect/former-mass-effect-and-star-wars-kotor-boss-calls-bioware-closure-sad-says-the-studios-legacy-will-live-on-through-those-who-were-part-of-it/"
+ },
+ {
+  "date": "2026-10-22T10:29:03.184833+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Fandango Boards International Sales for 'Galileo' Biopic",
+  "summary": "Fandango Sales has acquired international rights for the upcoming biographical film 'Galileo' starring Elio Germano.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/galileo-elio-germano-fandango-rome-mia-market-1236918891/"
+ },
+ {
+  "date": "2026-10-22T10:29:03.184833+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Cast Announced for Supernatural Thriller 'Dracula: The Crimson Code'",
+  "summary": "Amanda Jiang, Joey Phillips, Richard Brake, and Shayne Ward have been cast to lead the gothic romance thriller 'Dracula: The Crimson Code'.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/dracula-the-crimson-code-cast-1236919518/"
+ },
+ {
+  "date": "2026-10-22T10:29:03.184833+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Mass Effect Franchise Returns in 2027 With Board Game Revival",
+  "summary": "BioWare closure cancels Mass Effect 5, but the franchise will officially return with a board game and expansion in 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/mass-effect-board-game-2027-return-confirmed/"
+ },
+ {
+  "date": "2026-10-22T10:29:03.184833+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Zelda: Ocarina of Time Remake Free Download Officially Confirmed",
+  "summary": "Nintendo has officially confirmed a limited-time free download of the Zelda: Ocarina of Time remake.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/zelda-ocarina-of-time-freebie-confirmed/"
  }
 ]
