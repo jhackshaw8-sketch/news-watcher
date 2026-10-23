@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-20T06:18:42.210374+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "legal",
-  "headline": "Utility Sues Arkansas Mom and Newspapers Over Public Data Center Records",
-  "summary": "A utility company in Arkansas has sued a mother and two newspapers after she shared public data center records.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1xak599/arkansas_mom_shared_public_data_center_records/"
- },
- {
-  "date": "2026-10-20T06:18:42.210374+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "legal",
-  "headline": "OpenAI Bugging Suspect Denied Bail Despite Saudi Offer",
-  "summary": "The suspect accused of bugging OpenAI has been held without bail despite the Saudi government offering to pay.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1xajpe2/openai_bugging_suspect_alfozan_held_without_bail/"
- },
- {
-  "date": "2026-10-20T06:18:42.210374+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Germany Pushes AI Adoption as Nvidia Announces New Investments",
-  "summary": "The German chancellor is urging businesses to adopt artificial intelligence as Nvidia announces fresh investments in the region.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1xaj62q/open_your_doors_for_ai_german_chancellor_urges/"
- },
- {
-  "date": "2026-10-20T06:18:42.210374+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "UK Finance Industry Highlights Early AI Job Impacts",
-  "summary": "The UK finance sector provides a real-world look at how artificial intelligence is beginning to impact employment and jobs.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1xahtv0/how_will_ai_affect_jobs_the_uk_finance_industry/"
- },
- {
-  "date": "2026-10-20T06:18:42.210374+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "launch",
-  "headline": "2027 Nissan Pathfinder Revives 1987 Roots With Retro Interior \ud83d\ude99\u2728",
-  "summary": "Nissan is releasing a special edition 2027 Pathfinder that features a nostalgic burgundy interior inspired by the original 1987 model.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812518/2027-nissan-pathfinder-special-edition/"
- },
- {
   "date": "2026-10-20T07:11:42.365913+00:00",
   "topic": "Tech News",
   "score": 7,
@@ -22482,5 +22427,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/dungeon-crawler-carl-allies-enemies-november-2026-psa/"
+ },
+ {
+  "date": "2026-10-23T06:22:07.667359+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Netflix Announces First Philip K. Dick Series",
+  "summary": "Netflix is developing its first-ever Philip K. Dick series, marking a historical milestone for the streaming platform.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/netflix-sci-fi-history-philip-k-dick-adaptation/"
+ },
+ {
+  "date": "2026-10-23T06:22:07.667359+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Pok\u00e9mon Officially Returning To Kanto On October 27",
+  "summary": "The Pok\u00e9mon series is officially returning to the Kanto region on October 27.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/pokemon-red-blue-adventures-30th-anniversary/"
  }
 ]
