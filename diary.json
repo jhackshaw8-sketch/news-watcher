@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-20T07:11:42.365913+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Blackwall Hits $2.2B Valuation Amid AI Bot Surge",
-  "summary": "Security and bot-filtering startup Blackwall secured a $100M funding round at a $2.2B valuation to manage escalating AI and bot traffic.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/"
- },
- {
-  "date": "2026-10-20T07:11:42.365913+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Ahold Delhaize Confirms Cyberattack Disrupts Systems",
-  "summary": "Grocery conglomerate Ahold Delhaize confirmed a cyberattack that temporarily forced several US and European IT systems offline.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1xakyo0/grocery_giant_ahold_delhaize_confirms_cyberattack/"
- },
- {
-  "date": "2026-10-20T07:11:42.365913+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "update",
-  "headline": "Classic Corvette Treasure Found in Texas Trailer Park! \ud83c\udfce\ufe0f\ud83c\uddfa\ud83c\uddf8",
-  "summary": "A hidden collection featuring two matching-numbers big-block Corvettes was discovered in a Texas trailer park and purchased for $175,000.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812531/corvette-stash-became-a-two/"
- },
- {
-  "date": "2026-10-20T07:11:42.365913+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Jurassic Park Officially Returns November 20 With A New Adventure",
-  "summary": "A new Jurassic Park adventure is officially set to release on November 20, returning to the franchise roots after 33 years.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/jurassic-park-tcg-set-november-20-release/"
- },
- {
   "date": "2026-10-20T08:00:09.523395+00:00",
   "topic": "Cars",
   "score": 6,
@@ -22449,5 +22405,192 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/pokemon-red-blue-adventures-30th-anniversary/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Celebrating 25 Years of the Iconic iPod",
+  "summary": "Apple marks the 25th anniversary of the introduction of the original iPod, a pivotal product in the company's history.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/23/ipod-25th-anniversary/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "AI Unit Planned for Wildfires",
+  "summary": "Andy Burnham plans to introduce an AI unit to help tackle wildfires.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xd6u2q/andy_burnham_to_reveal_plans_for_ai_unit_to/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Google Staff Resign Over Military AI",
+  "summary": "Google staff have resigned in protest over the company's military AI contracts.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xd5m05/google_staff_resign_in_backlash_over_its_ai/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Plasma Beam Antenna Developed",
+  "summary": "Researchers developed a plasma beam antenna that is tuned using lasers.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xd5cd5/lightsaberlike_plasma_beam_antenna_is_tuned_by/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "DeepSeek and MiniMax Win Global Approval",
+  "summary": "AI developers DeepSeek and MiniMax have received state media approval for global deployment.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xd4akf/deepseek_minimax_win_approval_for_global_use/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Intel Reaches Ohio Fab Milestone",
+  "summary": "Intel hits a construction milestone at its delayed Ohio chip fab facility.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xd4968/intel_hits_construction_milestone_at_ohio_chip/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "Fusion Reactor Designs Partner Up",
+  "summary": "Two fusion reactor teams are combining designs to overcome engineering hurdles.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xd3wl0/two_fusion_reactor_designs_team_up_to_tackle/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "security",
+  "headline": "Rogue AI Bots Spotted in Banks",
+  "summary": "Rogue AI bots have been detected operating inside major US bank accounts.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xd3gw6/rogue_ai_bots_caught_operating_inside_major_us/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "legal",
+  "headline": "French Police Consider Chemical Tracking",
+  "summary": "French police consider using chemical markers to identify protesters in the future.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xd1rov/french_police_could_soon_tag_protesters_with/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Cambridge Creates $10 Medical Chip",
+  "summary": "Cambridge scientists create an inexpensive medical chip intended for wearable health monitors.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xd1nu9/cambridge_scientists_create_a_10_chip_that_could/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "The Fix That Saved the Internet",
+  "summary": "An article highlights a crucial fix for a major PHP vulnerability that threatened internet infrastructure.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xd13wi/the_man_who_saved_the_internet_yesterday/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "business",
+  "headline": "Driving the Future: Automakers Team Up with Nvidia for Autonomous Tech \ud83e\udd16\ud83d\ude97",
+  "summary": "Major European automakers are partnering with Nvidia to streamline self-driving testing and safety validation.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812999/nvidia-hyperion-european-autonomy-programs/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "Save the Manuals! Subaru Teases a New Clutch-Pedal WRX \ud83d\udd79\ufe0f\ud83d\udd25",
+  "summary": "Subaru has teased a new manual WRX exclusively for the Japanese market, marking the first of three upcoming models featuring a clutch pedal.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/812991/2027-subaru-wrx-manual-teaser/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Louis Partridge to Star in Indie Film 'One Last Summer'",
+  "summary": "Louis Partridge is set to headline and produce the upcoming indie coming-of-age film One Last Summer alongside Mia Jenkins and Jude Carmichael.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/louis-partridge-one-last-summer-enola-holmes-1237171542/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "'Lupin' Part 4 Delivers Thrills in New Review",
+  "summary": "Netflix's Lupin Part 4 delivers a thrilling return that justifies the three-year wait between seasons.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/lupin-season-4-review-netflix-omar-sy/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "launch",
+  "headline": "BriskPace Unlimited Launches With Orangutan True-Crime Comedy Series",
+  "summary": "Al Munteanu has launched the new-formats label BriskPace Unlimited, which is set to produce a true-crime comedy series about an imprisoned orangutan.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/al-munteanu-briskpace-unlimited-label-with-orangutan-series-1237171540/"
+ },
+ {
+  "date": "2026-10-23T07:13:35.824890+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "'The Notebook' Musical Sets West End Run at the Judi Dench Theatre",
+  "summary": "The musical adaptation of 'The Notebook' has officially set its upcoming West End run at the newly renamed Judi Dench Theatre.",
+  "verified": "official",
+  "source": "Variety",
+  "link": "https://variety.com/2026/theater/global/the-notebook-musical-west-end-run-judi-dench-theatre-1236920361/"
  }
 ]
