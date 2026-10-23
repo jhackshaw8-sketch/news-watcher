@@ -1,159 +1,5 @@
 [
  {
-  "date": "2026-10-19T23:52:56.975244+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "launch",
-  "headline": "Apple Announces October 28 Pro and Tell Product Launch Event",
-  "summary": "Apple is planning a media hands-on event in Los Angeles on October 28 to announce a second wave of new products.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/"
- },
- {
-  "date": "2026-10-19T23:52:56.975244+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "business",
-  "headline": "Apple Limits U.S. iPhone Duo Purchases to Two Per Customer",
-  "summary": "Apple has introduced a purchase limit restricting U.S. customers to a maximum of two iPhone Duo units per order.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/19/iphone-duo-order-limit-us/"
- },
- {
-  "date": "2026-10-19T23:52:56.975244+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Ex-Disco Elysium Devs Form New Studio",
-  "summary": "Former Disco Elysium developers have launched a new player- and developer-owned studio called Summer Eternal.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/summer-eternal-studio-structure-player-non-profit"
- },
- {
-  "date": "2026-10-19T23:52:56.975244+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Anthropic and Nscale Discussing Another Massive $45B Compute Deal",
-  "summary": "AI startup Anthropic is reportedly in talks with Nscale for a second massive $45 billion compute deal.",
-  "verified": "unconfirmed",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
- },
- {
-  "date": "2026-10-19T23:52:56.975244+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Subtle Refresh for the Range Rover After Five Years \ud83d\ude99\u2728",
-  "summary": "The Range Rover is receiving a subtle five-year refresh featuring minor front-end tweaks, an updated interior, and familiar powertrains.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2291237/2027-range-rover-spied-nurburgring/"
- },
- {
-  "date": "2026-10-19T23:52:56.975244+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "A24 Launches Oscar Campaign for 'You Can See Everything'",
-  "summary": "A24 launches the official Oscar campaign categories for the documentary 'You Can See Everything'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/awards/you-can-see-everything-oscars-eligibility-awards-1236916699/"
- },
- {
-  "date": "2026-10-19T23:52:56.975244+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "update",
-  "headline": "The Coen Brothers Tease Official Movie Reunion",
-  "summary": "Joel and Ethan Coen have teased a potential reunion to work on a new movie set in Minneapolis.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/the-coen-brothers-reunion-film-lumiere-film-festival/"
- },
- {
-  "date": "2026-10-19T23:52:56.975244+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Hideo Kojima Officially Joins 'Cyberpunk: Edgerunners 2'",
-  "summary": "Hideo Kojima is officially returning to voice his character Hideyoshi Oshima in 'Cyberpunk: Edgerunners 2'.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/cyberpunk-edgerunners-2-hideo-kojima-cameo-hideyoshi-oshima/"
- },
- {
-  "date": "2026-10-19T23:52:56.975244+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Deborah Ann Woll Discusses Karen Page's Future",
-  "summary": "Deborah Ann Woll shares her thoughts on Karen Page's future following the events of 'Daredevil: Born Again'.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/daredevil-season-3-ending-karen-page-fate-deborah-ann-woll/"
- },
- {
-  "date": "2026-10-19T23:52:56.975244+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Shrinking Season 4 Hits Filming Milestone",
-  "summary": "Apple TV's Shrinking has reached a major filming milestone as it enters production for season 4.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/shrinking-season-4-filming-wrapped-confirmed-jessica-williams/"
- },
- {
-  "date": "2026-10-19T23:52:56.975244+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "legal",
-  "headline": "Russell Brand Trial Updates Emerge in Court",
-  "summary": "Court proceedings detail severe allegations against Russell Brand regarding a historical sexual assault case.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1xad1zq/russell_brand_had_maniacal_grin_as_he_dragged/"
- },
- {
-  "date": "2026-10-19T23:52:56.975244+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "The Gilded Age Loses Two Cast Members for Season 4",
-  "summary": "HBO's The Gilded Age will not be bringing back two supporting characters for its upcoming fourth season.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/the-gilded-age-characters-not-returning-season-4-1237168161/"
- },
- {
-  "date": "2026-10-19T23:52:56.975244+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "other",
-  "headline": "Model Sahara Ray Passes Away at 34",
-  "summary": "Model Sahara Ray has passed away at the age of 34.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1xacaqo/model_sahara_ray_dead_at_34/"
- },
- {
-  "date": "2026-10-19T23:52:56.975244+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Tulsa King Teases Major Season 5 Shifts",
-  "summary": "Tulsa King is reportedly planning major genre and behind-the-scenes shifts for its fifth season.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/tulsa-king-season-5-new-york-genre-change/"
- },
- {
   "date": "2026-10-20T00:14:25.397719+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -22603,5 +22449,60 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1xclob0/chris_pratt_confirms_starlord_will_return_to_the/"
+ },
+ {
+  "date": "2026-10-23T00:13:55.544215+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Sega Pulls Shogun 2 Complete Edition Amid AI Backlash",
+  "summary": "Sega pulls Total War: Shogun 2 - Complete Edition from sale temporarily following AI accusations and community backlash.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale"
+ },
+ {
+  "date": "2026-10-23T00:13:55.544215+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Etsy Cracks Down on AI Slop Listings",
+  "summary": "Etsy is implementing stricter rules regarding AI-generated content in listings to address buyer confusion and concerns from human creators.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing"
+ },
+ {
+  "date": "2026-10-23T00:13:55.544215+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Meta's New Stock Class Aims to Protect Zuckerberg's Voting Control",
+  "summary": "Meta introduced a new stock class designed to help CEO Mark Zuckerberg pay potential billionaire taxes without losing voting control of the company.",
+  "verified": "official",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/"
+ },
+ {
+  "date": "2026-10-23T00:13:55.544215+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Z Nation Cult Thriller Officially Getting Reboot",
+  "summary": "Syfy's cult thriller series Z Nation is officially getting a reboot sequel titled Resurrection.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/z-nation-reboot-syfy-zombie-tv-show/"
+ },
+ {
+  "date": "2026-10-23T00:13:55.544215+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Mark Wahlberg's Crime Movie Hits Streaming",
+  "summary": "Mark Wahlberg's crime movie By Any Means officially debuts on PVOD streaming charts following a poor box office run.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/mark-wahlberg-crime-thriller-by-any-means-streaming-digital-october-2026/"
  }
 ]
