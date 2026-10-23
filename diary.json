@@ -1,137 +1,5 @@
 [
  {
-  "date": "2026-10-20T09:56:38.007795+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Fortnite Season Teasers Dampen One Piece Crossover Hopes",
-  "summary": "Official Epic Games advertisements suggest that the upcoming Fortnite season may not feature the heavily rumored One Piece collaboration.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/fortnite-one-piece-anime-mini-season-pass/"
- },
- {
-  "date": "2026-10-20T09:56:38.007795+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Umamusume LA Concert Cancelled Due to Visa Issues",
-  "summary": "The developers of Umamusume: Pretty Derby canceled their Los Angeles concert at the last minute due to US visa issues.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/umamusume-pretty-derby-la-concert-cancelled-visa-issues"
- },
- {
-  "date": "2026-10-20T09:56:38.007795+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "update",
-  "headline": "AI Successfully Proves the Quasi-Riemann Hypothesis",
-  "summary": "Artificial intelligence successfully proved the Quasi-Riemann Hypothesis with results verified by human mathematicians.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1xanurn/ai_proved_the_quasiriemann_hypothesis_what/"
- },
- {
-  "date": "2026-10-20T09:56:38.007795+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Samsung Offers Large Bonuses to Retain Engineers",
-  "summary": "Samsung is offering massive bonuses to engineers to prevent them from moving to competitors in China.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1xanjpy/samsung_dangles_560000_bonuses_to_keep_engineers/"
- },
- {
-  "date": "2026-10-20T09:56:38.007795+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Taiwan Export Orders Hit Record High on AI Demand",
-  "summary": "Taiwanese export orders reached a record high driven heavily by sustained global demand for AI hardware.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1xanj3z/taiwan_september_export_orders_hit_record_value/"
- },
- {
-  "date": "2026-10-20T09:56:38.007795+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Nscale and Anthropic Reportedly Discussing $45B Compute Deal",
-  "summary": "Nscale and Anthropic are reportedly in discussions regarding a massive $45 billion compute infrastructure deal.",
-  "verified": "unconfirmed",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1xanhhj/nscale_and_anthropic_are_reportedly_in_talks_for/"
- },
- {
-  "date": "2026-10-20T09:56:38.007795+00:00",
-  "topic": "Tech News",
-  "score": 5,
-  "category": "update",
-  "headline": "Revolut Suffers Worldwide Service Outage",
-  "summary": "Financial technology platform Revolut experienced a widespread outage affecting users worldwide.",
-  "verified": "official",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1xanejl/revolut_is_down_worldwide/"
- },
- {
-  "date": "2026-10-20T09:56:38.007795+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Inside Meta's Massive AI Strategy Shift",
-  "summary": "Meta CEO Mark Zuckerberg's multi-billion dollar AI investments aim to establish independent platform dominance.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1xamzmy/zuckerberg_spent_years_building_on_apples_terms/"
- },
- {
-  "date": "2026-10-20T09:56:38.007795+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Initial Reviews Criticize Google's New Laptops",
-  "summary": "Early reviews for Google's new laptops indicate the hardware feels rushed and underbaked.",
-  "verified": "reliable_reporter",
-  "source": "r/technology",
-  "link": "https://www.reddit.com/r/technology/comments/1xamgbd/googlebook_review_googles_new_laptops_are/"
- },
- {
-  "date": "2026-10-20T09:56:38.007795+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "The Gas BMW M3 Lives On! \ud83c\udfce\ufe0f\ud83d\udd25",
-  "summary": "BMW has been spotted testing a next-generation prototype of the gas-powered M3, confirming that the iconic six-cylinder engine will survive alongside the upcoming electric variant.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812548/2028-bmw-m3-gas-engine/"
- },
- {
-  "date": "2026-10-20T09:56:38.007795+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "PlayStation Plus November 2026 Leaving Games Announced",
-  "summary": "PlayStation Plus has officially updated its lineup of games leaving the service in November 2026, including major titles like GTA V and Red Dead Redemption II.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/playstation-plus-free-games-lineup-november-2026-update/"
- },
- {
-  "date": "2026-10-20T09:56:38.007795+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "The Simpsons Hit & Run Remastered Surprise Launch",
-  "summary": "The beloved classic Simpsons Hit & Run has received a surprise remastered release and is available to play now.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/simpsons-hit-and-run-remastered-mod-download/"
- },
- {
   "date": "2026-10-20T10:18:11.287105+00:00",
   "topic": "Gaming News",
   "score": 6,
@@ -22559,5 +22427,148 @@
   "verified": "reliable_reporter",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1xd60ls/box_office_clayface_counting_35m_in_us_thursday/"
+ },
+ {
+  "date": "2026-10-23T10:00:59.442721+00:00",
+  "topic": "Apple News",
+  "score": 9,
+  "category": "launch",
+  "headline": "iPhone Duo Preorders Arrive Worldwide",
+  "summary": "Apple's first foldable device, the iPhone Duo, has officially started arriving at customers' doorsteps worldwide following preorders.",
+  "verified": "official",
+  "source": "AppleInsider",
+  "link": "https://appleinsider.com/articles/26/10/23/the-iphone-duo-finally-makes-its-way-into-customers-hands?utm_source=rss"
+ },
+ {
+  "date": "2026-10-23T10:00:59.442721+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Star Wars: Starfighter Budget Report Surfacing",
+  "summary": "A new report reveals that the production budget for Star Wars: Starfighter reaches $226.5 million with specific caveats.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/entertainment/star-wars-movies/star-wars-starfighter-budget/"
+ },
+ {
+  "date": "2026-10-23T10:00:59.442721+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Epic Games Announces AI Game Development Contest",
+  "summary": "Epic Games is launching a new $50,000 game development competition focused on artificial intelligence.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/epic-games-unreal-engine-ai-competition/"
+ },
+ {
+  "date": "2026-10-23T10:00:59.442721+00:00",
+  "topic": "Gaming News",
+  "score": 9,
+  "category": "launch",
+  "headline": "GTA 6 TV Trailer Differences Detailed",
+  "summary": "Slight differences have been discovered between the original Grand Theft Auto 6 launch trailer and the versions that aired on television.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/grand-theft-auto-gta-6-launch-trailer-tv-commercial-changes/"
+ },
+ {
+  "date": "2026-10-23T10:00:59.442721+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "business",
+  "headline": "Volvo Cuts 2,500 More Jobs Amid Challenging Market Conditions",
+  "summary": "Volvo has cut an additional 2,500 jobs, bringing its total planned job reductions for the year to 5,500 due to a tough economic environment.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/813031/volvo-cuts-2500-jobs/"
+ },
+ {
+  "date": "2026-10-23T10:00:59.442721+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Kore-eda Rejects AI Notes for New Script",
+  "summary": "Director Kore-eda Hirokazu rejected generative AI notes for his upcoming film script after finding them useless.",
+  "verified": "reliable_reporter",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/festivals/kore-eda-hirokazu-ditched-ai-notes-sheep-in-the-box-script-1236922183/"
+ },
+ {
+  "date": "2026-10-23T10:00:59.442721+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Lee Child Teases Grand Finale for Jack Reacher",
+  "summary": "Author Lee Child has officially revealed plans for the eventual grand finale of the Jack Reacher book series.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/jack-reacher-ending-planned-lee-child/"
+ },
+ {
+  "date": "2026-10-23T10:00:59.442721+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Jurassic World Movies Head to a New Streamer",
+  "summary": "The Jurassic World franchise is officially heading to a new streaming platform.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/chris-pratt-jurassic-world-streaming-starz-november-2026/"
+ },
+ {
+  "date": "2026-10-23T10:00:59.442721+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Steam Offers Zombie Survival Game Free Until Oct 26",
+  "summary": "An open-world zombie survival game is being offered 100% free on Steam until October 26.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/steam-open-world-zombie-game-free-limited-time/"
+ },
+ {
+  "date": "2026-10-23T10:00:59.442721+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "rumor",
+  "headline": "James Bond Screen Tests Reportedly Set For This Weekend",
+  "summary": "James Bond screen tests are reportedly taking place with several actors in the running after casting shifts.",
+  "verified": "unconfirmed",
+  "source": "r/entertainment",
+  "link": "https://www.reddit.com/r/entertainment/comments/1xd9mek/james_bond_screen_tests_set_to_take_place_this/"
+ },
+ {
+  "date": "2026-10-23T10:00:59.442721+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "The Legend Of Zelda 40th Anniversary Collection Announced",
+  "summary": "Nintendo has officially announced The Legend of Zelda 40th Anniversary Collection celebrating classic titles.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/legend-of-zelda-40th-anniversary-collection-announced/"
+ },
+ {
+  "date": "2026-10-23T10:00:59.442721+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Harry Potter Collector's Release Announced",
+  "summary": "A new official Harry Potter collector's release has been announced for fans of the franchise.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/harry-potter-always-tcg-panini-announced/"
+ },
+ {
+  "date": "2026-10-23T10:00:59.442721+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Nintendo Switch Online Adds Three New Classics",
+  "summary": "Nintendo has announced three new classic games coming to the Nintendo Switch Online library.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/nintendo-switch-online-free-game-boy-games-october-2026/"
  }
 ]
