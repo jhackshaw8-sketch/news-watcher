@@ -1,60 +1,5 @@
 [
  {
-  "date": "2026-10-20T01:56:05.738879+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Guild Wars 2 Bundles Living World Add-ons With Expansions",
-  "summary": "ArenaNet has updated Guild Wars 2 by bundling previously paid Living World add-ons directly into game expansions.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/guild-wars-2-living-world-expansions"
- },
- {
-  "date": "2026-10-20T01:56:05.738879+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "legal",
-  "headline": "Local Politician Urges New Yorkers to Demand AI Regulations",
-  "summary": "New York politician Zohran Mamdani urged residents to resist the narrative of inevitable AI takeover and push for public-first regulations.",
-  "verified": "reliable_reporter",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
- },
- {
-  "date": "2026-10-20T01:56:05.738879+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "other",
-  "headline": "Remembering Film Critic Ann Hornaday",
-  "summary": "Longtime Washington Post film critic and Pulitzer Prize finalist Ann Hornaday has passed away at the age of 66.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/people-news/ann-hornaday-dead-washington-post-film-critic-1236917007/"
- },
- {
-  "date": "2026-10-20T01:56:05.738879+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "How Eiichiro Oda Shaped One Piece",
-  "summary": "Manga creator Eiichiro Oda reportedly stepped in to ensure Netflix fixed key elements of the One Piece live-action series during development.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/one-piece-showrunner-reveals-netflixs-one-piece-nearly-looked-very-different-before-eiichiro-oda-intervened/"
- },
- {
-  "date": "2026-10-20T01:56:05.738879+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Star Wars Animated 'Alterna-Cast' Confirmed for 2027 Super Bowl",
-  "summary": "Disney announced that Star Wars will be featured at the 2027 Super Bowl with an animated alternative broadcast on Disney channels.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/news/star-wars-super-bowl-disney-animated-alternacast-1236916766/"
- },
- {
   "date": "2026-10-20T02:17:33.303751+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -22691,5 +22636,38 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/netflix-emmy-nominated-rom-com-best-new-binge-nobody-wants-this/"
+ },
+ {
+  "date": "2026-10-23T01:58:10.681543+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple's Siri Strategy Faces New Challenges",
+  "summary": "An analysis of Apple's evolving strategy with Siri as AI competitors continue to shift the industry standards.",
+  "verified": "official",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/22/apple-is-finally-catching-up-with-siri-but-the-goalposts-are-moving-again/"
+ },
+ {
+  "date": "2026-10-23T01:58:10.681543+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "update",
+  "headline": "WhatsApp Beta Brings Scheduled Messages to iPhone",
+  "summary": "WhatsApp is currently testing a new scheduled messaging feature for select beta testers on the iPhone.",
+  "verified": "reliable_reporter",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/22/whatsapp-starts-testing-long-awaited-scheduled-messages-on-iphone/"
+ },
+ {
+  "date": "2026-10-23T01:58:10.681543+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Wo Long 2 Preview Teases Wuxia Action and Strategy",
+  "summary": "IGN previews Wo Long 2: Wings of Ember, highlighting its mix of Team Ninja action and Three Kingdoms strategy.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/wo-long-2-wings-of-ember-gets-wuxia-and-let-me-fight-a-horrific-spider-thing-ign-preview"
  }
 ]
