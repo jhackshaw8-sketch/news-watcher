@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-20T03:58:06.739886+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Michael Douglas Reveals Marvel Rejected His Request to Kill Off Ant-Man Character",
-  "summary": "Michael Douglas revealed that Marvel refused his request to kill off his character Hank Pym after the second Ant-Man film.",
-  "verified": "reliable_reporter",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/michael-douglas-killed-off-marvel-ant-man-1237168330/"
- },
- {
   "date": "2026-10-20T04:22:27.209343+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -22570,5 +22559,16 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/alan-ritchson-thriller-dark-web-streaming-free-tubi-october-2026/"
+ },
+ {
+  "date": "2026-10-23T03:59:14.674834+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Nicolas Cage Officially Cast in True Detective Season 5",
+  "summary": "Nicolas Cage has officially been cast in the upcoming fifth season of True Detective.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/true-detective-season-5-nicolas-cage-lovecraftian-horror-trilogy/"
  }
 ]
