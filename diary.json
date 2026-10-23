@@ -1,137 +1,5 @@
 [
  {
-  "date": "2026-10-20T11:19:09.547572+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "business",
-  "headline": "Apple Limits iPhone Duo Orders to Curb Scalping",
-  "summary": "Apple is restricting iPhone Duo orders to two per customer in an effort to prevent scalping.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/20/iphone-duo-orders-limited-to-two-per-customer-as-apple-tackles-scalping/"
- },
- {
-  "date": "2026-10-20T11:19:09.547572+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Yelp Adds AI Calling and Personalization Features",
-  "summary": "Yelp is integrating new AI features into its app to handle phone calls for checking restaurant wait times and provide personalized recommendations.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
- },
- {
-  "date": "2026-10-20T11:19:09.547572+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "\ud83d\ude97 Slate Opens First Showroom as $25K Electric Truck Nears Production \ud83d\udd0c",
-  "summary": "Slate has opened its first showroom as the company prepares to begin mass production of its $25,000 electric truck.",
-  "verified": "official",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/"
- },
- {
-  "date": "2026-10-20T11:19:09.547572+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Otter.ai Secures $320 Million for Enterprise Expansion",
-  "summary": "Meeting transcription startup Otter.ai has secured $320 million from General Catalyst's Customer Value Fund to drive enterprise growth and product innovation.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
- },
- {
-  "date": "2026-10-20T11:19:09.547572+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "launch",
-  "headline": "Lexus NX Goes All-Hybrid for 2027! \u26a1\ud83d\ude97",
-  "summary": "Lexus drops the gas-only NX for 2027, updating the NX 350h and NX 450h+ with stronger hybrid tech and a simplified lineup.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812567/2027-lexus-nx-drops-gas/"
- },
- {
-  "date": "2026-10-20T11:19:09.547572+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Emily Watson Boards Short Film 'The Drive' as Executive Producer",
-  "summary": "Two-time Oscar nominee Emily Watson has joined the Oscar-qualified short film 'The Drive' as an executive producer.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/emily-watson-joins-the-drive-as-exec-producer-1236917310/"
- },
- {
-  "date": "2026-10-20T11:19:09.547572+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "legal",
-  "headline": "New Witness Allegations Emerge in Russell Brand Legal Proceedings",
-  "summary": "The latest accuser in the Russell Brand trial alleges that witnesses were present during an assault at a radio station in the mid-2000s.",
-  "verified": "reliable_reporter",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/russell-brand-accuser-says-witnesses-present-assault-1237168392/"
- },
- {
-  "date": "2026-10-20T11:19:09.547572+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Evolution Mallorca Film Festival Revives Script Lab Pitch Program",
-  "summary": "The Evolution Mallorca International Film Festival is bringing back its Script Lab pitch component for its 15th edition with a notable jury.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/evolution-mallorca-script-lab-pitches-sirat-producer-jury-1236917228/"
- },
- {
-  "date": "2026-10-20T11:19:09.547572+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "Jason Sudeikis Teases Potential Future Seasons for 'Ted Lasso'",
-  "summary": "Jason Sudeikis has teased the possibility of future seasons for 'Ted Lasso', though a writers' room has not yet been established.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/ted-lasso-season-5-and-6-jason-sudeikis-comments/"
- },
- {
-  "date": "2026-10-20T11:19:09.547572+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Resident Evil 30th Anniversary Exhibition and New Project Officially Announced",
-  "summary": "Resident Evil: The Legacy Of Fear has been officially announced alongside the 30th Anniversary Exhibition in Tokyo.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/resident-evil-legacy-of-fear-30th-anniversary/"
- },
- {
-  "date": "2026-10-20T11:19:09.547572+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Exploring the Balance of Old and New in Final Fantasy VII Revelation",
-  "summary": "An in-depth look at how Final Fantasy VII Revelation manages to balance classic elements with fresh new features.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1xap68s/how_final_fantasy_vii_revelation_strikes_the/"
- },
- {
-  "date": "2026-10-20T11:19:09.547572+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "New Tears of the Kingdom DLC Is Out Now",
-  "summary": "Surprise new DLC content for The Legend of Zelda: Tears of the Kingdom is now officially available.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/legend-of-zelda-tears-of-the-kingdom-free-dlc/"
- },
- {
   "date": "2026-10-20T11:56:01.736685+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -22427,5 +22295,60 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/mtg-star-trek-next-generation-references-picard/"
+ },
+ {
+  "date": "2026-10-23T11:20:00.463826+00:00",
+  "topic": "Apple News",
+  "score": 10,
+  "category": "launch",
+  "headline": "iPhone Duo Officially Launches Today With Tight Supplies",
+  "summary": "Apple's first foldable iPhone, the iPhone Duo, officially launched today with extremely tight in-store and online supplies.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-available-today/"
+ },
+ {
+  "date": "2026-10-23T11:20:00.463826+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Clair Obscur: Expedition 33 Smashes Sales With 8.7 Million Copies Sold",
+  "summary": "An analyst reports that Clair Obscur: Expedition 33 has achieved impressive sales of 8.7 million copies and generated $366 million, largely driven by PC players.",
+  "verified": "reliable_reporter",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-has-sold-8-7-million-copies-and-made-usd366-million-analyst-says-and-thats-despite-the-game-pass-cannibalization/"
+ },
+ {
+  "date": "2026-10-23T11:20:00.463826+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Startup Plans Genetically Enhanced Military Dogs with Tech",
+  "summary": "A new defense startup founded by Palmer Luckey and Ben Lamm plans to genetically modify dogs and equip them with military technology.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs"
+ },
+ {
+  "date": "2026-10-23T11:20:00.463826+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Rome MIA Market Wraps Up With Focus on European Production and Industry Challenges",
+  "summary": "The 12th edition of Rome's MIA Market concluded with industry leaders discussing production slumps, streaming fallout, and European co-production strategies.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/rome-mia-market-takeaways-netflix-fallout-italy-production-1236922187/"
+ },
+ {
+  "date": "2026-10-23T11:20:00.463826+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Stargate: Timekeepers Sets Official Return Date For This Year",
+  "summary": "Stargate: Timekeepers is officially set for its return this year, generating excitement among franchise fans.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/stargate-timekeepers-official-console-release-update/"
  }
 ]
