@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-20T02:56:55.077407+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Judi Dench Slams 2019 'Cats' Film Adaptation in New Memoir",
-  "summary": "Judi Dench reflects on the panned 2019 film Cats in her forthcoming memoir, calling it a waste of Andrew Lloyd Webber's talent.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/judi-dench-says-cats-film-was-a-waste-of-goodwill-talent-1236917065/"
- },
- {
-  "date": "2026-10-20T02:56:55.077407+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Tom Hanks Mystery Thriller Leaves Netflix Soon",
-  "summary": "Tom Hanks' hit mystery thriller adaptation is officially leaving Netflix on November 1.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/angels-and-demons-leaving-netflix-november-1-tom-hanks/"
- },
- {
   "date": "2026-10-20T03:20:41.982438+00:00",
   "topic": "Tech News",
   "score": 6,
@@ -22636,5 +22614,16 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/you-can-see-everything-box-office-gains-1800-theaters/"
+ },
+ {
+  "date": "2026-10-23T02:58:30.944600+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Battlestar Galactica Board Game Returning Next Year",
+  "summary": "The classic Battlestar Galactica board game is making a surprise comeback release next year.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/the-battlestar-galactica-board-game-is-making-a-surprise-comeback-next-year"
  }
 ]
