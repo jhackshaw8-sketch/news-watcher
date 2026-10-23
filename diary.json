@@ -1,159 +1,5 @@
 [
  {
-  "date": "2026-10-20T08:00:09.523395+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Print Your Own Ride: Skoda Explores Home 3D Printing for Car Parts \ud83d\udda8\ufe0f\ud83d\ude97",
-  "summary": "Skoda is exploring the possibility of allowing owners to 3D print their own car accessories and replacement parts at home.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812544/skoda-free-3d-print-accessories/"
- },
- {
-  "date": "2026-10-20T08:00:09.523395+00:00",
-  "topic": "Cars",
-  "score": 8,
-  "category": "business",
-  "headline": "BMW Reportedly Offering Massive Buyouts Up to $730K to Employees \ud83d\udcbc",
-  "summary": "BMW is reportedly offering some employees up to $730,000 in severance packages to voluntarily leave the company based on age, salary, and tenure.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812543/bmw-voluntary-exit-program-reportedly/"
- },
- {
-  "date": "2026-10-20T08:00:09.523395+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "launch",
-  "headline": "Secret Keeper: BMW Reveals Long-Hidden Four-Door E36 Compact Prototype \ud83e\udd2b\ud83c\udfc1",
-  "summary": "BMW kept a secret four-door E36 Compact hatchback prototype hidden for decades before recently revealing it.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812535/bmw-five-door-hatchback-unique/"
- },
- {
-  "date": "2026-10-20T08:00:09.523395+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Runway CEO Claims AI Is Already Replacing Human Actors",
-  "summary": "Runway CEO Crist\u00f3bal Valenzuela stated at the View Conference that generative AI could and is already beginning to replace human actors.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/tv/global/ai-could-replace-actors-runway-ceo-cristobal-valenzuela-1236916525/"
- },
- {
-  "date": "2026-10-20T08:00:09.523395+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Tom Fontana to Showrun Vatican Drama 'The Devil's Business'",
-  "summary": "Tom Fontana is set to create and showrun a new Vatican drama series titled The Devil's Business, based on Emanuele Midolo's upcoming book.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/global/tom-fontana-vatican-series-devils-business-book-1236916539/"
- },
- {
-  "date": "2026-10-20T08:00:09.523395+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Soccer YouTuber Eman SV2 Launches Creator Company Frenzy",
-  "summary": "Soccer YouTuber Eman SV2 is launching a new creator company called Frenzy to operate in content, commerce, and live experiences.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/eman-sv2-football-youtuber-frenzy-creator-company-1237167538/"
- },
- {
-  "date": "2026-10-20T08:00:09.523395+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Banijay Entertainment Unveils Post-Merger Leadership Team",
-  "summary": "The newly merged Banijay Entertainment has unveiled its senior leadership team joining CEO Marco Bassetti.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/global/banijay-all3media-merger-senior-team-1236916656/"
- },
- {
-  "date": "2026-10-20T08:00:09.523395+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Banijay Confirms Post-Merger Executive Lineup",
-  "summary": "Banijay Entertainment officially confirmed its management structure following the merger with All3Media.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/banijay-entertainment-post-merger-leadership-structure-1237168373/"
- },
- {
-  "date": "2026-10-20T08:00:09.523395+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Apu Returns to 'The Simpsons' With New Voice Actor",
-  "summary": "The Simpsons character Apu is reportedly returning to the show with a new South Asian voice actor.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1xakdau/after_years_of_backlash_apu_returns_to_the/"
- },
- {
-  "date": "2026-10-20T08:00:09.523395+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Picture Tree Boards Comedy Film 'Raging Moms'",
-  "summary": "Picture Tree International has picked up international sales for the ensemble comedy film 'Raging Moms'.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/film/global/raging-moms-picture-tree-1236914345/"
- },
- {
-  "date": "2026-10-20T08:00:09.523395+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Banijay CEO Discusses $1.1B Creative Spend and Industry Future",
-  "summary": "Banijay Entertainment CEO Marco Bassetti revealed a massive creative spend while calling for better rewards for European producers.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/marco-bassetti-mia-market-1237167415/"
- },
- {
-  "date": "2026-10-20T08:00:09.523395+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "business",
-  "headline": "Disney to Hire Character.AI Staff in $60 Million Deal",
-  "summary": "Disney is reportedly hiring 60 Character.AI employees in a deal valued at $60 million.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1xaj34t/disney_to_hire_60_characterai_employees_in_usd_60/"
- },
- {
-  "date": "2026-10-20T08:00:09.523395+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "business",
-  "headline": "Insights Emerge on Netflix's Departure of Dan Lin",
-  "summary": "Reports examine the circumstances surrounding Netflix firing Dan Lin and tensions regarding the Narnia project.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1xaedsg/why_netflix_fired_dan_lin_and_the_truth_about_his/"
- },
- {
-  "date": "2026-10-20T08:00:09.523395+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Josh Duhamel Reacts to 'Ransom Canyon' Cancellation",
-  "summary": "Josh Duhamel has reacted publicly to the sudden cancellation of Netflix's Ransom Canyon despite its viewership success.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1xad7k2/josh_duhamel_reacts_to_ransom_canyon_cancellation/"
- },
- {
   "date": "2026-10-20T08:28:54.316147+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -22592,5 +22438,60 @@
   "verified": "official",
   "source": "Variety",
   "link": "https://variety.com/2026/theater/global/the-notebook-musical-west-end-run-judi-dench-theatre-1236920361/"
+ },
+ {
+  "date": "2026-10-23T08:01:40.116680+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "iPhone Duo Walk-In Purchases Expected to Be Challenging at Launch",
+  "summary": "Reports suggest that walk-in purchases for the new iPhone Duo may be difficult to secure at launch due to expected high demand and limited stock.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/"
+ },
+ {
+  "date": "2026-10-23T08:01:40.116680+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "business",
+  "headline": "MacBook Neo Boosts Apple's PC Market Share Amid Industry Slump",
+  "summary": "Apple grew its worldwide PC shipment market share in Q3 2026 despite an overall market decline, heavily aided by the success of the MacBook Neo.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/23/macbook-neo-helps-apple-outpace-rivals-as-market-declines/"
+ },
+ {
+  "date": "2026-10-23T08:01:40.116680+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "legal",
+  "headline": "PHP Vulnerability Exposes Lithuanian Websites",
+  "summary": "A PHP vulnerability has exposed 100 Lithuanian websites to potential hacker attacks.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xd7if0/php_vulnerability_exposes_100_lithuanian_websites/"
+ },
+ {
+  "date": "2026-10-23T08:01:40.116680+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Toyota's New Mid-Engined Coupe Teased Ahead of Racing Debut! \ud83c\udfce\ufe0f\ud83d\udd25",
+  "summary": "Toyota provides an early glimpse of its upcoming mid-engined coupe concept that previews a potential new MR2 ahead of its racing debut this weekend.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/813001/toyota-mid-engined-coupe-photos/"
+ },
+ {
+  "date": "2026-10-23T08:01:40.116680+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Peter Berg Brings Powerful WWII True Story 'The Mosquito Bowl' to AFI Fest",
+  "summary": "Peter Berg's WWII film adaptation 'The Mosquito Bowl' receives its review following the AFI Fest screening.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/the-mosquito-bowl-review-peter-berg-true-wwii-story-afi-fest-1237170862/"
  }
 ]
