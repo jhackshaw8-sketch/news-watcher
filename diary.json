@@ -1,104 +1,5 @@
 [
  {
-  "date": "2026-10-20T11:56:01.736685+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "legal",
-  "headline": "UK Regulators Target Apple Pay Restrictions",
-  "summary": "The UK government states that Apple continues to create barriers preventing Apple Pay competitors from effectively emerging.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/20/apple-still-makes-it-too-hard-for-apple-pay-competitors-to-emerge-says-uk/"
- },
- {
-  "date": "2026-10-20T11:56:01.736685+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "launch",
-  "headline": "New Fashion Collection Soars with iPad Pro",
-  "summary": "Fashion designer B\u00fcnyamin Ayd\u0131n utilized the iPad Pro and iPhone 18 Pro Max for his latest collection and landmark fashion show in Cappadocia.",
-  "verified": "official",
-  "source": "Apple Newsroom",
-  "link": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/"
- },
- {
-  "date": "2026-10-20T11:56:01.736685+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "legal",
-  "headline": "PEGI Raises Age Rating to 16 for Games with Loot Boxes",
-  "summary": "European age-ratings body PEGI is raising the age limit of games featuring loot boxes, such as EA Sports FC, to 16.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/pegi-age-ratings-16-loot-boxes-digital-only"
- },
- {
-  "date": "2026-10-20T11:56:01.736685+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "The Game-Changing RDR2 System That Almost Wasn't Pitched",
-  "summary": "A foundational Red Dead Redemption 2 system that heavily shaped GTA 6 almost never got pitched to leadership.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/games/grand-theft-auto/a-fundamental-red-dead-redemption-2-system-provided-the-basis-for-how-gta-6s-npcs-work-but-it-was-nearly-cut-because-of-an-ambitious-rockstar-studio-head/"
- },
- {
-  "date": "2026-10-20T11:56:01.736685+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "update",
-  "headline": "Cyberpunk 2077 Getting Major Update for Edgerunners Season 2",
-  "summary": "CD Projekt Red announces a substantial free update for Cyberpunk 2077 to coincide with the Netflix release of Edgerunners Season 2.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/cyberpunk-2077-25-update-free-egerunners-2-release"
- },
- {
-  "date": "2026-10-20T11:56:01.736685+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "GTA 6 Is So Massive No Single Rockstar Employee Knows It All",
-  "summary": "Reports highlight the massive scale of GTA 6, noting its unprecedented level of detail across massive development teams.",
-  "verified": "reliable_reporter",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6"
- },
- {
-  "date": "2026-10-20T11:56:01.736685+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "update",
-  "headline": "\u2728 Shiny Comeback: Bugatti Restores One-Off Mirror Veyron \ud83c\udfce\ufe0f",
-  "summary": "Bugatti brought back a unique Veyron with a mirror-like aluminum body to Molsheim for a comprehensive restoration a decade after its initial creation.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812586/bugatti-restores-veyron-polished-aluminum-body/"
- },
- {
-  "date": "2026-10-20T11:56:01.736685+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Grisham vs. Child Streaming Face-Off",
-  "summary": "The television adaptations of John Grisham's The Rainmaker and Lee Child's Reacher face off on streaming platforms.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/rainmaker-reacher-john-grisham-versus-lee-child-on-prime-video/"
- },
- {
-  "date": "2026-10-20T11:56:01.736685+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Christie Brinkley Opens Personal Archive for New Docuseries",
-  "summary": "Christie Brinkley is opening her personal archive for the upcoming docuseries Uptown Girl: The Christie Brinkley Story.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/christie-brinkley-uptown-girl-docuseries-home-movies-cannes-1237168422/"
- },
- {
   "date": "2026-10-20T12:20:05.325695+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -22350,5 +22251,104 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/stargate-timekeepers-official-console-release-update/"
+ },
+ {
+  "date": "2026-10-23T11:57:03.335740+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Exodus Reveals Protagonist Redesign",
+  "summary": "The developers of the sci-fi RPG Exodus have revealed a redesign for the game's male protagonist.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/exodus-protagonist-jun-makeover"
+ },
+ {
+  "date": "2026-10-23T11:57:03.335740+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "update",
+  "headline": "Call of Duty Dev Discusses Matchmaking",
+  "summary": "Infinity Ward's multiplayer chief has discussed the ongoing challenges and approach to matchmaking in Call of Duty.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/i-dont-know-if-theres-perfecting-it-call-of-duty-modern-warfare-4-multiplayer-chief-weighs-in-on-matchmaking"
+ },
+ {
+  "date": "2026-10-23T11:57:03.335740+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Shigeru Miyamoto Shares Perspective on AI in Game Dev",
+  "summary": "Nintendo's Shigeru Miyamoto shares his thoughts on artificial intelligence in game development.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/nintendo-mastermind-shigeru-miyamoto-says-ai-provides-an-opportunity-to-reflect-on-whats-really-important-in-game-dev-which-i-think-is-a-positive-thing/"
+ },
+ {
+  "date": "2026-10-23T11:57:03.335740+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Tesla Cancels Cybertruck Launch in Australia and NZ \ud83d\ude97\ud83d\udca8",
+  "summary": "Tesla has canceled its plans to release the Cybertruck in Australia and New Zealand, issuing refunds to reservation holders.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2295058/tesla-will-not-release-cybertruck-in-australia-and-new-zealand/"
+ },
+ {
+  "date": "2026-10-23T11:57:03.335740+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "2027 Honda Vezel Gets a Sleek Black Sport Glow-Up in Japan \ud83d\udda4\ud83d\ude99",
+  "summary": "The Honda Vezel receives a stylish Black Sport update for the 2027 model year in Japan.",
+  "verified": "official",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2295069/2027-honda-vezel-japan-updates-black-sport/"
+ },
+ {
+  "date": "2026-10-23T11:57:03.335740+00:00",
+  "topic": "Cars",
+  "score": 7,
+  "category": "launch",
+  "headline": "Factory-Fresh Ferrari 499P Modificata Headed to Auction for $8M+ \ud83c\udfce\ufe0f\ud83d\udcb0",
+  "summary": "A barely driven 2024 Ferrari 499P Modificata is heading to auction with an expected price over $8 million.",
+  "verified": "reliable_reporter",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/813056/ferrari-499p-modificata-christie-auction/"
+ },
+ {
+  "date": "2026-10-23T11:57:03.335740+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Anya Taylor-Joy's Sci-Fi Blockbuster Sets Netflix Release Date",
+  "summary": "Netflix officially announces the streaming release date for Anya Taylor-Joy's sci-fi blockbuster The Super Mario Galaxy Movie in one month.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/anya-taylor-joy-the-super-mario-galaxy-movie-netflix-release-date-november-2026/"
+ },
+ {
+  "date": "2026-10-23T11:57:03.335740+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Dragon Ball Z Officially Reveals Radical Vegito Redesign",
+  "summary": "Dragon Ball Z has officially revealed a brand-new and radical redesign for the popular fusion character Vegito.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/dragon-ball-z-legends-minecraft-vegito-redesign/"
+ },
+ {
+  "date": "2026-10-23T11:57:03.335740+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Mike Flanagan's Carrie Renewed for Season 2 at Prime Video",
+  "summary": "Mike Flanagan's Stephen King miniseries Carrie has officially been renewed for a second season at Prime Video.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/carrie-season-2-renewal-status-updates/"
  }
 ]
