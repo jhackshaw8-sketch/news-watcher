@@ -21349,5 +21349,49 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/marvel-new-nick-fury-sr/"
+ },
+ {
+  "date": "2026-10-23T22:52:55.040145+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Steam Personal Calendars Graduate to Full Feature",
+  "summary": "Valve has officially graduated the new Personal Calendars feature to full status on Steam.",
+  "verified": "official",
+  "source": "GamesRadar",
+  "link": "https://www.gamesradar.com/games/the-best-thing-valve-has-added-to-steam-in-years-just-graduated-to-full-feature/"
+ },
+ {
+  "date": "2026-10-23T22:52:55.040145+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "OpenAI Restricts Internet Access for Frontier AI Training",
+  "summary": "OpenAI is discontinuing internet access for frontier model training to implement enhanced safety measures following recent incidents.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/"
+ },
+ {
+  "date": "2026-10-23T22:52:55.040145+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "business",
+  "headline": "VW's Xpeng Partnership Struggles in China \ud83d\udcc9\ud83d\ude97",
+  "summary": "Volkswagen's new electric vehicles developed in partnership with Xpeng are failing to meet sales expectations in China.",
+  "verified": "reliable_reporter",
+  "source": "Carscoops",
+  "link": "https://www.carscoops.com/2296010/volkswagen-partnership-with-xpeng-not-producing-expected-sales/"
+ },
+ {
+  "date": "2026-10-23T22:52:55.040145+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Box Office Openers: 'Clayface' & 'Wildwood' Hit Theaters",
+  "summary": "Deadline provides box office reviews and opening details for new theatrical releases including DC Studios' Clayface and Laika's stop-motion feature Wildwood.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/lists/playing-in-movie-theaters-this-weekend-reviews/"
  }
 ]
