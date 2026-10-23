@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-20T08:28:54.316147+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "legal",
-  "headline": "OpenAI Alleges Ex-Employee Stole Confidential Device Files Before Joining Apple",
-  "summary": "OpenAI alleges that a former employee transferred confidential files regarding an unreleased device to personal accounts before moving to Apple.",
-  "verified": "reliable_reporter",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/14/openai-alleges-ex-employee-took-highly-confidential-device-files-to-apple/"
- },
- {
-  "date": "2026-10-20T08:28:54.316147+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "October PS Plus Premium and Extra Games Announced",
-  "summary": "Sony has officially revealed the lineup of modern hits and classic games coming to PlayStation Plus Premium and Extra in October.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/playstation-plus-october-2026-games"
- },
- {
-  "date": "2026-10-20T08:28:54.316147+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Patricia Clarkson's 'Lilly' to Open London's Women and the World Film Festival",
-  "summary": "Rachel Feldman's 'Lilly,' starring Patricia Clarkson, is set to open London's Women and the World International Film Festival.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/lilly-women-and-the-world-international-film-festival-1236914693/"
- },
- {
-  "date": "2026-10-20T08:28:54.316147+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "'Line of Duty' Director Preps New Drama 'BurnTime' for Rome MIA Market",
-  "summary": "Director Douglas Mackinnon is presenting his new Edinburgh-set paramedic drama 'BurnTime' at the Rome MIA Market Drama Co-Production Forum.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/global/douglas-mackinnon-burntime-rugged-island-films-1236917192/"
- },
- {
   "date": "2026-10-20T09:04:53.152111+00:00",
   "topic": "Gaming News",
   "score": 5,
@@ -22493,5 +22449,137 @@
   "verified": "official",
   "source": "Deadline Film",
   "link": "https://deadline.com/2026/10/the-mosquito-bowl-review-peter-berg-true-wwii-story-afi-fest-1237170862/"
+ },
+ {
+  "date": "2026-10-23T08:59:48.792535+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "rumor",
+  "headline": "Mass Effect 5 Trailer Leaks Online",
+  "summary": "A trailer for Mass Effect 5, reportedly titled Mass Effect: Universe, has leaked online.",
+  "verified": "unconfirmed",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xd8roj/mass_effect_5_trailer_leaks_online_with_mass/"
+ },
+ {
+  "date": "2026-10-23T08:59:48.792535+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "Romancing SaGa 2 Remake Crosses One Million Sales",
+  "summary": "Romancing SaGa 2: Revenge of the Seven has surpassed one million shipments and digital sales.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xd8mwg/romancing_saga_2_revenge_of_the_seven_shipments/"
+ },
+ {
+  "date": "2026-10-23T08:59:48.792535+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Shigeru Miyamoto Receives Japan's Order of Culture",
+  "summary": "Shigeru Miyamoto is set to become the first gaming industry figure to receive Japan\u2019s prestigious Order of Culture.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xd46lz/shigeru_miyamoto_to_become_first_gaming_industry/"
+ },
+ {
+  "date": "2026-10-23T08:59:48.792535+00:00",
+  "topic": "Cars",
+  "score": 8,
+  "category": "launch",
+  "headline": "2027 Subaru Outback Base Trim Returns with Lower Price \ud83d\ude99\ud83d\udca8",
+  "summary": "Subaru brings back the base trim for the 2027 Outback, lowering the entry price while retaining key standard features.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/813019/2027-subaru-outback-base-trim/"
+ },
+ {
+  "date": "2026-10-23T08:59:48.792535+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Alfa Romeo is Done With Huge, Obsolete Car Screens \ud83d\udeab\ud83d\udcf1",
+  "summary": "Alfa Romeo's design boss criticizes massive automotive touchscreens, predicting they will soon become obsolete.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/813012/alfa-romeo-wants-ditch-large-screens/"
+ },
+ {
+  "date": "2026-10-23T08:59:48.792535+00:00",
+  "topic": "Cars",
+  "score": 9,
+  "category": "launch",
+  "headline": "Audi Q9 Debuts World-First Curved OLED Taillights \u2728\ud83d\ude97",
+  "summary": "The new Audi Q9 debuts with world-first curved digital OLED taillights featuring 512 segments for enhanced visibility.",
+  "verified": "official",
+  "source": "Motor1",
+  "link": "https://www.motor1.com/news/813009/audi-q9-curved-oled-taillights/"
+ },
+ {
+  "date": "2026-10-23T08:59:48.792535+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "casting",
+  "headline": "Hannah Dodd Lands First Lead Film Role in Romantic Drama",
+  "summary": "Bridgerton star Hannah Dodd has landed her first lead film role in the upcoming romantic drama Miss You Forever, Zara Drake.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/hannah-dodd-romantic-drama-miss-you-forever-zara-drake-1236922171/"
+ },
+ {
+  "date": "2026-10-23T08:59:48.792535+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Apple TV Sci-Fi Hit Confirms Season 2 Production Update",
+  "summary": "Star Rhea Seehorn has confirmed that production for Season 2 of the acclaimed Apple TV sci-fi series is starting very soon.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/pluribus-season-2-filming-update-rhea-seehorn/"
+ },
+ {
+  "date": "2026-10-23T08:59:48.792535+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Netflix Announces 'La Regenta' Adaptation Starring Ester Exp\u00f3sito",
+  "summary": "Netflix has announced a brand new feature film adaptation of the classic novel La Regenta, starring Ester Exp\u00f3sito and directed by Mar Coll.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/netflix-ester-exposito-mar-coll-elastica-maria-zamora-1236919972/"
+ },
+ {
+  "date": "2026-10-23T08:59:48.792535+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Omar Sy Explains Formula Changes for Lupin Season 4",
+  "summary": "Actor Omar Sy breaks down why Netflix's hit heist thriller Lupin had to alter its formula for the upcoming fourth season.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/lupin-season-4-twist-omar-sy/"
+ },
+ {
+  "date": "2026-10-23T08:59:48.792535+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Lupin Season 4 Review: A High-Octane Joyride",
+  "summary": "Lupin Season 4 kicks off with high-octane action, though its long-term quality remains to be seen.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/lupin-season-4-review/"
+ },
+ {
+  "date": "2026-10-23T08:59:48.792535+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "U-KNOCK 2026 Announces Dates for Hollywood Investment Event",
+  "summary": "U-KNOCK 2026 will connect Korean content companies with global partners in Los Angeles on November 4\u20136, 2026.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/u-knock-2026-korean-content-hollywood-partner-content-1237170508/"
  }
 ]
