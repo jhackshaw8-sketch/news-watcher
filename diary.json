@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-10-21T23:13:49.711881+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "Politician Blasts Studio Closure Over Private Equity Practices",
-  "summary": "NDP leader Avi Lewis criticized the studio closure as an example of private equity destroying businesses for short-term profit.",
-  "verified": "reliable_reporter",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1xc1tdl/ndp_leader_avi_lewis_on_the_bioware_closure_this/"
- },
- {
-  "date": "2026-10-21T23:13:49.711881+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Tenebris Somnia Release Date and Reviews",
-  "summary": "Tenebris Somnia has received a review thread following its release date trailer ahead of its PC launch.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1xc0m7v/tenebris_somnia_review_thread/"
- },
- {
-  "date": "2026-10-21T23:13:49.711881+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "announcement",
-  "headline": "EA Sports Confirms New Open-World Football Game",
-  "summary": "EA Sports has officially confirmed that it is currently developing a brand new open-world football game.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1xbyjyh/ea_sports_is_working_on_a_brand_new_openworld/"
- },
- {
-  "date": "2026-10-21T23:13:49.711881+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Maxis and Other Studios Targeted in EA Layoffs Report",
-  "summary": "A report indicates that Maxis, Full Circle, and Ripple Effect are facing targeted cuts during sweeping EA layoffs.",
-  "verified": "reliable_reporter",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1xby2ab/report_maxis_full_circle_and_ripple_effect/"
- },
- {
-  "date": "2026-10-21T23:13:49.711881+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "update",
-  "headline": "The Elder Scrolls Online Drops Echoes of Skyrim Trailer",
-  "summary": "The Elder Scrolls Online has debuted its official Season Two trailer titled Echoes of Skyrim.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1xbwtgf/the_elder_scrolls_online_season_two_trailer/"
- },
- {
-  "date": "2026-10-21T23:13:49.711881+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Pratfall Announces Console Releases for PS5, Xbox, and Switch 2",
-  "summary": "Pratfall has announced upcoming console releases for PS5, Xbox Series, and Switch 2 with release dates still to be determined.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1xbwfta/pratfall_releases_tbd_on_ps5_xbox_series_switch_2/"
- },
- {
-  "date": "2026-10-21T23:13:49.711881+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "RV There Yet Gets October Release Date for PS5 and Switch 2",
-  "summary": "The game RV There Yet has secured an official release date for October 29 on PS5 and Switch 2 systems.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1xbweou/rv_there_yet_releases_oct_29th_on_ps5_switch_2/"
- },
- {
-  "date": "2026-10-21T23:13:49.711881+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "MapleStory Classic World Launches with New Trailer",
-  "summary": "MapleStory has released an official launch trailer for its Classic World expansion.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1xbwd2h/maplestory_classic_world_launch_trailer/"
- },
- {
-  "date": "2026-10-21T23:13:49.711881+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Slow Horses Officially Preps for Season 7 Return",
-  "summary": "Apple TV's spy thriller Slow Horses has officially wrapped Season 6 and is expected to return for Season 7 in 2027.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/apple-tv-slow-horses-season-7-release-window-2027/"
- },
- {
-  "date": "2026-10-21T23:13:49.711881+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "New Gameplay Footage Surfaces for Zelda: Minish Cap 3D Remake",
-  "summary": "A new gameplay video for the 3D remake of The Legend of Zelda: Minish Cap has been released, giving fans a look at what to expect.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/legend-of-zelda-minish-cap-3d-remake-gameplay-video/"
- },
- {
-  "date": "2026-10-21T23:13:49.711881+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Modern-Day Peaky Blinders Drama Renewed for Two More Seasons",
-  "summary": "The BBC's gritty Liverpool crime drama, often called a modern-day Peaky Blinders, has been renewed for two more seasons.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/this-city-is-ours-renewed-2-more-seasons/"
- },
- {
   "date": "2026-10-21T23:50:42.219191+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -17279,5 +17158,16 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/batman-new-costume-codename-bruce-wayne-death/"
+ },
+ {
+  "date": "2026-10-24T23:43:54.891094+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "The Gilded Age Season 4 Kicks Off Next Week",
+  "summary": "The Gilded Age Season 4 is officially set to begin production next week on HBO.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/the-gilded-age-season-4-premiere-date-november-2026/"
  }
 ]
