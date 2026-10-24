@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-21T08:03:15.766911+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "launch",
-  "headline": "BMW i3 Touring Spied Ready for Family Duty \ud83d\ude99\u26a1",
-  "summary": "BMW is expanding its electric lineup with an i3 Touring wagon expected in 2027 as a practical alternative to SUVs.",
-  "verified": "reliable_reporter",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2292572/i3-touring-new-scoop/"
- },
- {
-  "date": "2026-10-21T08:03:15.766911+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "launch",
-  "headline": "Stunning Alfa Romeo Giulia Convertible Transformation \ud83c\udfce\ufe0f\u2728",
-  "summary": "An Italian coachbuilder has transformed an Alfa Romeo Giulia Quadrifoglio sedan into a custom two-seat convertible.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812700/alfa-romeo-giulia-coupe-convertible/"
- },
- {
   "date": "2026-10-21T09:02:01.838820+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -21030,5 +21008,27 @@
   "verified": "unconfirmed",
   "source": "r/apple",
   "link": "https://www.reddit.com/r/apple/comments/1xe2jan/apple_exploring_fix_for_safaris_cramped_layout_on/"
+ },
+ {
+  "date": "2026-10-24T08:14:49.080013+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Spider-Man Becomes an Unlikely Apple TV Streaming Hit",
+  "summary": "Spider-Man: Far From Home has unexpectedly become a global streaming hit on Apple TV.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/spider-man-far-from-home-apple-tv-streaming-hit-october-2026/"
+ },
+ {
+  "date": "2026-10-24T08:14:49.080013+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Ahsoka Returns in March 2027 for New Star Wars Adaptation",
+  "summary": "Ahsoka is officially returning in March 2027 in a brand-new Star Wars adaptation.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/star-wars-ahsoka-adaptation-march-2027/"
  }
 ]
