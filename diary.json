@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-21T06:21:13.356935+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "update",
-  "headline": "Mercedes Puts CLA Models Through Brutal Crash Testing \ud83d\udca5\ud83d\ude97",
-  "summary": "Mercedes-Benz conducted a rigorous crash test by T-boning an electric CLA with a hybrid CLA Shooting Brake at 35 mph to evaluate occupant safety and high-voltage battery response.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812673/mercedes-benz-cla-crash-test/"
- },
- {
-  "date": "2026-10-21T06:21:13.356935+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Elden Ring's Malenia Teased for New 2027 Release",
-  "summary": "Elden Ring's Malenia is announced to return in a new 2027 release.",
-  "verified": "unconfirmed",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/elden-ring-malenia-2027-return/"
- },
- {
   "date": "2026-10-21T07:14:19.298217+00:00",
   "topic": "Cars",
   "score": 6,
@@ -21118,5 +21096,38 @@
   "verified": "official",
   "source": "r/technology",
   "link": "https://www.reddit.com/r/technology/comments/1xdnvq3/mapquest_now_showing_surveillance_camera/"
+ },
+ {
+  "date": "2026-10-24T07:07:58.367292+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Lee Hwan-kyung Begins Production on Indonesian Drama 'Gasigogi'",
+  "summary": "Director Lee Hwan-kyung has begun production on the Indonesian father-son drama 'Gasigogi' with an ensemble cast including Vino G. Bastian.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/vino-g-bastian-pevita-pearce-faradina-mufti-gasigogi-1236930103/"
+ },
+ {
+  "date": "2026-10-24T07:07:58.367292+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Quentin Tarantino Surprises AFI Fest With First Footage of 'Cliff Booth'",
+  "summary": "Quentin Tarantino surprised AFI Fest attendees by screening the first 17 minutes of his upcoming film 'The Further Mis-Adventures of Cliff Booth'.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/quentin-tarantino-cliff-booth-screening-surprise-afi-fest-1237172221/"
+ },
+ {
+  "date": "2026-10-24T07:07:58.367292+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "'Interview with the Vampire' Gets New 4K Digital Promo",
+  "summary": "Warner Bros. released a new 4K promotional clip highlighting the classic 'Interview with the Vampire' starring Brad Pitt and Tom Cruise.",
+  "verified": "official",
+  "source": "Warner Bros (trailers)",
+  "link": "https://www.youtube.com/watch?v=1lw9PluVDCM"
  }
 ]
