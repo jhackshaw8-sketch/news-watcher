@@ -1,71 +1,5 @@
 [
  {
-  "date": "2026-10-21T03:59:03.452032+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "launch",
-  "headline": "Beats and Pok\u00e9mon Team Up for Special Edition Pill Speaker",
-  "summary": "Beats and The Pok\u00e9mon Company have teamed up for a special edition Beats Pill collaboration.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/15/hands-on-pokemon-x-beats-pill-is-one-of-my-favorite-collabs-yet-video/"
- },
- {
-  "date": "2026-10-21T03:59:03.452032+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "business",
-  "headline": "Apple App Store Head Discusses Push for Premium Games",
-  "summary": "Apple's App Store chief Carson Oliver discussed the platform's increased focus on bringing premium console and PC games to mobile.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/20/app-store-chief-explains-premium-games-push/"
- },
- {
-  "date": "2026-10-21T03:59:03.452032+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Apple Faces Potential Increased Penalties in $5.7B Patent Case",
-  "summary": "Apple could face even higher financial penalties following a massive $5.7 billion patent verdict as the plaintiff seeks additional royalties.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1xbcz1r/apple_could_owe_even_more_after_57_billion_patent/"
- },
- {
-  "date": "2026-10-21T03:59:03.452032+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "update",
-  "headline": "John Ternus Discusses iPhone Duo and Foldable Tech",
-  "summary": "Apple executive John Ternus discussed the iPhone Duo and industry foldable devices in a recent TIME interview.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/15/john-ternus-talks-iphone-duo-cheap-and-crappy-foldables-in-new-interview/"
- },
- {
-  "date": "2026-10-21T03:59:03.452032+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Plaintiff Seeks Additional Damages in $5.7B Apple Patent Lawsuit",
-  "summary": "Taction Technology is asking a federal judge for more damages, interest, and ongoing royalties on top of the recent $5.7 billion patent verdict against Apple.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/20/apple-could-owe-more-after-patent-verdict/"
- },
- {
-  "date": "2026-10-21T03:59:03.452032+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "update",
-  "headline": "PHP Prepares Emergency Patches for Critical Vulnerability",
-  "summary": "PHP is preparing two emergency security patches to address an unconfirmed remote code execution exploit.",
-  "verified": "unconfirmed",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
- },
- {
   "date": "2026-10-21T04:25:44.832685+00:00",
   "topic": "Apple News",
   "score": 5,
@@ -20876,5 +20810,60 @@
   "verified": "reliable_reporter",
   "source": "r/movies",
   "link": "https://www.reddit.com/r/movies/comments/1xdv294/the_dream_of_the_nineties_animation_boom_is_alive/"
+ },
+ {
+  "date": "2026-10-24T04:19:25.340735+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Apple Clashes With DOJ Over Evidence in Antitrust Case",
+  "summary": "Apple and the U.S. Department of Justice are in disagreement over the amount of new evidence Apple needs to provide in their ongoing antitrust lawsuit.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/24/apple-pushes-back-on-doj-request/"
+ },
+ {
+  "date": "2026-10-24T04:19:25.340735+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Thriller Series 'From' Lands on Netflix",
+  "summary": "The first three seasons of the hit thriller show From are now officially available to stream on Netflix.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/from-tv-series-netflix-new-streaming-home-october-2026/"
+ },
+ {
+  "date": "2026-10-24T04:19:25.340735+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Inside Laika's Studio for 'Wildwood'",
+  "summary": "A behind-the-scenes look explores Laika's studio as artists bring the stop-motion film Wildwood to life.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xdyo44/inside_laikas_studio_where_artists_bring_wildwood/"
+ },
+ {
+  "date": "2026-10-24T04:19:25.340735+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Resident Evil Legend Leon Kennedy Officially Returns January 2027",
+  "summary": "Capcom has officially announced that Resident Evil's Leon Kennedy will return in a new remake collection launching in January 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/resident-evil-leon-kennedy-switch-2-remake-collection-january-2027/"
+ },
+ {
+  "date": "2026-10-24T04:19:25.340735+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Fan-Favorite Crunchyroll Isekai Anime Returns for Season 2 This January",
+  "summary": "A popular isekai anime series has officially scheduled its long-awaited season 2 premiere on Crunchyroll for this January.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/crunchyroll-near-perfect-isekai-worlds-finest-assassin-season-2/"
  }
 ]
