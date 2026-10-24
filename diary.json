@@ -1,49 +1,5 @@
 [
  {
-  "date": "2026-10-21T02:56:53.512889+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "business",
-  "headline": "Apple Highlights Mac and iPad Use in Paris Design Exhibition",
-  "summary": "Apple showcased four design projects created using Mac and iPad for the Designers of Tomorrow exhibition in Paris.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/20/apple-highlights-paris-design-exhibition/"
- },
- {
-  "date": "2026-10-21T02:56:53.512889+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Batman Begins Leaving Netflix Soon",
-  "summary": "Batman Begins is scheduled to be removed from Netflix in certain regions soon.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/christopher-nolan-batman-begins-leaving-netflix-november-2026/"
- },
- {
-  "date": "2026-10-21T02:56:53.512889+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "VisionQuest Channels Battlestar Galactica Vibe",
-  "summary": "Upcoming series VisionQuest incorporates story elements and cast members reminiscent of Battlestar Galactica.",
-  "verified": "reliable_reporter",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2292274/visionquest-borrow-best-part-sci-fi-series-battlestar-galactica/"
- },
- {
-  "date": "2026-10-21T02:56:53.512889+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "DC's Clayface Movie Hits Theaters in Three Days",
-  "summary": "The DCU's first R-rated horror movie, Clayface, is officially releasing in theaters in three days.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/dc-horror-clayface-release-date-october-2026/"
- },
- {
   "date": "2026-10-21T03:21:24.135486+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -21008,5 +20964,16 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/jake-gyllenhaal-the-day-after-tomorrow-streaming-netflix-november-2026/"
+ },
+ {
+  "date": "2026-10-24T03:18:02.452273+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "James Watkins Confirms Aaron Paul Cameo in 'Clayface'",
+  "summary": "Director James Watkins has confirmed that Aaron Paul makes a brief cameo appearance in the DCU movie Clayface as the father of the title character.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/clayface-james-watkins-explains-aaron-paul-cameo-1237172273/"
  }
 ]
