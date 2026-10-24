@@ -1,104 +1,5 @@
 [
  {
-  "date": "2026-10-21T01:57:27.882104+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple Begins 6G Modem Development with New Hiring Push",
-  "summary": "Apple is hiring a cellular modem systems engineer to begin research and development for future 6G connectivity.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/"
- },
- {
-  "date": "2026-10-21T01:57:27.882104+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Apple Sets Deadline for iPhone Duo Pre-Order Preparation",
-  "summary": "Apple has established a deadline for customers to complete the 'Get Ready' pre-order process ahead of the upcoming iPhone Duo launch.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/15/apple-sets-cutoff-time-for-getting-fastest-iphone-duo-pre-order/"
- },
- {
-  "date": "2026-10-21T01:57:27.882104+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "Fire Emblem: Fortune's Weave Gets First DLC Wave",
-  "summary": "Nintendo and Intelligent Systems release the first wave of DLC and an expansion pass for Fire Emblem: Fortune's Weave.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass"
- },
- {
-  "date": "2026-10-21T01:57:27.882104+00:00",
-  "topic": "Gaming News",
-  "score": 10,
-  "category": "launch",
-  "headline": "GTA 6 Official Launch Trailer Drops",
-  "summary": "Rockstar Games drops the official launch trailer for Grand Theft Auto 6 ahead of its November 19 release.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer"
- },
- {
-  "date": "2026-10-21T01:57:27.882104+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Liam Neeson's The Fix Debuts on Streaming",
-  "summary": "Liam Neeson and Zachary Levi's action-thriller film The Fix has officially debuted on streaming.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/liam-neeson-the-fix-streaming-pvod-october-2026/"
- },
- {
-  "date": "2026-10-21T01:57:27.882104+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "The Green Mile Becomes a Streaming Hit on Tubi",
-  "summary": "The 1999 Stephen King adaptation The Green Mile is currently finding new streaming success on Tubi.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/stephen-king-the-green-mile-carrie-streaming-free-tubi-october-2026/"
- },
- {
-  "date": "2026-10-21T01:57:27.882104+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "New Snoopy Christmas Special Premieres With a Twist",
-  "summary": "Snoopy Presents: 12 Days of Christmas marks the Peanuts franchise's first holiday special in five years.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/snoopy-presents-new-christmas-special-twist/"
- },
- {
-  "date": "2026-10-21T01:57:27.882104+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Chris Pratt Returns in The Terminal List Season 2",
-  "summary": "Chris Pratt returns for the second season of Prime Video's The Terminal List this week.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/chris-pratt-reacher-replacement-the-terminal-list-season-2-release-date-prime-video-october-2026/"
- },
- {
-  "date": "2026-10-21T01:57:27.882104+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "update",
-  "headline": "Slow Horses Season 7 Recruits Guy Ritchie Stars",
-  "summary": "Apple TV's Slow Horses has officially added several actors from Guy Ritchie's films to its Season 7 cast.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/apple-tv-slow-horses-season-7-cast-ethan-moorhouse-joshua-mcguire/"
- },
- {
   "date": "2026-10-21T02:20:56.925362+00:00",
   "topic": "Apple News",
   "score": 5,
@@ -21041,5 +20942,104 @@
   "verified": "official",
   "source": "Collider",
   "link": "https://collider.com/stephen-king-carrie-streaming-success-prime-video-october-2026-1-billion-minutes-watched/"
+ },
+ {
+  "date": "2026-10-24T01:57:46.899635+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "update",
+  "headline": "iPhone Duo Jailbroken on Launch Day",
+  "summary": "An iPhone Duo has reportedly been jailbroken on its launch day.",
+  "verified": "unconfirmed",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1xdvr6t/iphone_duo_jailbroken_on_launch_day/"
+ },
+ {
+  "date": "2026-10-24T01:57:46.899635+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "HBO's New Drama 'War' Earns Early Season 2 Renewal",
+  "summary": "HBO's new legal drama series War has officially been renewed for a second season before its premiere.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/hbo-war-tv-show-succession-replacement-season-2-renewed/"
+ },
+ {
+  "date": "2026-10-24T01:57:46.899635+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Jason Statham's 'Shelter' Finds Streaming Success",
+  "summary": "Jason Statham's 2026 action thriller Shelter is finding new life on streaming charts following its modest theatrical run.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/jason-statham-thriller-shelter-streaming-success-prime-video-october-2026/"
+ },
+ {
+  "date": "2026-10-24T01:57:46.899635+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Ryan Murphy\u2019s \u2018Glee\u2019 Reboot Eyes Fan-Favorite Returns",
+  "summary": "Ryan Murphy's upcoming Glee reboot is reportedly in talks with two fan-favorite stars to return alongside Lea Michele.",
+  "verified": "unconfirmed",
+  "source": "Collider",
+  "link": "https://collider.com/glee-reboot-casting-talks-chord-overstreet-heather-morris/"
+ },
+ {
+  "date": "2026-10-24T01:57:46.899635+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Anne Hathaway's 'Verity' Exits Over 1,100 Theaters",
+  "summary": "The Anne Hathaway psychological thriller Verity has exited over 1,100 theaters ahead of its upcoming home-video release.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/anne-hathaway-thriller-verity-removed-from-1100-theaters-box-office/"
+ },
+ {
+  "date": "2026-10-24T01:57:46.899635+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "New 'Avengers: Doomsday' Teaser Previews Doctor Doom",
+  "summary": "A brand new teaser for Avengers: Doomsday debuted at the MLB World Series, previewing Robert Downey Jr.'s Doctor Doom.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/avengers-doomsday-world-series-sneak-peek/"
+ },
+ {
+  "date": "2026-10-24T01:57:46.899635+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Jessica Chastain's Horror Flop Pulled From Theaters",
+  "summary": "Jessica Chastain's horror film Other Mommy has been pulled from over 500 theaters following a sharp box office decline.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/jessica-chastain-other-mommy-removed-from-500-theaters/"
+ },
+ {
+  "date": "2026-10-24T01:57:46.899635+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Harrison Ford's Apple TV Series Begins a New Era",
+  "summary": "Harrison Ford's Apple TV series is preparing for a new era and fresh start.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/shrinking-season-4-harrison-ford-new-era-time-jump/"
+ },
+ {
+  "date": "2026-10-24T01:57:46.899635+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Avengers: Doomsday Crosses Over With Major League Baseball",
+  "summary": "Avengers: Doomsday made an unexpected promotional appearance during the World Series.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/avengers-doomsday-mlb-crossover/"
  }
 ]
