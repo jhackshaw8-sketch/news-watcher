@@ -1,181 +1,5 @@
 [
  {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "iPhone Duo Tips Over on Some MagSafe Stands",
-  "summary": "Reviews demonstrate that the unfolding iPhone Duo can tilt or tip over on certain upright MagSafe charger stands due to uneven weight distribution.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/21/iphone-duo-magsafe-charging/"
- },
- {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "business",
-  "headline": "BioWare Reportedly Shutting Down and Canceling Next Mass Effect",
-  "summary": "A new report claims that BioWare is shutting down and its upcoming Mass Effect game has been canceled.",
-  "verified": "unconfirmed",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/bioware-shutting-down-next-mass-effect-canceled"
- },
- {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "update",
-  "headline": "Modern Warfare 4 DMZ Players Still Losing Loot From Server Crashes",
-  "summary": "Call of Duty: Modern Warfare 4 players continue to lose loot in the DMZ extraction mode due to ongoing server crashes.",
-  "verified": "official",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/modern-warfare-4s-dmz-players-are-losing-loot-to-server-crashes-despite-official-fix-from-infinity-ward"
- },
- {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Medical AI Startup OpenEvidence Surges Amidst Ad and Accuracy Debates",
-  "summary": "OpenEvidence, an ad-powered AI startup used in medical fields, is experiencing rapid growth amidst accuracy debates.",
-  "verified": "reliable_reporter",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/"
- },
- {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Kid Cudi Announces New Biopic 'Jean' as Basquiat",
-  "summary": "Kid Cudi has announced he will star as Jean-Michel Basquiat in the self-written and directed film 'Jean', scheduled to begin shooting in 2027.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/kid-cudi-to-star-jean-michel-basquiat-film-1236919008/"
- },
- {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "New Look at Brad Pitt in 'Cliff Booth'",
-  "summary": "Netflix has released new images for the David Fincher-directed film 'The Further Mis-Adventures of Cliff Booth', starring Brad Pitt and written by Quentin Tarantino.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/gallery/the-further-mis-adventures-of-cliff-booth-new-photos-netflix/"
- },
- {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Neon Expands Distribution for Documentary 'NAZA'",
-  "summary": "Neon has partnered with The Guardian, MK2, and others to expand the theatrical footprint of the prize-winning documentary 'NAZA'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/neon-naza-wider-audiences-1236918907/"
- },
- {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Neon Boards Gaza-Israel Doc 'NAZA'",
-  "summary": "Neon joins the team behind the Gaza-Israel documentary 'NAZA' directed by Yuval Abraham and Rachel Szor.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/neon-joins-gaza-israel-documentary-naza-1237169790/"
- },
- {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "'Digger' Loses Nearly 3,000 Theaters in Major Box Office Blow",
-  "summary": "Tom Cruise's film 'Digger' has been pulled from nearly 3,000 theaters, significantly hurting its box office run.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/digger-box-office-removed-nearly-3000-theaters/"
- },
- {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "'The Holiday' Returns to Theaters for 20th Anniversary",
-  "summary": "The 2006 romantic comedy 'The Holiday' is returning to theaters nationwide for a special 20th-anniversary screening on December 11.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/the-holiday-returns-theaters-anniversary-1236918954/"
- },
- {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Michael Pe\u00f1a and Anthony Ramos Join Thriller 'Free Agent'",
-  "summary": "Michael Pe\u00f1a and Anthony Ramos are set to star in the true-life thriller 'Free Agent' written by the scribes behind 'BlacKkKlansman'.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/michael-pena-anthony-ramos-to-star-free-agent-1237169777/"
- },
- {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Jesse Eisenberg's 'The Debut' Wins Middleburg Audience Award",
-  "summary": "Jesse Eisenberg's directorial effort 'The Debut' won the audience award at the Middleburg Film Festival.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/the-debut-middleburg-film-festival-audience-award-1236918937/"
- },
- {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Billie Eilish and Finneas Team Up for John Hardy Jewelry Collection",
-  "summary": "Billie Eilish and Finneas are launching their first co-designed jewelry collection in collaboration with luxury house John Hardy on October 21.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/shopping/news/billie-eilish-finneas-jewelry-collection-john-hardy-1236918976/"
- },
- {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Dune: Part Three Smashes BFI IMAX Presale Record",
-  "summary": "Dune: Part Three has broken the presale record previously held by Odyssey at London\u2019s BFI IMAX.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1xbtngr/dune_part_three_smashes_odyssey_presale_record_at/"
- },
- {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Ron Funches Sets 'Eat Cookies & Die' Stand-Up Special Release Dates",
-  "summary": "Ron Funches has announced his new stand-up comedy special 'Eat Cookies & Die', premiering on Gorilla Comedy+ on November 2 before heading to YouTube.",
-  "verified": "official",
-  "source": "Variety",
-  "link": "https://variety.com/2026/tv/news/ron-funches-comedy-special-eat-cookies-die-1236918020/"
- },
- {
-  "date": "2026-10-21T17:54:54.190637+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "update",
-  "headline": "Lea Michele Set to Return for 'Glee' Reboot",
-  "summary": "Lea Michele is reportedly returning to her role as Rachel Berry for an upcoming 'Glee' reboot.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1xbtf1t/lea_michele_returning_for_glee_reboot_as_rachel/"
- },
- {
   "date": "2026-10-21T18:18:20.581566+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -19017,5 +18841,16 @@
   "verified": "reliable_reporter",
   "source": "ScreenRant",
   "link": "https://screenrant.com/michael-b-jordan-miami-vice-85-set-photos/"
+ },
+ {
+  "date": "2026-10-24T18:10:24.230040+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Stalker 2 Update 2.1 Leaked Early",
+  "summary": "PlayStation Asia has reportedly leaked details regarding an upcoming 2.1 update for Stalker 2: Heart of Chornobyl arriving next week.",
+  "verified": "unconfirmed",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak"
  }
 ]
