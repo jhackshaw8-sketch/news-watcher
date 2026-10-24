@@ -1,181 +1,5 @@
 [
  {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Apple TV 4K and HomeView Pre-orders Face Shipping Delays",
-  "summary": "Pre-order shipping times for the newly announced Apple TV 4K and HomeView devices have slipped into late November.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/15/apple-tv-4k-homeview-pre-order-ship-times-now-delayed-to-late-november/"
- },
- {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Loop Capital Lowers Apple Rating Over iPhone Sales Concerns",
-  "summary": "Loop Capital has downgraded its rating for Apple due to concerns regarding the outlook for iPhone sales.",
-  "verified": "reliable_reporter",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1xbjch0/loop_capital_cuts_apple_rating_over_iphone_sales/"
- },
- {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "business",
-  "headline": "Apple Stores in Bordeaux and Lille Looted Amid French Protests",
-  "summary": "Apple retail stores located in Bordeaux and Lille were looted during recent protests in France.",
-  "verified": "reliable_reporter",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1xbjc5c/apple_stores_in_bordeaux_and_lille_looted_during/"
- },
- {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "update",
-  "headline": "Critical Role Announces Lord of the Rings Collaboration",
-  "summary": "Critical Role is partnering with The Lord of the Rings for a new Rings of Power collaboration.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/critical-role-lord-of-the-rings-crossover-twitch-con/"
- },
- {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Gaming News",
-  "score": 5,
-  "category": "business",
-  "headline": "Life is Strange Director Praises Upcoming Amazon TV Show",
-  "summary": "The co-creator and game director of Life is Strange has given their full blessing to the upcoming Amazon TV adaptation.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/live-action-shows/life-is-strange-game-director-gives-upcoming-amazon-tv-adaptation-his-blessing-the-care-the-love-the-attention-to-detail-i-couldnt-be-prouder/"
- },
- {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Cyberpunk Edgerunners Season 2 Timeline Confirmed",
-  "summary": "A Cyberpunk loremaster has confirmed the timeline setting for Edgerunners season 2 following conflicting statements.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/anime-shows/cyberpunk-loremaster-confirms-year-of-edgerunners-2-despite-creator-originally-saying-its-a-spoiler/"
- },
- {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Electric BMW 3 Series Wagon Spied Testing! \u26a1\ud83d\ude99",
-  "summary": "BMW's upcoming electric 3 Series wagon has been spotted testing with heavy camouflage, hinting at a production-ready design.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812722/2028-bmw-i3-touring-spy-video/"
- },
- {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "launch",
-  "headline": "Throwback to the 2001 Ford Forty-Nine Concept \ud83d\ude97\u2728",
-  "summary": "A nostalgic look back at the classic 2001 Ford Forty-Nine concept car.",
-  "verified": "official",
-  "source": "r/carporn",
-  "link": "https://www.reddit.com/r/carporn/comments/1xbizso/2001_ford_fortynine_concept_2048x1536/"
- },
- {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Cars",
-  "score": 5,
-  "category": "rumor",
-  "headline": "Honda ZR-V TrailSport Could Bring Rugged Hybrid Vibes \ud83c\udf32\ud83d\ude99",
-  "summary": "Reports suggest Honda may introduce a rugged TrailSport trim for the ZR-V hybrid crossover in the Japanese market.",
-  "verified": "reliable_reporter",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812726/honda-zr-v-trailsport-reported/"
- },
- {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "legal",
-  "headline": "Noel Clarke Pleads Not Guilty to Sexual Offense Charges",
-  "summary": "Actor and director Noel Clarke pleaded not guilty to six sexual offense charges at Westminster Magistrates Court.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/global/noel-clarke-pleads-not-guilty-sexual-offence-charges-1236918512/"
- },
- {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Kevin Costner\u2019s Western Officially Arrives on HBO Max",
-  "summary": "Kevin Costner's Western film has officially arrived on HBO Max for streaming.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/kevin-costner-horizon-an-american-saga-part-1-streaming-hbo-max-october-2026/"
- },
- {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Tokyo International Film Festival Dates Announced",
-  "summary": "The Tokyo International Film Festival has officially announced its upcoming dates, taking place from October 26 to November.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/godzilla-minus-zero-tokyo-film-festival-sukiyaki-japan-1237168344/"
- },
- {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Pok\u00e9mon Officially Confirms Brand New Type",
-  "summary": "Pok\u00e9mon officially confirms a new type, bringing major changes to the franchise.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/pokemon-dual-type-mega-evolutions-tcg-pocket/"
- },
- {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Brandon Sanderson Hits Record Milestone With Blightfall",
-  "summary": "Brandon Sanderson's new Skyward series sequel, Blightfall, has achieved a new record milestone.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/brandon-sanderson-blightfall-nyt-bestseller-list-first-time-record/"
- },
- {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "John Leguizamo To Be Honored At S\u00e3o Paulo Film Festival",
-  "summary": "John Leguizamo is officially set to be honored with the Leon Cakoff Award and host a masterclass at the S\u00e3o Paulo International Film Festival.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/john-leguizamo-thonored-sao-paulo-film-festival-1237169485/"
- },
- {
-  "date": "2026-10-21T10:25:23.223963+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "launch",
-  "headline": "Elden Ring Surprise Patch 1.17.2 Officially Released",
-  "summary": "Bandai Namco has officially released a surprise update patch 1.17.2 for Elden Ring to fix bugs and improve gameplay.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/elden-ring-update-october-2026-released/"
- },
- {
   "date": "2026-10-21T10:58:20.428338+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -20689,5 +20513,115 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/hogwarts-legacy-2-official-announcement-gamers-reactions/"
+ },
+ {
+  "date": "2026-10-24T10:52:42.375097+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Meta Delays Controversial Business Scraping Terms Amid Backlash",
+  "summary": "Meta is temporarily delaying its controversial updated business terms that would have allowed the scraping of business account content for AI training.",
+  "verified": "official",
+  "source": "Engadget",
+  "link": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns/"
+ },
+ {
+  "date": "2026-10-24T10:52:42.375097+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "update",
+  "headline": "New AI Tools Detect Citation Hallucinations and Optimize Research",
+  "summary": "Computer scientists have developed web-based LLM tools to help researchers find experiments and detect citation hallucinations.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xe3aju/computer_scientists_build_innovative_tech_tools/"
+ },
+ {
+  "date": "2026-10-24T10:52:42.375097+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Commonwealth Fusion Systems Secures $85M for Advanced Semiconductors",
+  "summary": "Commonwealth Fusion Systems has secured 85 million dollars to develop advanced fusion-ready semiconductors.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xe35fz/commonwealth_fusion_systems_gets_85m_to_build/"
+ },
+ {
+  "date": "2026-10-24T10:52:42.375097+00:00",
+  "topic": "Tech News",
+  "score": 9,
+  "category": "business",
+  "headline": "Amazon Cloud Capacity Sold Out Through 2027 Says CEO Jassy",
+  "summary": "Amazon CEO Andy Jassy announced that the company's cloud computing capacity is completely sold out through 2027 due to surging demand.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xe33v6/amazon_cloud_capacity_sold_out_through_2027_ceo/"
+ },
+ {
+  "date": "2026-10-24T10:52:42.375097+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "India's eMudhra Exits Website Security Business After Security Flaws",
+  "summary": "India's eMudhra has exited the website security and global digital certificates business following major security flaws.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xe30gs/indias_emudhra_exits_website_security_business/"
+ },
+ {
+  "date": "2026-10-24T10:52:42.375097+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Anthropic Teases Unreleased AI Model Outperforming Mythos 5.1",
+  "summary": "Anthropic claims its unreleased AI model outperforms Mythos 5.1 in both capabilities and safety alignment.",
+  "verified": "unconfirmed",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xe1r55/anthropic_says_its_unreleased_model_is_both_more/"
+ },
+ {
+  "date": "2026-10-24T10:52:42.375097+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "American Express Cuts 3,500 Jobs to Make Room for AI Integration",
+  "summary": "American Express is planning to cut approximately 3,500 jobs as part of an organizational shift to incorporate more AI automation.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xe1pul/american_express_is_cutting_about_3500_jobs_to/"
+ },
+ {
+  "date": "2026-10-24T10:52:42.375097+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Report Shows China's AI Compute Surge Relies on US Chips and Cloud",
+  "summary": "A new report reveals that China's massive AI compute surge heavily relies on US-made chips and offshore cloud access.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xe1j7f/chinas_ai_compute_surge_heavily_reliant_on_us/"
+ },
+ {
+  "date": "2026-10-24T10:52:42.375097+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "El Gouna Film Festival Announces Winners",
+  "summary": "Mohammed Hammad's psychological drama \"Safe Exit\" won the top prize at the conclusion of Egypt's El Gouna Film Festival.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/global/el-gouna-film-festival-2026-five-takeaways-cinegouna-1236930192/"
+ },
+ {
+  "date": "2026-10-24T10:52:42.375097+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Prime Video Sci-Fi Hit Surges in Viewership",
+  "summary": "Amazon's top sci-fi series is experiencing a surge in viewership on streaming platforms ahead of its upcoming third season.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/prime-video-fallout-streaming-success-october-2026/"
  }
 ]
