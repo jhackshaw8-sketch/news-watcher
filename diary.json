@@ -1,126 +1,5 @@
 [
  {
-  "date": "2026-10-21T03:21:24.135486+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple Spotlights Mac and iPad in Paris Exhibition",
-  "summary": "Apple showcased how Mac and iPad devices are utilized in a design exhibition in Paris.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1xbc90d/apple_highlights_mac_and_ipad_use_in_paris_design/"
- },
- {
-  "date": "2026-10-21T03:21:24.135486+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "launch",
-  "headline": "Testing the 1,280-HP YangWang U9 Supercar \ud83c\udfce\ufe0f\u26a1",
-  "summary": "We test drive the 1,280-hp YangWang U9 electric supercar from China to see how it compares to established supercar giants like Ferrari and McLaren.",
-  "verified": "official",
-  "source": "Carscoops",
-  "link": "https://www.carscoops.com/2291010/yangwang-u9-supercar-review/"
- },
- {
-  "date": "2026-10-21T03:21:24.135486+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "'Wicker' Cast Hits the Red Carpet for LA Premiere",
-  "summary": "The cast and crew of 'Wicker' attended the film's red carpet premiere at the DGA Theater in Los Angeles.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/gallery/wicker-red-carpet-premiere-photos-black-bear-pictures/"
- },
- {
-  "date": "2026-10-21T03:21:24.135486+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "New MPA Ratings Announced for Upcoming Releases",
-  "summary": "The MPA has released its latest official CARA ratings and reasons for upcoming films including 'Ebenezer' and 'The Thomas Crown Affair'.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xbc7yy/new_mpacara_ratings_and_reasons_for_the_week_of/"
- },
- {
-  "date": "2026-10-21T03:21:24.135486+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "launch",
-  "headline": "Alden Ehrenreich Announces Reddit AMA Event",
-  "summary": "Actor Alden Ehrenreich announces an upcoming Reddit AMA session to discuss his various film projects.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xb7m0s/amaqa_announcement_alden_ehrenreich_wednesday/"
- },
- {
-  "date": "2026-10-21T03:21:24.135486+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "business",
-  "headline": "'Narnia: Magician's Nephew' Trailer Smashes Viewership Records",
-  "summary": "The trailer for 'Narnia: Magician's Nephew' has crossed 481 million views, surpassing previous milestones set by 'Barbie'.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xb6v2f/narnia_magicians_nephew_trailer_clocks_481m_views/"
- },
- {
-  "date": "2026-10-21T03:21:24.135486+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "launch",
-  "headline": "Denzel Washington and Christopher McQuarrie Team Up for New Thriller",
-  "summary": "Denzel Washington and Christopher McQuarrie are teaming up for a brand new thriller project at United Artists and Amazon MGM Studios.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xb5yfy/denzel_washington_and_christopher_mcquarrie_team/"
- },
- {
-  "date": "2026-10-21T03:21:24.135486+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Bob Iger Announces New Book Chronicling Disney Return",
-  "summary": "Former Disney CEO Bob Iger is set to release a new book chronicling the turbulent events of his second tenure leading the company.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xb4zwp/bob_igers_new_book_to_chronicle_sometimes_bumpy/"
- },
- {
-  "date": "2026-10-21T03:21:24.135486+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "'KPop Demon Hunters 2' Targets Theatrical Release for 2029",
-  "summary": "'KPop Demon Hunters 2' will reportedly receive a full theatrical release currently slated for 2029.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xb40af/kpop_demon_hunters_2_will_reportedly_get_a_full/"
- },
- {
-  "date": "2026-10-21T03:21:24.135486+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "'Viana \u2013 The Legend of the Golden Hearts' Sets World Premiere",
-  "summary": "The Portuguese animated feature 'Viana \u2013 The Legend of the Golden Hearts' has scheduled its world premiere in its namesake city.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xb3cyp/portuguese_animated_feature_viana_the_legend_of/"
- },
- {
-  "date": "2026-10-21T03:21:24.135486+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Lucasfilm Officially Confirms Multiple New Star Wars Games Are on the Horizon",
-  "summary": "Lucasfilm has officially confirmed that several brand-new Star Wars games are currently in development.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-wars-new-games-confirmed-lucasfilm/"
- },
- {
   "date": "2026-10-21T03:59:03.452032+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -20975,5 +20854,27 @@
   "verified": "official",
   "source": "Deadline Film",
   "link": "https://deadline.com/2026/10/clayface-james-watkins-explains-aaron-paul-cameo-1237172273/"
+ },
+ {
+  "date": "2026-10-24T03:57:30.335332+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Preview Released for Avengers: Doomsday",
+  "summary": "A new preview for Avengers: Doomsday has been released.",
+  "verified": "official",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xdv9ht/avengers_doomsday_new_preview/"
+ },
+ {
+  "date": "2026-10-24T03:57:30.335332+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Wildwood Captures the Magic of the 90s Animation Boom",
+  "summary": "An article highlights how the upcoming stop-motion film Wildwood captures the spirit of 90s animation.",
+  "verified": "reliable_reporter",
+  "source": "r/movies",
+  "link": "https://www.reddit.com/r/movies/comments/1xdv294/the_dream_of_the_nineties_animation_boom_is_alive/"
  }
 ]
