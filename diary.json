@@ -1,214 +1,5 @@
 [
  {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "rumor",
-  "headline": "iOS 27.2 Code Hints at New Messages App Features",
-  "summary": "Code found in the upcoming iOS 27.2 update hints at a highly requested upcoming change to the Messages app.",
-  "verified": "reliable_reporter",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/21/ios-27-2-reveals-apples-messages-app-could-soon-get-highly-requested-change/"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "update",
-  "headline": "Testing the Durability of the iPhone Duo Hinge",
-  "summary": "Durability testing on the new iPhone Duo subjects its hinge to over 32,000 folds.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/21/iphone-duo-fold-test-hinge/"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Apple Store Goes Down Ahead of iPhone Duo Preorders",
-  "summary": "Apple has taken the online Apple Store down ahead of preorders starting for the new iPhone Duo.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/16/apple-store-is-down-ahead-of-iphone-duo-preorder-rush/"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Echoes of Skyrim Launches in The Elder Scrolls Online",
-  "summary": "The Elder Scrolls Online has officially launched the Echoes of Skyrim season featuring free DLC, solo dungeons, and new rewards across all platforms.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/elder-scrolls-online-skyrim-update-free-dlc/"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "business",
-  "headline": "RuneScape Reignited Cancelled After Player Backlash",
-  "summary": "Jagex has cancelled RuneScape Reignited less than two weeks after its initial announcement following heavy negative player feedback.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "update",
-  "headline": "Battlefield 6 Reverses Unintended XP Changes",
-  "summary": "Battlefield Studios has quickly reversed controversial XP changes introduced in the Season 5 update for Battlefield 6, calling them unintended.",
-  "verified": "official",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/battlefield-6-xp-cap-season-5-reverted"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "Bose Acquires Skullcandy to Expand Market Reach",
-  "summary": "Bose has officially acquired competitor Skullcandy to integrate its audio technologies into a broader range of consumer products.",
-  "verified": "official",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Automattic Begins Layoffs Following Executive Departures",
-  "summary": "Automattic has started layoffs across several teams following a board shakeup and executive departures.",
-  "verified": "reliable_reporter",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "update",
-  "headline": "\ud83e\udd16 General Motors Transforms OnStar Into An In-Car AI Assistant \ud83d\ude97",
-  "summary": "GM is integrating AI into OnStar to assist with vehicle inquiries and EV charging route planning.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812818/gm-onstar-ai-virtual-assistant/"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "New DC Villain Series in Development",
-  "summary": "DC is developing a new villain-focused TV series with producer Lauren LeFranc that is separate from Matt Reeves' Batman universe.",
-  "verified": "reliable_reporter",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2293544/poison-ivy-dc-villain-tv-series-the-penguin-lauren-lefranc/"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "casting",
-  "headline": "Tanner Buchanan and Peyton Elizabeth Lee Join 'Gasoline'",
-  "summary": "Tanner Buchanan and Peyton Elizabeth Lee are set to star in the film 'Gasoline' directed by James Merendino.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xby4i0/tanner_buchanan_peyton_elizabeth_lee_to_star_in/"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "casting",
-  "headline": "New Young Kayce Dutton Cast for Yellowstone Spinoff",
-  "summary": "The Yellowstone universe expansion is casting a new young actor to play Kayce Dutton in flashback sequences.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/marshals-season-2-young-kayce-dutton-new-actor/"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Slow Horses Writer Breaks Down Season 6 Finale Death",
-  "summary": "The head writer of Slow Horses discusses the shocking character death in the Season 6 finale.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2285740/slow-horses-season-6-finale-emma-flyte-death-explained-head-writer/"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Tom Cruise to Receive AFI Life Achievement Award",
-  "summary": "Tom Cruise has been announced as the recipient of the prestigious 52nd AFI Life Achievement Award.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xby3ib/tom_cruise_will_receive_the_52nd_afi_life/"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "First Trailer for 'Bunker' Starring Javier Bardem and Pen\u00e9lope Cruz",
-  "summary": "The official US trailer for 'Bunker', starring Javier Bardem and Pen\u00e9lope Cruz, has been released for 2026.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xbxzp1/bunker_starring_javier_bardem_pen\u00e9lope_cruz/"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "other",
-  "headline": "Key Revelations from Nathan Fielder's Elizabeth Holmes Doc",
-  "summary": "An overview outlines the ten biggest revelations from Nathan Fielder's Elizabeth Holmes documentary.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xbseu4/the_10_biggest_revelations_of_nathan_fielders_new/"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "John C. Reilly Joins Short Doc 'Stalin Boys'",
-  "summary": "John C. Reilly and Penny Lane have boarded the short documentary 'Stalin Boys' as executive producers.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xbsa69/john_c_reilly_penny_lane_board_short_doc_stalin/"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "business",
-  "headline": "Chris Rock's A24 Film 'Misty Green' Headed to Netflix",
-  "summary": "Chris Rock's A24 film 'Misty Green' has secured a Netflix streaming release for early November.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xbs5gx/chris_rocks_a24_pic_misty_green_to_stream_on/"
- },
- {
-  "date": "2026-10-21T20:16:11.701362+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Amazon MGM Adapting 'The Summer Of Broken Rules'",
-  "summary": "Amazon MGM and Sophia Stallone are teaming up to adapt K. L. Walther\u2019s novel 'The Summer Of Broken Rules' into a feature film.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xbrzj8/amazon_mgm_sophia_stallone_developing_k_l/"
- },
- {
   "date": "2026-10-21T20:55:53.959647+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -18060,5 +17851,49 @@
   "verified": "official",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1xei8a0/man_with_butcher_knife_arrested_on_set_of_michael/"
+ },
+ {
+  "date": "2026-10-24T20:48:52.577201+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "Lord of the Rings Returns to Prime Video and 4K Blu-ray in November",
+  "summary": "The Lord of the Rings franchise returns in November with the release of Rings of Power season 3 on Prime Video alongside the first two seasons on 4K Blu-ray and DVD.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/lotr-rings-of-power-s1-s2-physical-release-4k-blu-ray/"
+ },
+ {
+  "date": "2026-10-24T20:48:52.577201+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Starship Troopers: Extermination Deploys Major Update 1.3",
+  "summary": "Starship Troopers: Extermination has detailed its latest update featuring Flying Hoppers, Camp Rasczak, and various patch notes.",
+  "verified": "official",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xeiebv/starship_troopers_extermination_flying_hoppers/"
+ },
+ {
+  "date": "2026-10-24T20:48:52.577201+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Starlink Services Normalize in Ukraine",
+  "summary": "Starlink services in Ukraine have reportedly normalized after facing previous throttling issues ordered by SpaceX.",
+  "verified": "reliable_reporter",
+  "source": "TechCrunch",
+  "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
+ },
+ {
+  "date": "2026-10-24T20:48:52.577201+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "update",
+  "headline": "Travis Knight Teases Groundbreaking New LAIKA Movies",
+  "summary": "Travis Knight teased that LAIKA's upcoming films will push boundaries with new genres and challenging adaptations.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/laika-next-movies-travis-knight-piranesi-night-gardener-update/"
  }
 ]
