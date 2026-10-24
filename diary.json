@@ -1,27 +1,5 @@
 [
  {
-  "date": "2026-10-21T04:58:01.872584+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "legal",
-  "headline": "UK Regulator Proposes Apple Pay Alternatives",
-  "summary": "The UK competition regulator has proposed new measures to facilitate alternatives to Apple Pay on the iPhone.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/21/uk-proposes-to-help-apple-pay-rivals/"
- },
- {
-  "date": "2026-10-21T04:58:01.872584+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Dungeon Crawler Carl Sets November 2026 Return and Major New Adaptation",
-  "summary": "Dungeon Crawler Carl is officially returning in November 2026 with a major new adaptation ahead of the launch of Book 9.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/dungeon-crawler-carl-unstoppable-november-2026-release-psa/"
- },
- {
   "date": "2026-10-21T05:22:58.690010+00:00",
   "topic": "Events",
   "score": 8,
@@ -20854,5 +20832,27 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/fallout-5-official-release-window-update-gamers-react/"
+ },
+ {
+  "date": "2026-10-24T05:15:47.930185+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "business",
+  "headline": "Analysts Discuss EA's Prestige Projects and BioWare's Fate",
+  "summary": "Industry analysts discuss how franchises like Mass Effect serve as prestige projects for EA and describe BioWare's closure as predictable.",
+  "verified": "reliable_reporter",
+  "source": "r/Games",
+  "link": "https://www.reddit.com/r/Games/comments/1xdy1gj/franchises_like_mass_effect_are_a_prestige/"
+ },
+ {
+  "date": "2026-10-24T05:15:47.930185+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Jurassic Park Returns This November",
+  "summary": "Jurassic Park: When Dinosaurs Ruled The Earth has been officially scheduled for release this November.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/jurassic-park-when-dinosaurs-ruled-the-earth-november-2026/"
  }
 ]
