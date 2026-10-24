@@ -1,93 +1,5 @@
 [
  {
-  "date": "2026-10-21T22:19:10.165923+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "iPhone Duo Reviews Highlight Mixed Thermal Performance",
-  "summary": "Initial reviews of the iPhone Duo reveal mixed findings regarding its thermal performance, with some reviewers noting the device runs warm during use.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/21/iphone-duo-heat-reviews/"
- },
- {
-  "date": "2026-10-21T22:19:10.165923+00:00",
-  "topic": "Gaming News",
-  "score": 9,
-  "category": "business",
-  "headline": "HBO Announces Official Baldur's Gate TV Series with Craig Mazin",
-  "summary": "HBO is developing an official Baldur's Gate television series continuing the story of Baldur's Gate 3, led by creator Craig Mazin.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/baldurs-gate-3-sequel-series-hbo-streaming/"
- },
- {
-  "date": "2026-10-21T22:19:10.165923+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Tesla Profits Plunge 43% in Q3 \ud83d\ude97\ud83d\udcc9",
-  "summary": "Tesla reported a 43 percent drop in profits for Q3 2026 alongside a shrinking energy storage business.",
-  "verified": "official",
-  "source": "Ars Technica",
-  "link": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/"
- },
- {
-  "date": "2026-10-21T22:19:10.165923+00:00",
-  "topic": "Cars",
-  "score": 7,
-  "category": "business",
-  "headline": "Acura Plans Major Lineup Expansion to Boost U.S. Sales \ud83d\ude97\ud83d\udca8",
-  "summary": "Acura plans to expand its lineup from four to six vehicles to reach 200,000 U.S. sales by the end of the decade.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812800/acura-product-lineup-expands-suvs/"
- },
- {
-  "date": "2026-10-21T22:19:10.165923+00:00",
-  "topic": "Movies",
-  "score": 9,
-  "category": "update",
-  "headline": "Cory Michael Smith Joins Star-Studded Cast of Ari Aster's Scapegoat",
-  "summary": "Cory Michael Smith has joined the cast of Ari Aster's upcoming A24 thriller Scapegoat alongside Scarlett Johansson and Jacob Elordi.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/cory-michael-smith-scarlett-johansson-scapegoat-a24-square-peg-1237170198/"
- },
- {
-  "date": "2026-10-21T22:19:10.165923+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "Clayface Rotten Tomatoes Score Compared to Other DCU Movies",
-  "summary": "Critics have published their reviews for Clayface, prompting comparisons of its Rotten Tomatoes score against other DCU films like Superman and Supergirl.",
-  "verified": "official",
-  "source": "/Film",
-  "link": "https://www.slashfilm.com/2293687/clayface-rotten-tomatoes-score-superman-supergirl-comparison/"
- },
- {
-  "date": "2026-10-21T22:19:10.165923+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "update",
-  "headline": "Marvel Officially Announces Major Power Nerf for Captain Marvel",
-  "summary": "Marvel officially announced a significant reduction in Captain Marvel's power level for the upcoming Avengers era.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/captain-marvel-new-powers-change-avengers/"
- },
- {
-  "date": "2026-10-21T22:19:10.165923+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Iconic Horror Franchise Announced for 2026 Reimagining",
-  "summary": "An iconic horror franchise is receiving a daring new reimagining scheduled for release in 2026.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/friday-the-13th-franchise-crystal-lake-2026-deserves-praise/"
- },
- {
   "date": "2026-10-21T22:54:05.632273+00:00",
   "topic": "Apple News",
   "score": 8,
@@ -17378,5 +17290,137 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/shadow-of-backrooms-2027-announcement/"
+ },
+ {
+  "date": "2026-10-24T22:48:35.224247+00:00",
+  "topic": "Apple News",
+  "score": 8,
+  "category": "legal",
+  "headline": "Australia Pushes Apple to Allow Alternative App Stores",
+  "summary": "Apple faces regulatory pressure requiring it to open the iPhone to alternative app stores in Australia.",
+  "verified": "official",
+  "source": "r/apple",
+  "link": "https://www.reddit.com/r/apple/comments/1xem1w6/apple_must_open_iphone_to_alternative_app_stores/"
+ },
+ {
+  "date": "2026-10-24T22:48:35.224247+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Surveillance Network Access Retained by Ex-Officers",
+  "summary": "Reports highlight that former police officers retained access to Flock's extensive surveillance network after leaving their jobs.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xejzvz/their_police_jobs_ended_they_kept_using_flocks/"
+ },
+ {
+  "date": "2026-10-24T22:48:35.224247+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Iran Plans for Undersea Cable Disruptions",
+  "summary": "Intelligence reports suggest Iran has detailed plans to target undersea internet cables in the Persian Gulf amid potential conflicts.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xej9s1/iran_has_detailed_plans_to_attack_undersea/"
+ },
+ {
+  "date": "2026-10-24T22:48:35.224247+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "launch",
+  "headline": "First Treatment Using AI-Designed Viruses",
+  "summary": "Scientists report using AI-designed viruses to treat a human patient for the first time.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xeirwt/for_the_first_time_scientists_say_they_have_used/"
+ },
+ {
+  "date": "2026-10-24T22:48:35.224247+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Limited AI Payoff Outside Tech Sector",
+  "summary": "Analysis indicates a lack of measurable financial payoff from artificial intelligence investments outside of the core tech sector.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xeid9n/no_signs_of_ai_payoff_outside_the_tech_sector/"
+ },
+ {
+  "date": "2026-10-24T22:48:35.224247+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "launch",
+  "headline": "Grok Imagine Debuts Odyssey Adaptation",
+  "summary": "An AI-generated adaptation of 'The Odyssey' created via Grok Imagine has debuted its first episode on X.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xehxgn/grok_imagines_adaptation_of_the_odyssey_debuts/"
+ },
+ {
+  "date": "2026-10-24T22:48:35.224247+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "update",
+  "headline": "Google Privacy Policy Update Touches Gmail Ads",
+  "summary": "Google's updated privacy policy indicates that Gmail content may be utilized for advertising purposes.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xeh2id/updated_google_privacy_policy_says_your_gmail/"
+ },
+ {
+  "date": "2026-10-24T22:48:35.224247+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "update",
+  "headline": "Starlink Speeds Restored in Ukraine",
+  "summary": "Starlink internet speeds in Ukraine have returned to normal operations following a week of disruptions.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xegsww/ukraine_regains_normal_starlink_speeds_after_more/"
+ },
+ {
+  "date": "2026-10-24T22:48:35.224247+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "legal",
+  "headline": "Preemptive Policing Crackdown in India",
+  "summary": "An examination of India's preemptive policing crackdowns and their civil liberties implications.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xegr3h/guilty_until_proven_peaceful_under_indias/"
+ },
+ {
+  "date": "2026-10-24T22:48:35.224247+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Tomb Raider Series Officially Headed to Netflix",
+  "summary": "Walton Goggins' video game reboot Tomb Raider is officially being revived as a series on Netflix.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/walton-goggins-tomb-raider-streaming-hit-netflix-october-2026/"
+ },
+ {
+  "date": "2026-10-24T22:48:35.224247+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Superbad Returns as a Streaming Hit",
+  "summary": "Emma Stone's R-rated breakout comedy Superbad has returned to streaming popularity.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/emma-stone-superbad-streaming-hit-hbo-max-october-2026/"
+ },
+ {
+  "date": "2026-10-24T22:48:35.224247+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "PlayStation's Next Hardware Spotted in New Music Video",
+  "summary": "An upcoming PlayStation hardware release made a surprise appearance in a new music video.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/playstation-new-hardware-lisa-controller-music-video/"
  }
 ]
