@@ -1,137 +1,5 @@
 [
  {
-  "date": "2026-10-21T09:02:01.838820+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple Unfazed by OpenAI Hardware Ambitions",
-  "summary": "Apple SVP Greg Joswiak stated that the company does not feel threatened by upcoming hardware plans from OpenAI.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/15/apple-svp-greg-joswiak-we-dont-feel-threatened-by-openai-hardware-plans/"
- },
- {
-  "date": "2026-10-21T09:02:01.838820+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "other",
-  "headline": "Apple Stores Targeted in French Protests",
-  "summary": "Apple retail stores in Bordeaux and Lille were looted during recent protests in France over the high cost of living.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/21/apple-stores-looted-during-french-protests/"
- },
- {
-  "date": "2026-10-21T09:02:01.838820+00:00",
-  "topic": "Apple News",
-  "score": 7,
-  "category": "business",
-  "headline": "Analyst Downgrades Apple Over iPhone Shipment Outlook",
-  "summary": "Loop Capital downgraded Apple from Buy to Hold due to an anticipated shortfall in iPhone shipments for the second half of 2026.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/21/loop-capital-cuts-apple-rating-over-iphone-sales-outlook/"
- },
- {
-  "date": "2026-10-21T09:02:01.838820+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "update",
-  "headline": "Bluesound Gains Native Apple Music Integration",
-  "summary": "Bluesound has added native Apple Music integration, allowing users to stream directly to compatible hi-fi equipment without AirPlay.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/21/bluesound-adds-native-apple-music-support/"
- },
- {
-  "date": "2026-10-21T09:02:01.838820+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "John Ternus Details Apple's Design Philosophy",
-  "summary": "Apple CEO John Ternus discussed the philosophy behind Apple's product design in a new interview with TIME magazine.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/21/john-ternus-explains-good-design/"
- },
- {
-  "date": "2026-10-21T09:02:01.838820+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "rumor",
-  "headline": "Rumors Suggest Next-Gen Xbox Project Helix Could Carry Steep Price Tag",
-  "summary": "Reports suggest Xbox's next-generation console, Project Helix, and a handheld could cost up to $1,800 and release around 2027-2028.",
-  "verified": "unconfirmed",
-  "source": "Eurogamer",
-  "link": "https://www.eurogamer.net/microsoft-next-gen-xbox-helix-date-price"
- },
- {
-  "date": "2026-10-21T09:02:01.838820+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "SpaceX and Tesla Form Committees to Explore Potential Merger",
-  "summary": "SpaceX and Tesla have formed special committees to explore a potential merger, though Elon Musk notes it is not guaranteed.",
-  "verified": "reliable_reporter",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2292594/spacex-tesla-exploring-possible-merger/"
- },
- {
-  "date": "2026-10-21T09:02:01.838820+00:00",
-  "topic": "Cars",
-  "score": 6,
-  "category": "rumor",
-  "headline": "Is the Quirky Fiat Multipla Making a Comeback? \ud83d\ude97\ud83e\udd14",
-  "summary": "Fiat is considering bringing back the quirky Multipla as a production family car within the next few years based on a recent concept.",
-  "verified": "unconfirmed",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812703/fiat-multipla-production-considered/"
- },
- {
-  "date": "2026-10-21T09:02:01.838820+00:00",
-  "topic": "Cars",
-  "score": 9,
-  "category": "launch",
-  "headline": "Mercedes Confirms 'Little G-Class' is Coming in 2 Years! \ud83d\ude99\ud83d\udca8",
-  "summary": "Mercedes-Benz executives have confirmed that the upcoming compact 'Little G' SUV will arrive within 24 months, maintaining iconic G-Class styling and off-road capabilities.",
-  "verified": "official",
-  "source": "Motor1",
-  "link": "https://www.motor1.com/news/812704/mercedes-benz-little-g-targets/"
- },
- {
-  "date": "2026-10-21T09:02:01.838820+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Prime Video Action Series Surges in Viewership",
-  "summary": "An action series starring an actor often compared to Chris Pratt's action roles is surging in viewership on Prime Video following its second-season premiere.",
-  "verified": "reliable_reporter",
-  "source": "Collider",
-  "link": "https://collider.com/chris-pratt-the-terminal-list-season-2-streaming-success-prime-video-october-2026/"
- },
- {
-  "date": "2026-10-21T09:02:01.838820+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Javier Bardem and J.A. Bayona Team Up for N\u00e9stor Almendros Documentary",
-  "summary": "J.A. Bayona, Javier Bardem, and Laurent Bouzereau have partnered on a feature documentary about legendary cinematographer N\u00e9stor Almendros.",
-  "verified": "official",
-  "source": "Deadline",
-  "link": "https://deadline.com/2026/10/nestor-almendros-doc-j-a-bayona-javier-bardem-1237169499/"
- },
- {
-  "date": "2026-10-21T09:02:01.838820+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "Star Trek Returns With New Crew to Mixed Reviews",
-  "summary": "The Star Trek franchise has officially returned with a new crew and mixed initial reviews.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/star-trek-outposts-unknown-user-review-roundup/"
- },
- {
   "date": "2026-10-21T09:58:38.402335+00:00",
   "topic": "Gaming News",
   "score": 7,
@@ -21096,5 +20964,60 @@
   "verified": "reliable_reporter",
   "source": "r/entertainment",
   "link": "https://www.reddit.com/r/entertainment/comments/1xdwuzm/you_can_see_everything_eyes_19_million_in_second/"
+ },
+ {
+  "date": "2026-10-24T09:15:04.674147+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Final Fantasy 9 Sequel Officially Announced for 2028",
+  "summary": "A Final Fantasy 9 sequel has been officially announced for a 2028 release.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/final-fantasy-9-black-mages-legacy-2028-release-date/"
+ },
+ {
+  "date": "2026-10-24T09:15:04.674147+00:00",
+  "topic": "Events",
+  "score": 9,
+  "category": "launch",
+  "headline": "Pok\u00e9mon Gold and Silver Return in 30th Anniversary Collection",
+  "summary": "Pok\u00e9mon Gold and Silver are officially returning in a new 30th-anniversary collection.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/pokemon-gold-silver-new-release-30th-anniversary/"
+ },
+ {
+  "date": "2026-10-24T09:15:04.674147+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "update",
+  "headline": "Zelda's Wilds Era Ending Officially in March 2027",
+  "summary": "The Legend of Zelda's Wilds era is officially coming to an end in March 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/legend-of-zelda-wilds-era-final-release-march-2027/"
+ },
+ {
+  "date": "2026-10-24T09:15:04.674147+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "rumor",
+  "headline": "New James Bond Contenders Share Surprising Trait",
+  "summary": "Final contenders for the next James Bond share a common trait that debunks major casting theories.",
+  "verified": "unconfirmed",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/next-james-bond-007-actor-casting-ages-young-debunked/"
+ },
+ {
+  "date": "2026-10-24T09:15:04.674147+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "launch",
+  "headline": "Grab Free Spider-Man Avatars on PlayStation Now",
+  "summary": "PlayStation users can currently claim free Spider-Man avatars without needing a Plus subscription.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/playstation-spider-man-free-downloads-no-ps-plus/"
  }
 ]
