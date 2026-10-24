@@ -1,115 +1,5 @@
 [
  {
-  "date": "2026-10-21T01:08:31.513919+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "update",
-  "headline": "Where\u2019s Wanda? Season 2 Premieres on Apple TV",
-  "summary": "The second season of the German-language dark comedy series 'Where\u2019s Wanda?' has premiered on Apple TV.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/20/dark-comedy-wheres-wanda-season-2-premieres-on-apple-tv/"
- },
- {
-  "date": "2026-10-21T01:08:31.513919+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple Recruits 6G Engineers for Future iPhones",
-  "summary": "Apple is actively recruiting 6G modem engineers as part of its long-term preparations for post-5G iPhones expected around 2030.",
-  "verified": "official",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/20/apple-6g-research-continues/"
- },
- {
-  "date": "2026-10-21T01:08:31.513919+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "launch",
-  "headline": "First iPhone Duo Unboxing Video Surfaces Early",
-  "summary": "The first unboxing video of the upcoming iPhone Duo has surfaced online just days ahead of its official Friday launch.",
-  "verified": "reliable_reporter",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/"
- },
- {
-  "date": "2026-10-21T01:08:31.513919+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Red Rising Digital Adaptation Announced For 2027",
-  "summary": "A digital adaptation of Pierce Brown's sci-fi saga Red Rising is officially scheduled to release in 2027.",
-  "verified": "official",
-  "source": "Polygon",
-  "link": "https://www.polygon.com/red-rising-digital-edition-2027-release/"
- },
- {
-  "date": "2026-10-21T01:08:31.513919+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "update",
-  "headline": "David Fincher Cut 60 Pages From Quentin Tarantino's Cliff Booth Script",
-  "summary": "David Fincher revealed he had to cut 60 pages from Quentin Tarantino's 230-page script for The Further Mis-Adventures of Cliff Booth.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/david-fincher-cut-tarantino-cliff-booth-script-1237169234/"
- },
- {
-  "date": "2026-10-21T01:08:31.513919+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Percy Jackson and the Olympians Headed to Hulu Ahead of Season 3",
-  "summary": "Percy Jackson and the Olympians is expanding to Hulu ahead of its third season.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/percy-jackson-and-the-olympians-streaming-hulu-november-2026/"
- },
- {
-  "date": "2026-10-21T01:08:31.513919+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "review",
-  "headline": "VisionQuest Episode 3 Delivers Game-Changing Developments",
-  "summary": "A review of VisionQuest Episode 3 highlights relationship developments and deeper insights into Stark AIs.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/visionquest-episode-3-recap-disney-plus/"
- },
- {
-  "date": "2026-10-21T01:08:31.513919+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Ice Age Franchise Hits Netflix Top 10 Ahead of Sixth Installment",
-  "summary": "All five Ice Age movies have entered Netflix's Top 10 ahead of the franchise's sixth installment.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/ice-age-franchise-streaming-success-netflix-october-2026/"
- },
- {
-  "date": "2026-10-21T01:08:31.513919+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "business",
-  "headline": "Assassin's Creed Film Returns to Streaming Ahead of Netflix Reboot",
-  "summary": "The Assassin's Creed movie starring Michael Fassbender is returning to Hulu ahead of an upcoming Netflix live-action series.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/michael-fassbender-assassins-creed-streaming-hulu-november-2026/"
- },
- {
-  "date": "2026-10-21T01:08:31.513919+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "launch",
-  "headline": "Russell Crowe's A Beautiful Mind Returning to Theaters for 25th Anniversary",
-  "summary": "Ron Howard's A Beautiful Mind starring Russell Crowe is returning to theaters in 2026 for its 25th anniversary.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/russell-crowe-a-beautiful-mind-theater-return-november-2026/"
- },
- {
   "date": "2026-10-21T01:57:27.882104+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -21030,5 +20920,126 @@
   "verified": "unconfirmed",
   "source": "ScreenRant",
   "link": "https://screenrant.com/legend-of-zelda-2027-end-of-era/"
+ },
+ {
+  "date": "2026-10-24T01:14:53.765973+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "business",
+  "headline": "Dead by Daylight to Remove Chucky Content",
+  "summary": "Behaviour Interactive announced that all Chucky content will be removed from Dead by Daylight for purchase starting next month.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers"
+ },
+ {
+  "date": "2026-10-24T01:14:53.765973+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "launch",
+  "headline": "The Witcher Author Confirms New Book in Development",
+  "summary": "Author Andrzej Sapkowski officially confirmed he is writing a new The Witcher book, targeting a 2028 completion date.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/the-witcher-geralt-returns-in-2026-with-new-release/"
+ },
+ {
+  "date": "2026-10-24T01:14:53.765973+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Remembering Producer Ken Atchity",
+  "summary": "Ken Atchity, producer of 'The Meg' and prolific literary agent, has passed away at the age of 82.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/people-news/ken-atchity-dead-the-meg-1236930069/"
+ },
+ {
+  "date": "2026-10-24T01:14:53.765973+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Avengers: Doomsday Drops World Series Sneak Peek",
+  "summary": "Marvel treated World Series viewers to a special 'Avengers: Doomsday' sneak peek featuring Pedro Pascal's Mister Fantastic throwing the first pitch.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/avengers-doomsday-world-series-sneak-peek-1237172207/"
+ },
+ {
+  "date": "2026-10-24T01:14:53.765973+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Percy Jackson Season 3 Release Date Set",
+  "summary": "Percy Jackson and the Olympians Season 3 is officially returning in just four weeks on Disney+, adapting The Titan's Curse.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/percy-jackson-and-the-olympians-season-3-release-date-disney-plus-november-2026/"
+ },
+ {
+  "date": "2026-10-24T01:14:53.765973+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Avengers: Doomsday Footage Debuts at World Series",
+  "summary": "Marvel Studios released fresh footage from 'Avengers: Doomsday' during Game 1 of the World Series.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2296075/marvel-avengers-doomsday-footage-world-series-commercial/"
+ },
+ {
+  "date": "2026-10-24T01:14:53.765973+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "launch",
+  "headline": "Awards Season Preview Highlights New Contenders",
+  "summary": "A new specialty preview highlights upcoming awards season contenders including John Turturro, Olivia Colman, and Helen Mirren.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/10/indie-films-opening-only-living-pickpocket-in-new-york-wicker-1237171300/"
+ },
+ {
+  "date": "2026-10-24T01:14:53.765973+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Florence Pugh's East of Eden Becomes Streaming Hit",
+  "summary": "Netflix's 'East of Eden' adaptation starring Florence Pugh has become a certified streaming hit with over 1 billion minutes watched.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/florence-pugh-east-of-eden-netflix-streaming-success-october-2026-1-billion-minutes-watched/"
+ },
+ {
+  "date": "2026-10-24T01:14:53.765973+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "update",
+  "headline": "Universal Moves Forward With Miami Vice '85",
+  "summary": "Universal is developing 'Miami Vice '85' to be shot in IMAX, featuring an expanding star-studded cast.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/feature/miami-vice-85-movie-news-updates-1237172205/"
+ },
+ {
+  "date": "2026-10-24T01:14:53.765973+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Christian Bale's The Bride! Hits Prime Video",
+  "summary": "Christian Bale's gothic monster romance film 'The Bride!' is now officially streaming on Prime Video.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/christian-bale-the-bride-streaming-prime-video-october-2026/"
+ },
+ {
+  "date": "2026-10-24T01:14:53.765973+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "business",
+  "headline": "Stephen King Horror Hit Dominates Streaming Charts",
+  "summary": "Stephen King's Prime Video horror adaptation topped the Nielsen streaming charts with over 1.2 billion minutes watched in its debut week.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/stephen-king-carrie-streaming-success-prime-video-october-2026-1-billion-minutes-watched/"
  }
 ]
