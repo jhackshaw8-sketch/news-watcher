@@ -1,82 +1,5 @@
 [
  {
-  "date": "2026-10-21T04:25:44.832685+00:00",
-  "topic": "Apple News",
-  "score": 5,
-  "category": "rumor",
-  "headline": "WhatsApp Working on In-App Browser for iPhone",
-  "summary": "WhatsApp is reportedly developing an optional in-app browser for its iPhone app to open chat links without leaving the application.",
-  "verified": "unconfirmed",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/21/whatsapp-developing-browser-for-chat-links/"
- },
- {
-  "date": "2026-10-21T04:25:44.832685+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "Apple App Store Chief Discusses Focus on Premium Games",
-  "summary": "Apple's App Store chief has explained the company's strategic push toward offering more premium games on the platform.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1xbdey7/apples_app_store_chief_explains_its_push_for/"
- },
- {
-  "date": "2026-10-21T04:25:44.832685+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Ordinary Oddness Announced for PC and Consoles",
-  "summary": "Ordinary Oddness has been officially announced for PC, PS5, and Xbox Series with a release date yet to be determined.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1xbbc7v/ordinary_oddness_announced_releases_tbd_on_pc_ps5/"
- },
- {
-  "date": "2026-10-21T04:25:44.832685+00:00",
-  "topic": "Gaming News",
-  "score": 8,
-  "category": "business",
-  "headline": "Esports Giant Evil Geniuses Shuts Down Operations",
-  "summary": "Former esports giant Evil Geniuses is officially shutting down and ending its competitive day-to-day operations.",
-  "verified": "official",
-  "source": "r/Games",
-  "link": "https://www.reddit.com/r/Games/comments/1xb8w5h/evil_genuises_is_shutting_down_former_esports/"
- },
- {
-  "date": "2026-10-21T04:25:44.832685+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Steam Offers 22 Games Completely Free to Keep",
-  "summary": "Steam has officially made 22 games entirely free for users to keep forever.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/steam-22-free-games-october-2026/"
- },
- {
-  "date": "2026-10-21T04:25:44.832685+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "launch",
-  "headline": "The Terminal List Season 2 Delivers High-Octane Action",
-  "summary": "A review of The Terminal List season 2 praises Chris Pratt's action thriller for being bigger and better.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/the-terminal-list-season-2-review/"
- },
- {
-  "date": "2026-10-21T04:25:44.832685+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Cyberpunk Edgerunners: Burn Bright Confirmed for Spring 2027",
-  "summary": "A new Cyberpunk Edgerunners project titled Burn Bright has been officially confirmed for a Spring 2027 release.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/cyberpunk-tcg-edgerunners-burn-bright-spring-2027/"
- },
- {
   "date": "2026-10-21T04:58:01.872584+00:00",
   "topic": "Apple News",
   "score": 7,
@@ -20865,5 +20788,71 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/crunchyroll-near-perfect-isekai-worlds-finest-assassin-season-2/"
+ },
+ {
+  "date": "2026-10-24T04:54:23.797048+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Apple Closes French Stores Ahead of Protests",
+  "summary": "Apple has closed seven retail stores across France in preparation for further protests following previous looting incidents.",
+  "verified": "official",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/24/apple-closes-french-stores/"
+ },
+ {
+  "date": "2026-10-24T04:54:23.797048+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Modern Warfare 4 Campaign Wins Over Steam Players",
+  "summary": "Steam players are expressing high satisfaction with the campaign of Modern Warfare 4 despite pre-launch community drama.",
+  "verified": "reliable_reporter",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating"
+ },
+ {
+  "date": "2026-10-24T04:54:23.797048+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Stunning Gunther Werks Brundle Edition Turbo \ud83c\udfce\ufe0f\ud83d\udca8",
+  "summary": "A showcase of the stunning Gunther Werks Brundle Edition Turbo resting in all its modified glory.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1xdxj69/gunther_werks_brundle_edition_turbo_1784x1004/"
+ },
+ {
+  "date": "2026-10-24T04:54:23.797048+00:00",
+  "topic": "Cars",
+  "score": 6,
+  "category": "update",
+  "headline": "Aggressive 2019 Jaguar XE SV Project 8 Showcase \ud83d\udc06\ud83d\udd25",
+  "summary": "A striking visual feature of the track-focused 2019 Jaguar XE SV Project 8.",
+  "verified": "official",
+  "source": "r/carporn",
+  "link": "https://www.reddit.com/r/carporn/comments/1x9rvkd/2019_jaguar_xe_sv_project_8_1080x1350/"
+ },
+ {
+  "date": "2026-10-24T04:54:23.797048+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Original X-Files Creator Discusses Ryan Coogler's Upcoming Reboot",
+  "summary": "Original X-Files creator Chris Carter revealed why he chose not to read or get involved with Ryan Coogler's upcoming reboot series.",
+  "verified": "official",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2296107/why-x-files-creator-chris-carter-not-read-ryan-coogler-reboot/"
+ },
+ {
+  "date": "2026-10-24T04:54:23.797048+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "update",
+  "headline": "Fallout 5 Enters Pre-Production Following TV Show Success",
+  "summary": "Fallout 5 enters pre-production following the success of the TV series, leaving fans divided over the timeline.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/fallout-5-official-release-window-update-gamers-react/"
  }
 ]
