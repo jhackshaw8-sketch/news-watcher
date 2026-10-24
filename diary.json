@@ -1,192 +1,5 @@
 [
  {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Apple and DOJ Antitrust Lawsuit Hits Impasse Over Document Collection",
-  "summary": "The antitrust lawsuit between Apple and the DOJ has reached an impasse regarding document collection and cutoffs.",
-  "verified": "official",
-  "source": "AppleInsider",
-  "link": "https://appleinsider.com/articles/26/10/21/apple-doj-antitrust-suit-reaches-impasse-over-document-collection?utm_source=rss"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Court Notified of Document Impasse in Apple DOJ Antitrust Case",
-  "summary": "Apple and the DOJ have formally notified the court of an impasse regarding document cutoff dates in their ongoing antitrust lawsuit.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1xc2055/apple_and_doj_notify_court_of_impasse_over/"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "launch",
-  "headline": "iPhone Duo Sells Out Instantly and Backordered Until Next Year",
-  "summary": "Apple's newly available iPhone Duo sold out immediately, with shipping estimates quickly slipping into next year.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/16/iphone-duo-pre-orders-now-backordered-to-next-year/"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Apple News",
-  "score": 9,
-  "category": "launch",
-  "headline": "iPhone Duo Pre-Orders Open With Starting Price of $1,999",
-  "summary": "Apple has officially opened pre-orders for its first foldable device, the iPhone Duo, starting at $1,999.",
-  "verified": "official",
-  "source": "9to5Mac",
-  "link": "https://9to5mac.com/2026/10/16/iphone-duo-now-available-to-pre-order-prices-start-at-1999/"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Gaming News",
-  "score": 6,
-  "category": "business",
-  "headline": "Could EA Sell Mass Effect and Dragon Age IPs?",
-  "summary": "Former BioWare executive producer Mark Darrah speculates that EA might be more likely to sell major IPs like Mass Effect and Dragon Age following studio restructuring.",
-  "verified": "unconfirmed",
-  "source": "IGN",
-  "link": "https://www.ign.com/articles/former-bioware-executive-producer-mark-darrah-says-ea-might-be-more-likely-to-sell-ips-like-mass-effect-and-dragon-age-after-studios-closure"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Gaming News",
-  "score": 7,
-  "category": "launch",
-  "headline": "Batman Confirmed to Exist in Upcoming Live-Action Gotham Introduction",
-  "summary": "DC Studios co-CEO confirms that Batman is present during the events of Clayface, serving as an introduction to the new live-action Gotham.",
-  "verified": "official",
-  "source": "GamesRadar",
-  "link": "https://www.gamesradar.com/entertainment/dc-movies/batman-is-around-during-the-events-of-clayface-confirms-dc-studios-co-ceo-this-is-the-introduction-to-the-live-action-gotham/"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "AI Data Centers Threaten Air Quality Gains",
-  "summary": "The massive surge in generative AI data centers in Texas threatens to reverse decades of air quality improvements due to increased electricity demand.",
-  "verified": "reliable_reporter",
-  "source": "The Verge",
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Zuckerberg Heralds New Revenue Era with Muse AI",
-  "summary": "Mark Zuckerberg announced that Meta is entering a new phase with its Muse agent, projecting it will surpass traditional app revenue.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "business",
-  "headline": "Meta Plans New Stock Class to Fund Massive AI Push",
-  "summary": "Meta is planning to introduce a new class of stock to help finance its extensive and costly AI infrastructure and model development.",
-  "verified": "reliable_reporter",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Tech News",
-  "score": 7,
-  "category": "business",
-  "headline": "Bose Acquires Audio Rival Skullcandy",
-  "summary": "Audio giant Bose has acquired rival brand Skullcandy in a strategic move to capture a broader consumer audience.",
-  "verified": "official",
-  "source": "Engadget",
-  "link": "https://www.engadget.com/2293698/bose-buys-audio-rival-skullcandy/"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Rodrigo Teixeira to Receive GLAFF Visionary Award",
-  "summary": "Producer Rodrigo Teixeira is set to receive the GLAFF Visionary Award presented by Wagner Moura ahead of a screening of 'Paper Tiger'.",
-  "verified": "official",
-  "source": "Variety Film",
-  "link": "https://variety.com/2026/film/news/rodrigo-teixeira-glaff-visionary-award-wagner-moura-1236919290/"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Movies",
-  "score": 5,
-  "category": "update",
-  "headline": "The Complex Restoration of Ken Russell's 'The Devils'",
-  "summary": "Mark Kermode and Daphne Dentz discuss the intricate restoration process of Ken Russell's 1971 controversial film 'The Devils'.",
-  "verified": "reliable_reporter",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/mark-kermode-daphne-dentz-restoring-ken-russells-the-devils-1237170140/"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Movies",
-  "score": 7,
-  "category": "launch",
-  "headline": "Tyra Banks Producing Sports Bra Invention Movie",
-  "summary": "Tyra Banks is set to produce a new feature film about the invention of the sports bra in partnership with Forbes Entertainment.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xc1u3u/tyra_banks_to_produce_feature_about_the_invention/"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "New Poster Drops for 'The Hunger Games: Sunrise on the Reaping'",
-  "summary": "A brand new promotional poster has been released for the upcoming movie 'The Hunger Games: Sunrise on the Reaping'.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xc18vb/new_poster_for_the_hunger_games_sunrise_on_the/"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Corey Michael Smith Joins Ari Aster's 'Scapegoat'",
-  "summary": "Corey Michael Smith has joined the star-studded cast of Ari Aster's upcoming A24 film 'Scapegoat'.",
-  "verified": "official",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xc10iz/corey_michael_smith_joins_scarlett_johansson_in/"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "update",
-  "headline": "Jonathan Hickman's Secret Marvel Film Contributions",
-  "summary": "An interview reveals that comic writer Jonathan Hickman has quietly worked on more Marvel films than previously known.",
-  "verified": "reliable_reporter",
-  "source": "r/movies",
-  "link": "https://www.reddit.com/r/movies/comments/1xbzs7i/interview_jonathan_hickman_works_on_more_marvel/"
- },
- {
-  "date": "2026-10-21T22:54:05.632273+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "Hulu's Upcoming Cult Classic Movie Remake Gets Early Praise",
-  "summary": "Hulu's upcoming television remake of Jim Carrey's classic film receives a positive early review following its pilot order.",
-  "verified": "reliable_reporter",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/jim-carrey-cable-guy-hulu-remake-review-glowing-jake-johnson/"
- },
- {
   "date": "2026-10-21T23:13:49.711881+00:00",
   "topic": "Gaming News",
   "score": 7,
@@ -17422,5 +17235,49 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/playstation-new-hardware-lisa-controller-music-video/"
+ },
+ {
+  "date": "2026-10-24T23:10:28.789572+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Final Fantasy 7 Revelation Hard Mode Available From The Start",
+  "summary": "Final Fantasy 7 Revelation will feature an accessible Hard Mode right from the start of the game.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/final-fantasy-7-revelation-hard-mode-start-replay-rpg"
+ },
+ {
+  "date": "2026-10-24T23:10:28.789572+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "launch",
+  "headline": "Gladiator II Lands on Netflix \ud83c\udfac",
+  "summary": "Ridley Scott's Gladiator II is officially heading to Netflix alongside the original film, bringing the historical epic franchise to the streaming platform.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/denzel-washington-gladiator-2-streaming-netflix-october-2026/"
+ },
+ {
+  "date": "2026-10-24T23:10:28.789572+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "update",
+  "headline": "Who is Playing Dan Hibiki in Street Fighter (2026)? \ud83e\udd4b",
+  "summary": "An analysis explores the casting and background of the infamous actor playing Dan Hibiki in the upcoming 2026 Street Fighter movie.",
+  "verified": "reliable_reporter",
+  "source": "/Film",
+  "link": "https://www.slashfilm.com/2295652/dan-hibiki-street-fighter-2026-movie-actor-andrew-schulz/"
+ },
+ {
+  "date": "2026-10-24T23:10:28.789572+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "DC Reveals First Look at Batman's Major New Costume",
+  "summary": "DC has revealed the first official images showcasing a massive design change for Batman's new costume.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/batman-new-costume-codename-bruce-wayne-death/"
  }
 ]
