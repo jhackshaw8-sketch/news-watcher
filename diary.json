@@ -1,16 +1,5 @@
 [
  {
-  "date": "2026-10-22T00:11:50.717084+00:00",
-  "topic": "Movies",
-  "score": 6,
-  "category": "business",
-  "headline": "Russell Crowe's Thriller Hits 50 Million Views on Netflix",
-  "summary": "Russell Crowe's crime thriller series Unabomber has reached 50 million views on Netflix despite a decline in viewership.",
-  "verified": "official",
-  "source": "Collider",
-  "link": "https://collider.com/russell-crowe-unabomber-streaming-success-netflix-october-2026-50-million-views/"
- },
- {
   "date": "2026-10-22T01:06:51.009806+00:00",
   "topic": "Apple News",
   "score": 5,
@@ -17004,5 +16993,126 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/transformers-new-era-eternal-war/"
+ },
+ {
+  "date": "2026-10-25T01:03:44.110596+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "Live-Action Zelda Movie Confirms Release Window and Cast Details",
+  "summary": "Nintendo's live-action Legend of Zelda movie is slated for 2027, and the current cast details have been outlined.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/the-legend-of-zelda-2027-movie-cast-link-zelda-ganondorf/"
+ },
+ {
+  "date": "2026-10-25T01:03:44.110596+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "SpaceX Restricted Starlink Access in Ukraine",
+  "summary": "Elon Musk has admitted that SpaceX purposely restricted Ukraine's Starlink access during the conflict with Russia.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xeoqd6/elon_musk_admits_spacex_purposely_restricted/"
+ },
+ {
+  "date": "2026-10-25T01:03:44.110596+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Footballer Licenses AI Clone",
+  "summary": "Socceroo player Cristian Volpato has licensed a synthetic twin of himself, highlighting the growing trend of AI clones in sports.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xeomk5/synthetic_twin_why_socceroo_cristian_volpato_is/"
+ },
+ {
+  "date": "2026-10-25T01:03:44.110596+00:00",
+  "topic": "Tech News",
+  "score": 7,
+  "category": "business",
+  "headline": "Sweden Government Blocks ChatGPT and Claude",
+  "summary": "Sweden's government offices have blocked ChatGPT and Claude while allowing Microsoft Copilot to remain in use.",
+  "verified": "official",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xeobv0/swedens_government_offices_block_chatgpt_and/"
+ },
+ {
+  "date": "2026-10-25T01:03:44.110596+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "business",
+  "headline": "Mark Zuckerberg's Continuing Tech Dominance",
+  "summary": "An analysis discusses how Meta CEO Mark Zuckerberg continues to come out on top amid shifting tech landscapes.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xeo2n8/mark_zuckerberg_keeps_coming_out_on_top/"
+ },
+ {
+  "date": "2026-10-25T01:03:44.110596+00:00",
+  "topic": "Tech News",
+  "score": 5,
+  "category": "other",
+  "headline": "AI Models Show Political Preferences",
+  "summary": "A comparison reveals that Grok's AI model tends to favor Republicans when forced to pick, while OpenAI's model leans toward Democrats.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xenv2n/forced_to_pick_groks_ai_model_chooses_republicans/"
+ },
+ {
+  "date": "2026-10-25T01:03:44.110596+00:00",
+  "topic": "Tech News",
+  "score": 8,
+  "category": "business",
+  "headline": "Tesla and Nvidia Hit New AI Bottleneck",
+  "summary": "Tesla and Nvidia have encountered a new bottleneck impacting their artificial intelligence development pipelines.",
+  "verified": "reliable_reporter",
+  "source": "r/technology",
+  "link": "https://www.reddit.com/r/technology/comments/1xemqt5/tesla_and_nvidia_just_found_another_ai_bottleneck/"
+ },
+ {
+  "date": "2026-10-25T01:03:44.110596+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Tom Cruise's Box-Office Flop Pulled From Theaters",
+  "summary": "Tom Cruise's box-office disappointment Digger has officially been pulled from over 3,100 theaters nationwide.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/tom-cruise-digger-box-office-disaster-removed-from-3100-theaters/"
+ },
+ {
+  "date": "2026-10-25T01:03:44.110596+00:00",
+  "topic": "Movies",
+  "score": 7,
+  "category": "launch",
+  "headline": "Prime Video Sets Premiere for Muhammad Ali Series 'The Greatest'",
+  "summary": "Prime Video's upcoming eight-part Muhammad Ali series titled The Greatest is gearing up for its premiere.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/muhammad-ali-series-the-greatest-premiere-date-november-2026/"
+ },
+ {
+  "date": "2026-10-25T01:03:44.110596+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "update",
+  "headline": "Inside 'The Diplomat' and 'West Wing' Casting Crossover",
+  "summary": "The casting director for The Diplomat discusses the secrets behind bringing together a mini West Wing reunion.",
+  "verified": "reliable_reporter",
+  "source": "Collider",
+  "link": "https://collider.com/the-diplomat-cast-allison-janney-bradley-whitford-west-wing-reunion/"
+ },
+ {
+  "date": "2026-10-25T01:03:44.110596+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "TMNT Announces Brand New Special Event Arriving Next Month",
+  "summary": "TMNT announces a brand new special event scheduled to air in just one month to close out 2026.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/tmnt-holiday-special-2026/"
  }
 ]
