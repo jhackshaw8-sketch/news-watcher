@@ -1,159 +1,5 @@
 [
  {
-  "date": "2026-10-23T03:59:14.674834+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Nicolas Cage Officially Cast in True Detective Season 5",
-  "summary": "Nicolas Cage has officially been cast in the upcoming fifth season of True Detective.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/true-detective-season-5-nicolas-cage-lovecraftian-horror-trilogy/"
- },
- {
-  "date": "2026-10-23T04:25:16.810221+00:00",
-  "topic": "Apple News",
-  "score": 6,
-  "category": "business",
-  "headline": "iPhone Duo Demand Surpasses Initial Expectations",
-  "summary": "Pre-orders for the iPhone Duo have reportedly exceeded Apple's expectations in several major markets according to supply chain reports.",
-  "verified": "unconfirmed",
-  "source": "MacRumors",
-  "link": "https://www.macrumors.com/2026/10/23/iphone-duo-demand-exceeds-expectations/"
- },
- {
-  "date": "2026-10-23T04:25:16.810221+00:00",
-  "topic": "Apple News",
-  "score": 8,
-  "category": "launch",
-  "headline": "Apple's First Folding iPhone Debuts Amid High Demand",
-  "summary": "Discussion and reactions surrounding the release and limited availability of Apple's first folding iPhone.",
-  "verified": "official",
-  "source": "r/apple",
-  "link": "https://www.reddit.com/r/apple/comments/1xd3wt5/apples_first_folding_iphone_is_here_good_luck/"
- },
- {
-  "date": "2026-10-23T04:25:16.810221+00:00",
-  "topic": "Tech News",
-  "score": 8,
-  "category": "legal",
-  "headline": "Oura Sues Ultrahuman Over Smart Ring Patents",
-  "summary": "Oura has filed a new patent infringement lawsuit against rival smart ring maker Ultrahuman in an attempt to block its U.S. comeback.",
-  "verified": "official",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/"
- },
- {
-  "date": "2026-10-23T04:25:16.810221+00:00",
-  "topic": "Tech News",
-  "score": 6,
-  "category": "business",
-  "headline": "inDrive Partners with Pony.ai and Nvidia for Robotaxi Tests",
-  "summary": "Ride-hailing platform inDrive plans to test Pony.ai robotaxis powered by Nvidia technology in Kazakhstan by 2027.",
-  "verified": "reliable_reporter",
-  "source": "TechCrunch",
-  "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
- },
- {
-  "date": "2026-10-23T04:25:16.810221+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Game of Thrones: War for Westeros Announced for 2027",
-  "summary": "Game of Thrones: War for Westeros has been officially announced for a 2027 release, featuring real-time strategy battles with iconic characters.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/game-of-thrones-war-for-westeros-arya-night-king-return/"
- },
- {
-  "date": "2026-10-23T04:25:16.810221+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Amy Winehouse Musical Coming to West End",
-  "summary": "An Amy Winehouse musical is currently in development for a West End run.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1xd4352/amy_winehouse_musical_in_development_for_west_end/"
- },
- {
-  "date": "2026-10-23T04:25:16.810221+00:00",
-  "topic": "Events",
-  "score": 5,
-  "category": "update",
-  "headline": "New Elder Scrolls RPG Switches Genres",
-  "summary": "The Elder Scrolls franchise is shifting into a new genre with an upcoming RPG spin-off.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/elder-scrolls-shadow-of-oblivion-genre-switch/"
- },
- {
-  "date": "2026-10-23T04:25:16.810221+00:00",
-  "topic": "Events",
-  "score": 7,
-  "category": "other",
-  "headline": "Remembering Tom Skerritt: Top Gun Star Dies at 93",
-  "summary": "Renowned Top Gun and Picket Fences star Tom Skerritt has passed away at the age of 93.",
-  "verified": "official",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1xd400r/tom_skerritt_top_gun_and_picket_fences_star_dies/"
- },
- {
-  "date": "2026-10-23T04:25:16.810221+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "update",
-  "headline": "Final James Bond Screen Tests Set for Next Week",
-  "summary": "Final screen tests for the next James Bond are scheduled for the coming week as Amazon nears a decision on casting 007.",
-  "verified": "reliable_reporter",
-  "source": "r/entertainment",
-  "link": "https://www.reddit.com/r/entertainment/comments/1xd15bc/final_james_bond_screen_tests_to_take_place_over/"
- },
- {
-  "date": "2026-10-23T05:56:17.802937+00:00",
-  "topic": "Movies",
-  "score": 8,
-  "category": "launch",
-  "headline": "Zee Studios Sets Release Date For Omung Kumar's 'Silaa'",
-  "summary": "Zee Studios has announced that Omung Kumar's 'Silaa', starring Harshvardhan Rane and Sadia Khateeb, will release on February 5, 2027.",
-  "verified": "official",
-  "source": "Deadline Film",
-  "link": "https://deadline.com/2026/10/silaa-release-date-zee-studios-omung-kumars-1237169645/"
- },
- {
-  "date": "2026-10-23T05:56:17.802937+00:00",
-  "topic": "Events",
-  "score": 8,
-  "category": "launch",
-  "headline": "Dungeon Crawler Carl: Allies & Enemies Release Date Announced",
-  "summary": "Dungeon Crawler Carl: Allies & Enemies is officially scheduled to release next month.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/dungeon-crawler-carl-allies-enemies-november-2026-psa/"
- },
- {
-  "date": "2026-10-23T06:22:07.667359+00:00",
-  "topic": "Events",
-  "score": 6,
-  "category": "launch",
-  "headline": "Netflix Announces First Philip K. Dick Series",
-  "summary": "Netflix is developing its first-ever Philip K. Dick series, marking a historical milestone for the streaming platform.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/netflix-sci-fi-history-philip-k-dick-adaptation/"
- },
- {
-  "date": "2026-10-23T06:22:07.667359+00:00",
-  "topic": "Events",
-  "score": 9,
-  "category": "launch",
-  "headline": "Pok\u00e9mon Officially Returning To Kanto On October 27",
-  "summary": "The Pok\u00e9mon series is officially returning to the Kanto region on October 27.",
-  "verified": "official",
-  "source": "ScreenRant",
-  "link": "https://screenrant.com/pokemon-red-blue-adventures-30th-anniversary/"
- },
- {
   "date": "2026-10-23T07:13:35.824890+00:00",
   "topic": "Apple News",
   "score": 6,
@@ -11031,5 +10877,137 @@
   "verified": "official",
   "source": "ScreenRant",
   "link": "https://screenrant.com/lupin-netflix-streaming-success-october-2026/"
+ },
+ {
+  "date": "2026-10-26T06:33:05.125010+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "rumor",
+  "headline": "Will the New MacBook Pro Finally Get 5G?",
+  "summary": "Reports suggest Apple's upcoming overhauled MacBook Pro may feature 5G cellular support alongside OLED and touch support.",
+  "verified": "unconfirmed",
+  "source": "9to5Mac",
+  "link": "https://9to5mac.com/2026/10/25/macbook-pro-overhaul-cellular-support-touchscreen/"
+ },
+ {
+  "date": "2026-10-26T06:33:05.125010+00:00",
+  "topic": "Apple News",
+  "score": 6,
+  "category": "business",
+  "headline": "Apple Display Veterans Step Down in Leadership Shakeup",
+  "summary": "Two long-time display executives are stepping down as part of broader engineering leadership changes at Apple.",
+  "verified": "reliable_reporter",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/26/apple-display-veterans-step-back/"
+ },
+ {
+  "date": "2026-10-26T06:33:05.125010+00:00",
+  "topic": "Apple News",
+  "score": 5,
+  "category": "rumor",
+  "headline": "OLED MacBook Air and iMac Still in Testing Phases",
+  "summary": "Apple is reportedly actively testing OLED displays for future releases of the MacBook Air and iMac.",
+  "verified": "unconfirmed",
+  "source": "MacRumors",
+  "link": "https://www.macrumors.com/2026/10/25/oled-macbook-air-and-imac-in-testing/"
+ },
+ {
+  "date": "2026-10-26T06:33:05.125010+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "update",
+  "headline": "Dragon Ball Xenoverse 2 Surprise 10th Anniversary Update Arrives This Week",
+  "summary": "Bandai Namco is surprising fans with a 10th anniversary update for Dragon Ball Xenoverse 2 this week.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/dragon-ball-xenoverse-2-gets-surprise-10th-anniversary-update-this-week"
+ },
+ {
+  "date": "2026-10-26T06:33:05.125010+00:00",
+  "topic": "Gaming News",
+  "score": 5,
+  "category": "business",
+  "headline": "Umamusume: Pretty Derby LA Concert Cancelled Due to Visa Issues",
+  "summary": "The developers of Umamusume: Pretty Derby cancelled their Los Angeles concert at the last minute due to US visa issues.",
+  "verified": "official",
+  "source": "Eurogamer",
+  "link": "https://www.eurogamer.net/umamusume-pretty-derby-la-concert-cancelled-visa-issues"
+ },
+ {
+  "date": "2026-10-26T06:33:05.125010+00:00",
+  "topic": "Movies",
+  "score": 9,
+  "category": "launch",
+  "headline": "Yash Raj Films Announces Title for New Romantic Action-Drama",
+  "summary": "Yash Raj Films has officially revealed the title 'Beparwah' for Ali Abbas Zafar's upcoming romantic action-drama starring Ahaan Panday and Sharvari ahead of its March 2027 release.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/news/saiyaara-star-ahaan-panday-sharvari-ali-abbas-zafar-film-title-1236930643/"
+ },
+ {
+  "date": "2026-10-26T06:33:05.125010+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Chiikawa Rules South Korean Box Office",
+  "summary": "The anime phenomenon 'Chiikawa' continues to dominate the South Korean box office while Yeon Sang-ho's thriller 'Paradise Lost' makes its debut.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/box-office/korea-box-office-chiikawa-paradise-lost-1236930928/"
+ },
+ {
+  "date": "2026-10-26T06:33:05.125010+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "update",
+  "headline": "Voice Actor Eric Bauza Passes Away at 46",
+  "summary": "Emmy Award-winning voice actor Eric Bauza, known for voicing iconic Looney Tunes characters, has passed away at the age of 46.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/people-news/eric-bauza-dead-looney-tunes-voice-actor-1236930931/"
+ },
+ {
+  "date": "2026-10-26T06:33:05.125010+00:00",
+  "topic": "Movies",
+  "score": 6,
+  "category": "business",
+  "headline": "Resident Evil Tops China Box Office Again",
+  "summary": "The 'Resident Evil' horror reboot held the number one spot at the mainland China box office for the third consecutive weekend during a seasonal market lull.",
+  "verified": "official",
+  "source": "Variety Film",
+  "link": "https://variety.com/2026/film/box-office/china-box-office-resident-evil-no-1-market-lull-1236930923/"
+ },
+ {
+  "date": "2026-10-26T06:33:05.125010+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "other",
+  "headline": "Remembering Voice Actor Eric Bauza",
+  "summary": "Emmy-winning voice actor Eric Bauza, known for voicing Bugs Bunny and Daffy Duck, has passed away at age 46.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/10/eric-bauza-dead-voice-of-bugs-bunny-1237172857/"
+ },
+ {
+  "date": "2026-10-26T06:33:05.125010+00:00",
+  "topic": "Events",
+  "score": 8,
+  "category": "launch",
+  "headline": "Backrooms: Savior Sets March 2027 Release Date",
+  "summary": "Backrooms: Savior has been officially scheduled for a release in March 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/backrooms-savior-march-2027-release-date-psa/"
+ },
+ {
+  "date": "2026-10-26T06:33:05.125010+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Warhammer 40K Successor Series Coming in 2027",
+  "summary": "A new Warhammer 40K successor series has been announced to premiere in January 2027.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/warhammer-40k-successor-green-lantern-doomed-cosmos/"
  }
 ]
