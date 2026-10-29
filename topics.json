@@ -68,13 +68,16 @@
   {
     "name": "Events",
     "webhook_env": "DISCORD_WEBHOOK_EVENTS",
-    "focus": "upcoming major pop-culture and entertainment events and their dates: things like the Met Gala, PlayStation/Xbox/Nintendo showcases, The Game Awards, The Streamer Awards, VMAs, and similar. Prioritize anything that announces a date, lineup, host, or nominee/winner for one of these events over routine daily news.",
+    "focus": "major pop-culture, entertainment, gaming and sports events and award ceremonies, upcoming or happening now: things like the Met Gala, PlayStation/Xbox/Nintendo showcases, The Game Awards, The Streamer Awards, VMAs, the Oscars/Grammys/Emmys, and big sports award nights like the Ballon d'Or. Prioritize anything that announces a date, lineup, host, nominee list, or winner for one of these events (including on the night it happens) over routine daily news. Ignore ordinary match reports, transfer rumors and routine sports news.",
     "feeds": [
       {"name": "Variety", "url": "https://variety.com/feed/"},
       {"name": "Deadline", "url": "https://deadline.com/feed/"},
       {"name": "ScreenRant", "url": "https://screenrant.com/feed/"},
       {"name": "GamesRadar", "url": "https://www.gamesradar.com/rss/"},
-      {"name": "r/entertainment", "url": "https://www.reddit.com/r/entertainment/new/.rss"}
+      {"name": "r/entertainment", "url": "https://www.reddit.com/r/entertainment/new/.rss"},
+      {"name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/rss.xml"},
+      {"name": "BBC Sport Football", "url": "https://feeds.bbci.co.uk/sport/football/rss.xml"},
+      {"name": "Sky Sports", "url": "https://www.skysports.com/rss/0,20514,11095,00.xml"}
     ]
   }
 ]
