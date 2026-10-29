@@ -129,12 +129,20 @@ cannot find a real link for a post, write "Link: none"."""
 
 # ---------- Discord ----------
 def get_messages(last_id):
-    params = {"limit": 20} if last_id else {"limit": 10}
-    if last_id:
-        params["after"] = last_id
-    r = requests.get(f"{API}/channels/{CHANNEL_ID}/messages", headers=HEADERS, params=params, timeout=30)
+    """Reads the NEWEST 50 messages in the channel (so recent pastes are never missed,
+    even when the bot's own multi-message replies pile up), then keeps only the ones
+    newer than the bookmark."""
+    r = requests.get(
+        f"{API}/channels/{CHANNEL_ID}/messages",
+        headers=HEADERS, params={"limit": 50}, timeout=30,
+    )
     r.raise_for_status()
-    return sorted(r.json(), key=lambda m: int(m["id"]))
+    msgs = sorted(r.json(), key=lambda m: int(m["id"]))
+    if last_id:
+        msgs = [m for m in msgs if int(m["id"]) > int(last_id)]
+    else:
+        msgs = msgs[-10:]
+    return msgs
 
 
 def reply(text, message_id):
@@ -305,11 +313,20 @@ def main():
     state = json.loads(STATE_FILE.read_text()) if STATE_FILE.exists() else {}
     last_id = state.get("last_id")
     msgs = get_messages(last_id)
+    print(f"Bookmark: {last_id}. New messages since then: {len(msgs)}.")
     if not msgs:
         print("No new messages.")
         return
 
-    human = [m for m in msgs if not (m.get("author") or {}).get("bot") and m.get("content", "").strip()]
+    from_people = [m for m in msgs if not (m.get("author") or {}).get("bot")]
+    human = [m for m in from_people if m.get("content", "").strip()]
+    print(f"{len(from_people)} from people, {len(human)} with readable text.")
+    if len(from_people) > len(human):
+        print(
+            "WARNING: some messages from people had NO readable text. That means they were "
+            "forwarded messages/images only, or the bot's Message Content Intent is off.",
+            file=sys.stderr,
+        )
     todo, leftover = human[:MAX_PER_RUN], human[MAX_PER_RUN:]
 
     for m in todo:
@@ -320,8 +337,8 @@ def main():
             print(f"Search failed for {m['content'][:60]!r}: {exc}", file=sys.stderr)
             try:
                 reply("Sorry, that one failed. Please try again in a few minutes.", m["id"])
-            except Exception:
-                pass
+            except Exception as exc2:
+                print(f"Could not even post the failure notice: {exc2}", file=sys.stderr)
 
     new_last = int(todo[-1]["id"]) if leftover else int(msgs[-1]["id"])
     STATE_FILE.write_text(json.dumps({"last_id": str(new_last)}))
