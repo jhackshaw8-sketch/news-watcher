@@ -2,7 +2,7 @@ name: Daily digest
 
 on:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "23 7 * * *"
   workflow_dispatch:
 
 jobs:
