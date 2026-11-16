@@ -86,8 +86,17 @@ def ask_gemini(topic, items):
         "contents": [{"parts": [{"text": text}]}],
         "generationConfig": {"responseMimeType": "application/json"},
     }
-    r = requests.post(url, params={"key": GEMINI_KEY}, json=body, timeout=90)
-    r.raise_for_status()
+    # Google's servers are sometimes too busy (503/429). Wait and retry a few times
+    # instead of giving up on the whole topic.
+    for attempt in range(1, 5):
+        r = requests.post(url, params={"key": GEMINI_KEY}, json=body, timeout=90)
+        if r.status_code in (429, 500, 502, 503, 504) and attempt < 4:
+            wait = 10 * attempt
+            print(f"Gemini busy ({r.status_code}) for {topic['name']}; retry {attempt}/3 in {wait}s", file=sys.stderr)
+            time.sleep(wait)
+            continue
+        r.raise_for_status()
+        break
     raw = r.json()["candidates"][0]["content"]["parts"][0]["text"]
     raw = raw.strip().removeprefix("```json").removesuffix("```").strip()
     return json.loads(raw)
