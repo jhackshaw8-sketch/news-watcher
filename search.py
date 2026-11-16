@@ -1,9 +1,9 @@
 """Checks the Discord search channel for new messages.
-- If the message contains a link (e.g. you copied one of the bot's own posts),
-  it fetches and reads the FULL article and writes an engaging post/thread from it.
-- Otherwise it treats the message as a keyword: first checks the diary already
-  gathered by watcher.py (Apple/Gaming/Tech), and if nothing matches, falls back
-  to asking Gemini to search the open web."""
+- A message with a link: fetches and reads the FULL article, then writes posts from it.
+- A long message with no link (pasted story text): writes posts from that text.
+- A short message with no link: treated as a keyword (searches your tracked stories,
+  then falls back to the open web).
+Add a line like "angle: make it shocked" to any message to steer the posts."""
 import json
 import os
 import re
@@ -25,6 +25,7 @@ MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")
 MAX_PER_RUN = 5
 MAX_MATCHES = 8
 ARTICLE_CHAR_LIMIT = 8000
+PASTED_TEXT_MIN = 150  # a message this long with no link is treated as pasted story text
 UA = "Mozilla/5.0 (compatible; news-watcher/1.0)"
 
 API = "https://discord.com/api/v10"
@@ -35,32 +36,49 @@ HEADERS = {
     "Content-Type": "application/json",
 }
 URL_RE = re.compile(r"https?://\S+")
+ANGLE_RE = re.compile(r"^[ \t]*(?:angle|note)[ \t]*:[ \t]*(.+?)[ \t]*$", re.IGNORECASE | re.MULTILINE)
 
-ARTICLE_PROMPT = """Below is the full text of a news article. Read it carefully, then return ONLY JSON:
+STYLE = """HOUSE STYLE for every post (match it closely; it is the voice of a popular news page on X):
+- Start with 1 or 2 attention emojis that fit the story: 🚨 for breaking news, rumors and big reveals; a topic emoji (🎮 🎬 🚗 📱 🏆) and/or 🔥 for hype.
+- Then ONE ALL-CAPS hook sentence that states the news, ending in ! (example: FABLE IS SHOWING OFF ITS COMBAT!).
+- Then 1 to 2 plain sentences with the key facts (names, numbers, dates). Use "reportedly" or "could be" for anything unconfirmed.
+- Then a short line aimed at fans: either a question that invites replies (UNITED FANS, WOULD YOU TAKE HIM?) or an excited reaction in caps (WE JUST WANT THE GAME!).
+- Finish with 1 emoji, then 2 to 3 relevant hashtags.
+- Keep each post under 270 characters. No links inside the post text.
+- EXCEPTION: for stories about deaths, crimes, injuries or tragedies, stay sober: a single 🚨, no jokes, no hype, no fan question, just the facts and 1 to 2 hashtags.
+
+THREADS (only when a story has several distinct parts): 2 to 4 tweets, numbered 1/4, 2/4 and so on. Tweet 1 is the hook in the house style above. Middle tweets each carry one detail. If the story is unconfirmed, one tweet must say so plainly. The LAST tweet asks fans a question, then 1 emoji and 2 to 3 hashtags. Each tweet stays under 270 characters.
+
+Examples of the voice:
+🚨 POCHETTINO COULD BE HEADING TO MANCHESTER UNITED! Mauricio Pochettino is reportedly ready to accept an offer to become United's next head coach. UNITED FANS, WOULD YOU TAKE HIM? OR IS IT TIME TO LOOK ELSEWHERE? 👀 #MUFC #ManchesterUnited #Pochettino
+🎮🔥 FABLE IS SHOWING OFF ITS COMBAT! Xbox just dropped four minutes of fresh gameplay, giving us a closer look at the upcoming RPG. Albion is looking GOOD! 👀 #Fable #Xbox
+🔥 BETHESDA TELLS ELDER SCROLLS FANS TO CALM DOWN! No major Skyrim anniversary reveal, and Elder Scrolls VI news is still a long way off. WE JUST WANT THE GAME! 😤 #ElderScrollsVI #Skyrim"""
+
+ARTICLE_PROMPT = """Below is the full text of a news story. Read it carefully, then return ONLY JSON:
 {{"headline": "a short, catchy, engaging headline for this story (not the original title, your own hook, under 12 words)",
- "recap": "3 to 5 short bullet lines covering the actual details in the article (names, numbers,
+ "recap": "3 to 5 short bullet lines covering the actual details in the story (names, numbers,
  dates, quotes if notable), most important first",
  "posts": [{{"type": "single" or "thread", "tweets": ["..."]}}],
  "longform_post": "ONE alternative post in a longer style, described below"}}
 
-For "posts", write {n} different short posts/threads, each a different angle on THIS article
-(e.g. the headline fact, a surprising detail, the reaction or what's next). For a simple angle
-write ONE punchy tweet ("single"). For an angle with several things worth covering, write a
-thread of 2 to 4 tweets ("thread"), each starting with its number like "1/3". Rules: each tweet
-under 250 characters, no links in the tweet text, plain engaging language, hook the reader in
-the first line. ALWAYS end the tweet (or the last tweet of a thread) with 1 to 2 relevant
-hashtags that would help people discover the post. If this article is about cars, sprinkle in
-1 to 3 fun relevant emojis (headline and/or a couple tweets); for any other topic, use no emojis.
+For "posts", write {n} different posts, each a different angle on THIS story (e.g. the headline
+fact, a surprising detail, the reaction or what's next). Each post is ONE tweet ("single") or,
+when an angle has several distinct parts, a thread ("thread"). "tweets" has exactly 1 item for
+"single" and 2 to 4 items for "thread".
+
+{style}
+
+{angle_line}
 
 For "longform_post", write ONE extra post, a different style: a short punchy hook sentence on
 its own line, then a blank line, then exactly ONE short paragraph (1 to 2 sentences, the single
 most important detail only) in plain conversational language, then a blank line and 1 to 2
 relevant hashtags. Keep it under 350 characters total, tight and scannable, not a full recap.
 
-If the article says something is unconfirmed or a rumor, say so ("Rumor:", "Reportedly"). Use
-only what the article actually says, never invent details.
+If the story says something is unconfirmed or a rumor, say so ("Rumor:", "Reportedly"). Use
+only what the story actually says, never invent details.
 
-Article:
+Story:
 {article}
 """
 
@@ -71,13 +89,14 @@ gathered from tracked news sources that match. Return ONLY JSON:
  "posts": [{{"story_id": <number>, "type": "single" or "thread", "tweets": ["..."]}}],
  "longform_post": {{"story_id": <number>, "text": "ONE alternative post in a longer style, described below"}}}}
 
-For "posts", write up to {n} short posts/threads, each about a DIFFERENT story from the list
-(do not repeat the same story). For a simple story write ONE punchy tweet ("single"). If a
-story has several things worth covering, write a thread of 2 to 4 tweets ("thread"), each
-starting with its number like "1/3". Rules: each tweet under 250 characters, no links in the
-tweet text, plain engaging language. ALWAYS end each tweet (or the last tweet of a thread) with
-1 to 2 relevant hashtags that would help people discover the post. If a story's topic is Cars,
-sprinkle in 1 to 3 fun relevant emojis; for every other topic, use no emojis at all.
+For "posts", write up to {n} posts, each about a DIFFERENT story from the list (do not repeat
+the same story). Each post is ONE tweet ("single") or, when a story has several distinct
+parts, a thread ("thread"). "tweets" has exactly 1 item for "single" and 2 to 4 items for
+"thread".
+
+{style}
+
+{angle_line}
 
 For "longform_post", pick the single best story from the list and write ONE extra post in a
 different style: a short punchy hook sentence on its own line, then a blank line, then exactly
@@ -92,6 +111,7 @@ Stories:
 """
 
 WEB_PROMPT = """Search the web for the latest news (from the last few days) about: "{keyword}".
+{angle_line}
 Then reply in EXACTLY this plain-text format (no JSON, no extra commentary):
 
 TITLE:
@@ -101,8 +121,8 @@ RECAP:
 - 3 to 5 short bullet lines on what is happening, most important first
 
 POST 1:
-(one punchy tweet, OR a thread of 2 to 4 tweets, each starting with its number like 1/3,
-if the story has several things worth covering. End with 1 to 2 relevant hashtags.)
+(a post in the HOUSE STYLE described below: ONE tweet, or a thread of 2 to 4 tweets numbered
+1/3, 2/3, 3/3 when the story has several distinct parts)
 Link: (the full, real, working article URL you found for this story, starting with https://)
 
 POST 2:
@@ -120,11 +140,11 @@ sentences, the single most important detail only), then a blank line and 1 to 2 
 hashtags. Keep the whole post under 350 characters, tight and scannable, not a full recap.)
 Link: (the same article URL used above for this story)
 
-Rules: each short tweet under 250 characters, no links inside any post text itself (only after
-"Link:"). If this is about cars, sprinkle in 1 to 3 fun relevant emojis; for any other topic,
-use no emojis at all. Say clearly when something is a rumor or unconfirmed ("Rumor:",
-"Reportedly"). Use only what you actually found and never invent details or URLs; if you
-cannot find a real link for a post, write "Link: none"."""
+{style}
+
+Rules: no links inside any post text itself (only after "Link:"). Say clearly when something
+is a rumor or unconfirmed ("Rumor:", "Reportedly"). Use only what you actually found and
+never invent details or URLs; if you cannot find a real link for a post, write "Link: none"."""
 
 
 # ---------- Discord ----------
@@ -158,8 +178,15 @@ def call_gemini_json(prompt, use_search=False):
         body["tools"] = [{"google_search": {}}]
     else:
         body["generationConfig"] = {"responseMimeType": "application/json", "maxOutputTokens": 4096}
-    r = requests.post(GEMINI_URL, params={"key": GEMINI_KEY}, json=body, timeout=120)
-    r.raise_for_status()
+    # Google is sometimes too busy (503/429): wait and retry instead of failing
+    for attempt in range(1, 4):
+        r = requests.post(GEMINI_URL, params={"key": GEMINI_KEY}, json=body, timeout=120)
+        if r.status_code in (429, 500, 502, 503, 504) and attempt < 3:
+            print(f"Gemini busy ({r.status_code}); retry {attempt}/2", file=sys.stderr)
+            time.sleep(8 * attempt)
+            continue
+        r.raise_for_status()
+        break
     cand = r.json()["candidates"][0]
     text = "".join(p.get("text", "") for p in cand.get("content", {}).get("parts", [])).strip()
     if not use_search:
@@ -180,35 +207,71 @@ def post_drafts(items, mid, header):
         reply(msg, mid)
 
 
-# ---------- Mode A: a link was pasted, read the full article ----------
+def angle_line(angle):
+    return f'The user wants this angle/emphasis, so follow it: "{angle}"' if angle else ""
+
+
+def parse_message(content):
+    """Splits a message into (main text, angle). An 'angle:' or 'note:' line is an
+    instruction for how to write the posts, not part of the story."""
+    angle = ""
+    m = ANGLE_RE.search(content)
+    if m:
+        angle = m.group(1).strip()
+        content = (content[:m.start()] + content[m.end():]).strip()
+    return content, angle
+
+
+# ---------- Mode A: a link or pasted story text ----------
 def fetch_article(url):
-    downloaded = trafilatura.fetch_url(url)
-    if not downloaded:
-        r = requests.get(url, headers={"User-Agent": UA}, timeout=20)
-        r.raise_for_status()
-        downloaded = r.text
-    text = trafilatura.extract(downloaded, include_comments=False, include_tables=False)
-    return (text or "")[:ARTICLE_CHAR_LIMIT]
+    try:
+        downloaded = trafilatura.fetch_url(url)
+        if not downloaded:
+            r = requests.get(url, headers={"User-Agent": UA}, timeout=20)
+            r.raise_for_status()
+            downloaded = r.text
+        text = trafilatura.extract(downloaded, include_comments=False, include_tables=False)
+        return (text or "")[:ARTICLE_CHAR_LIMIT]
+    except Exception as exc:
+        print(f"Could not read article {url}: {exc}", file=sys.stderr)
+        return ""
 
 
-def handle_article(url, mid):
-    article = fetch_article(url)
-    if not article or len(article) < 200:
-        reply(
-            f"Couldn't read the full article at that link (it may block automated reading). "
-            f"Try pasting just the headline as a keyword instead, or a different link.\n{url}",
-            mid,
-        )
-        return
-    out = call_gemini_json(ARTICLE_PROMPT.format(n=3, article=article))
+def write_from_text(article, link, mid, angle, note=""):
+    out = call_gemini_json(ARTICLE_PROMPT.format(
+        n=3, article=article, style=STYLE, angle_line=angle_line(angle),
+    ))
     for item in out.get("posts", []):
-        item["link"] = url
+        item["link"] = link
     headline = out.get("headline", "Story breakdown")
-    post_drafts(out.get("posts", []), mid, f"**{headline}**\n{out.get('recap', '')}\n{url}")
+    header = f"**{headline}**\n{note}{out.get('recap', '')}" + (f"\n{link}" if link else "")
+    post_drafts(out.get("posts", []), mid, header)
 
     longform = out.get("longform_post", "")
     if longform:
-        reply(f"**Alt style (long-form):**\n{longform}\n{url}", mid)
+        reply(f"**Alt style (long-form):**\n{longform}" + (f"\n{link}" if link else ""), mid)
+
+
+def handle_article(url, other_text, mid, angle):
+    article = fetch_article(url)
+    if article and len(article) >= 200:
+        write_from_text(article, url, mid, angle)
+    elif len(other_text) >= 80:
+        # the site blocks robots (Reddit does), so use the text that came with the link
+        write_from_text(
+            other_text, url, mid, angle,
+            note="_(Couldn't read the full article, so this is based on the text you pasted.)_\n",
+        )
+    else:
+        reply(
+            "Couldn't read the full article at that link (it may block automated reading). "
+            f"Paste the story text instead, or try a different link.\n{url}",
+            mid,
+        )
+
+
+def handle_pasted_text(text, mid, angle):
+    write_from_text(text[:ARTICLE_CHAR_LIMIT], "", mid, angle)
 
 
 # ---------- Mode B: plain keyword ----------
@@ -228,13 +291,14 @@ def find_in_diary(keyword):
     return matches[:MAX_MATCHES]
 
 
-def handle_web_fallback(keyword, mid):
+def handle_web_fallback(keyword, mid, angle):
     note = ""
+    prompt = WEB_PROMPT.format(keyword=keyword, style=STYLE, angle_line=angle_line(angle))
     try:
-        text = call_gemini_json(WEB_PROMPT.format(keyword=keyword), use_search=True)
+        text = call_gemini_json(prompt, use_search=True)
     except Exception as exc:
         print(f"Web search tool failed ({exc}); asking without live search.", file=sys.stderr)
-        text = call_gemini_json(WEB_PROMPT.format(keyword=keyword), use_search=False)
+        text = call_gemini_json(prompt, use_search=False)
         note = "\n_(Live web search was unavailable, so this may be out of date and have no link.)_"
 
     title_match = re.search(r"TITLE:\s*\n?(.+)", text)
@@ -254,7 +318,7 @@ def handle_web_fallback(keyword, mid):
         reply(f"Nothing found for **{keyword}**, in your tracked news or the open web. Try different words.", mid)
         return
     intro = (
-        f"**{headline}**\n_(Nothing in your tracked Apple/Gaming/Tech stories matched, "
+        f"**{headline}**\n_(Nothing in your tracked stories matched, "
         f"so this is from an open web search instead.)_{note}\n{parts[0]}"
     )
     reply(intro, mid)
@@ -271,13 +335,13 @@ def handle_web_fallback(keyword, mid):
         reply(f"**Alt style (long-form):**\n{lf}", mid)
 
 
-def handle_keyword(keyword, mid):
+def handle_keyword(keyword, mid, angle):
     matches = find_in_diary(keyword)
     if not matches:
-        handle_web_fallback(keyword, mid)
+        handle_web_fallback(keyword, mid, angle)
         return
     out = call_gemini_json(DIARY_PROMPT.format(
-        keyword=keyword, n=min(3, len(matches)),
+        keyword=keyword, n=min(3, len(matches)), style=STYLE, angle_line=angle_line(angle),
         listing="\n".join(
             f"{i}. [{m['topic']}, {m['score']}/10, {m['verified']}] {m['headline']}: {m['summary']}"
             for i, m in enumerate(matches)
@@ -300,13 +364,20 @@ def handle_keyword(keyword, mid):
 
 # ---------- Dispatch ----------
 def handle(msg):
-    content = msg["content"].strip()
+    content, angle = parse_message(msg["content"].strip())
     mid = msg["id"]
+    if not content:
+        reply("Paste a link, the story text, or a keyword. You can add a line like `angle: make it shocked`.", mid)
+        return
     url_match = URL_RE.search(content)
     if url_match:
-        handle_article(url_match.group(0).rstrip(">).,"), mid)
+        url = url_match.group(0).rstrip(">).,")
+        other_text = URL_RE.sub("", content).strip()
+        handle_article(url, other_text, mid, angle)
+    elif len(content) >= PASTED_TEXT_MIN:
+        handle_pasted_text(content, mid, angle)
     else:
-        handle_keyword(content[:100], mid)
+        handle_keyword(content[:100], mid, angle)
 
 
 def main():
