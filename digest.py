@@ -1,9 +1,11 @@
 """Reads the diary, asks Gemini to pick 3 stand-out stories per topic, write a
 catchy headline for each, and write either a single tweet or a short thread in the
 page's house style, then posts them to the digest Discord channel, each ending
-with that story's own link so Discord shows its image."""
+with that story's own link so Discord shows its image. Each topic is handled on its
+own, so one topic failing never blocks the others."""
 import json
 import os
+import sys
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -76,6 +78,38 @@ def ask_gemini(topic, stories):
     return json.loads(raw)
 
 
+def post_topic(topic, stories):
+    stories.sort(key=lambda s: s["score"], reverse=True)
+    stories = stories[:MAX_STORIES]
+    out = ask_gemini(topic, stories)  # asked first, so a failure never leaves a lonely header
+
+    header = f"**{topic} - Daily Digest** ({len(stories)} stories today)"
+    requests.post(WEBHOOK, json={"content": header}, timeout=30).raise_for_status()
+    time.sleep(1)
+
+    posted = 0
+    for i, post in enumerate(out.get("posts", []), 1):
+        idx = post.get("story_id")
+        if not (isinstance(idx, int) and 0 <= idx < len(stories)):
+            continue
+        tweets = post.get("tweets") or []
+        if not tweets:
+            continue
+        # this real article link is what makes Discord show a picture; repeating it on
+        # every tweet of a thread gives each one its own matching picture
+        link = stories[idx]["link"]
+        label = "Thread" if post.get("type") == "thread" and len(tweets) > 1 else "Post"
+        headline = post.get("headline", "").strip()
+        title_line = f"**{label} {i}: {headline}**" if headline else f"**{label} {i}:**"
+        for j, tweet in enumerate(tweets):
+            prefix = f"{title_line}\n" if j == 0 else ""
+            msg = f"{prefix}{tweet}\n{link}"
+            requests.post(WEBHOOK, json={"content": msg[:1990]}, timeout=30).raise_for_status()
+            time.sleep(1)
+        posted += 1
+    print(f"Posted {posted} drafts for {topic}.")
+
+
 def main():
     diary = json.loads(DIARY_FILE.read_text()) if DIARY_FILE.exists() else []
     cutoff = datetime.now(timezone.utc) - timedelta(hours=HOURS)
@@ -89,37 +123,17 @@ def main():
         print("Quiet day: nothing in the diary.")
         return
 
+    failed = []
     for topic, stories in by_topic.items():
-        stories.sort(key=lambda s: s["score"], reverse=True)
-        stories = stories[:MAX_STORIES]
-        out = ask_gemini(topic, stories)
+        try:
+            post_topic(topic, stories)
+        except Exception as exc:  # one topic failing must not block the others
+            print(f"{topic} failed: {exc}", file=sys.stderr)
+            failed.append(topic)
 
-        header = f"**{topic} - Daily Digest** ({len(stories)} stories today)"
-        requests.post(WEBHOOK, json={"content": header}, timeout=30).raise_for_status()
-        time.sleep(1)
-
-        posted = 0
-        for i, post in enumerate(out.get("posts", []), 1):
-            idx = post.get("story_id")
-            if not (isinstance(idx, int) and 0 <= idx < len(stories)):
-                continue
-            tweets = post.get("tweets") or []
-            if not tweets:
-                continue
-            # this real article link is what makes Discord show a picture; repeating it on
-            # every tweet of a thread gives each one its own matching picture
-            link = stories[idx]["link"]
-            label = "Thread" if post.get("type") == "thread" and len(tweets) > 1 else "Post"
-            headline = post.get("headline", "").strip()
-            title_line = f"**{label} {i}: {headline}**" if headline else f"**{label} {i}:**"
-            for j, tweet in enumerate(tweets):
-                prefix = f"{title_line}\n" if j == 0 else ""
-                msg = f"{prefix}{tweet}\n{link}"
-                requests.post(WEBHOOK, json={"content": msg[:1990]}, timeout=30).raise_for_status()
-                time.sleep(1)
-            posted += 1
-
-        print(f"Posted {posted} drafts for {topic}.")
+    if failed:
+        print(f"Digest incomplete. Missing: {', '.join(failed)}", file=sys.stderr)
+        sys.exit(1)
 
 
 if __name__ == "__main__":
