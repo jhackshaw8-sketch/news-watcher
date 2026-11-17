@@ -12,13 +12,13 @@ from pathlib import Path
 import feedparser
 import requests
 
+from gemini_client import generate
+
 ROOT = Path(__file__).parent
 TOPICS = json.loads((ROOT / "topics.json").read_text())
 STATE_FILE = ROOT / "seen.json"
 DIARY_FILE = ROOT / "diary.json"
 
-GEMINI_KEY = os.environ["GEMINI_API_KEY"]
-MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")  # check AI Studio for current free models
 MIN_SCORE = int(os.getenv("MIN_SCORE", "7"))         # stories at or above this ping you
 DIARY_MIN_SCORE = int(os.getenv("DIARY_MIN_SCORE", "5"))  # stories at or above this go in the diary
 MAX_ITEMS = 25
@@ -81,23 +81,12 @@ def ask_gemini(topic, items):
     text = PROMPT.format(focus=topic["focus"]) + "\n".join(
         f"{i}. [{it['source']}] {it['title']} - {it['summary']}" for i, it in enumerate(items)
     )
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
     body = {
         "contents": [{"parts": [{"text": text}]}],
         "generationConfig": {"responseMimeType": "application/json"},
     }
-    # Google's servers are sometimes too busy (503/429). Wait and retry a few times
-    # instead of giving up on the whole topic.
-    for attempt in range(1, 5):
-        r = requests.post(url, params={"key": GEMINI_KEY}, json=body, timeout=90)
-        if r.status_code in (429, 500, 502, 503, 504) and attempt < 4:
-            wait = 10 * attempt
-            print(f"Gemini busy ({r.status_code}) for {topic['name']}; retry {attempt}/3 in {wait}s", file=sys.stderr)
-            time.sleep(wait)
-            continue
-        r.raise_for_status()
-        break
-    raw = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+    data = generate(body)  # tries backup models if the main one is overloaded
+    raw = data["candidates"][0]["content"]["parts"][0]["text"]
     raw = raw.strip().removeprefix("```json").removesuffix("```").strip()
     return json.loads(raw)
 
