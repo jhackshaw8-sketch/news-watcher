@@ -7412,5 +7412,115 @@
   "verified": "reliable_reporter",
   "source": "Deadline",
   "link": "https://deadline.com/2026/11/skyshowtime-staff-complaint-work-culture-comcast-skydance-1237230353/"
+ },
+ {
+  "date": "2026-11-22T07:22:15.499602+00:00",
+  "topic": "Gaming News",
+  "score": 6,
+  "category": "launch",
+  "headline": "Original Friday the 13th Movie Now Free on YouTube",
+  "summary": "The original Friday the 13th movie is now officially available to watch for free on YouTube.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/friday-the-13th-youtube-watch-free-november-2026/"
+ },
+ {
+  "date": "2026-11-22T07:22:15.499602+00:00",
+  "topic": "Gaming News",
+  "score": 7,
+  "category": "business",
+  "headline": "AI-Generated Music Removed From Binding of Isaac Expansion After Backlash",
+  "summary": "The Binding of Isaac developer Nicalis removes undisclosed AI-generated music from Repentance+ following creator backlash and review bombing.",
+  "verified": "official",
+  "source": "IGN",
+  "link": "https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing"
+ },
+ {
+  "date": "2026-11-22T07:22:15.499602+00:00",
+  "topic": "Gaming News",
+  "score": 8,
+  "category": "launch",
+  "headline": "New Star Trek Movie Officially Teased With Gritty Pitch",
+  "summary": "A new Star Trek movie has been officially teased with a gritty sci-fi pitch described as Crimson Tide meets Training Day.",
+  "verified": "official",
+  "source": "Polygon",
+  "link": "https://www.polygon.com/star-trek-movie-reboot-crimson-tide-training-day/"
+ },
+ {
+  "date": "2026-11-22T07:22:15.499602+00:00",
+  "topic": "Tech News",
+  "score": 6,
+  "category": "business",
+  "headline": "Amazon Protests NYC Delivery Law with Package Labels",
+  "summary": "Amazon is protesting the NYC Council's Delivery Protection Act by placing warning labels on shipments about potential cost increases.",
+  "verified": "official",
+  "source": "The Verge",
+  "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label"
+ },
+ {
+  "date": "2026-11-22T07:22:15.499602+00:00",
+  "topic": "Movies",
+  "score": 8,
+  "category": "business",
+  "headline": "Luca Guadagnino Abandons American Psycho Remake",
+  "summary": "Director Luca Guadagnino has officially confirmed he is no longer attached to the previously announced American Psycho adaptation.",
+  "verified": "official",
+  "source": "Deadline Film",
+  "link": "https://deadline.com/2026/11/luca-guadagnino-american-psycho-not-happening-1237231106/"
+ },
+ {
+  "date": "2026-11-22T07:22:15.499602+00:00",
+  "topic": "Movies",
+  "score": 5,
+  "category": "business",
+  "headline": "Reminder: Jon Bernthal Thriller Leaving Netflix Soon",
+  "summary": "A Taylor Sheridan thriller featuring Jon Bernthal is scheduled to be removed from the Netflix content library in two weeks.",
+  "verified": "official",
+  "source": "Collider",
+  "link": "https://collider.com/taylor-sheridan-jon-bernthal-those-who-wish-me-dead-leaving-netflix-december-2026/"
+ },
+ {
+  "date": "2026-11-22T07:22:15.499602+00:00",
+  "topic": "Events",
+  "score": 6,
+  "category": "business",
+  "headline": "SAG-AFTRA Launches Healthcare Task Force",
+  "summary": "SAG-AFTRA President Sean Astin has launched a new task force to address union member healthcare eligibility concerns.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/11/sean-astin-mobilizes-sag-aftra-iuniversal-healthcare-1237231076/"
+ },
+ {
+  "date": "2026-11-22T07:22:15.499602+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "other",
+  "headline": "Yellowjackets Creators Confirm Final Season",
+  "summary": "Yellowjackets creators explain the decision to conclude the series with its fourth season.",
+  "verified": "official",
+  "source": "Deadline",
+  "link": "https://deadline.com/2026/11/yellowjackets-creators-ending-show-ahead-five-season-plan-1237231035/"
+ },
+ {
+  "date": "2026-11-22T07:22:15.499602+00:00",
+  "topic": "Events",
+  "score": 5,
+  "category": "update",
+  "headline": "Xbox Game Pass Titles Leaving November 30",
+  "summary": "Several titles are leaving the Xbox Game Pass catalog on November 30.",
+  "verified": "official",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/xbox-game-pass-games-leaving-november-30-2026/"
+ },
+ {
+  "date": "2026-11-22T07:22:15.499602+00:00",
+  "topic": "Events",
+  "score": 7,
+  "category": "launch",
+  "headline": "Play CoD Zombies Free in Browser Now",
+  "summary": "Call of Duty: Black Ops 1's Zombies mode is now playable for free in web browsers.",
+  "verified": "reliable_reporter",
+  "source": "ScreenRant",
+  "link": "https://screenrant.com/call-of-duty-black-ops-1-zombies-playable-free-browser/"
  }
 ]
